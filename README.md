@@ -6,7 +6,6 @@ We explore data by using Big Data Analysis and Visualization skills. To obtain t
 
 ## Introduction
 Data Analysis is very critical in understanding the data, and what we can do with the data. For small datasets it is easier to process and obtain the results. But as for big companies, it becomes crucial for them to obtain the trends of the company for any changes need to be made. Hence we introduce Big Data Analysis to solve this problem. In this lab, we collect close to 20000 tweets, 500 articles on New York Times and 500 articles on Common Crawl Data about Entertainment, which is our main topic of discussion. Using this data, we perform preprocessing and feed it to a MapReduce to find the Word Count and Word Co-Occurrence. Using this, we find the trend of the data collected in this topic. We have used Python to perform Data Analysis.
-
 <p align="center">
   <br><br>
   <img src="./Images/Data-Analysis.png" align = "center" width = 150>
@@ -15,10 +14,9 @@ Data Analysis is very critical in understanding the data, and what we can do wit
 
 ## Data Collection
 The first step in Data Analysis is to collect the data. Here, we are considering data from different sources such as tweets from Twitter, articles from New York Times and articles through Common Crawl. The data collected is related to Entertainment. To get more data regarding our topic, we have subdivided the topic into Movies, Games, Music, Books and Television.
-
 <p align="center">
   <br><br>
-  <img src="./Images/Data-Collection.png" align = "center" width = 350>
+  <img src="./Images/Data-Collection.png" align = "center" width = 400>
   <figcaption><p align="center">Data Collection</p></figcaption>
 </p>
 
@@ -43,10 +41,9 @@ In this process, we have to filter the data to provide only relevant and useful 
 5.  <b>Remove Stop Words</b> : Remove all the Stop Words such as <i>a, an, is , are</i>, etc. 
 6.  <b>Stemming and Lemmatization</b> : We extract only the root word by performing Stemming and Lemmatization using NLTK.
 7.  <b>Combining Words</b> : After cleaning, we convert the words back to the sentences and write them to a file.
-
 <p align="center">
   <br><br>
-  <img src="./Images/Data-Preprocessing.png" align = "center" width = 350>
+  <img src="./Images/Data-Preprocessing.png" align = "center" width = 400>
   <figcaption><p align="center">Data Preprocessing</p></figcaption>
 </p>
 
@@ -79,10 +76,9 @@ To perform these operations, we need to have an infrastructure to store and proc
 ## Hadoop Infrastructure
 
 Hadoop is an open-source software framework for storing data and running application on clusters of commodity hardware. It provides massive storage, enormous processing power and handle concurrent tasks. 
-
 <p align="center">
   <br><br>
-  <img src="./Images/Hadoop.png" align = "center" width = 350>
+  <img src="./Images/Hadoop.png" align = "center" width = 400>
   <figcaption><p align="center">Hadoop</p></figcaption>
 </p>
 
