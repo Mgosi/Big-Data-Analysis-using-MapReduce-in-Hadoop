@@ -1,4 +1,4 @@
-# Big-Data-Analysis-using-MapReduce-n-Hadoop
+# Big-Data-Analysis-using-MapReduce-in-Hadoop
 We explore data by using Big Data Analysis and Visualization skills. To obtain this, we perform 3 main operations. i.e. 
 1.  Data Aggregation through different sources. 
 2.  Big Data Analysis using MapReduce
