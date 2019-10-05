@@ -1,0 +1,911 @@
+You will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.A PunkBuster ban, or global ban, will affect all games running PunkBuster services.Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.Miscellaneous Violations:Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.  © 2019 Electronic Arts Inc.
+
+        Help us improve EA Help!
+    
+
+Take Survey
+
+
+No, Thanks
+
+
+
+
+Help
+
+
+
+
+
+Games
+
+ 
+
+Accounts
+
+
+
+
+
+Change or Recover Password
+
+
+
+
+
+Change Email Address
+
+
+
+
+
+Order Management
+
+
+
+
+
+Redeem a Code
+
+
+
+
+
+Account Security
+
+
+
+
+
+Identity Management
+
+
+
+
+
+My Cases
+
+
+
+
+Contact Us
+
+
+
+United States
+
+
+
+Countries and Regions
+
+United States
+
+
+اللغة العربية
+
+
+Australia
+
+
+Brasil
+
+
+Canada
+
+
+Canada (français)
+
+
+Ceska Republika
+
+
+Danmark
+
+
+Deutschland
+
+
+Espana
+
+
+Suomi
+
+
+France
+
+
+香港
+
+
+India
+
+
+Italia
+
+
+日本
+
+
+한국
+
+
+Magyarorszag
+
+
+Mexico
+
+
+Nederland
+
+
+New Zealand
+
+
+Norge
+
+
+Polska
+
+
+Portugal
+
+
+Schweiz - Deutsch
+
+
+Россия
+
+
+Singapore
+
+
+Suisse - French
+
+
+South Africa
+
+
+Svizzera - Italiano
+
+
+Sverige
+
+
+台灣
+
+
+Turkey
+
+
+United Kingdom
+
+
+
+ 
+
+
+
+
+
+
+ MENU  
+
+
+
+Help
+
+
+
+Countries and Regions
+
+United States
+
+
+اللغة العربية
+
+
+Australia
+
+
+Brasil
+
+
+Canada
+
+
+Canada (français)
+
+
+Ceska Republika
+
+
+Danmark
+
+
+Deutschland
+
+
+Espana
+
+
+Suomi
+
+
+France
+
+
+香港
+
+
+India
+
+
+Italia
+
+
+日本
+
+
+한국
+
+
+Magyarorszag
+
+
+Mexico
+
+
+Nederland
+
+
+New Zealand
+
+
+Norge
+
+
+Polska
+
+
+Portugal
+
+
+Schweiz - Deutsch
+
+
+Россия
+
+
+Singapore
+
+
+Suisse - French
+
+
+South Africa
+
+
+Svizzera - Italiano
+
+
+Sverige
+
+
+台灣
+
+
+Turkey
+
+
+United Kingdom
+
+
+
+
+
+
+Home
+/
+
+
+Battlefield Hardline
+/
+
+
+PunkBuster violations and bans
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+
+
+
+EA does not run PunkBuster. Even Balance developed PunkBuster and uses it in many online games.You must appeal any PunkBuster ban with Even Balance by opening a ticket. EA Advisors cannot overturn PunkBuster bans.Visit the Even Balance website for more details.
+
+
+
+
+
+What to do if you get bannedYou will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.Does this affect all PunkBuster enabled games?A PunkBuster ban, or global ban, will affect all games running PunkBuster services. 
+
+
+
+
+
+How to resolve a violation
+
+
+Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.#101 - Communication Failure#102 - Communication Failure#131 -Initialization Failure#132 - Protocol Error#141 - Distress (This indicates a problem when trying to update to the latest version of PunkBuster, or reaching one of our Internet-based Master PB Servers which can be caused by firewalls, router problems, etc.)Miscellaneous Violations:#111 - Bad Name (Try changing your player name or playing on a different server to help resolve this violation.)#112 - Too Many Bad Names#113 - Too Many Name Changes (Designed to eliminate name change spamming)#114 - Protected Name (Use regular letters, numbers and symbols in the player name or play on a different server to resolve this violation.)#121 - Negative Score Too Low (Killing Teammates usually causes this violation)#151 - Extended ASCII Characters in Player Name**#9001 - CVAR value failed range check (review this FAQ for more info)Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.#50000s - Aimbot#60000s - Wallhack#70000s - Multihack#80000s - Gamehack#90000s - 'Cheat' Video Drivers#100000s - Speedhack#110000s - Autofire#120000s - Game Hook#130000s - Attempted PunkBuster Hack
+
+
+
+
+
+
+
+
+How to appeal a violation
+
+
+EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  
+
+
+
+
+
+
+For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.   
+
+
+
+
+
+
+
+
+
+Was this article helpful?19% of 605 players found this article helpful.
+
+
+
+
+
+
+
+
+
+
+
+            View More
+	    
+
+
+
+
+
+ 
+
+
+
+Related Content
+
+
+
+
+
+
+
+PunkBuster technical guide
+
+
+You've been kicked from this server by PunkBuster - Battlefield Hardline
+
+
+Get All Battlefield 4 Expansion Packs for Free Until September 19
+
+
+[TSOBH] Twitch Takeover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BROWSE GAMES
+Origin
+ANSWERS HQ
+ABOUT
+JOBS
+
+
+Gear
+Facebook
+Twitter
+YouTube
+Tell us about your experience
+
+
+Legal
+
+
+Home
+/
+
+
+Battlefield Hardline
+/
+
+
+PunkBuster violations and bans
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+
+
+
+EA does not run PunkBuster. Even Balance developed PunkBuster and uses it in many online games.You must appeal any PunkBuster ban with Even Balance by opening a ticket. EA Advisors cannot overturn PunkBuster bans.Visit the Even Balance website for more details.
+
+
+
+
+
+What to do if you get bannedYou will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.Does this affect all PunkBuster enabled games?A PunkBuster ban, or global ban, will affect all games running PunkBuster services. 
+
+
+
+
+
+How to resolve a violation
+
+
+Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.#101 - Communication Failure#102 - Communication Failure#131 -Initialization Failure#132 - Protocol Error#141 - Distress (This indicates a problem when trying to update to the latest version of PunkBuster, or reaching one of our Internet-based Master PB Servers which can be caused by firewalls, router problems, etc.)Miscellaneous Violations:#111 - Bad Name (Try changing your player name or playing on a different server to help resolve this violation.)#112 - Too Many Bad Names#113 - Too Many Name Changes (Designed to eliminate name change spamming)#114 - Protected Name (Use regular letters, numbers and symbols in the player name or play on a different server to resolve this violation.)#121 - Negative Score Too Low (Killing Teammates usually causes this violation)#151 - Extended ASCII Characters in Player Name**#9001 - CVAR value failed range check (review this FAQ for more info)Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.#50000s - Aimbot#60000s - Wallhack#70000s - Multihack#80000s - Gamehack#90000s - 'Cheat' Video Drivers#100000s - Speedhack#110000s - Autofire#120000s - Game Hook#130000s - Attempted PunkBuster Hack
+
+
+
+
+
+
+
+
+How to appeal a violation
+
+
+EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  
+
+
+
+
+
+
+For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.   
+
+
+
+
+
+
+
+
+
+Was this article helpful?19% of 605 players found this article helpful.
+
+
+
+
+
+
+
+
+
+
+
+            View More
+	    
+
+
+
+
+
+ 
+
+
+
+Related Content
+
+
+
+
+
+
+
+PunkBuster technical guide
+
+
+You've been kicked from this server by PunkBuster - Battlefield Hardline
+
+
+Get All Battlefield 4 Expansion Packs for Free Until September 19
+
+
+[TSOBH] Twitch Takeover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+
+
+
+EA does not run PunkBuster. Even Balance developed PunkBuster and uses it in many online games.You must appeal any PunkBuster ban with Even Balance by opening a ticket. EA Advisors cannot overturn PunkBuster bans.Visit the Even Balance website for more details.
+
+
+
+
+
+What to do if you get bannedYou will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.Does this affect all PunkBuster enabled games?A PunkBuster ban, or global ban, will affect all games running PunkBuster services. 
+
+
+
+
+
+How to resolve a violation
+
+
+Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.#101 - Communication Failure#102 - Communication Failure#131 -Initialization Failure#132 - Protocol Error#141 - Distress (This indicates a problem when trying to update to the latest version of PunkBuster, or reaching one of our Internet-based Master PB Servers which can be caused by firewalls, router problems, etc.)Miscellaneous Violations:#111 - Bad Name (Try changing your player name or playing on a different server to help resolve this violation.)#112 - Too Many Bad Names#113 - Too Many Name Changes (Designed to eliminate name change spamming)#114 - Protected Name (Use regular letters, numbers and symbols in the player name or play on a different server to resolve this violation.)#121 - Negative Score Too Low (Killing Teammates usually causes this violation)#151 - Extended ASCII Characters in Player Name**#9001 - CVAR value failed range check (review this FAQ for more info)Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.#50000s - Aimbot#60000s - Wallhack#70000s - Multihack#80000s - Gamehack#90000s - 'Cheat' Video Drivers#100000s - Speedhack#110000s - Autofire#120000s - Game Hook#130000s - Attempted PunkBuster Hack
+
+
+
+
+
+
+
+
+How to appeal a violation
+
+
+EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  
+
+
+
+
+
+
+For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.   
+
+
+
+
+
+
+
+
+
+Was this article helpful?19% of 605 players found this article helpful.
+
+
+
+
+
+
+
+
+
+
+
+            View More
+	    
+
+
+
+
+
+ 
+
+
+
+Related Content
+
+
+
+
+
+
+
+PunkBuster technical guide
+
+
+You've been kicked from this server by PunkBuster - Battlefield Hardline
+
+
+Get All Battlefield 4 Expansion Packs for Free Until September 19
+
+
+[TSOBH] Twitch Takeover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+
+
+
+EA does not run PunkBuster. Even Balance developed PunkBuster and uses it in many online games.You must appeal any PunkBuster ban with Even Balance by opening a ticket. EA Advisors cannot overturn PunkBuster bans.Visit the Even Balance website for more details.
+
+
+
+
+
+What to do if you get bannedYou will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.Does this affect all PunkBuster enabled games?A PunkBuster ban, or global ban, will affect all games running PunkBuster services. 
+
+
+
+
+
+How to resolve a violation
+
+
+Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.#101 - Communication Failure#102 - Communication Failure#131 -Initialization Failure#132 - Protocol Error#141 - Distress (This indicates a problem when trying to update to the latest version of PunkBuster, or reaching one of our Internet-based Master PB Servers which can be caused by firewalls, router problems, etc.)Miscellaneous Violations:#111 - Bad Name (Try changing your player name or playing on a different server to help resolve this violation.)#112 - Too Many Bad Names#113 - Too Many Name Changes (Designed to eliminate name change spamming)#114 - Protected Name (Use regular letters, numbers and symbols in the player name or play on a different server to resolve this violation.)#121 - Negative Score Too Low (Killing Teammates usually causes this violation)#151 - Extended ASCII Characters in Player Name**#9001 - CVAR value failed range check (review this FAQ for more info)Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.#50000s - Aimbot#60000s - Wallhack#70000s - Multihack#80000s - Gamehack#90000s - 'Cheat' Video Drivers#100000s - Speedhack#110000s - Autofire#120000s - Game Hook#130000s - Attempted PunkBuster Hack
+
+
+
+
+
+
+
+
+How to appeal a violation
+
+
+EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  
+
+
+
+
+
+
+For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.   
+
+
+
+
+
+
+
+
+
+Was this article helpful?19% of 605 players found this article helpful.
+
+
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+Sunday, December 18, 2016
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+
+
+
+EA does not run PunkBuster. Even Balance developed PunkBuster and uses it in many online games.You must appeal any PunkBuster ban with Even Balance by opening a ticket. EA Advisors cannot overturn PunkBuster bans.Visit the Even Balance website for more details.
+
+
+
+
+
+What to do if you get bannedYou will need to resolve your violation, then place an appeal with Even Balance.PunkBuster software running on game servers and the computers of connected players during gameplay continuously validates players to help limit the number of violations. PunkBuster may raise a violation for various instances depending on how each Server Administrator chooses to configure PunkBuster on their game server.PunkBuster will announce a raised violation to all players currently connected to the game and then saves information regarding the violation into a PunkBuster log-file on the server. In most cases, PunkBuster will remove or kick the player associated with the violation from the server for a short time. Each Server Administrator determines whether players raised for violations by PunkBuster become permanently banned for their behavior.NOTE: Some servers are non-dedicated with a local-host player, meaning that one of the players may run the game server while simultaneously playing the game. PunkBuster may raise and report a violation on a localhost player, but may not remove the player from the game. The other players will then receive an alert about PunkBuster foregoing the kick due to the violation raised on the localhost player.Does this affect all PunkBuster enabled games?A PunkBuster ban, or global ban, will affect all games running PunkBuster services. 
+
+
+
+
+
+How to resolve a violation
+
+
+Find your violation listed in one of the violation categories below and follow any given steps for that violation. If you have trouble resolving a violation, fill out a trouble ticket with Even Balance for assistance. When you request assistance, specify the violation number raised and give as much detailed information as possible.Technical ViolationsReinstall PunkBuster from the latest game update patch to resolve this violation.#101 - Communication Failure#102 - Communication Failure#131 -Initialization Failure#132 - Protocol Error#141 - Distress (This indicates a problem when trying to update to the latest version of PunkBuster, or reaching one of our Internet-based Master PB Servers which can be caused by firewalls, router problems, etc.)Miscellaneous Violations:#111 - Bad Name (Try changing your player name or playing on a different server to help resolve this violation.)#112 - Too Many Bad Names#113 - Too Many Name Changes (Designed to eliminate name change spamming)#114 - Protected Name (Use regular letters, numbers and symbols in the player name or play on a different server to resolve this violation.)#121 - Negative Score Too Low (Killing Teammates usually causes this violation)#151 - Extended ASCII Characters in Player Name**#9001 - CVAR value failed range check (review this FAQ for more info)Integrity Violations:When PunkBuster cannot verify whether a player's gaming environment functions properly and/or has not been altered, the PunkBuster server will raise an Integrity Violation. This also involves the detection of modified game, or PunkBuster, files. These violation numbers are between 10000 and 29999. Cheat or Hack Violations:When PunkBuster detects a cheat or hack by a repeated positive identification on a player's computer, it will raise a violation. These violation numbers are 50000 and higher.Remove any cheats and hacks from your computer to resolve these violations.#50000s - Aimbot#60000s - Wallhack#70000s - Multihack#80000s - Gamehack#90000s - 'Cheat' Video Drivers#100000s - Speedhack#110000s - Autofire#120000s - Game Hook#130000s - Attempted PunkBuster Hack
+
+
+
+
+
+
+
+
+How to appeal a violation
+
+
+EA Advisors cannot overturn a PunkBuster Ban. To appeal a violation, you will need to open an appeal ticket with Even Balance and request their assistance with your issue.  
+
+
+
+
+
+
+For more detailed information, check out the PunkBuster player manual or the Even Balance support page for your particular game.   
+
+
+
+
+
+
+
+
+
+Was this article helpful?19% of 605 players found this article helpful.
+
+
+
+
+
+
+
+
+Learn what to do if you get banned by PunkBuster, how to resolve a violation, and how to appeal a violation with Even Balance.
+
+
+
+
+Gear
+Facebook
+Twitter
+YouTube
+Tell us about your experience
+
+Legal

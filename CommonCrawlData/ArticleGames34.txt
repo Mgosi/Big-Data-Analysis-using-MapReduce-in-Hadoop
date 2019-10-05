@@ -1,0 +1,342 @@
+You are not signed in.Brendan SinclairNorth American EditorThursday 27th June 2013Share this articleCompanies in this articleUbisoftConsumers weren't the only ones happy with Microsoft's recent reversal of Xbox One policies that would have enabled extra fees for used games and required a daily check-in with the company's servers. Speaking with GamesIndustry International, Ubisoft CEO Yves Guillemot said he was pleased with the move. "I think consumers didn't like their approach, so the fact they went back and listened to the consumers and gave them something different is a good move to ensure the new consoles [achieve] their potential," Guillemot said.While the reversal calls to mind Ubisoft's abandoned foray into always-online DRM with its PC games, Guillemot said the two situations aren't entirely similar. The problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection. With Xbox One, Guillemot said Microsoft had lots of content planned to support its connection requirements.As for the pricing on the next-gen systems, Guillemot again expressed his approval. Like Activision's Eric Hirshberg, Guillemot noted that the $499 Xbox One asks a premium over the $399 PlayStation 4. But where Hirshberg thought Microsoft still needs to work to justify that discrepancy, Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that."For the hardware they're putting on the market, the price is right," Guillemot said. "They are offering machines that will be exceptional, and for those prices, they're good deals."That was a better appraisal than Guillemot gave the Wii U prior to its launch. Last November, Guillemot said he always prefers lower pricing, so he wasn't happy when Nintendo announced plans to sell the Wii U in $299 and $349 bundles. Still, Ubisoft has supported the Wii U, and even with its slow start, Guillemot said he hasn't given up on it just yet.Far Cry 3: Blood Dragon was a striking departure from the series' norm."We like the machine itself, with its possibility to have different types of gameplay on the TV screen and on the tablet," Guillemot said. "It's something that's really new for the industry, and we'll continue to see more of that on the PS4 and Xbox One."Now the big question is what Nintendo will do to push sales of the system. Ubisoft has already said it would welcome a Wii U price cut, but Nintendo president Satoru Iwata dismissed the idea in an interview earlier this month."We will continue to support the Wii U this Christmas, and we're expecting it to take off in terms of sales," Guillemot said. "And we'll review what happened again at the beginning of next year.""Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true." Yves GuillemotWhile its biggest games of the year are yet to come, Ubisoft has found some success in 2013 with the release of Call of Juarez: Gunslinger and Far Cry 3: Blood Dragon, $15 downloadable offerings based on the company's established retail brands. The latter title in particular surpassed Ubisoft's expectations, topping 500,000 copies sold in under two months and even spiked sales of the full Far Cry 3 release, especially on PC. Guillemot said he was "very happy" with both games' performances, adding that it has given them the opportunity to further explore that formula of downloadable brand extensions in the future.That Ubisoft would detail Blood Dragon's performance like that is noteworthy in itself, as reliable sales figures for downloadable titles are rarely divulged in the industry. However, Guillemot said he supported the Entertainment Software Association's call for greater digital sales transparency, saying it was important to release that information."It gives all the industry better visibility on what's happening," Guillemot explained. "And not just the industry, but all the supporters of the industry and the financial community, as well. So we need to have more information to help the industry continue to grow."Despite agreement on the value of greater sales reporting, Guillemot said there's still reluctance on the part of companies to participate in it."When you can, you keep all your secrets," Guillemot said. "Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true. But what we've seen is that very often, if you receive as much information as you give, it's not negative."
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Related storiesPublisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah ValentineDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn TaylorRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (7)Sign in to contribute
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7 SectionsYou are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot Develop
+                    function mormontLoaded() {
+                        mormont('set', 'section', 'article');
+                        mormont('set', 'language', 'en');
+                                                                            mormont('set', 'published', "2013-06-27T19:39:00+01:00");
+                                                                            mormont('set', 'article_type', "interview");
+                                                                            mormont('set', 'author', "Brendan Sinclair");
+                                                                            mormont('set', 'tags', ['tag:hardware','tag:exclusive','tag:publishing'])
+                                                mormont('set', 'is_logged_in', "1");
+                        mormont('send', 'pageview');
+                    }
+                You are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot DevelopXbox One policy changes get thumbs up from UbisoftCEO Yves Guillemot on next-gen price tags, Wii U support, Far Cry 3: Blood Dragon passing 500,000 soldBrendan SinclairNorth American EditorThursday 27th June 2013Share this article Recommend Tweet ShareCompanies in this articleUbisoftConsumers weren't the only ones happy with Microsoft's recent reversal of Xbox One policies that would have enabled extra fees for used games and required a daily check-in with the company's servers. Speaking with GamesIndustry International, Ubisoft CEO Yves Guillemot said he was pleased with the move. "I think consumers didn't like their approach, so the fact they went back and listened to the consumers and gave them something different is a good move to ensure the new consoles [achieve] their potential," Guillemot said.While the reversal calls to mind Ubisoft's abandoned foray into always-online DRM with its PC games, Guillemot said the two situations aren't entirely similar. The problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection. With Xbox One, Guillemot said Microsoft had lots of content planned to support its connection requirements.As for the pricing on the next-gen systems, Guillemot again expressed his approval. Like Activision's Eric Hirshberg, Guillemot noted that the $499 Xbox One asks a premium over the $399 PlayStation 4. But where Hirshberg thought Microsoft still needs to work to justify that discrepancy, Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that."For the hardware they're putting on the market, the price is right," Guillemot said. "They are offering machines that will be exceptional, and for those prices, they're good deals."That was a better appraisal than Guillemot gave the Wii U prior to its launch. Last November, Guillemot said he always prefers lower pricing, so he wasn't happy when Nintendo announced plans to sell the Wii U in $299 and $349 bundles. Still, Ubisoft has supported the Wii U, and even with its slow start, Guillemot said he hasn't given up on it just yet.Far Cry 3: Blood Dragon was a striking departure from the series' norm."We like the machine itself, with its possibility to have different types of gameplay on the TV screen and on the tablet," Guillemot said. "It's something that's really new for the industry, and we'll continue to see more of that on the PS4 and Xbox One."Now the big question is what Nintendo will do to push sales of the system. Ubisoft has already said it would welcome a Wii U price cut, but Nintendo president Satoru Iwata dismissed the idea in an interview earlier this month."We will continue to support the Wii U this Christmas, and we're expecting it to take off in terms of sales," Guillemot said. "And we'll review what happened again at the beginning of next year.""Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true." Yves GuillemotWhile its biggest games of the year are yet to come, Ubisoft has found some success in 2013 with the release of Call of Juarez: Gunslinger and Far Cry 3: Blood Dragon, $15 downloadable offerings based on the company's established retail brands. The latter title in particular surpassed Ubisoft's expectations, topping 500,000 copies sold in under two months and even spiked sales of the full Far Cry 3 release, especially on PC. Guillemot said he was "very happy" with both games' performances, adding that it has given them the opportunity to further explore that formula of downloadable brand extensions in the future.That Ubisoft would detail Blood Dragon's performance like that is noteworthy in itself, as reliable sales figures for downloadable titles are rarely divulged in the industry. However, Guillemot said he supported the Entertainment Software Association's call for greater digital sales transparency, saying it was important to release that information."It gives all the industry better visibility on what's happening," Guillemot explained. "And not just the industry, but all the supporters of the industry and the financial community, as well. So we need to have more information to help the industry continue to grow."Despite agreement on the value of greater sales reporting, Guillemot said there's still reluctance on the part of companies to participate in it."When you can, you keep all your secrets," Guillemot said. "Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true. But what we've seen is that very often, if you receive as much information as you give, it's not negative."
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (7)Kareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyShow all comments (7)Roman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Xbox One policy changes get thumbs up from UbisoftCEO Yves Guillemot on next-gen price tags, Wii U support, Far Cry 3: Blood Dragon passing 500,000 soldBrendan SinclairNorth American EditorThursday 27th June 2013Share this article Recommend Tweet ShareCompanies in this articleUbisoftConsumers weren't the only ones happy with Microsoft's recent reversal of Xbox One policies that would have enabled extra fees for used games and required a daily check-in with the company's servers. Speaking with GamesIndustry International, Ubisoft CEO Yves Guillemot said he was pleased with the move. "I think consumers didn't like their approach, so the fact they went back and listened to the consumers and gave them something different is a good move to ensure the new consoles [achieve] their potential," Guillemot said.While the reversal calls to mind Ubisoft's abandoned foray into always-online DRM with its PC games, Guillemot said the two situations aren't entirely similar. The problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection. With Xbox One, Guillemot said Microsoft had lots of content planned to support its connection requirements.As for the pricing on the next-gen systems, Guillemot again expressed his approval. Like Activision's Eric Hirshberg, Guillemot noted that the $499 Xbox One asks a premium over the $399 PlayStation 4. But where Hirshberg thought Microsoft still needs to work to justify that discrepancy, Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that."For the hardware they're putting on the market, the price is right," Guillemot said. "They are offering machines that will be exceptional, and for those prices, they're good deals."That was a better appraisal than Guillemot gave the Wii U prior to its launch. Last November, Guillemot said he always prefers lower pricing, so he wasn't happy when Nintendo announced plans to sell the Wii U in $299 and $349 bundles. Still, Ubisoft has supported the Wii U, and even with its slow start, Guillemot said he hasn't given up on it just yet.Far Cry 3: Blood Dragon was a striking departure from the series' norm."We like the machine itself, with its possibility to have different types of gameplay on the TV screen and on the tablet," Guillemot said. "It's something that's really new for the industry, and we'll continue to see more of that on the PS4 and Xbox One."Now the big question is what Nintendo will do to push sales of the system. Ubisoft has already said it would welcome a Wii U price cut, but Nintendo president Satoru Iwata dismissed the idea in an interview earlier this month."We will continue to support the Wii U this Christmas, and we're expecting it to take off in terms of sales," Guillemot said. "And we'll review what happened again at the beginning of next year.""Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true." Yves GuillemotWhile its biggest games of the year are yet to come, Ubisoft has found some success in 2013 with the release of Call of Juarez: Gunslinger and Far Cry 3: Blood Dragon, $15 downloadable offerings based on the company's established retail brands. The latter title in particular surpassed Ubisoft's expectations, topping 500,000 copies sold in under two months and even spiked sales of the full Far Cry 3 release, especially on PC. Guillemot said he was "very happy" with both games' performances, adding that it has given them the opportunity to further explore that formula of downloadable brand extensions in the future.That Ubisoft would detail Blood Dragon's performance like that is noteworthy in itself, as reliable sales figures for downloadable titles are rarely divulged in the industry. However, Guillemot said he supported the Entertainment Software Association's call for greater digital sales transparency, saying it was important to release that information."It gives all the industry better visibility on what's happening," Guillemot explained. "And not just the industry, but all the supporters of the industry and the financial community, as well. So we need to have more information to help the industry continue to grow."Despite agreement on the value of greater sales reporting, Guillemot said there's still reluctance on the part of companies to participate in it."When you can, you keep all your secrets," Guillemot said. "Everybody feels that if the other guys knew where they were getting their money from, competitors would jump on that. Which is true. But what we've seen is that very often, if you receive as much information as you give, it's not negative."
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (7)Kareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyShow all comments (7)Roman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Xbox One policy changes get thumbs up from UbisoftCEO Yves Guillemot on next-gen price tags, Wii U support, Far Cry 3: Blood Dragon passing 500,000 soldBrendan SinclairNorth American EditorThursday 27th June 2013 Recommend Tweet ShareUbisoft
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days agoUbisoft removes slur from The Division 2Publisher apologizes for in-game street art image depicting police officer with a slur in 'leetspeak'By Rebekah Valentine 9 days ago 9 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days agoUbisoft cancels Starlink physical toys following game's under performanceDevelopment team plans to “do right by our passionate fans” with biggest update so farBy Haydn Taylor 17 days ago 17 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Related JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Senior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (7)Kareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyShow all comments (7)Roman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replyKareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyShow all comments (7)Roman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replyKareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyShow all comments (7)Roman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replyKareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyKareem Merhej
+					Designer, infoLink-inc5 years ago
+					I really hope they don't misunderstand Blood Dragon's success. People aren't clamoring for more Blood Dragon, they want more games *like* Blood Dragon - as in, not more 80s inspired sci-fi joke shooters (which are still cool), but "twists". Undead Nightmare & Blood Dragon are fantastic because they take a world and mechanics we know and turn them on their side. It's like a tasty dessert after a good meal.
+.. don't confuse dessert for the meal, ubi.
+		
+							
+			7Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyGary Bracey
+					Commercial Director, Kuju Entertainment5 years ago
+					Hats off to Yves for revelaing the unit sales of their downloadable title. Such numbers can only encourage more studios and publishers to commit to increased support for digital content on consoles. We need more transparency of this nature, so well done to Ubi for taking the lead and setting the precedent. Now we just need an official, structured chart which delivers this type of data... please!
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyJohn Bye
+					Lead Designer, Freejam5 years ago"Guillemot said the inclusion of the new Kinect camera in Microsoft's offering looks to do just that"
+Microsoft still need to prove that value, IMO. Kinect on 360 failed to live up to the hype and has mostly been relegated to dancing and fitness games and use as a glorified microphone for voice controls, something you could do just as well with a $10 headset. The shortage of compelling Kinect titles for Xbox One at E3 (apart from the oddball Fantasia, all I've seen is another Kinect Sports and more dancing games) and the fact that two of the biggest core gaming cheerleaders for Kinect on 360 (Ryse and Crimson Dragon) have both been delayed, pushed back to Xbox One, and shifted from using Kinect to being primarily controlled by gamepad, doesn't auger well.
+		
+							
+			2Sign inorRegisterto rate and replyRoman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replyRoman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replyRoman Margold
+					Rendering Software Engineer, Sucker Punch Productions5 years agoThe problem for Ubisoft, he said, was that the publisher didn't offer enough content that justified the constant online connection
+At least he's realized it now and is able to admit it. He thought I was talking rubbish when I told him years ago.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited5 years ago
+					Was not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					500K+ is awesome for Blood Dragon, but I wonder how it would do as a $20 disc version so those who didn't try it can do so. Now that it's seen as a "winner", why not a limited (single pressing) release sold directly from Ubisoft (if they can afford to do so)?
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		5 years agoWas not Ubisoft in the boardroom when MS proposed the original Xbone business model? Did they not agree originally with it??
+I suppose they were saying "sure, go for it", while thinking "what's the worst that can go wrong, everybody buys the other console where we also release all our games on".
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationLatest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, Poland 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, California 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCel 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, Germany 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Latest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Bob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7

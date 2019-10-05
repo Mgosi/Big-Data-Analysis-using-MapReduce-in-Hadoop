@@ -1,0 +1,1513 @@
+You are not signed in.James BrightmanEditor, North AmericaThursday 20th October 2016Share this articleCompanies in this articleNintendoNintendo has shed some light on its upcoming hardware for the first time today in the form of a three-minute teaser, which you can view below. Rather than take the Nintendo Direct approach of using executives to introduce the new console and explain its features, the company has decided to let the video and gameplay reenactment speak for itself. For the last year or more, many in the press (this editor included) have been speculating that Nintendo's next move would be to consolidate its hardware lines by offering a system that had dual functionality. As you can clearly see in the video, the new Nintendo Switch looks to be just that.The Switch appears almost like the Wii U tablet but can be taken apart to be docked to a TV or to offer multiplayer gaming sessions on the go with multiple controllers. Nintendo made no mention of release date (although it's expected by March 2017), price or games lineup, but you can clearly see Bethesda's Skyrim being played in the trailer as well as Splatoon in a big stadium environment, which may be Nintendo's nod to some eSports aspirations. The one game that has been officially slated for both Wii U and Switch (formerly NX) is The Legend of Zelda: Breath of the Wild.In a separate blog post sent to media immediately after the Switch announcement, Nvidia also revealed that the hardware will be powered by its Tegra processor. "The Nintendo Switch's gaming experience is also supported by fully custom software, including a revamped physics engine, new libraries, advanced game tools and libraries. NVIDIA additionally created new gaming APIs to fully harness this performance. The newest API, NVN, was built specifically to bring lightweight, fast gaming to the masses," Nvidia said. "Gameplay is further enhanced by hardware-accelerated video playback and custom software for audio effects and rendering. We've optimized the full suite of hardware and software for gaming and mobile use cases. This includes custom operating system integration with the GPU to increase both performance and efficiency."Update: In a separate press release just issued, Nintendo has confirmed a March launch and also noted that the Switch controllers are called "Joy-Con" controllers."Gaming springs into action by removing detachable Joy-Con controllers from either side of Nintendo Switch," Nintendo said. "One player can use a Joy-Con controller in each hand; two players can each take one; or multiple Joy-Con can be employed by numerous people for a variety of gameplay options. They can easily click back into place or be slipped into a Joy-Con Grip accessory, mirroring a more traditional controller. Or, if preferred, the gamer can select an optional Nintendo Switch Pro Controller to use instead of the Joy-Con controllers. Furthermore, it is possible for numerous people to bring their Nintendo Switch systems together to enjoy local multiplayer face-to-face competition."Reggie Fils-Aime, President and COO, Nintendo of America, commented, Nintendo Switch allows gamers the freedom to play however they like. It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries.Update 2: While Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet. "We're happy to have had the opportunity to collaborate with Nintendo on the video. While we are not confirming any specific titles at this time, we are pleased to announce our partnership with Nintendo and support of the Switch. We look forward to revealing specific games and details in the future," a spokesperson said. Skyrim Remastered is set to launch on October 28 for Xbox One, PS4 and PC; perhaps the Switch will receive a version of the Remastered game at launch?Update 3:Reuters reports that Nintendo's shares fell by 6% early this morning following yesterday's reveal of its new Switch console. The stock fell as low as ¥25,300 at 0101 GMT, which is the lowest point since September 7th. Technically this is only a 3% decline compared to earlier in the week as Pocket Gamer reports Nintendo's shares rose by 3.7% to ¥26,950 in the hours before the reveal, later tumbling by 6.55%. A minor drop, but perhaps one that shows scepticism about Nintendo Switch's chances of success.
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Related stories17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah ValentineAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob FaheyRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (30)
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			Sign in to contribute
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7 SectionsYou are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot Develop
+                    function mormontLoaded() {
+                        mormont('set', 'section', 'article');
+                        mormont('set', 'language', 'en');
+                                                                            mormont('set', 'published', "2016-10-20T15:09:00+01:00");
+                                                                            mormont('set', 'article_type', "news");
+                                                                            mormont('set', 'author', "James Brightman");
+                                                                            mormont('set', 'tags', ['tag:hardware'])
+                                                mormont('set', 'is_logged_in', "1");
+                        mormont('send', 'pageview');
+                    }
+                You are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot DevelopNintendo Switch officially revealedThe upcoming Nintendo console will indeed be the portable hybrid we all have been expecting [UPDATE: Bethesda comments on Skyrim]James BrightmanEditor, North AmericaThursday 20th October 2016Share this article Recommend Tweet ShareCompanies in this articleNintendoNintendo has shed some light on its upcoming hardware for the first time today in the form of a three-minute teaser, which you can view below. Rather than take the Nintendo Direct approach of using executives to introduce the new console and explain its features, the company has decided to let the video and gameplay reenactment speak for itself. For the last year or more, many in the press (this editor included) have been speculating that Nintendo's next move would be to consolidate its hardware lines by offering a system that had dual functionality. As you can clearly see in the video, the new Nintendo Switch looks to be just that.The Switch appears almost like the Wii U tablet but can be taken apart to be docked to a TV or to offer multiplayer gaming sessions on the go with multiple controllers. Nintendo made no mention of release date (although it's expected by March 2017), price or games lineup, but you can clearly see Bethesda's Skyrim being played in the trailer as well as Splatoon in a big stadium environment, which may be Nintendo's nod to some eSports aspirations. The one game that has been officially slated for both Wii U and Switch (formerly NX) is The Legend of Zelda: Breath of the Wild.In a separate blog post sent to media immediately after the Switch announcement, Nvidia also revealed that the hardware will be powered by its Tegra processor. "The Nintendo Switch's gaming experience is also supported by fully custom software, including a revamped physics engine, new libraries, advanced game tools and libraries. NVIDIA additionally created new gaming APIs to fully harness this performance. The newest API, NVN, was built specifically to bring lightweight, fast gaming to the masses," Nvidia said. "Gameplay is further enhanced by hardware-accelerated video playback and custom software for audio effects and rendering. We've optimized the full suite of hardware and software for gaming and mobile use cases. This includes custom operating system integration with the GPU to increase both performance and efficiency."Update: In a separate press release just issued, Nintendo has confirmed a March launch and also noted that the Switch controllers are called "Joy-Con" controllers."Gaming springs into action by removing detachable Joy-Con controllers from either side of Nintendo Switch," Nintendo said. "One player can use a Joy-Con controller in each hand; two players can each take one; or multiple Joy-Con can be employed by numerous people for a variety of gameplay options. They can easily click back into place or be slipped into a Joy-Con Grip accessory, mirroring a more traditional controller. Or, if preferred, the gamer can select an optional Nintendo Switch Pro Controller to use instead of the Joy-Con controllers. Furthermore, it is possible for numerous people to bring their Nintendo Switch systems together to enjoy local multiplayer face-to-face competition."Reggie Fils-Aime, President and COO, Nintendo of America, commented, Nintendo Switch allows gamers the freedom to play however they like. It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries.Update 2: While Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet. "We're happy to have had the opportunity to collaborate with Nintendo on the video. While we are not confirming any specific titles at this time, we are pleased to announce our partnership with Nintendo and support of the Switch. We look forward to revealing specific games and details in the future," a spokesperson said. Skyrim Remastered is set to launch on October 28 for Xbox One, PS4 and PC; perhaps the Switch will receive a version of the Remastered game at launch?Update 3:Reuters reports that Nintendo's shares fell by 6% early this morning following yesterday's reveal of its new Switch console. The stock fell as low as ¥25,300 at 0101 GMT, which is the lowest point since September 7th. Technically this is only a 3% decline compared to earlier in the week as Pocket Gamer reports Nintendo's shares rose by 3.7% to ¥26,950 in the hours before the reveal, later tumbling by 6.55%. A minor drop, but perhaps one that shows scepticism about Nintendo Switch's chances of success.
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (30)Adam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyShow all comments (30)Martin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Nintendo Switch officially revealedThe upcoming Nintendo console will indeed be the portable hybrid we all have been expecting [UPDATE: Bethesda comments on Skyrim]James BrightmanEditor, North AmericaThursday 20th October 2016Share this article Recommend Tweet ShareCompanies in this articleNintendoNintendo has shed some light on its upcoming hardware for the first time today in the form of a three-minute teaser, which you can view below. Rather than take the Nintendo Direct approach of using executives to introduce the new console and explain its features, the company has decided to let the video and gameplay reenactment speak for itself. For the last year or more, many in the press (this editor included) have been speculating that Nintendo's next move would be to consolidate its hardware lines by offering a system that had dual functionality. As you can clearly see in the video, the new Nintendo Switch looks to be just that.The Switch appears almost like the Wii U tablet but can be taken apart to be docked to a TV or to offer multiplayer gaming sessions on the go with multiple controllers. Nintendo made no mention of release date (although it's expected by March 2017), price or games lineup, but you can clearly see Bethesda's Skyrim being played in the trailer as well as Splatoon in a big stadium environment, which may be Nintendo's nod to some eSports aspirations. The one game that has been officially slated for both Wii U and Switch (formerly NX) is The Legend of Zelda: Breath of the Wild.In a separate blog post sent to media immediately after the Switch announcement, Nvidia also revealed that the hardware will be powered by its Tegra processor. "The Nintendo Switch's gaming experience is also supported by fully custom software, including a revamped physics engine, new libraries, advanced game tools and libraries. NVIDIA additionally created new gaming APIs to fully harness this performance. The newest API, NVN, was built specifically to bring lightweight, fast gaming to the masses," Nvidia said. "Gameplay is further enhanced by hardware-accelerated video playback and custom software for audio effects and rendering. We've optimized the full suite of hardware and software for gaming and mobile use cases. This includes custom operating system integration with the GPU to increase both performance and efficiency."Update: In a separate press release just issued, Nintendo has confirmed a March launch and also noted that the Switch controllers are called "Joy-Con" controllers."Gaming springs into action by removing detachable Joy-Con controllers from either side of Nintendo Switch," Nintendo said. "One player can use a Joy-Con controller in each hand; two players can each take one; or multiple Joy-Con can be employed by numerous people for a variety of gameplay options. They can easily click back into place or be slipped into a Joy-Con Grip accessory, mirroring a more traditional controller. Or, if preferred, the gamer can select an optional Nintendo Switch Pro Controller to use instead of the Joy-Con controllers. Furthermore, it is possible for numerous people to bring their Nintendo Switch systems together to enjoy local multiplayer face-to-face competition."Reggie Fils-Aime, President and COO, Nintendo of America, commented, Nintendo Switch allows gamers the freedom to play however they like. It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries.Update 2: While Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet. "We're happy to have had the opportunity to collaborate with Nintendo on the video. While we are not confirming any specific titles at this time, we are pleased to announce our partnership with Nintendo and support of the Switch. We look forward to revealing specific games and details in the future," a spokesperson said. Skyrim Remastered is set to launch on October 28 for Xbox One, PS4 and PC; perhaps the Switch will receive a version of the Remastered game at launch?Update 3:Reuters reports that Nintendo's shares fell by 6% early this morning following yesterday's reveal of its new Switch console. The stock fell as low as ¥25,300 at 0101 GMT, which is the lowest point since September 7th. Technically this is only a 3% decline compared to earlier in the week as Pocket Gamer reports Nintendo's shares rose by 3.7% to ¥26,950 in the hours before the reveal, later tumbling by 6.55%. A minor drop, but perhaps one that shows scepticism about Nintendo Switch's chances of success.
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (30)Adam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyShow all comments (30)Martin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Nintendo Switch officially revealedThe upcoming Nintendo console will indeed be the portable hybrid we all have been expecting [UPDATE: Bethesda comments on Skyrim]James BrightmanEditor, North AmericaThursday 20th October 2016 Recommend Tweet ShareNintendo
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days agoNintendo stock leaps following Switch approval in China17% rise on Tokyo exchange is company's largest percentage gain since Pokemon Go's summer of 2016By Rebekah Valentine 1 days ago 1 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days agoDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAfter decades of platform holders releasing similar hardware, we should celebrate their new, wildly different visions of gaming's futureBy Rob Fahey 2 days ago 2 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Related JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Senior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (30)Adam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyShow all comments (30)Martin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyShow all comments (30)Martin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyShow all comments (30)Martin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago
+					Hyped.
+		
+							
+			4Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyNeil Young
+					Programmer, Rebellion Developments2 years ago
+					Both nintendo and nvidia confirm march release
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyLee Hazelhurst
+					Student Support, West Cheshire College2 years ago
+					Sweet!
+		
+							
+			1Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					I hope the controller feels nice to use
+		
+							
+			2Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyMartin Darby
+					Design Director, Strike Gamelabs2 years ago
+					Any word on what the system spec is?
+		
+							
+			0Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyDaniel Trezub
+					QA Analyst, Ludia2 years ago
+					Seems like an interesting idea, indeed, but I have the impression that several moving/sliding parts and connecting/disconnecting can lead to severe wear and tear, no?
+		
+							
+			3Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replyJames Brightman
+					Editor, North America, GamesIndustry.biz2 years ago
+					I wouldn't expect full system specs to be revealed for a little while. This is what Nintendo said in its PR: "Todays video incorporated short glimpses of representative gameplay to demonstrate the liberating nature of the Nintendo Switch home gaming system. Full game demonstrations, the list of launch window titles, as well as launch date, price, product configuration and related specifics, will be shown and announced prior to the March launch."
+		
+							
+			4Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replySteve Peterson
+					Marketing Consultant
+		
+		2 years ago
+					Looks interesting. The launch software is going to be important, as is the release schedule over the first year -- Nintendo needs to have regular releases of strong titles, unlike the long drought for important Wii U titles. The specs will be interesting, but what's important are the games and how fun they are, not how many polygons are on screen. The other major issue is going to be the price. Sony and Microsoft give you quite a lot for $299 these days. How will the Switch price -- and more importantly, its value -- compare?
+		
+							
+			5Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyJoe Nuyen
+					Mail Carrier & Industry Shareholder
+		
+		2 years ago
+					I think this move will eliminate the need for Nintendo to develop software for multiple consoles. That should help with the drought in their first party lineup and third party support is very encouraging. I'm very happy with  what I've seen so far.
+3ds probably has 3 more years of support at most now and the Wii U will be dead in the water after 2017
+		
+							
+					
+				Edited 1 times. Last edit by Joe Nuyen on 20th October 2016 5:16pm
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					What was the Vita accused of again? Something about home experiences making no sense on the go?  Don't wait for March, take one of the Intel Z8300  tablets with Windows, install Steam and two Bluetooth controllers, go re-enact the scenes from the trailer. The device is neat, but its success will be defined by the games and more importantly all the other apps it may or may not support (e.g. Netflix, messaging, browser, Plex, etc.) to reach the age demographic depicted in this trailer. Even then, does Gamevice plus Nintendo games equal success? I concede, 10-20 million people from the Nintendo core audience will have a terrific time with this latest toy, but it will take a lot more to reach the rest.
+Also, eSports...
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The system will live or die on the content as we know - and with Pokemon on the roster, and hopefully that front facing AR camera [yet to be seen], it could do well in the short term - but those dedicated legs do not seem to be there - no matter the hype machine (eSport Nintendo... give me a break!)
+		
+							
+			4Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAndy Cowe
+					Mobile developer, Moonjump2 years ago
+					Content is key, but marketing will be even more important. It is a great prospect, but how will the mass market see it? A console with only mobile performance? A Gameboy with pieces to lose or break? Or a flexible device that meets all your gaming needs?
+It will die if either content or marketing are not top-class. One out of four scenarios (1. Has content and marketing. 2. Has content, lacks marketing. 3. Lacks content, has marketing. 4. Lacks content and marketing) leads to success. I hope success is the outcome. I would love to develop for it, and play on it.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus  The Intel Z8300 has a horribly weak GPU. Please wait til March ;)
+		
+							
+			5Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		2 years ago
+					@Adam
+sure the Z8300 GPU is an abomination, but you get an idea whether the scenarios the trailer suggests work or not. The Z8300 does not need to run Skyrim for that. Just run Brawlhalla from Steam on a small screen with two controllers while on the go. Ask yourself, is this something that could work better, when all the IPs and brands are in place? When the cheap tablet is replaced by a Switch and the knock off Smash Brothers game is replaced by the real IP.
+The nVidia Shield K1 is by no means a bad device, but is a Nintendo branded refresh of that thing really the big thing Nintendo is expected to land?
+		
+							
+			1Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyPaul Shirley
+					Programmers
+		
+		2 years ago
+					I'm shocked. No VR hype. No AR hype. How do they expect it to succeed?
+:)
+		
+							
+			3Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago
+					I think Nintendo just announced to the world that they're happy to reside as the second console in the house, first for kids / family.  Third party support for this is going to be as woeful as its been for the Wii-U, it'll really make no sense to attempt to port top AAA titles from PS4 over to this.  Stoked for the Nintendo content, if it takes up the 3DS market and the Wii-U market it will be a nice money maker for Nintendo.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee2 years ago@Klaus
+If you're asking whether or not the Nintendo Switch is more enticing than devices with a chip that can't compete with last year's phones  (Intel Atom), barely able to run games, or a technically strong tablet with a poor ecosystem for specialised titles (Shield) that never stood a chance in the gaming market then my answer is yes.
+I think being a Nintendo machine, better hardware & controls and probably a lot better thought out than the Vita ever was, gives it a huge advantage even if that's no guarantee for success. I can see where the comparison comes in, but every one of the predecessors score low marks for execution.
+		
+							
+			4Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyNelsun Rivera
+					Mixed Media
+		
+		2 years ago
+					This Tablet needs to be comparable to an Apple or Android Tablet in functionality. If it can pull off all of those tricks as well as provide that same Nintendo magic with even a few steps up in tech then the audience will eat it up. If it is only a games console and mediocre multimedia features then I just dont see many people carrying this thing around. It will sell. But if they can bake in all of the above features then the prospect becomes quite promising.
+		
+							
+			2Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJon Wetherall
+					Managing Director, Onteca Ltd2 years ago
+					Happened to be using a Shield today, an old one but while the feel of it is lovely it was very underpowered, can see the NX solving that problem in the form factor/price.  Not sure where in the house this one goes it is even less distinct than a 3DS.  We let the kids use them because they are small/not online and fold up.  The NX has none of this and is not really a home console either.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replyJordan Lund
+					Columnist
+		
+		2 years ago
+					Keep in mind that Skyrim is not confirmed so we have no idea what the actual power of this system is yet.
+I'm cautiously optimistic. No hype until I see games and specs.
+		
+							
+			0Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years ago
+					The lack of an AR component would not have been as big of an issue until the PokemonGo phenomena.
+As Nintendo had to buy an ex-Google developer with the skills to AR, because of Nintendo's R&D's skill set of difficult to embrace change played a major component. So expecting that same mindset to embrace VR was nieve.
+Waiting to see who Nintendo will acquire to get this skill set - or if they feel the fence is comfortable?
+But yes, seems Nintendo just reserved the second place spot in the console wars (might be a good place to be if the market is changing!)
+		
+							
+			2Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		2 years ago@Jordan Lund: The problem there is, it HAS to be confirmed or else both Nintendo and Bethsoft will hear from some very annoyed internet raaaaagers. You can't show a big game like that in a huge new system reveal and NOT have it come out. That's the worst sort of bait & switch to pull on a new console's fans/potential buyers, especially as it's not a game that can be called vaporware. Hell, I had six Skyrim conversations today alone, four of which were from people who don't play western RPGs or have (gasp!) never heard of an Elder Scrolls game.
+My take on that reveal and Bethsoft's not confirming it is Nintendo wants the new Zelda to sell huge (if it's part of a pack-in launch bundle, they'll note 1:1 sales for it at some point) and be the go-to "big" game for a period of time before is slides into evergreen status. Somewhere between those two periods is where Skyrim will pop up as game to buy for those Nintendo-only gamers yet to play it. That said, I have played it, but would buy it again just to see how the heck it turned out.
+		
+							
+			0Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyPaul Jace
+					Merchandiser
+		
+		2 years ago
+					This system has potential but I'm not sure if there is enough there to make me want to SWITCH from my current Xbox One. What....too soon?
+		
+							
+			4Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replyAndrew Watson
+					Tools Programmer
+		
+		2 years agoWhile Bethesda's much beloved Skyrim was clearly shown during Nintendo's Switch reveal video, the publisher told us today that it's not officially confirming the game just yet.
+Then why put it in the video?????
+		
+							
+			1Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replySandy Lobban
+					Founder, Noise Me Up2 years ago
+					Does anyone need this device? No. Will enough people want it?  I think I'd be one of those that would want it, as I don't currently have a console, and I like the modularity. They will have to reach beyond a closed community of developers though, and create a democratised marketplace, or it'll end up like the Vita in the smartphone and tablet world.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@kevin williams:Pokemon Go is not an AR game, it's a Geo-positional game.  The AR element is utterly irrelevant except to marketing via social media ; and we know how Nintendo feels about that sort of integration into what is fundamentally a kids/family product.
+		
+							
+			2Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyRichard Browne
+					Head of External Projects, Digital Extremes2 years ago@Andrew Watson:Pretty sure Skyrim is coming ; this machine should be capable of a port from XBox 360 or PS3.  What I doubt we'll see is Red Dead 2 or anything designed for pushing current gen platforms.
+		
+							
+			0Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replyNick Parker
+					Consultant
+		
+		2 years ago
+					Target demographic seems to be edging older with the Switch - video shows young adults and the form factor is less toy like, more elegant. This could result in a higher launch price if also the chipset is a more advanced Tegra family member such as the X1 rather than the K1. The trick with these videos is to work out where the smoke and mirrors are.
+		
+							
+			5Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replykevin williams
+					, KWP Limited2 years agoPokemon Go is not an AR game, it's a Geo-positional game.
+@Richard Browne: That statement is a strident viewpoint that sadly is not accurate on the whole. The PG concept combines a geo-tagging element to an AR game. The combat (grinding) element as strong, if not stronger than the searching element - though the implementation leaves a lot to be desired as the developers are finding out concerning the games longevity. To dismissively claim it is not one thing seems to miss the point and may illustrate a miss understanding of the package.
+Regarding the latest breaking Nintendo developments over Switch - we see the share market voting with their feet regarding the development presented by Nintendo. The company has positioned this new platform in such a way that it is a 'make or break' strategy with no middle ground. They have presented a system that will greatly impact their current game deck business and will confuse their smart phone game offering.
+More importantly, this launch has illustrated an observation by many analysis towards Nintendo's executive pool - are they capable of understanding the market? The less than stellar marketing promotion of this new system topped off with a highly questionable marketing video that has caused some derision, would suggest a power vacuum in the company regarding forward strategy. Though Switch is an interesting approach, its implementation (as seen with WiiU) could be hampered by an 'old guard' executive team.
+		
+							
+			1Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replyJeremy Glazman
+					Programmer
+		
+		2 years ago"It gives game developers new abilities to bring their creative visions to life by opening up the concept of gaming without boundaries."
+The same could be said about the Wii U, and I was really excited about what the additional touchscreen could offer, but developers just didn't care -- or more likely publishers didn't care.  Creativity is risky, and publishers aren't interested. I want to believe things will be different this time around, but I can't imagine why anything would change other than maybe the Switch gets a bunch of ports of older games from other consoles?
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationLatest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, Poland 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, California 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCel 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, Germany 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Latest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Bob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7

@@ -1,0 +1,3808 @@
+I don't know how to claim these codes I have.You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.If the issue persists, contact us for help.What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your countryHow to solve this problem on an incomplete Blizzard accountHow to claim a code for a game, a product, or Blizzard Balance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MenuGamesShopNewsEsports%SIMPLE_LABEL%Support0My Account%USER_BATTLETAG_FULL%
+
+
+.Navbar .Navbar-dropdown .Navbar-gamePublishers.Navbar-columns9 .Navbar-gamePublisher.Navbar-columns2 .Navbar-poster {
+    width: calc(49.99% - 10px);
+}BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame Forums.Navbar .Navbar-dropdown .Navbar-esportsLogos .Navbar-esport .Navbar-esportImage {
+    width: 14vw;
+    height: 14vw
+}Overwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard Arena
+Log InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+Log InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+
+
+
+%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%
+
+
+
+
+
+
+
+
+                    Support
+                
+
+
+
+
+                    Contact Support
+                
+
+
+
+
+                        My Tickets
+                
+
+
+
+
+
+
+
+Support
+
+
+
+
+My Tickets
+
+
+
+
+                    Contact
+                
+
+
+
+
+
+
+
+
+
+
+
+
+    //<![CDATA[
+    var Core = Core || {};
+    Core.secureSupportUrl = "https://us.battle.net/support/";
+	Core.loggedIn = false;
+    Core.locale = "en-us";
+    Core.project = "support";
+    Core.projectUrl = "/support";
+    Core.isInGameBrowser = false;
+    //]]>
+
+
+
+
+
+
+
+
+
+
+
+
+How to Redeem Codes
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+
+
+Common Problems
+I don't know how to claim these codes I have.
+
+You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.
+ 
+
+
+		Please log in to submit feedback.
+	
+
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+Thanks for your feedback!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+The Currency Of The Balance Code You Are Trying to Redeem Is Not Supported In This Region
+What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your country
+Can't Redeem Code on Trial Blizzard Account
+How to solve this problem on an incomplete Blizzard account
+Claiming a Code on Your Account
+How to claim a code for a game, a product, or Blizzard Balance.
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click to watch this video in a web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+CareersAboutSupportContact UsPressAPI©2019 Blizzard Entertainment, Inc. All rights reserved.All trademarks referenced herein are the properties of their respective owners.PrivacyTerms
+
+
+		en-US
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MenuGamesShopNewsEsports%SIMPLE_LABEL%Support0My Account%USER_BATTLETAG_FULL%
+
+
+.Navbar .Navbar-dropdown .Navbar-gamePublishers.Navbar-columns9 .Navbar-gamePublisher.Navbar-columns2 .Navbar-poster {
+    width: calc(49.99% - 10px);
+}BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame Forums.Navbar .Navbar-dropdown .Navbar-esportsLogos .Navbar-esport .Navbar-esportImage {
+    width: 14vw;
+    height: 14vw
+}Overwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard Arena
+Log InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+Log InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+
+
+
+%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MenuGamesShopNewsEsports%SIMPLE_LABEL%Support0My Account%USER_BATTLETAG_FULL%
+
+
+.Navbar .Navbar-dropdown .Navbar-gamePublishers.Navbar-columns9 .Navbar-gamePublisher.Navbar-columns2 .Navbar-poster {
+    width: calc(49.99% - 10px);
+}BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame Forums.Navbar .Navbar-dropdown .Navbar-esportsLogos .Navbar-esport .Navbar-esportImage {
+    width: 14vw;
+    height: 14vw
+}Overwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard Arena
+Log InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+Log InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+
+
+
+%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%
+
+
+MenuGamesShopNewsEsports%SIMPLE_LABEL%Support0My Account%USER_BATTLETAG_FULL%
+MenuMenuGamesShopNewsEsports%SIMPLE_LABEL%GamesShopNewsEsports%SIMPLE_LABEL%Support0My Account%USER_BATTLETAG_FULL%Support0My Account%USER_BATTLETAG_FULL%
+.Navbar .Navbar-dropdown .Navbar-gamePublishers.Navbar-columns9 .Navbar-gamePublisher.Navbar-columns2 .Navbar-poster {
+    width: calc(49.99% - 10px);
+}BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame Forums.Navbar .Navbar-dropdown .Navbar-esportsLogos .Navbar-esport .Navbar-esportImage {
+    width: 14vw;
+    height: 14vw
+}Overwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard Arena
+Log InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+Log InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+
+
+BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2BlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredBlizzardOverwatch™World of Warcraft®Hearthstone®Overwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIDiablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2ActivisionCall of Duty®: Black Ops 4Destiny® 2Call of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaLog InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InAccount SettingsCreate a Free AccountLog InAccount SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog OutLog InSupport0Account SettingsCreate a Free AccountLog InSupport0Account SettingsCreate a Free Account%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_BATTLETAG%%USER_BATTLETAG_CODE%%USER_EMAIL%Account SettingsMy GiftsLog Out
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+
+
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany
+HomeGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsGamesGamesBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredBlizzardOverwatch™World of Warcraft®Hearthstone®Heroes of the Storm™Warcraft® III: Reforged™Diablo® Immortal™Diablo® IIIStarCraft® IIStarCraft®: RemasteredActivisionCall of Duty®: Black Ops 4Destiny® 2ActivisionCall of Duty®: Black Ops 4Destiny® 2More GamesBattle.net AppDownloadsGame ForumsShopNewsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaEsportsEsportsOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaOverwatch LeagueOverwatch World CupHearthstone Championship TourHeroes Global ChampionshipStarCraft II WCSWorld of Warcraft Arena World ChampionshipMore CompetitionsResourcesBlizzard ArenaSupportAccountMy GiftsCareersCompany%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%%PROMO_LABEL%%PROMO_TEXT%%PROMO_LINK_TEXT%%PROMO_LABEL%%PROMO_TEXT%
+
+
+
+
+
+                    Support
+                
+
+
+
+
+                    Contact Support
+                
+
+
+
+
+                        My Tickets
+                
+
+
+
+
+
+
+
+Support
+
+
+
+
+My Tickets
+
+
+
+
+                    Contact
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Support
+                
+
+
+
+
+                    Contact Support
+                
+
+
+
+
+                        My Tickets
+                
+
+
+
+
+
+
+                    Support
+                
+
+
+
+
+                    Contact Support
+                
+
+
+
+
+                        My Tickets
+                
+
+
+
+
+                    Support
+                
+
+
+
+                    Contact Support
+                
+
+
+
+                        My Tickets
+                
+
+
+
+
+Support
+
+
+
+
+My Tickets
+
+
+
+
+                    Contact
+                
+
+
+
+
+
+Support
+
+
+
+
+My Tickets
+
+
+
+
+                    Contact
+                
+
+
+Support
+Support
+My Tickets
+
+                    Contact
+                
+
+
+
+
+
+
+    //<![CDATA[
+    var Core = Core || {};
+    Core.secureSupportUrl = "https://us.battle.net/support/";
+	Core.loggedIn = false;
+    Core.locale = "en-us";
+    Core.project = "support";
+    Core.projectUrl = "/support";
+    Core.isInGameBrowser = false;
+    //]]>
+
+
+
+
+
+
+
+
+
+
+
+
+How to Redeem Codes
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+
+
+Common Problems
+I don't know how to claim these codes I have.
+
+You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.
+ 
+
+
+		Please log in to submit feedback.
+	
+
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+Thanks for your feedback!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+The Currency Of The Balance Code You Are Trying to Redeem Is Not Supported In This Region
+What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your country
+Can't Redeem Code on Trial Blizzard Account
+How to solve this problem on an incomplete Blizzard account
+Claiming a Code on Your Account
+How to claim a code for a game, a product, or Blizzard Balance.
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click to watch this video in a web browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Redeem Codes
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+
+
+Common Problems
+I don't know how to claim these codes I have.
+
+You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.
+ 
+
+
+		Please log in to submit feedback.
+	
+
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+Thanks for your feedback!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+The Currency Of The Balance Code You Are Trying to Redeem Is Not Supported In This Region
+What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your country
+Can't Redeem Code on Trial Blizzard Account
+How to solve this problem on an incomplete Blizzard account
+Claiming a Code on Your Account
+How to claim a code for a game, a product, or Blizzard Balance.
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Redeem Codes
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+
+
+Common Problems
+I don't know how to claim these codes I have.
+
+You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.
+ 
+
+
+		Please log in to submit feedback.
+	
+
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+Thanks for your feedback!
+
+
+
+How to Redeem Codes
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+
+
+			Updated: 3 months ago
+		
+
+			Article ID: 11263
+		
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+			Updated: 3 months ago
+		
+			Article ID: 11263
+		
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+
+
+						Relevant Games:
+					
+
+
+
+
+
+
+						Relevant Games:
+					
+
+
+
+
+Common Problems
+I don't know how to claim these codes I have.
+
+You can use the Blizzard Code Redemption page to redeem all codes and game keys, including physical or digital game keys, game time codes, and pet or mount codes, and Blizzard Balance codes.
+REDEEM CODE
+Most codes are country specific and must match your Blizzard account's country before you can claim them. Country-specific codes cannot be transferred from one country to another. If you're having trouble claiming a code, be sure the code was entered correctly on the Code Redemption page. Try using all CAPS to enter the code.
+If the issue persists, contact us for help.
+Note: Item or pet codes distributed prior to BlizzCon 2009 and all World of Warcraft Trading Card Game item codes must be redeemed through the World of Warcraft Promotion Code Retrieval page.
+
+
+		Please log in to submit feedback.
+	
+
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+Thanks for your feedback!
+
+
+		Please log in to submit feedback.
+	
+Did you find this article helpful?
+
+
+			Yes
+			
+
+			No
+			
+
+Did you find this article helpful?
+
+			Yes
+			
+
+			No
+			
+
+Great! Help us improve. Please rate the following from a scale of 1 to 5 stars:
+
+
+
+This article is easy to find.
+
+
+
+
+This article is easy to understand.
+
+
+
+
+This article had the information I needed.
+
+
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Cancel
+				
+
+Sorry to hear that! We'd like to know what's wrong. Please check any which apply:
+
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+
+					Cancel
+				
+
+
+
+
+
+This information isn't relevant to my issue.
+
+
+
+
+This article is unclear or poorly written.
+
+
+
+
+I have tried the suggested steps but they didn't work.
+
+
+
+
+I'm frustrated by Blizzard's process or policy.
+
+
+
+
+					Cancel
+				
+
+
+Thanks for your feedback!
+
+
+Thanks for your feedback!
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+The Currency Of The Balance Code You Are Trying to Redeem Is Not Supported In This Region
+What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your country
+Can't Redeem Code on Trial Blizzard Account
+How to solve this problem on an incomplete Blizzard account
+Claiming a Code on Your Account
+How to claim a code for a game, a product, or Blizzard Balance.
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+Related Articles
+The Currency Of The Balance Code You Are Trying to Redeem Is Not Supported In This Region
+What to do if the site doesn't allow claiming a Blizzard Balance gift card because the currency in the card doesn't match the currency of your country
+Can't Redeem Code on Trial Blizzard Account
+How to solve this problem on an incomplete Blizzard account
+Claiming a Code on Your Account
+How to claim a code for a game, a product, or Blizzard Balance.
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+
+Share This Article
+
+
+
+
+
+
+
+
+
+
+Click to watch this video in a web browser.
+Click to watch this video in a web browser.
+
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+CareersAboutSupportContact UsPressAPI©2019 Blizzard Entertainment, Inc. All rights reserved.All trademarks referenced herein are the properties of their respective owners.PrivacyTerms
+
+
+		en-US
+
+						
+
+
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+CareersAboutSupportContact UsPressAPI©2019 Blizzard Entertainment, Inc. All rights reserved.All trademarks referenced herein are the properties of their respective owners.PrivacyTerms
+
+
+		en-US
+
+						
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region
+
+Americas & Southeast Asia
+
+
+
+
+
+
+
+Europe
+
+
+
+
+
+
+
+Korea
+
+
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RegionAmericas & Southeast Asia
+
+
+
+Europe
+
+
+
+Korea
+
+
+
+Taiwan
+
+
+
+China
+
+
+
+
+
+
+
+
+
+
+Language
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+Language
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+
+
+
+English (US)
+
+
+
+
+
+
+
+Español (AL)
+
+
+
+
+
+
+
+Português (AL)
+
+
+
+
+
+
+
+ภาษาไทย
+
+
+
+
+
+
+
+日本語
+
+
+
+
+
+
+English (US)
+
+
+
+Español (AL)
+
+
+
+Português (AL)
+
+
+
+ภาษาไทย
+
+
+
+日本語
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+
+
+
+Deutsch
+
+
+
+
+
+
+
+English (EU)
+
+
+
+
+
+
+
+Español (EU)
+
+
+
+
+
+
+
+Français
+
+
+
+
+
+
+
+Italiano
+
+
+
+
+
+
+
+Português (EU)
+
+
+
+
+
+
+
+Polski
+
+
+
+
+
+
+
+Русский
+
+
+
+
+
+
+Deutsch
+
+
+
+English (EU)
+
+
+
+Español (EU)
+
+
+
+Français
+
+
+
+Italiano
+
+
+
+Português (EU)
+
+
+
+Polski
+
+
+
+Русский
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+한국어
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+繁體中文
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+
+
+
+简体中文
+
+
+
+
+
+
+简体中文
+
+
+
+CareersAboutSupportContact UsPressAPICareersAboutSupportCareersAboutSupportContact UsPressAPIContact UsPressAPI©2019 Blizzard Entertainment, Inc. All rights reserved.All trademarks referenced herein are the properties of their respective owners.PrivacyTermsPrivacyTerms
+
+		en-US
+
+						

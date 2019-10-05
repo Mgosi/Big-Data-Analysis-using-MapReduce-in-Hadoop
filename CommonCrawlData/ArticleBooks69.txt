@@ -1,0 +1,2518 @@
+in Books 
+In case you didn't realize it, we're smack dab in the middle of Banned Books Week, which reminds us not to take intellectual freedom for granted. Hundreds of books are censored each year in America's schools, bookstores and libraries, many of them works of unquestionable literary merit, books like The Catcher in the Rye, To Kill a Mockingbird and Huckleberry Finn.The New York Times has created a handy guide outlining Ways to Celebrate Banned Books Week, while City Lights, the beloved San Francisco bookstore founded by Lawrence Ferlinghetti, came up with its own way to raise awareness. They got filmmaker John Waters to read a steamy passage from D.H. Lawrence's controversial novel, Lady Chatterley's Lover. Although originally published in 1928, an uncensored version of the book didn't appear in Britain until 1960. And almost immediately Penguin, the publisher, was tried under the Obscene Publications Act. A jury returned with a verdict of 'Not Guilty.' As you can imagine, the lines read by Mr. Waters are not safe for work. You can find Lady Chatterley's Lover housed in our collection of Free eBooks.--  Censorship is telling a man he can't have a steak just because a baby can't chew it. Mark Twainvia @GalleyCatRelated Content:Frank Zappa Debates Censorship on CNN’s Crossfire (1986)Allen Ginsberg Reads His Classic Beat Poem, HowlMike Wallace and Bennett Cerf (Founder of Random House) Talk Censorship by DC  | Permalink | Comments (0) | We're hoping to rely on our loyal readers rather than erratic ads. To support Open Culture's continued operation, please consider making a donation. We thank you!
+ 
+
+Be the first to comment.Name (required)
+
+Email (required)
+
+Message
+
+
+
+
+
+
+Click here to cancel reply.
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+	Get the best cultural and educational resources on the web curated for you in a daily email. We never spam. Unsubscribe at any time.  
+    FOLLOW ON SOCIAL MEDIAOpen Culture scours the web for the best educational media. We find the free courses and audio books you need, the language lessons & educational videos you want, and plenty of enlightenment in between.©2006-2019 Open Culture, LLC. All rights reserved.if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+
+
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+ 
+
+
+
+
+ 
+
+ 
+							
+				  	    /* Calculate the width of available ad space */
+				  	    ad = document.getElementById('leaderboard_div');
+				  	    console.log("width of ad is "+ String(ad.getBoundingClientRect().width))
+				  	    if (ad.getBoundingClientRect().width) {
+				  	        adWidth = ad.getBoundingClientRect().width; // for modern browsers 
+				  	    } else {
+				  	        adWidth = ad.offsetWidth; // for old IE 
+				  	    }
+
+	
+				  	    google_ad_client = "ca-pub-1184791463292965";
+				  	    google_ad_slot = "9984475861";
+						console.log("ad width: "+ adWidth.toString());
+				  	    /* Do not change anything after this line */
+				  	    if ( adWidth >= 728 )
+				  	      google_ad_size = ["728", "90"];  /* Leaderboard 728x90 */
+				  	    else if ( adWidth >= 468 )
+				  	      google_ad_size = ["468", "60"];  /* Banner (468 x 60) */
+						else  if (adWidth > 319 )
+							google_ad_size = ["320","50"];
+						else 
+							google_ad_size = ["234","60"];
+				  	  /*  else if ( adWidth >= 336 )
+				  	      google_ad_size = ["336", "280"];  Large Rectangle (336 x 280) 
+				  	    else if ( adWidth >= 300 )
+				  	      google_ad_size = ["300", "250"]; /* Medium Rectangle (300 x 250) */
+				  	   /* else if ( adWidth >= 250 )
+				  	      google_ad_size = ["250", "250"]; /* Square (250 x 250) */
+				  	   /* else if ( adWidth >= 200 )
+				  	      google_ad_size = ["200", "200"]; /* Small Square (200 x 200) */
+				  	   /* else if ( adWidth >= 180 )
+				  	      google_ad_size = ["180", "150"]; /* Small Rectangle (180 x 150) */
+				  	   /* else
+				  	      google_ad_size = ["125", "125"]; /* Button (125 x 125) */ 
+
+				  	    document.write (
+				  	     '<ins class="adsbygoogle" style="display:inline-block;width:' 
+				  	      + google_ad_size[0] + 'px;height:' 
+				  	      + google_ad_size[1] + 'px" data-ad-client="' 
+				  	      + google_ad_client + '" data-ad-slot="' 
+				  	      + google_ad_slot + '"></ins>'
+				  	    );
+
+				  	    (adsbygoogle = window.adsbygoogle || []).push({});
+
+				  	
+
+
+ 
+
+
+ 
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+Donate
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+Donate
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .contentmiddle ul li {_list-style-type: circle;
+margin-left: 3rem;}  
+
+
+
+
+John Waters Reads Steamy Scene from Lady Chatterley’s Lover for Banned Books Week (NSFW)
+in Books
+
+
+ .contentmiddle ul li {_list-style-type: circle;
+margin-left: 3rem;}  
+
+
+
+
+John Waters Reads Steamy Scene from Lady Chatterley’s Lover for Banned Books Week (NSFW)
+in Books
+
+
+
+
+
+John Waters Reads Steamy Scene from Lady Chatterley’s Lover for Banned Books Week (NSFW)
+in Books
+John Waters Reads Steamy Scene from Lady Chatterley’s Lover for Banned Books Week (NSFW)
+in Books785SHARESFacebookTwitterRedditSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboard
+785SHARES785FacebookTwitterRedditSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboardSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboard
+	    Advertisement
+	(adsbygoogle = window.adsbygoogle || []).push({});
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+ 
+
+
+In case you didn't realize it, we're smack dab in the middle of Banned Books Week, which reminds us not to take intellectual freedom for granted. Hundreds of books are censored each year in America's schools, bookstores and libraries, many of them works of unquestionable literary merit, books like The Catcher in the Rye, To Kill a Mockingbird and Huckleberry Finn.
+The New York Times has created a handy guide outlining Ways to Celebrate Banned Books Week, while City Lights, the beloved San Francisco bookstore founded by Lawrence Ferlinghetti, came up with its own way to raise awareness. They got filmmaker John Waters to read a steamy passage from D.H. Lawrence's controversial novel, Lady Chatterley's Lover. Although originally published in 1928, an uncensored version of the book didn't appear in Britain until 1960. And almost immediately Penguin, the publisher, was tried under the Obscene Publications Act. A jury returned with a verdict of 'Not Guilty.' As you can imagine, the lines read by Mr. Waters are not safe for work. You can find Lady Chatterley's Lover housed in our collection of Free eBooks.
+--  Censorship is telling a man he can't have a steak just because a baby can't chew it. Mark Twain
+via @GalleyCat
+Related Content:
+Frank Zappa Debates Censorship on CNN’s Crossfire (1986)
+Allen Ginsberg Reads His Classic Beat Poem, Howl
+Mike Wallace and Bennett Cerf (Founder of Random House) Talk Censorship
+ 
+
+
+
+
+
+ 
+
+
+In case you didn't realize it, we're smack dab in the middle of Banned Books Week, which reminds us not to take intellectual freedom for granted. Hundreds of books are censored each year in America's schools, bookstores and libraries, many of them works of unquestionable literary merit, books like The Catcher in the Rye, To Kill a Mockingbird and Huckleberry Finn.
+The New York Times has created a handy guide outlining Ways to Celebrate Banned Books Week, while City Lights, the beloved San Francisco bookstore founded by Lawrence Ferlinghetti, came up with its own way to raise awareness. They got filmmaker John Waters to read a steamy passage from D.H. Lawrence's controversial novel, Lady Chatterley's Lover. Although originally published in 1928, an uncensored version of the book didn't appear in Britain until 1960. And almost immediately Penguin, the publisher, was tried under the Obscene Publications Act. A jury returned with a verdict of 'Not Guilty.' As you can imagine, the lines read by Mr. Waters are not safe for work. You can find Lady Chatterley's Lover housed in our collection of Free eBooks.
+--  Censorship is telling a man he can't have a steak just because a baby can't chew it. Mark Twain
+via @GalleyCat
+Related Content:
+Frank Zappa Debates Censorship on CNN’s Crossfire (1986)
+Allen Ginsberg Reads His Classic Beat Poem, Howl
+Mike Wallace and Bennett Cerf (Founder of Random House) Talk Censorship
+ 
+
+
+
+ 
+
+
+785SHARESFacebookTwitterRedditSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboard
+785SHARES785FacebookTwitterRedditSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboardSubscribeGoogleWhatsappPinterestDiggLinkedinStumbleuponVkPrintDeliciousBufferPocketXingTumblrMailYummlyTelegramFlipboard
+ by DC  | Permalink | Comments (0) | 
+
+
+Support Open Culture
+We're hoping to rely on our loyal readers rather than erratic ads. To support Open Culture's continued operation, please consider making a donation. We thank you!
+ 
+
+
+
+
+
+
+
+
+Support Open Culture
+We're hoping to rely on our loyal readers rather than erratic ads. To support Open Culture's continued operation, please consider making a donation. We thank you!
+ 
+
+
+
+
+
+
+Support Open Culture
+We're hoping to rely on our loyal readers rather than erratic ads. To support Open Culture's continued operation, please consider making a donation. We thank you!
+ 
+Support Open Culture
+
+
+
+
+Comments (0)
+Be the first to comment.
+
+
+
+
+
+
+Leave a Reply
+
+
+Name (required)
+
+
+Email (required)
+
+
+
+
+Message
+
+
+
+
+
+
+
+Click here to cancel reply.
+
+
+Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
+
+
+
+
+
+Comments (0)
+Be the first to comment.
+
+
+
+
+
+Leave a Reply
+
+
+Name (required)
+
+
+Email (required)
+
+
+
+
+Message
+
+
+
+
+
+
+
+Click here to cancel reply.
+
+
+Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
+
+
+
+
+
+
+
+Leave a Reply
+
+
+Name (required)
+
+
+Email (required)
+
+
+
+
+Message
+
+
+
+
+
+
+
+Click here to cancel reply.
+
+
+Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
+
+
+
+
+Name (required)
+
+
+Email (required)
+
+
+
+
+Message
+
+
+
+
+
+
+
+Click here to cancel reply.
+
+
+Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
+
+
+
+
+Click here to cancel reply.Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!
+
+Essentials 
+
+1,300 Free Online Courses
+1000+ MOOCs
+1,150 Free Movies
+700 Free Audio Books
+800 Free eBooks
+200 Free Textbooks
+300 Free Language Lessons
+150 Free Business Courses
+Free K-12 Education
+Get Our Daily Email
+
+
+Support Us 
+
+We're hoping to rely on loyal readers, rather than erratic ads. Click the Donate button and support Open Culture. We thank you!
+
+
+
+
+
+
+ 
+Free Courses
+
+Astronomy
+Biology
+Business
+Chemistry
+Classics/Ancient World
+Computer Science
+Economics
+ Engineering
+ Environment
+History
+ Literature
+ Math
+Philosophy
+Physics
+Political Science
+Psychology
+Religion
+All 1250 Free Courses
+1000+ MOOCs & Certificate Courses
+
+
+ 
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+ 
+Free Movies
+
+1150 Free Movies Online
+Free Film Noir
+Silent Films
+Documentaries
+Martial Arts/Kung Fu
+Animations
+Free Hitchcock Films
+Free Charlie Chaplin
+Free John Wayne Movies
+Free Tarkovsky Films
+Free Dziga Vertov
+Free Oscar Winners
+
+
+ 
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+ 
+Free Language Lessons
+
+Arabic
+Chinese
+English
+French
+German
+Italian
+Russian
+Spanish
+All Languages
+
+
+ 
+Free eBooks
+
+700 Free eBooks
+Free Philosophy eBooks
+The Harvard Classics
+Philip K. Dick Stories
+Neil Gaiman Stories
+David Foster Wallace Stories & Essays
+Hemingway Stories
+Great Gatsby & Other Fitzgerald Novels
+HP Lovecraft
+Edgar Allan Poe
+Free Alice Munro Stories
+Jennifer Egan Stories
+George Saunders Stories
+Hunter S. Thompson Essays
+Joan Didion Essays
+Gabriel Garcia Marquez Stories
+David Sedaris Stories
+Stephen King
+Chomsky
+Golden Age Comics
+Free Books by UC Press
+ Life Changing Books
+
+
+
+ 
+ 
+Free Audio Books
+
+700 Free Audio Books
+Free Audio Books: Fiction
+Free Audio Books: Poetry
+Free Audio Books: Non-Fiction
+
+
+ 
+Free Textbooks
+
+200 Free Textbooks
+Free Physics Textbooks
+Free Computer Science Textbooks
+Free Math Textbooks
+
+
+  K-12 Resources
+
+Free Books
+Free Video Lessons
+Web Resources by Subject
+Free Language Lessons
+Quality YouTube Channels
+Teacher Resources
+Test Prep
+All Free Kids Resources
+
+
+ 
+Free Art & Images
+
+All Art Images & Books
+The Met
+The Getty
+The Rijksmuseum
+Smithsonian
+The Guggenheim
+The Tate
+The National Gallery
+The Whitney
+LA County Museum
+Stanford University
+British Library
+Google Art Project
+French Revolution
+Getty Images
+Guggenheim Art Books
+Met Art Books
+Getty Art Books
+New York Public Library Maps
+Museum of New Zealand
+Street Art
+Smarthistory
+Rembrandt
+Van Gogh
+Coloring Books
+
+
+ 
+Free Music
+
+All Bach Organ Works
+All of Bach
+80,000 Classical Music Scores
+Free Classical Music
+Live Classical Music
+9,000 Grateful Dead Concerts
+Alan Lomax Blues & Folk Archive
+
+
+ 
+Writing Tips
+
+Hemingway
+Fitzgerald
+Stephen King
+Ray Bradbury
+William Zinsser
+
+Kurt Vonnegut
+Toni Morrison
+Edgar Allan Poe
+Margaret Atwood
+David Ogilvy
+Steinbeck
+Billy Wilder
+
+
+ 
+Archive
+
+All posts by date
+
+
+Categories 
+Amazon Kindle
+
+Animation
+
+Apple
+
+Architecture
+
+Archives
+
+Art
+
+Astronomy
+
+Audio Books
+
+Beat & Tweets
+
+Biology
+
+Books
+
+Business
+
+Chemistry
+
+Comedy
+
+Comics/Cartoons
+
+Computer Science
+
+Creativity
+
+Current Affairs
+
+Dance
+
+Data
+
+Deals
+
+Design
+
+e-books
+
+Economics
+
+Education
+
+English Language
+
+Entrepreneurship
+
+Environment
+
+Fashion
+
+Film
+
+Food & Drink
+
+Games
+
+Gender
+
+Google
+
+Graduation Speech
+
+Harvard
+
+Health
+
+History
+
+How to Learn for Free
+
+Internet Archive
+
+iPad
+
+iPhone
+
+Jazz
+
+K-12
+
+Language Lessons
+
+Law
+
+Letters
+
+Libraries
+
+Life
+
+Literature
+
+Magazines
+
+Maps
+
+Math
+
+Media
+
+MIT
+
+MOOCs
+
+Most Popular
+
+Museums
+
+Music
+
+Nature
+
+Neuroscience
+
+Online Courses
+
+Opera
+
+Philosophy
+
+Photography
+
+Physics
+
+Podcast Articles and Resources
+
+Poetry
+
+Politics
+
+Psychology
+
+Radio
+
+Random
+
+Religion
+
+Sci Fi
+
+Science
+
+Software
+
+Sports
+
+Stanford
+
+Technology
+
+TED Talks
+
+Television
+
+Theatre
+
+Travel
+
+Twitter
+
+UC Berkeley
+
+Uncategorized
+
+Video – Arts & Culture
+
+Video – Politics/Society
+
+Video – Science
+
+Video Games
+
+Web/Tech
+
+Wikipedia
+
+Writing
+
+Yale
+
+YouTube
+
+
+ 
+
+
+1,300 Free Online Courses
+1000+ MOOCs
+1,150 Free Movies
+700 Free Audio Books
+800 Free eBooks
+200 Free Textbooks
+300 Free Language Lessons
+150 Free Business Courses
+Free K-12 Education
+Get Our Daily Email
+
+
+
+1,300 Free Online Courses
+1000+ MOOCs
+1,150 Free Movies
+700 Free Audio Books
+800 Free eBooks
+200 Free Textbooks
+300 Free Language Lessons
+150 Free Business Courses
+Free K-12 Education
+Get Our Daily Email
+
+
+
+We're hoping to rely on loyal readers, rather than erratic ads. Click the Donate button and support Open Culture. We thank you!
+
+
+
+
+
+
+
+We're hoping to rely on loyal readers, rather than erratic ads. Click the Donate button and support Open Culture. We thank you!
+
+
+
+
+Free Courses
+
+Astronomy
+Biology
+Business
+Chemistry
+Classics/Ancient World
+Computer Science
+Economics
+ Engineering
+ Environment
+History
+ Literature
+ Math
+Philosophy
+Physics
+Political Science
+Psychology
+Religion
+All 1250 Free Courses
+1000+ MOOCs & Certificate Courses
+
+
+Free Courses
+
+Astronomy
+Biology
+Business
+Chemistry
+Classics/Ancient World
+Computer Science
+Economics
+ Engineering
+ Environment
+History
+ Literature
+ Math
+Philosophy
+Physics
+Political Science
+Psychology
+Religion
+All 1250 Free Courses
+1000+ MOOCs & Certificate Courses
+
+
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+ (adsbygoogle = window.adsbygoogle || []).push({});
+
+Free Movies
+
+1150 Free Movies Online
+Free Film Noir
+Silent Films
+Documentaries
+Martial Arts/Kung Fu
+Animations
+Free Hitchcock Films
+Free Charlie Chaplin
+Free John Wayne Movies
+Free Tarkovsky Films
+Free Dziga Vertov
+Free Oscar Winners
+
+
+Free Movies
+
+1150 Free Movies Online
+Free Film Noir
+Silent Films
+Documentaries
+Martial Arts/Kung Fu
+Animations
+Free Hitchcock Films
+Free Charlie Chaplin
+Free John Wayne Movies
+Free Tarkovsky Films
+Free Dziga Vertov
+Free Oscar Winners
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Free Language Lessons
+
+Arabic
+Chinese
+English
+French
+German
+Italian
+Russian
+Spanish
+All Languages
+
+
+Free Language Lessons
+
+Arabic
+Chinese
+English
+French
+German
+Italian
+Russian
+Spanish
+All Languages
+
+
+Free eBooks
+
+700 Free eBooks
+Free Philosophy eBooks
+The Harvard Classics
+Philip K. Dick Stories
+Neil Gaiman Stories
+David Foster Wallace Stories & Essays
+Hemingway Stories
+Great Gatsby & Other Fitzgerald Novels
+HP Lovecraft
+Edgar Allan Poe
+Free Alice Munro Stories
+Jennifer Egan Stories
+George Saunders Stories
+Hunter S. Thompson Essays
+Joan Didion Essays
+Gabriel Garcia Marquez Stories
+David Sedaris Stories
+Stephen King
+Chomsky
+Golden Age Comics
+Free Books by UC Press
+ Life Changing Books
+
+
+
+Free eBooks
+
+700 Free eBooks
+Free Philosophy eBooks
+The Harvard Classics
+Philip K. Dick Stories
+Neil Gaiman Stories
+David Foster Wallace Stories & Essays
+Hemingway Stories
+Great Gatsby & Other Fitzgerald Novels
+HP Lovecraft
+Edgar Allan Poe
+Free Alice Munro Stories
+Jennifer Egan Stories
+George Saunders Stories
+Hunter S. Thompson Essays
+Joan Didion Essays
+Gabriel Garcia Marquez Stories
+David Sedaris Stories
+Stephen King
+Chomsky
+Golden Age Comics
+Free Books by UC Press
+ Life Changing Books
+
+
+Free Audio Books
+
+700 Free Audio Books
+Free Audio Books: Fiction
+Free Audio Books: Poetry
+Free Audio Books: Non-Fiction
+
+
+Free Audio Books
+
+700 Free Audio Books
+Free Audio Books: Fiction
+Free Audio Books: Poetry
+Free Audio Books: Non-Fiction
+
+
+Free Textbooks
+
+200 Free Textbooks
+Free Physics Textbooks
+Free Computer Science Textbooks
+Free Math Textbooks
+
+
+Free Textbooks
+
+200 Free Textbooks
+Free Physics Textbooks
+Free Computer Science Textbooks
+Free Math Textbooks
+
+ K-12 Resources
+
+Free Books
+Free Video Lessons
+Web Resources by Subject
+Free Language Lessons
+Quality YouTube Channels
+Teacher Resources
+Test Prep
+All Free Kids Resources
+
+ K-12 Resources
+
+Free Books
+Free Video Lessons
+Web Resources by Subject
+Free Language Lessons
+Quality YouTube Channels
+Teacher Resources
+Test Prep
+All Free Kids Resources
+
+
+Free Art & Images
+
+All Art Images & Books
+The Met
+The Getty
+The Rijksmuseum
+Smithsonian
+The Guggenheim
+The Tate
+The National Gallery
+The Whitney
+LA County Museum
+Stanford University
+British Library
+Google Art Project
+French Revolution
+Getty Images
+Guggenheim Art Books
+Met Art Books
+Getty Art Books
+New York Public Library Maps
+Museum of New Zealand
+Street Art
+Smarthistory
+Rembrandt
+Van Gogh
+Coloring Books
+
+
+Free Art & Images
+
+All Art Images & Books
+The Met
+The Getty
+The Rijksmuseum
+Smithsonian
+The Guggenheim
+The Tate
+The National Gallery
+The Whitney
+LA County Museum
+Stanford University
+British Library
+Google Art Project
+French Revolution
+Getty Images
+Guggenheim Art Books
+Met Art Books
+Getty Art Books
+New York Public Library Maps
+Museum of New Zealand
+Street Art
+Smarthistory
+Rembrandt
+Van Gogh
+Coloring Books
+
+
+Free Music
+
+All Bach Organ Works
+All of Bach
+80,000 Classical Music Scores
+Free Classical Music
+Live Classical Music
+9,000 Grateful Dead Concerts
+Alan Lomax Blues & Folk Archive
+
+
+Free Music
+
+All Bach Organ Works
+All of Bach
+80,000 Classical Music Scores
+Free Classical Music
+Live Classical Music
+9,000 Grateful Dead Concerts
+Alan Lomax Blues & Folk Archive
+
+
+Writing Tips
+
+Hemingway
+Fitzgerald
+Stephen King
+Ray Bradbury
+William Zinsser
+
+Kurt Vonnegut
+Toni Morrison
+Edgar Allan Poe
+Margaret Atwood
+David Ogilvy
+Steinbeck
+Billy Wilder
+
+
+Writing Tips
+
+Hemingway
+Fitzgerald
+Stephen King
+Ray Bradbury
+William Zinsser
+
+Kurt Vonnegut
+Toni Morrison
+Edgar Allan Poe
+Margaret Atwood
+David Ogilvy
+Steinbeck
+Billy Wilder
+
+
+Archive
+
+All posts by date
+
+
+Archive
+
+All posts by date
+
+
+
+  
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Great Lectures 
+
+Michel Foucault
+Sun Ra at UC Berkeley
+Richard Feynman
+Joseph Campbell
+Carl Sagan
+Margaret Atwood
+Jorge Luis Borges
+Leonard Bernstein
+Richard Dawkins
+Buckminster Fuller
+Walter Kaufmann on Existentialism
+Jacques Lacan
+Roland Barthes
+Nobel Lectures by Writers
+Toni Morrison
+Bertrand Russell
+Oxford Philosophy Lectures
+
+
+  
+FREE UPDATES!
+GET OUR DAILY EMAIL
+
+	Get the best cultural and educational resources on the web curated for you in a daily email. We never spam. Unsubscribe at any time.  
+    
+
+
+
+
+FOLLOW ON SOCIAL MEDIA
+
+
+ 
+
+
+
+
+
+
+About Us 
+
+Open Culture scours the web for the best educational media. We find the free courses and audio books you need, the language lessons & educational videos you want, and plenty of enlightenment in between.
+
+Advertise With Us
+
+
+ 
+Great Recordings
+
+T.S. Eliot Reads Waste Land
+Sylvia Plath - Ariel
+Joyce Reads Ulysses
+Joyce - Finnegans Wake
+Patti Smith Reads Virginia Woolf
+Albert Einstein
+Charles Bukowski
+Bill Murray
+Hemingway
+Fitzgerald Reads Shakespeare
+William Faulkner
+Flannery O'Connor
+Tolkien - The Hobbit
+Allen Ginsberg - Howl
+W.B Yeats
+Ezra Pound
+Dylan Thomas
+Anne Sexton
+John Cheever
+David Foster Wallace
+
+
+ 
+Book Lists By
+
+Neil deGrasse Tyson
+Ernest Hemingway
+F. Scott Fitzgerald
+Allen Ginsberg
+Patti Smith
+Brian Eno
+Henry Miller
+Christopher Hitchens
+Joseph Brodsky
+W.H. Auden
+Donald Barthelme
+Carl Sagan
+David Bowie
+Samuel Beckett
+Art Garfunkel
+Marilyn Monroe
+Jorge Luis Borges
+Picks by Female Creatives
+
+
+
+ 
+ 
+Syllabi
+
+WH Auden
+David Foster Wallace
+Donald Barthelme
+Allen Ginsberg
+Zadie Smith & Gary Shteyngart
+Spike Lee
+Lynda Barry
+Junot Diaz
+
+
+ 
+Favorite Movies
+
+Kubrick
+Kurosawa's 100
+Tarantino
+Scorsese
+Tarkovsky
+David Lynch
+Werner Herzog
+Woody Allen
+Wes Anderson
+Luis Buñuel
+Roger Ebert
+Susan Sontag
+Scorsese Foreign Films
+Philosophy Films
+
+
+Archives 
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+
+ 
+ 
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+Michel Foucault
+Sun Ra at UC Berkeley
+Richard Feynman
+Joseph Campbell
+Carl Sagan
+Margaret Atwood
+Jorge Luis Borges
+Leonard Bernstein
+Richard Dawkins
+Buckminster Fuller
+Walter Kaufmann on Existentialism
+Jacques Lacan
+Roland Barthes
+Nobel Lectures by Writers
+Toni Morrison
+Bertrand Russell
+Oxford Philosophy Lectures
+
+
+
+Michel Foucault
+Sun Ra at UC Berkeley
+Richard Feynman
+Joseph Campbell
+Carl Sagan
+Margaret Atwood
+Jorge Luis Borges
+Leonard Bernstein
+Richard Dawkins
+Buckminster Fuller
+Walter Kaufmann on Existentialism
+Jacques Lacan
+Roland Barthes
+Nobel Lectures by Writers
+Toni Morrison
+Bertrand Russell
+Oxford Philosophy Lectures
+
+ 
+FREE UPDATES!
+GET OUR DAILY EMAIL
+
+	Get the best cultural and educational resources on the web curated for you in a daily email. We never spam. Unsubscribe at any time.  
+    
+
+
+
+
+FOLLOW ON SOCIAL MEDIA
+
+
+ 
+
+
+
+
+
+
+
+FREE UPDATES!
+GET OUR DAILY EMAIL
+
+	Get the best cultural and educational resources on the web curated for you in a daily email. We never spam. Unsubscribe at any time.  
+    
+
+
+
+
+FOLLOW ON SOCIAL MEDIA
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Open Culture scours the web for the best educational media. We find the free courses and audio books you need, the language lessons & educational videos you want, and plenty of enlightenment in between.
+
+Advertise With Us
+
+
+
+Open Culture scours the web for the best educational media. We find the free courses and audio books you need, the language lessons & educational videos you want, and plenty of enlightenment in between.
+
+Advertise With Us
+
+
+Great Recordings
+
+T.S. Eliot Reads Waste Land
+Sylvia Plath - Ariel
+Joyce Reads Ulysses
+Joyce - Finnegans Wake
+Patti Smith Reads Virginia Woolf
+Albert Einstein
+Charles Bukowski
+Bill Murray
+Hemingway
+Fitzgerald Reads Shakespeare
+William Faulkner
+Flannery O'Connor
+Tolkien - The Hobbit
+Allen Ginsberg - Howl
+W.B Yeats
+Ezra Pound
+Dylan Thomas
+Anne Sexton
+John Cheever
+David Foster Wallace
+
+
+Great Recordings
+
+T.S. Eliot Reads Waste Land
+Sylvia Plath - Ariel
+Joyce Reads Ulysses
+Joyce - Finnegans Wake
+Patti Smith Reads Virginia Woolf
+Albert Einstein
+Charles Bukowski
+Bill Murray
+Hemingway
+Fitzgerald Reads Shakespeare
+William Faulkner
+Flannery O'Connor
+Tolkien - The Hobbit
+Allen Ginsberg - Howl
+W.B Yeats
+Ezra Pound
+Dylan Thomas
+Anne Sexton
+John Cheever
+David Foster Wallace
+
+
+Book Lists By
+
+Neil deGrasse Tyson
+Ernest Hemingway
+F. Scott Fitzgerald
+Allen Ginsberg
+Patti Smith
+Brian Eno
+Henry Miller
+Christopher Hitchens
+Joseph Brodsky
+W.H. Auden
+Donald Barthelme
+Carl Sagan
+David Bowie
+Samuel Beckett
+Art Garfunkel
+Marilyn Monroe
+Jorge Luis Borges
+Picks by Female Creatives
+
+
+
+Book Lists By
+
+Neil deGrasse Tyson
+Ernest Hemingway
+F. Scott Fitzgerald
+Allen Ginsberg
+Patti Smith
+Brian Eno
+Henry Miller
+Christopher Hitchens
+Joseph Brodsky
+W.H. Auden
+Donald Barthelme
+Carl Sagan
+David Bowie
+Samuel Beckett
+Art Garfunkel
+Marilyn Monroe
+Jorge Luis Borges
+Picks by Female Creatives
+
+
+Syllabi
+
+WH Auden
+David Foster Wallace
+Donald Barthelme
+Allen Ginsberg
+Zadie Smith & Gary Shteyngart
+Spike Lee
+Lynda Barry
+Junot Diaz
+
+
+Syllabi
+
+WH Auden
+David Foster Wallace
+Donald Barthelme
+Allen Ginsberg
+Zadie Smith & Gary Shteyngart
+Spike Lee
+Lynda Barry
+Junot Diaz
+
+
+Favorite Movies
+
+Kubrick
+Kurosawa's 100
+Tarantino
+Scorsese
+Tarkovsky
+David Lynch
+Werner Herzog
+Woody Allen
+Wes Anderson
+Luis Buñuel
+Roger Ebert
+Susan Sontag
+Scorsese Foreign Films
+Philosophy Films
+
+
+Favorite Movies
+
+Kubrick
+Kurosawa's 100
+Tarantino
+Scorsese
+Tarkovsky
+David Lynch
+Werner Herzog
+Woody Allen
+Wes Anderson
+Luis Buñuel
+Roger Ebert
+Susan Sontag
+Scorsese Foreign Films
+Philosophy Films
+
+ 
+
+
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+
+©2006-2019 Open Culture, LLC. All rights reserved.
+
+
+Home
+About Us 
+Advertise with Us 
+Copyright Policy  
+Privacy Policy  
+Terms of Use
+Bio
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Audio Books
+
+Online Courses
+
+MOOCs
+
+Movies
+
+Languages
+
+Textbooks
+
+
+eBooks
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Close
+
+
+Do you want more open culture?
+
+if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you already like us on Facebook?
+Do not ask me again for Facebook
+
+
+
+Continue to the article »
+
+
+Close
+
+
+Do you want more open culture?
+
+if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+Do you want more open culture?
+
+if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+
+
+
+
+Do you want more open culture?
+
+if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+
+
+Do you want more open culture?
+if you like our Facebook fanpage, you'll receive more articles like the one you just read!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you already like us on Facebook?
+Do not ask me again for Facebook
+Do you already like us on Facebook?
+
+Continue to the article »

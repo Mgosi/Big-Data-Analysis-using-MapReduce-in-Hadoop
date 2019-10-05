@@ -1,0 +1,2103 @@
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+Back issuesavailable here©2019 Bookseller Media Ltd rights reserved.At the Heart of Publishing since 1858
+
+Sign In
+
+
+
+
+E-mail *
+ 
+
+
+Password *
+ 
+
+
+
+
+Sign In
+
+
+Forgotten Password?
+Create Account
+
+
+
+
+
+
+Sign In
+
+
+
+
+E-mail *
+ 
+
+
+Password *
+ 
+
+
+
+
+Sign In
+
+
+Forgotten Password?
+Create Account
+
+
+
+
+
+
+
+
+E-mail *
+ 
+
+
+Password *
+ 
+
+
+
+
+Sign In
+
+
+Forgotten Password?
+Create Account
+
+
+
+
+
+
+E-mail *
+ 
+
+
+Password *
+ 
+
+
+
+
+Sign In
+
+
+Forgotten Password?
+Create Account
+
+
+
+E-mail *
+ 
+ 
+
+Password *
+ 
+ 
+
+Sign In
+
+
+Search form
+
+ 
+
+SEARCH
+
+
+
+
+
+Register
+Subscribe
+Sign In
+
+
+About
+
+
+
+
+
+
+
+Search form
+
+ 
+
+SEARCH
+
+
+
+
+Search form
+
+ 
+
+SEARCH
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+ 
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+ 
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+ 
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+ 
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+ 
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+ 
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604931,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard');
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+ 
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-masthead'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5613884,
+        min: 993,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-masthead');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsBooksChartsBlogsInsightChildren'sFutureBookEventsCareersJobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HomeNewsBooksChartsBlogsInsightChildren'sFutureBookEventsCareersJobs
+
+
+
+
+
+
+
+
+
+HomeNewsBooksChartsBlogsInsightChildren'sFutureBookEventsCareersJobs
+
+HomeNewsBooksChartsBlogsInsightChildren'sFutureBookEventsCareersJobs
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+ 
+ 
+Page not found
+
+
+
+    The requested page could not be found.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+ 
+
+
+
+Jobs in Books
+
+
+
+
+
+
+	  //placement specifc configuration with option to call a placement via the alias
+	  ADTECH.config.placements['adtech-tb-hp-job-of-the-week'] = {
+	    responsive: {
+	      useresponsive: true,
+	      bounds: [{
+	        id: 5605084,
+	        min: 0,
+	        max: 400
+	      }, {
+	        id: 5605081,
+	        min: 401,
+	        max: 899
+	      }, {
+	        id: 5605074,
+	        min: 900,
+	        max: 9999
+	      }]
+	    },
+	    params: {
+	      target: '_blank'
+	    }
+	  };
+
+	  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+	  ADTECH.enqueueAd('adtech-tb-hp-job-of-the-week');
+	
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+ 
+
+
+
+Latest News Stories
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+ 
+ 
+
+
+
+
+The Official UK CHART
+
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+
+More Charts 
+ 
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+ 
+
+
+
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+ 
+ 
+Page not found
+
+
+
+    The requested page could not be found.  
+
+
+
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+ 
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+ 
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-leaderboard-m'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604934,
+        min: 0,
+        max: 738
+      }, {
+        id: 5604938,
+        min: 739,
+        max: 992
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-leaderboard-m');
+
+
+
+
+
+
+    The requested page could not be found.  
+
+
+
+    The requested page could not be found.  
+
+    The requested page could not be found.  
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+ 
+
+
+
+Jobs in Books
+
+
+
+
+
+
+	  //placement specifc configuration with option to call a placement via the alias
+	  ADTECH.config.placements['adtech-tb-hp-job-of-the-week'] = {
+	    responsive: {
+	      useresponsive: true,
+	      bounds: [{
+	        id: 5605084,
+	        min: 0,
+	        max: 400
+	      }, {
+	        id: 5605081,
+	        min: 401,
+	        max: 899
+	      }, {
+	        id: 5605074,
+	        min: 900,
+	        max: 9999
+	      }]
+	    },
+	    params: {
+	      target: '_blank'
+	    }
+	  };
+
+	  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+	  ADTECH.enqueueAd('adtech-tb-hp-job-of-the-week');
+	
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+ 
+
+
+
+Latest News Stories
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+ 
+ 
+
+
+
+
+The Official UK CHART
+
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+
+More Charts 
+ 
+
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+ 
+
+
+
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+ 
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-alpha'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604940,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604939,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604936,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-alpha');
+
+
+
+
+
+
+Jobs in Books
+
+
+
+
+
+
+	  //placement specifc configuration with option to call a placement via the alias
+	  ADTECH.config.placements['adtech-tb-hp-job-of-the-week'] = {
+	    responsive: {
+	      useresponsive: true,
+	      bounds: [{
+	        id: 5605084,
+	        min: 0,
+	        max: 400
+	      }, {
+	        id: 5605081,
+	        min: 401,
+	        max: 899
+	      }, {
+	        id: 5605074,
+	        min: 900,
+	        max: 9999
+	      }]
+	    },
+	    params: {
+	      target: '_blank'
+	    }
+	  };
+
+	  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+	  ADTECH.enqueueAd('adtech-tb-hp-job-of-the-week');
+	
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+ 
+
+
+Jobs in Books
+
+
+
+
+
+
+	  //placement specifc configuration with option to call a placement via the alias
+	  ADTECH.config.placements['adtech-tb-hp-job-of-the-week'] = {
+	    responsive: {
+	      useresponsive: true,
+	      bounds: [{
+	        id: 5605084,
+	        min: 0,
+	        max: 400
+	      }, {
+	        id: 5605081,
+	        min: 401,
+	        max: 899
+	      }, {
+	        id: 5605074,
+	        min: 900,
+	        max: 9999
+	      }]
+	    },
+	    params: {
+	      target: '_blank'
+	    }
+	  };
+
+	  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+	  ADTECH.enqueueAd('adtech-tb-hp-job-of-the-week');
+	
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+ 
+Jobs in Books
+
+
+
+
+
+
+	  //placement specifc configuration with option to call a placement via the alias
+	  ADTECH.config.placements['adtech-tb-hp-job-of-the-week'] = {
+	    responsive: {
+	      useresponsive: true,
+	      bounds: [{
+	        id: 5605084,
+	        min: 0,
+	        max: 400
+	      }, {
+	        id: 5605081,
+	        min: 401,
+	        max: 899
+	      }, {
+	        id: 5605074,
+	        min: 900,
+	        max: 9999
+	      }]
+	    },
+	    params: {
+	      target: '_blank'
+	    }
+	  };
+
+	  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+	  ADTECH.enqueueAd('adtech-tb-hp-job-of-the-week');
+	
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+
+
+
+
+ 
+Area Sales Manager - London 
+
+Marketing Designer 
+
+Publicity Coordinator 
+ 
+More Jobs 
+
+More Jobs 
+
+
+Latest News Stories
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+ 
+ 
+
+
+Latest News Stories
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+ 
+ 
+Latest News Stories
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+ 
+
+
+
+ Simon & Schuster prepares Mueller Report e-book release and 'hefty print run' 
+
+ PRH US launches Reader Loyalty Programme 
+
+ HarperCollins reveals new true crime podcast  
+
+ Cassell bags book from England bowling hero Jimmy Anderson 
+
+ Johnson and McIntyre shortlisted for Little Rebels Award 
+
+ Hunchback of Notre-Dame sees Amazon France sales spike 
+  Simon & Schuster prepares Mueller Report e-book release and 'hefty print run'  PRH US launches Reader Loyalty Programme  HarperCollins reveals new true crime podcast   Cassell bags book from England bowling hero Jimmy Anderson  Johnson and McIntyre shortlisted for Little Rebels Award  Hunchback of Notre-Dame sees Amazon France sales spike 
+
+
+
+The Official UK CHART
+
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+
+More Charts 
+ 
+
+
+
+The Official UK CHART
+
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+
+More Charts 
+ 
+
+The Official UK CHART
+
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+
+More Charts 
+
+ 
+1.
+
+Hinch Yourself Happy
+by Mrs Hinch
+
+
+2.
+
+Pinch of Nom
+by Kay Featherstone & Kate Allinson
+
+
+3.
+
+Past Tense
+by Lee Child
+
+
+4.
+
+Diary of an Awesome Friendly Kid
+by Jeff Kinney
+
+
+5.
+
+Nine Perfect Strangers
+by Liane Moriarty
+
+
+6.
+
+Fing
+by David Walliams; Tony Ross
+
+
+7.
+
+Transcription
+by Kate Atkinson
+
+
+8.
+
+Ambush
+by James Patterson & James O Born
+
+
+9.
+
+The Moon Sister
+by Lucinda Riley
+
+
+10.
+
+The Tattooist of Auschwitz
+by Heather Morris
+
+ 
+More Charts 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+ 
+
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+ 
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+
+
+
+
+
+
+  //placement specifc configuration with option to call a placement via the alias
+  ADTECH.config.placements['adtech-tb-sp-mpu-beta'] = {
+    responsive: {
+      useresponsive: true,
+      bounds: [{
+        id: 5604941,
+        min: 0,
+        max: 400
+      }, {
+        id: 5604935,
+        min: 401,
+        max: 899
+      }, {
+        id: 5604937,
+        min: 900,
+        max: 9999
+      }]
+    },
+    params: {
+      target: '_blank'
+    }
+  };
+
+  //for asynchronous loading use ADTECH.enqueAd() at any point in the document
+  ADTECH.enqueueAd('adtech-tb-sp-mpu-beta');
+
+
+
+
+
+
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+ 
+
+
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+ 
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+ 
+
+
+
+Latest issueview online orsubscribe now
+Issue No 5838
+	Friday, April 19 2019  
+  Back issuesavailable here
+
+
+
+Site MapAdvertiseJobsContactAbout UsEditorial FeaturesPrivacy PolicyUpgrade Subscription 
+©2019 Bookseller Media Ltd rights reserved.
+
+
+
+At the Heart of Publishing since 1858
+
+
+
+Site MapAdvertiseJobsContactAbout UsEditorial FeaturesPrivacy PolicyUpgrade Subscription 
+©2019 Bookseller Media Ltd rights reserved.
+
+Site MapAdvertiseJobsContactAbout UsEditorial FeaturesPrivacy PolicyUpgrade Subscription 
+
+At the Heart of Publishing since 1858
+
+
+
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0029/7466.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+ 
+
+
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0029/7466.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+ 

@@ -1,0 +1,2031 @@
+AdvertisementBy JULIE BOSMANSEPT. 3, 2008
+Hundreds of small, independent publishers will have easier access to digital book technology under a new service offered by Perseus Books Group, the result of agreements between it and more than a half-dozen technology companies, Perseus is expected to announce on Thursday.The new service, called Constellation, will allow independent publishers to make use of electronic readers, digital book search, print-on-demand and other digital formats at rates negotiated by Perseus on their behalf. Unlike large publishers, small ones typically lack the resources to use digital technology and as a result often bypass it altogether.David Steinberger, the president and chief executive of Perseus, said that by using Constellation independent publishers could make their books quickly available in several digital formats, allowing them to compete on the same technological level and with the same speed and flexibility as larger companies. Many publishing analysts see digital technology as one of the few major growth areas in the book industry.Amazon and Barnesandnoble.com have features that allow consumers to read or search inside a book, and such tools are known to improve sales; digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand.Advertisement“There’s been an increasing sense of urgency about this,” Mr. Steinberger said. “We kept asking ourselves, ‘What does the independent publisher need to grow and succeed in the future?’ And this is what kept coming up.”AdvertisementPerseus Books Group, one of the largest independent publishers of general-interest books, includes the imprints Basic Books, Running Press and Vanguard Press. It also provides sales, marketing and distribution services to more than 300 independent publishers.Mr. Steinberger said he sees Constellation, which will go into effect on Thursday, as an expansion of Perseus’s book distribution services. “Distribution means getting our publishers’ books everywhere they need to go and everywhere they want to go,” he said. “Digital is an essential part to that. We’re just trying to streamline it.”Please verify you're not a robot by clicking the box.Invalid email address. Please re-enter.You must select a newsletter to subscribe to.View all New York Times newsletters.The companies involved in the deal include Google, for its Google Book Search feature; Amazon, for its Kindle electronic reader; Sony, for its Sony Reader; Barnes & Noble, for its “See Inside”  feature on its Web site; and Lightning Source, a print-on-demand company.Publishers who use the new service can provide a single digital book file to Constellation and specify how they would like it to be used. As a result consumers may see more obscure, esoteric books available in digital formats, Perseus said.Electronic books have been available since 1968, though they still make up only a small portion of the book business. Much of the growth, especially in the Amazon Kindle and the Sony Reader, has picked up in the last several years.While corporate publishers like Random House and Simon & Schuster have devoted significant time and resources to harnessing digital technology, most small publishers have, out of necessity, kept their focus on the traditional duties of acquiring, editing and publishing books. Larger publishers also typically have more leverage when negotiating contracts.Peter Osnos, the founder of PublicAffairs, a member of the Perseus Books Group, and the executive director of the Caravan Project, a nonprofit partnership that makes books available in different formats, said Constellation is applying the same model as Caravan.“The biggest problem in the book world is availability — measuring how many books you think you need,” Mr. Osnos said. “What you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them. That’s why all of this matters.”A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+We’re interested in your feedback on this page. Tell us what you think.Go to Home Page »
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20190328-170200/images/foundation/logos/', 'books', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');
+
+
+Books|Small Book Publishers Offered New Technology
+
+
+
+
+
+
+
+
+Search
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+(function () {
+    var ribbon;
+    if (window.magnum.getFlags().indexOf('adAggro') !== -1 &&
+        (window.NYTD.Abra('www-story-pro-agro') !== 'control' &&
+        window.NYTD.Abra('www-story-pro-agro') !== null &&
+        window.NYTD.Abra('www-story-pro-agro') !== 'null' &&
+        window.NYTD.Abra('www-story-pro-agro') !== '')) {
+        ribbon = document.querySelector('#ribbon');
+        if (ribbon && ribbon.parentNode) {
+            ribbon.parentNode.removeChild(ribbon);
+        }
+    }
+})();
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Supported by
+
+
+
+Books
+
+Small Book Publishers Offered New Technology
+
+By JULIE BOSMANSEPT. 3, 2008
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+        if (
+            window.magnum
+            && window.magnum.getFlags().indexOf('headlineBalancer') > 0
+            && window.magnum.headlineBalancer
+            && window.magnum.headlineBalancer.initialize
+            && window.magnum.headlineBalancer.shouldRun()
+        ) {
+            window.magnum.headlineBalancer.initialize();
+        }
+    
+
+
+Hundreds of small, independent publishers will have easier access to digital book technology under a new service offered by Perseus Books Group, the result of agreements between it and more than a half-dozen technology companies, Perseus is expected to announce on Thursday.The new service, called Constellation, will allow independent publishers to make use of electronic readers, digital book search, print-on-demand and other digital formats at rates negotiated by Perseus on their behalf. Unlike large publishers, small ones typically lack the resources to use digital technology and as a result often bypass it altogether.David Steinberger, the president and chief executive of Perseus, said that by using Constellation independent publishers could make their books quickly available in several digital formats, allowing them to compete on the same technological level and with the same speed and flexibility as larger companies. Many publishing analysts see digital technology as one of the few major growth areas in the book industry.Amazon and Barnesandnoble.com have features that allow consumers to read or search inside a book, and such tools are known to improve sales; digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand.
+
+Advertisement
+
+Continue reading the main story
+
+“There’s been an increasing sense of urgency about this,” Mr. Steinberger said. “We kept asking ourselves, ‘What does the independent publisher need to grow and succeed in the future?’ And this is what kept coming up.” Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Perseus Books Group, one of the largest independent publishers of general-interest books, includes the imprints Basic Books, Running Press and Vanguard Press. It also provides sales, marketing and distribution services to more than 300 independent publishers.Mr. Steinberger said he sees Constellation, which will go into effect on Thursday, as an expansion of Perseus’s book distribution services. “Distribution means getting our publishers’ books everywhere they need to go and everywhere they want to go,” he said. “Digital is an essential part to that. We’re just trying to streamline it.”
+Newsletter Sign Up
+Continue reading the main story
+[{"headline":"Book Review","summary":"Be the first to see reviews, news and features in The New York Times Book Review.","product-code":"BK","product-title":"Book Review","sample-url":"http:\/\/www.nytimes.com\/pages\/books\/booksupdate\/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"},{"headline":"Watching","summary":"Get recommendations on the best TV shows and films to stream and watch, delivered to your inbox.","product-code":"WG","product-title":"Watching","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/watching?pgtype=subscriptionspage&version=new&contentId=WG&eventName=sample&module=newsletter-sign-up"},{"headline":"Travel Dispatch","summary":"Every Saturday, get travel tips, destination coverage, photos from all over the world and more.","product-code":"TL","product-title":"Travel Dispatch","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/travel-dispatch?pgtype=subscriptionspage&version=lifestyle&contentId=TL&eventName=sample&module=newsletter-sign-up"}]
+  
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+
+See Sample
+Manage Email Preferences
+Not you?
+Privacy Policy
+Opt out or contact us anytime
+Opt out or contact us anytime
+
+
+
+        var signupBtn = document.getElementById('submit-button');
+        function focusSignupBtn() {
+            signupBtn.setAttribute('aria-hidden','false');
+            setTimeout(function () {
+                signupBtn.focus();
+            }, 2000);
+        }
+    
+
+
+The companies involved in the deal include Google, for its Google Book Search feature; Amazon, for its Kindle electronic reader; Sony, for its Sony Reader; Barnes & Noble, for its “See Inside”  feature on its Web site; and Lightning Source, a print-on-demand company.Publishers who use the new service can provide a single digital book file to Constellation and specify how they would like it to be used. As a result consumers may see more obscure, esoteric books available in digital formats, Perseus said.Electronic books have been available since 1968, though they still make up only a small portion of the book business. Much of the growth, especially in the Amazon Kindle and the Sony Reader, has picked up in the last several years.While corporate publishers like Random House and Simon & Schuster have devoted significant time and resources to harnessing digital technology, most small publishers have, out of necessity, kept their focus on the traditional duties of acquiring, editing and publishing books. Larger publishers also typically have more leverage when negotiating contracts.Peter Osnos, the founder of PublicAffairs, a member of the Perseus Books Group, and the executive director of the Caravan Project, a nonprofit partnership that makes books available in different formats, said Constellation is applying the same model as Caravan.“The biggest problem in the book world is availability — measuring how many books you think you need,” Mr. Osnos said. “What you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them. That’s why all of this matters.”
+
+A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+  
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20190328-170200/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Op-Ed Contributors
+
+
+Letters
+
+
+Sunday Review
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Reader Center
+
+
+Classifieds
+
+
+Tools & Services
+
+
+N.Y.C. Events Guide
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+NYTCo
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Gift Subscriptions
+
+
+Group Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2019 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20190328-170200/images/foundation/logos/', 'books', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');
+
+
+Books|Small Book Publishers Offered New Technology
+
+
+
+
+
+
+
+
+Search
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+The New York Times
+
+
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20190328-170200/images/foundation/logos/', 'books', 'masthead-theme-standard', 'standard', 'branding-heading-link', 'article');
+
+Books|Small Book Publishers Offered New Technology
+
+
+
+
+
+
+
+Search
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+Close search
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+Search NYTimes.com
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+Loading...
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Supported by
+
+
+
+Books
+
+Small Book Publishers Offered New Technology
+
+By JULIE BOSMANSEPT. 3, 2008
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+        if (
+            window.magnum
+            && window.magnum.getFlags().indexOf('headlineBalancer') > 0
+            && window.magnum.headlineBalancer
+            && window.magnum.headlineBalancer.initialize
+            && window.magnum.headlineBalancer.shouldRun()
+        ) {
+            window.magnum.headlineBalancer.initialize();
+        }
+    
+
+
+Hundreds of small, independent publishers will have easier access to digital book technology under a new service offered by Perseus Books Group, the result of agreements between it and more than a half-dozen technology companies, Perseus is expected to announce on Thursday.The new service, called Constellation, will allow independent publishers to make use of electronic readers, digital book search, print-on-demand and other digital formats at rates negotiated by Perseus on their behalf. Unlike large publishers, small ones typically lack the resources to use digital technology and as a result often bypass it altogether.David Steinberger, the president and chief executive of Perseus, said that by using Constellation independent publishers could make their books quickly available in several digital formats, allowing them to compete on the same technological level and with the same speed and flexibility as larger companies. Many publishing analysts see digital technology as one of the few major growth areas in the book industry.Amazon and Barnesandnoble.com have features that allow consumers to read or search inside a book, and such tools are known to improve sales; digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand.
+
+Advertisement
+
+Continue reading the main story
+
+“There’s been an increasing sense of urgency about this,” Mr. Steinberger said. “We kept asking ourselves, ‘What does the independent publisher need to grow and succeed in the future?’ And this is what kept coming up.” Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Perseus Books Group, one of the largest independent publishers of general-interest books, includes the imprints Basic Books, Running Press and Vanguard Press. It also provides sales, marketing and distribution services to more than 300 independent publishers.Mr. Steinberger said he sees Constellation, which will go into effect on Thursday, as an expansion of Perseus’s book distribution services. “Distribution means getting our publishers’ books everywhere they need to go and everywhere they want to go,” he said. “Digital is an essential part to that. We’re just trying to streamline it.”
+Newsletter Sign Up
+Continue reading the main story
+[{"headline":"Book Review","summary":"Be the first to see reviews, news and features in The New York Times Book Review.","product-code":"BK","product-title":"Book Review","sample-url":"http:\/\/www.nytimes.com\/pages\/books\/booksupdate\/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"},{"headline":"Watching","summary":"Get recommendations on the best TV shows and films to stream and watch, delivered to your inbox.","product-code":"WG","product-title":"Watching","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/watching?pgtype=subscriptionspage&version=new&contentId=WG&eventName=sample&module=newsletter-sign-up"},{"headline":"Travel Dispatch","summary":"Every Saturday, get travel tips, destination coverage, photos from all over the world and more.","product-code":"TL","product-title":"Travel Dispatch","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/travel-dispatch?pgtype=subscriptionspage&version=lifestyle&contentId=TL&eventName=sample&module=newsletter-sign-up"}]
+  
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+
+See Sample
+Manage Email Preferences
+Not you?
+Privacy Policy
+Opt out or contact us anytime
+Opt out or contact us anytime
+
+
+
+        var signupBtn = document.getElementById('submit-button');
+        function focusSignupBtn() {
+            signupBtn.setAttribute('aria-hidden','false');
+            setTimeout(function () {
+                signupBtn.focus();
+            }, 2000);
+        }
+    
+
+
+The companies involved in the deal include Google, for its Google Book Search feature; Amazon, for its Kindle electronic reader; Sony, for its Sony Reader; Barnes & Noble, for its “See Inside”  feature on its Web site; and Lightning Source, a print-on-demand company.Publishers who use the new service can provide a single digital book file to Constellation and specify how they would like it to be used. As a result consumers may see more obscure, esoteric books available in digital formats, Perseus said.Electronic books have been available since 1968, though they still make up only a small portion of the book business. Much of the growth, especially in the Amazon Kindle and the Sony Reader, has picked up in the last several years.While corporate publishers like Random House and Simon & Schuster have devoted significant time and resources to harnessing digital technology, most small publishers have, out of necessity, kept their focus on the traditional duties of acquiring, editing and publishing books. Larger publishers also typically have more leverage when negotiating contracts.Peter Osnos, the founder of PublicAffairs, a member of the Perseus Books Group, and the executive director of the Caravan Project, a nonprofit partnership that makes books available in different formats, said Constellation is applying the same model as Caravan.“The biggest problem in the book world is availability — measuring how many books you think you need,” Mr. Osnos said. “What you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them. That’s why all of this matters.”
+
+A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+  
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+window.magnum.writeLogo('small', 'https://g1.nyt.com/assets/article/20190328-170200/images/foundation/logos/', '', '', 'standard', 'site-index-branding-link', '');
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Op-Ed Contributors
+
+
+Letters
+
+
+Sunday Review
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Reader Center
+
+
+Classifieds
+
+
+Tools & Services
+
+
+N.Y.C. Events Guide
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+NYTCo
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Gift Subscriptions
+
+
+Group Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2019 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+Advertisement
+
+
+Advertisement
+
+
+Supported by
+
+
+
+Books
+
+Small Book Publishers Offered New Technology
+
+By JULIE BOSMANSEPT. 3, 2008
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+Supported by
+
+
+By JULIE BOSMANSEPT. 3, 2008
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+
+Hundreds of small, independent publishers will have easier access to digital book technology under a new service offered by Perseus Books Group, the result of agreements between it and more than a half-dozen technology companies, Perseus is expected to announce on Thursday.The new service, called Constellation, will allow independent publishers to make use of electronic readers, digital book search, print-on-demand and other digital formats at rates negotiated by Perseus on their behalf. Unlike large publishers, small ones typically lack the resources to use digital technology and as a result often bypass it altogether.David Steinberger, the president and chief executive of Perseus, said that by using Constellation independent publishers could make their books quickly available in several digital formats, allowing them to compete on the same technological level and with the same speed and flexibility as larger companies. Many publishing analysts see digital technology as one of the few major growth areas in the book industry.Amazon and Barnesandnoble.com have features that allow consumers to read or search inside a book, and such tools are known to improve sales; digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand.
+
+Advertisement
+
+Continue reading the main story
+
+“There’s been an increasing sense of urgency about this,” Mr. Steinberger said. “We kept asking ourselves, ‘What does the independent publisher need to grow and succeed in the future?’ And this is what kept coming up.” Continue reading the main story
+
+
+
+
+Hundreds of small, independent publishers will have easier access to digital book technology under a new service offered by Perseus Books Group, the result of agreements between it and more than a half-dozen technology companies, Perseus is expected to announce on Thursday.The new service, called Constellation, will allow independent publishers to make use of electronic readers, digital book search, print-on-demand and other digital formats at rates negotiated by Perseus on their behalf. Unlike large publishers, small ones typically lack the resources to use digital technology and as a result often bypass it altogether.David Steinberger, the president and chief executive of Perseus, said that by using Constellation independent publishers could make their books quickly available in several digital formats, allowing them to compete on the same technological level and with the same speed and flexibility as larger companies. Many publishing analysts see digital technology as one of the few major growth areas in the book industry.Amazon and Barnesandnoble.com have features that allow consumers to read or search inside a book, and such tools are known to improve sales; digital printing technology allows publishers to produce books when they become suddenly and unexpectedly in demand.
+
+Advertisement
+
+Continue reading the main story
+
+“There’s been an increasing sense of urgency about this,” Mr. Steinberger said. “We kept asking ourselves, ‘What does the independent publisher need to grow and succeed in the future?’ And this is what kept coming up.” Continue reading the main story
+
+
+Advertisement
+
+Continue reading the main story
+
+Advertisement
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+Advertisement
+
+
+Perseus Books Group, one of the largest independent publishers of general-interest books, includes the imprints Basic Books, Running Press and Vanguard Press. It also provides sales, marketing and distribution services to more than 300 independent publishers.Mr. Steinberger said he sees Constellation, which will go into effect on Thursday, as an expansion of Perseus’s book distribution services. “Distribution means getting our publishers’ books everywhere they need to go and everywhere they want to go,” he said. “Digital is an essential part to that. We’re just trying to streamline it.”
+Newsletter Sign Up
+Continue reading the main story
+[{"headline":"Book Review","summary":"Be the first to see reviews, news and features in The New York Times Book Review.","product-code":"BK","product-title":"Book Review","sample-url":"http:\/\/www.nytimes.com\/pages\/books\/booksupdate\/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"},{"headline":"Watching","summary":"Get recommendations on the best TV shows and films to stream and watch, delivered to your inbox.","product-code":"WG","product-title":"Watching","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/watching?pgtype=subscriptionspage&version=new&contentId=WG&eventName=sample&module=newsletter-sign-up"},{"headline":"Travel Dispatch","summary":"Every Saturday, get travel tips, destination coverage, photos from all over the world and more.","product-code":"TL","product-title":"Travel Dispatch","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/travel-dispatch?pgtype=subscriptionspage&version=lifestyle&contentId=TL&eventName=sample&module=newsletter-sign-up"}]
+  
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+
+See Sample
+Manage Email Preferences
+Not you?
+Privacy Policy
+Opt out or contact us anytime
+Opt out or contact us anytime
+
+
+
+        var signupBtn = document.getElementById('submit-button');
+        function focusSignupBtn() {
+            signupBtn.setAttribute('aria-hidden','false');
+            setTimeout(function () {
+                signupBtn.focus();
+            }, 2000);
+        }
+    
+
+
+The companies involved in the deal include Google, for its Google Book Search feature; Amazon, for its Kindle electronic reader; Sony, for its Sony Reader; Barnes & Noble, for its “See Inside”  feature on its Web site; and Lightning Source, a print-on-demand company.Publishers who use the new service can provide a single digital book file to Constellation and specify how they would like it to be used. As a result consumers may see more obscure, esoteric books available in digital formats, Perseus said.Electronic books have been available since 1968, though they still make up only a small portion of the book business. Much of the growth, especially in the Amazon Kindle and the Sony Reader, has picked up in the last several years.While corporate publishers like Random House and Simon & Schuster have devoted significant time and resources to harnessing digital technology, most small publishers have, out of necessity, kept their focus on the traditional duties of acquiring, editing and publishing books. Larger publishers also typically have more leverage when negotiating contracts.Peter Osnos, the founder of PublicAffairs, a member of the Perseus Books Group, and the executive director of the Caravan Project, a nonprofit partnership that makes books available in different formats, said Constellation is applying the same model as Caravan.“The biggest problem in the book world is availability — measuring how many books you think you need,” Mr. Osnos said. “What you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them. That’s why all of this matters.”
+
+A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+Perseus Books Group, one of the largest independent publishers of general-interest books, includes the imprints Basic Books, Running Press and Vanguard Press. It also provides sales, marketing and distribution services to more than 300 independent publishers.Mr. Steinberger said he sees Constellation, which will go into effect on Thursday, as an expansion of Perseus’s book distribution services. “Distribution means getting our publishers’ books everywhere they need to go and everywhere they want to go,” he said. “Digital is an essential part to that. We’re just trying to streamline it.”
+Newsletter Sign Up
+Continue reading the main story
+[{"headline":"Book Review","summary":"Be the first to see reviews, news and features in The New York Times Book Review.","product-code":"BK","product-title":"Book Review","sample-url":"http:\/\/www.nytimes.com\/pages\/books\/booksupdate\/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"},{"headline":"Watching","summary":"Get recommendations on the best TV shows and films to stream and watch, delivered to your inbox.","product-code":"WG","product-title":"Watching","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/watching?pgtype=subscriptionspage&version=new&contentId=WG&eventName=sample&module=newsletter-sign-up"},{"headline":"Travel Dispatch","summary":"Every Saturday, get travel tips, destination coverage, photos from all over the world and more.","product-code":"TL","product-title":"Travel Dispatch","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/travel-dispatch?pgtype=subscriptionspage&version=lifestyle&contentId=TL&eventName=sample&module=newsletter-sign-up"}]
+  
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+
+See Sample
+Manage Email Preferences
+Not you?
+Privacy Policy
+Opt out or contact us anytime
+Opt out or contact us anytime
+
+
+
+        var signupBtn = document.getElementById('submit-button');
+        function focusSignupBtn() {
+            signupBtn.setAttribute('aria-hidden','false');
+            setTimeout(function () {
+                signupBtn.focus();
+            }, 2000);
+        }
+    
+
+
+The companies involved in the deal include Google, for its Google Book Search feature; Amazon, for its Kindle electronic reader; Sony, for its Sony Reader; Barnes & Noble, for its “See Inside”  feature on its Web site; and Lightning Source, a print-on-demand company.Publishers who use the new service can provide a single digital book file to Constellation and specify how they would like it to be used. As a result consumers may see more obscure, esoteric books available in digital formats, Perseus said.Electronic books have been available since 1968, though they still make up only a small portion of the book business. Much of the growth, especially in the Amazon Kindle and the Sony Reader, has picked up in the last several years.While corporate publishers like Random House and Simon & Schuster have devoted significant time and resources to harnessing digital technology, most small publishers have, out of necessity, kept their focus on the traditional duties of acquiring, editing and publishing books. Larger publishers also typically have more leverage when negotiating contracts.Peter Osnos, the founder of PublicAffairs, a member of the Perseus Books Group, and the executive director of the Caravan Project, a nonprofit partnership that makes books available in different formats, said Constellation is applying the same model as Caravan.“The biggest problem in the book world is availability — measuring how many books you think you need,” Mr. Osnos said. “What you will have now is the development of this ability on behalf of publishers to produce their books any way the consumer wants them. That’s why all of this matters.”
+
+A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+Newsletter Sign Up
+Continue reading the main story
+[{"headline":"Book Review","summary":"Be the first to see reviews, news and features in The New York Times Book Review.","product-code":"BK","product-title":"Book Review","sample-url":"http:\/\/www.nytimes.com\/pages\/books\/booksupdate\/index.html?pgtype=subscriptionspage&version=lifestyle&contentId=BK&eventName=sample&module=newsletter-sign-up"},{"headline":"Watching","summary":"Get recommendations on the best TV shows and films to stream and watch, delivered to your inbox.","product-code":"WG","product-title":"Watching","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/watching?pgtype=subscriptionspage&version=new&contentId=WG&eventName=sample&module=newsletter-sign-up"},{"headline":"Travel Dispatch","summary":"Every Saturday, get travel tips, destination coverage, photos from all over the world and more.","product-code":"TL","product-title":"Travel Dispatch","sample-url":"http:\/\/www.nytimes.com\/newsletters\/sample\/travel-dispatch?pgtype=subscriptionspage&version=lifestyle&contentId=TL&eventName=sample&module=newsletter-sign-up"}]
+  
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+
+See Sample
+Manage Email Preferences
+Not you?
+Privacy Policy
+Opt out or contact us anytime
+Opt out or contact us anytime
+
+
+
+        var signupBtn = document.getElementById('submit-button');
+        function focusSignupBtn() {
+            signupBtn.setAttribute('aria-hidden','false');
+            setTimeout(function () {
+                signupBtn.focus();
+            }, 2000);
+        }
+    
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+
+Sign Up
+
+
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+
+
+Sign Up
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+
+
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+
+
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+View all New York Times newsletters.
+
+A version of this article appears in print on , on Page E2 of the New York edition with the headline: Small Book Publishers Offered New Technology.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+
+We’re interested in your feedback on this page. Tell us what you think.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+Loading...
+Loading...
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Op-Ed Contributors
+
+
+Letters
+
+
+Sunday Review
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Reader Center
+
+
+Classifieds
+
+
+Tools & Services
+
+
+N.Y.C. Events Guide
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+NYTCo
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Gift Subscriptions
+
+
+Group Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Op-Ed Contributors
+
+
+Letters
+
+
+Sunday Review
+
+
+Video: Opinion
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video: Arts
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+Listings & More
+
+
+Reader Center
+
+
+Classifieds
+
+
+Tools & Services
+
+
+N.Y.C. Events Guide
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+NYTCo
+
+
+
+Subscribe
+
+Subscribe
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Gift Subscriptions
+
+
+Group Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+

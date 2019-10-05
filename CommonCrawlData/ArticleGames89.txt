@@ -1,0 +1,9392 @@
+記事保存有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。＞ 新規会員登録＞ ログインEvernote保存ご利用には会員登録が必要です＞ 新規会員登録＞ ログイン
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！無料・有料プランを選択会員の方はこちらこの記事は会員限定です。春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！会員の方はこちらこの記事は会員限定です。春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！会員の方はこちら
+電子版トップキャリア採用、通年で募集新生活は電子版で！春割で5月末まで無料！
+
+天気
+プレスリリース検索
+アカウント一覧訂正・おわび
+
+
+
+
+
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1593, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2127_1593');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1593, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2127_1593');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2127_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+2019年4月21日（日）
+
+
+
+International
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+                    _nk.setInternationalMenu("#JSID_InternationalMenu");
+                
+
+
+
+
+
+
+                設定
+            
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+            _nk.setUserMenu("#JSID_UserMenu");
+        
+
+
+ログイン
+
+	_nk.putUrl("#JSID_LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+お申し込み
+
+
+
+
+
+
+
+
+
+
+
+
+            _nk.formhint("#JSID_baseCustomSearchStocksrbox",[{JSID_dataFormHint_area:'#SEARCH_QUERY',JSID_dataFormHint_msg:'',JSID_dataFormHint_class:'cmn-default'}]);
+            _nk.formevent("#JSID_baseCustomSearchStocksrbox",{JSID_targetFormSubmit:'#JSID_key_defaultsubmit'});
+            _nk.formcustomsearch("#JSID_baseCustomSearchStocksrbox",{JSID_targetCustomSearch_inputtext:'div.l-miH02_H02e_formInput/input.JSID_key_input',JSID_dataCustomSearch_name_default:'keyword',JSID_dataCustomSearch_name_num4:'scode',JSID_dataCustomSearch_name_sub01:'searchKeyword',JSID_targetCustomSearch_form:'#JSID_baseCustomSearchStocksrboxSubmit',JSID_urlCustomSearch_default:'https://r.nikkei.com/search',JSID_urlCustomSearch_num4:'/nkd/company/',JSID_urlCustomSearch_sub01:'/nkd/search/'});
+        
+
+
+
+
+
+
+
+
+2019年4月21日（日）
+
+
+
+International
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+                    _nk.setInternationalMenu("#JSID_InternationalMenu");
+                
+
+
+
+
+
+
+                設定
+            
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+            _nk.setUserMenu("#JSID_UserMenu");
+        
+
+
+ログイン
+
+	_nk.putUrl("#JSID_LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+お申し込み
+
+
+
+
+
+
+
+
+
+
+
+
+            _nk.formhint("#JSID_baseCustomSearchStocksrbox",[{JSID_dataFormHint_area:'#SEARCH_QUERY',JSID_dataFormHint_msg:'',JSID_dataFormHint_class:'cmn-default'}]);
+            _nk.formevent("#JSID_baseCustomSearchStocksrbox",{JSID_targetFormSubmit:'#JSID_key_defaultsubmit'});
+            _nk.formcustomsearch("#JSID_baseCustomSearchStocksrbox",{JSID_targetCustomSearch_inputtext:'div.l-miH02_H02e_formInput/input.JSID_key_input',JSID_dataCustomSearch_name_default:'keyword',JSID_dataCustomSearch_name_num4:'scode',JSID_dataCustomSearch_name_sub01:'searchKeyword',JSID_targetCustomSearch_form:'#JSID_baseCustomSearchStocksrboxSubmit',JSID_urlCustomSearch_default:'https://r.nikkei.com/search',JSID_urlCustomSearch_num4:'/nkd/company/',JSID_urlCustomSearch_sub01:'/nkd/search/'});
+        
+
+
+
+
+
+
+2019年4月21日（日）
+
+
+
+International
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+                    _nk.setInternationalMenu("#JSID_InternationalMenu");
+                
+
+
+
+
+
+
+                設定
+            
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+            _nk.setUserMenu("#JSID_UserMenu");
+        
+
+
+ログイン
+
+	_nk.putUrl("#JSID_LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+お申し込み
+
+
+
+
+
+
+
+
+
+
+
+
+            _nk.formhint("#JSID_baseCustomSearchStocksrbox",[{JSID_dataFormHint_area:'#SEARCH_QUERY',JSID_dataFormHint_msg:'',JSID_dataFormHint_class:'cmn-default'}]);
+            _nk.formevent("#JSID_baseCustomSearchStocksrbox",{JSID_targetFormSubmit:'#JSID_key_defaultsubmit'});
+            _nk.formcustomsearch("#JSID_baseCustomSearchStocksrbox",{JSID_targetCustomSearch_inputtext:'div.l-miH02_H02e_formInput/input.JSID_key_input',JSID_dataCustomSearch_name_default:'keyword',JSID_dataCustomSearch_name_num4:'scode',JSID_dataCustomSearch_name_sub01:'searchKeyword',JSID_targetCustomSearch_form:'#JSID_baseCustomSearchStocksrboxSubmit',JSID_urlCustomSearch_default:'https://r.nikkei.com/search',JSID_urlCustomSearch_num4:'/nkd/company/',JSID_urlCustomSearch_sub01:'/nkd/search/'});
+        
+
+
+
+2019年4月21日（日）
+
+
+International
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+                    _nk.setInternationalMenu("#JSID_InternationalMenu");
+                
+
+
+
+International
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+                    _nk.setInternationalMenu("#JSID_InternationalMenu");
+                
+
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+
+                                                Nikkei Asian Review (English)
+
+
+                                                Financial Times (English)
+                                            
+
+
+                                                日経中文網 (Chinese)
+
+
+
+
+
+                設定
+            
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+            _nk.setUserMenu("#JSID_UserMenu");
+        
+
+
+ログイン
+
+	_nk.putUrl("#JSID_LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+お申し込み
+
+
+                設定
+            
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+            _nk.setUserMenu("#JSID_UserMenu");
+        
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+
+
+ご購読サポート
+チャットサポート
+ヘルプセンター
+日経IDラウンジ
+ご購読の申し込み
+
+
+ログインお申し込み
+
+
+
+
+
+
+
+
+
+
+            _nk.formhint("#JSID_baseCustomSearchStocksrbox",[{JSID_dataFormHint_area:'#SEARCH_QUERY',JSID_dataFormHint_msg:'',JSID_dataFormHint_class:'cmn-default'}]);
+            _nk.formevent("#JSID_baseCustomSearchStocksrbox",{JSID_targetFormSubmit:'#JSID_key_defaultsubmit'});
+            _nk.formcustomsearch("#JSID_baseCustomSearchStocksrbox",{JSID_targetCustomSearch_inputtext:'div.l-miH02_H02e_formInput/input.JSID_key_input',JSID_dataCustomSearch_name_default:'keyword',JSID_dataCustomSearch_name_num4:'scode',JSID_dataCustomSearch_name_sub01:'searchKeyword',JSID_targetCustomSearch_form:'#JSID_baseCustomSearchStocksrboxSubmit',JSID_urlCustomSearch_default:'https://r.nikkei.com/search',JSID_urlCustomSearch_num4:'/nkd/company/',JSID_urlCustomSearch_sub01:'/nkd/search/'});
+        
+
+
+
+
+
+
+
+
+
+
+            _nk.formhint("#JSID_baseCustomSearchStocksrbox",[{JSID_dataFormHint_area:'#SEARCH_QUERY',JSID_dataFormHint_msg:'',JSID_dataFormHint_class:'cmn-default'}]);
+            _nk.formevent("#JSID_baseCustomSearchStocksrbox",{JSID_targetFormSubmit:'#JSID_key_defaultsubmit'});
+            _nk.formcustomsearch("#JSID_baseCustomSearchStocksrbox",{JSID_targetCustomSearch_inputtext:'div.l-miH02_H02e_formInput/input.JSID_key_input',JSID_dataCustomSearch_name_default:'keyword',JSID_dataCustomSearch_name_num4:'scode',JSID_dataCustomSearch_name_sub01:'searchKeyword',JSID_targetCustomSearch_form:'#JSID_baseCustomSearchStocksrboxSubmit',JSID_urlCustomSearch_default:'https://r.nikkei.com/search',JSID_urlCustomSearch_num4:'/nkd/company/',JSID_urlCustomSearch_sub01:'/nkd/search/'});
+        
+
+
+
+
+
+
+トップ
+
+
+
+速報
+
+アクセスランキング
+
+トピック一覧
+
+人事
+
+おくやみ
+
+プレスリリース
+
+ビジュアルデータ
+
+
+写真
+
+映像
+
+社説
+
+統計
+
+
+
+
+
+経済・政治
+
+
+
+経済
+
+政治
+
+金融機関
+
+コラム
+
+写真でみる永田町
+
+風見鶏
+
+政策研究
+
+霞が関エックス線
+
+平成Politics30
+
+読み解きポリティクス
+
+憲法のトリセツ
+
+政治アカデメイア
+
+経済教室
+
+金融最前線
+
+やさしい経済学
+
+ニュースこう読む
+
+
+
+
+
+
+ビジネス
+
+
+
+スタートアップ
+
+住建・不動産
+
+エレクトロニクス
+
+サービス・食品
+
+ネット・IT
+
+小売り・外食
+
+ヘルスケア
+
+金融機関
+
+自動車・機械
+
+法務・ガバナンス
+
+環境エネ・素材
+
+未来面
+
+コラム
+
+経営者ブログ
+
+コンフィデンシャル
+
+仕事人秘録
+
+価格は語る
+
+データで読む消費
+
+消費を斬る
+
+池上彰
+
+法務インサイド
+
+就活
+
+ニュースこう読む
+
+ヒットのクスリ
+
+食の進化論
+
+丸わかりビジネス
+
+
+
+
+
+
+マーケット
+
+
+
+株式
+
+ランキング
+
+企業業績・財務
+
+投資信託
+
+為替・金利
+
+世界の市況
+
+商品
+
+企業IR
+
+海外
+
+コラム
+
+記者の目
+
+マーケット反射鏡
+
+スクランブル
+
+マネー底流潮流
+
+ポジション
+
+ポジションフラッシュ
+
+
+
+
+
+
+テクノロジー
+
+
+
+自動運転
+
+スタートアップ
+
+ＡＩ
+
+フィンテック
+
+科学＆新技術
+
+環境エネ・素材
+
+ＩｏＴ
+
+シェアエコノミー
+
+モバイル・５Ｇ
+
+BP速報
+
+コラム
+
+モバイルの達人
+
+CBインサイツ
+
+
+
+
+
+
+国際・アジア
+
+
+
+中国・台湾
+
+北米
+
+朝鮮半島
+
+中南米
+
+東南アジア
+
+Financial Times
+
+南西ア・オセアニア
+
+The Economist
+
+ヨーロッパ
+
+アジアBiz
+
+中東・アフリカ
+
+コラム
+
+習政権ウオッチ
+
+Asia Analysis
+
+ニュースこう読む
+
+朝鮮半島ファイル
+
+グローバルViews
+
+
+
+
+
+
+スポーツ
+
+
+
+プロ野球
+
+ＭＬＢ
+
+サッカー
+
+ゴルフ
+
+フィギュア
+
+ラグビー
+
+相撲
+
+競馬
+
+高校野球
+
+格闘技
+
+その他スポーツ
+
+Tokyo2020
+
+コラム
+
+
+
+
+社会
+
+
+
+コラム
+
+
+
+
+地域
+
+
+
+総合
+
+東京
+
+関西
+
+中部
+
+北海道・東北
+
+北関東・信越
+
+南関東・静岡
+
+北陸
+
+中国・四国
+
+九州・沖縄
+
+コラム
+
+
+
+
+オピニオン
+
+
+
+社説
+
+春秋
+
+Deep Insight
+
+核心
+
+中外時評
+
+時論・創論・複眼
+
+エコノミスト360°視点
+
+グローバルオピニオン
+
+Asiaを読む
+
+私見卓見
+
+本社コメンテーター
+
+FT commentators
+
+Financial Times
+
+The Economist
+
+
+
+
+文化
+
+
+
+カバーストーリー
+
+私の履歴書
+
+あすへの話題
+
+美の十選
+
+文化往来
+
+プロムナード
+
+批評
+
+囲碁・将棋
+
+
+
+
+マネー
+ライフ
+
+
+
+NIKKEI STYLE
+
+NIKKEI プラス１
+
+
+
+
+
+
+
+
+トップ
+
+
+
+速報
+
+アクセスランキング
+
+トピック一覧
+
+人事
+
+おくやみ
+
+プレスリリース
+
+ビジュアルデータ
+
+
+写真
+
+映像
+
+社説
+
+統計
+
+
+
+
+
+経済・政治
+
+
+
+経済
+
+政治
+
+金融機関
+
+コラム
+
+写真でみる永田町
+
+風見鶏
+
+政策研究
+
+霞が関エックス線
+
+平成Politics30
+
+読み解きポリティクス
+
+憲法のトリセツ
+
+政治アカデメイア
+
+経済教室
+
+金融最前線
+
+やさしい経済学
+
+ニュースこう読む
+
+
+
+
+
+
+ビジネス
+
+
+
+スタートアップ
+
+住建・不動産
+
+エレクトロニクス
+
+サービス・食品
+
+ネット・IT
+
+小売り・外食
+
+ヘルスケア
+
+金融機関
+
+自動車・機械
+
+法務・ガバナンス
+
+環境エネ・素材
+
+未来面
+
+コラム
+
+経営者ブログ
+
+コンフィデンシャル
+
+仕事人秘録
+
+価格は語る
+
+データで読む消費
+
+消費を斬る
+
+池上彰
+
+法務インサイド
+
+就活
+
+ニュースこう読む
+
+ヒットのクスリ
+
+食の進化論
+
+丸わかりビジネス
+
+
+
+
+
+
+マーケット
+
+
+
+株式
+
+ランキング
+
+企業業績・財務
+
+投資信託
+
+為替・金利
+
+世界の市況
+
+商品
+
+企業IR
+
+海外
+
+コラム
+
+記者の目
+
+マーケット反射鏡
+
+スクランブル
+
+マネー底流潮流
+
+ポジション
+
+ポジションフラッシュ
+
+
+
+
+
+
+テクノロジー
+
+
+
+自動運転
+
+スタートアップ
+
+ＡＩ
+
+フィンテック
+
+科学＆新技術
+
+環境エネ・素材
+
+ＩｏＴ
+
+シェアエコノミー
+
+モバイル・５Ｇ
+
+BP速報
+
+コラム
+
+モバイルの達人
+
+CBインサイツ
+
+
+
+
+
+
+国際・アジア
+
+
+
+中国・台湾
+
+北米
+
+朝鮮半島
+
+中南米
+
+東南アジア
+
+Financial Times
+
+南西ア・オセアニア
+
+The Economist
+
+ヨーロッパ
+
+アジアBiz
+
+中東・アフリカ
+
+コラム
+
+習政権ウオッチ
+
+Asia Analysis
+
+ニュースこう読む
+
+朝鮮半島ファイル
+
+グローバルViews
+
+
+
+
+
+
+スポーツ
+
+
+
+プロ野球
+
+ＭＬＢ
+
+サッカー
+
+ゴルフ
+
+フィギュア
+
+ラグビー
+
+相撲
+
+競馬
+
+高校野球
+
+格闘技
+
+その他スポーツ
+
+Tokyo2020
+
+コラム
+
+
+
+
+社会
+
+
+
+コラム
+
+
+
+
+地域
+
+
+
+総合
+
+東京
+
+関西
+
+中部
+
+北海道・東北
+
+北関東・信越
+
+南関東・静岡
+
+北陸
+
+中国・四国
+
+九州・沖縄
+
+コラム
+
+
+
+
+オピニオン
+
+
+
+社説
+
+春秋
+
+Deep Insight
+
+核心
+
+中外時評
+
+時論・創論・複眼
+
+エコノミスト360°視点
+
+グローバルオピニオン
+
+Asiaを読む
+
+私見卓見
+
+本社コメンテーター
+
+FT commentators
+
+Financial Times
+
+The Economist
+
+
+
+
+文化
+
+
+
+カバーストーリー
+
+私の履歴書
+
+あすへの話題
+
+美の十選
+
+文化往来
+
+プロムナード
+
+批評
+
+囲碁・将棋
+
+
+
+
+マネー
+ライフ
+
+
+
+NIKKEI STYLE
+
+NIKKEI プラス１
+
+
+
+
+
+
+
+
+
+速報
+
+アクセスランキング
+
+トピック一覧
+
+人事
+
+おくやみ
+
+プレスリリース
+
+ビジュアルデータ
+
+
+写真
+
+映像
+
+社説
+
+統計
+
+
+
+
+
+
+速報
+
+アクセスランキング
+
+トピック一覧
+
+人事
+
+おくやみ
+
+プレスリリース
+
+ビジュアルデータ
+
+
+写真
+
+映像
+
+社説
+
+統計
+
+
+
+
+
+
+経済
+
+政治
+
+金融機関
+
+コラム
+
+写真でみる永田町
+
+風見鶏
+
+政策研究
+
+霞が関エックス線
+
+平成Politics30
+
+読み解きポリティクス
+
+憲法のトリセツ
+
+政治アカデメイア
+
+経済教室
+
+金融最前線
+
+やさしい経済学
+
+ニュースこう読む
+
+
+
+
+
+
+
+経済
+
+政治
+
+金融機関
+
+コラム
+
+写真でみる永田町
+
+風見鶏
+
+政策研究
+
+霞が関エックス線
+
+平成Politics30
+
+読み解きポリティクス
+
+憲法のトリセツ
+
+政治アカデメイア
+
+経済教室
+
+金融最前線
+
+やさしい経済学
+
+ニュースこう読む
+
+
+
+
+
+
+
+スタートアップ
+
+住建・不動産
+
+エレクトロニクス
+
+サービス・食品
+
+ネット・IT
+
+小売り・外食
+
+ヘルスケア
+
+金融機関
+
+自動車・機械
+
+法務・ガバナンス
+
+環境エネ・素材
+
+未来面
+
+コラム
+
+経営者ブログ
+
+コンフィデンシャル
+
+仕事人秘録
+
+価格は語る
+
+データで読む消費
+
+消費を斬る
+
+池上彰
+
+法務インサイド
+
+就活
+
+ニュースこう読む
+
+ヒットのクスリ
+
+食の進化論
+
+丸わかりビジネス
+
+
+
+
+
+
+
+スタートアップ
+
+住建・不動産
+
+エレクトロニクス
+
+サービス・食品
+
+ネット・IT
+
+小売り・外食
+
+ヘルスケア
+
+金融機関
+
+自動車・機械
+
+法務・ガバナンス
+
+環境エネ・素材
+
+未来面
+
+コラム
+
+経営者ブログ
+
+コンフィデンシャル
+
+仕事人秘録
+
+価格は語る
+
+データで読む消費
+
+消費を斬る
+
+池上彰
+
+法務インサイド
+
+就活
+
+ニュースこう読む
+
+ヒットのクスリ
+
+食の進化論
+
+丸わかりビジネス
+
+
+
+
+
+
+
+株式
+
+ランキング
+
+企業業績・財務
+
+投資信託
+
+為替・金利
+
+世界の市況
+
+商品
+
+企業IR
+
+海外
+
+コラム
+
+記者の目
+
+マーケット反射鏡
+
+スクランブル
+
+マネー底流潮流
+
+ポジション
+
+ポジションフラッシュ
+
+
+
+
+
+
+
+株式
+
+ランキング
+
+企業業績・財務
+
+投資信託
+
+為替・金利
+
+世界の市況
+
+商品
+
+企業IR
+
+海外
+
+コラム
+
+記者の目
+
+マーケット反射鏡
+
+スクランブル
+
+マネー底流潮流
+
+ポジション
+
+ポジションフラッシュ
+
+
+
+
+
+
+
+自動運転
+
+スタートアップ
+
+ＡＩ
+
+フィンテック
+
+科学＆新技術
+
+環境エネ・素材
+
+ＩｏＴ
+
+シェアエコノミー
+
+モバイル・５Ｇ
+
+BP速報
+
+コラム
+
+モバイルの達人
+
+CBインサイツ
+
+
+
+
+
+
+
+自動運転
+
+スタートアップ
+
+ＡＩ
+
+フィンテック
+
+科学＆新技術
+
+環境エネ・素材
+
+ＩｏＴ
+
+シェアエコノミー
+
+モバイル・５Ｇ
+
+BP速報
+
+コラム
+
+モバイルの達人
+
+CBインサイツ
+
+
+
+
+
+
+
+中国・台湾
+
+北米
+
+朝鮮半島
+
+中南米
+
+東南アジア
+
+Financial Times
+
+南西ア・オセアニア
+
+The Economist
+
+ヨーロッパ
+
+アジアBiz
+
+中東・アフリカ
+
+コラム
+
+習政権ウオッチ
+
+Asia Analysis
+
+ニュースこう読む
+
+朝鮮半島ファイル
+
+グローバルViews
+
+
+
+
+
+
+
+中国・台湾
+
+北米
+
+朝鮮半島
+
+中南米
+
+東南アジア
+
+Financial Times
+
+南西ア・オセアニア
+
+The Economist
+
+ヨーロッパ
+
+アジアBiz
+
+中東・アフリカ
+
+コラム
+
+習政権ウオッチ
+
+Asia Analysis
+
+ニュースこう読む
+
+朝鮮半島ファイル
+
+グローバルViews
+
+
+
+
+
+
+
+プロ野球
+
+ＭＬＢ
+
+サッカー
+
+ゴルフ
+
+フィギュア
+
+ラグビー
+
+相撲
+
+競馬
+
+高校野球
+
+格闘技
+
+その他スポーツ
+
+Tokyo2020
+
+コラム
+
+
+
+
+
+プロ野球
+
+ＭＬＢ
+
+サッカー
+
+ゴルフ
+
+フィギュア
+
+ラグビー
+
+相撲
+
+競馬
+
+高校野球
+
+格闘技
+
+その他スポーツ
+
+Tokyo2020
+
+コラム
+
+
+
+
+
+コラム
+
+
+
+
+
+コラム
+
+
+
+
+
+総合
+
+東京
+
+関西
+
+中部
+
+北海道・東北
+
+北関東・信越
+
+南関東・静岡
+
+北陸
+
+中国・四国
+
+九州・沖縄
+
+コラム
+
+
+
+
+
+総合
+
+東京
+
+関西
+
+中部
+
+北海道・東北
+
+北関東・信越
+
+南関東・静岡
+
+北陸
+
+中国・四国
+
+九州・沖縄
+
+コラム
+
+
+
+
+
+社説
+
+春秋
+
+Deep Insight
+
+核心
+
+中外時評
+
+時論・創論・複眼
+
+エコノミスト360°視点
+
+グローバルオピニオン
+
+Asiaを読む
+
+私見卓見
+
+本社コメンテーター
+
+FT commentators
+
+Financial Times
+
+The Economist
+
+
+
+
+
+社説
+
+春秋
+
+Deep Insight
+
+核心
+
+中外時評
+
+時論・創論・複眼
+
+エコノミスト360°視点
+
+グローバルオピニオン
+
+Asiaを読む
+
+私見卓見
+
+本社コメンテーター
+
+FT commentators
+
+Financial Times
+
+The Economist
+
+
+
+
+
+カバーストーリー
+
+私の履歴書
+
+あすへの話題
+
+美の十選
+
+文化往来
+
+プロムナード
+
+批評
+
+囲碁・将棋
+
+
+
+
+
+カバーストーリー
+
+私の履歴書
+
+あすへの話題
+
+美の十選
+
+文化往来
+
+プロムナード
+
+批評
+
+囲碁・将棋
+
+
+
+
+
+NIKKEI STYLE
+
+NIKKEI プラス１
+
+
+
+
+
+NIKKEI STYLE
+
+NIKKEI プラス１
+
+
+
+
+
+
+
+
+
+
+
+ストーリー
+
+
+
+速 報
+
+
+
+朝刊・夕刊
+
+
+
+日経会社情報
+
+
+
+人事ウオッチ
+
+
+
+Myニュース
+
+
+
+
+
+$(function(){
+    $("#navigation_sokuhou").click(function(event) {
+        var $cookieName = 'aw';
+        _nk.putCookie({JSID_dataSetCookie_name:$cookieName,JSID_dataSetCookie_value:"1",JSID_dataSetCookie_expire:_nk.COOKIE_EXPIRE_LONG});
+    });
+});
+
+
+
+
+
+
+
+
+
+
+
+
+ストーリー
+
+
+
+速 報
+
+
+
+朝刊・夕刊
+
+
+
+日経会社情報
+
+
+
+人事ウオッチ
+
+
+
+Myニュース
+
+
+
+
+
+$(function(){
+    $("#navigation_sokuhou").click(function(event) {
+        var $cookieName = 'aw';
+        _nk.putCookie({JSID_dataSetCookie_name:$cookieName,JSID_dataSetCookie_value:"1",JSID_dataSetCookie_expire:_nk.COOKIE_EXPIRE_LONG});
+    });
+});
+
+
+
+
+
+
+
+
+
+ストーリー
+
+
+
+速 報
+
+
+
+朝刊・夕刊
+
+
+
+日経会社情報
+
+
+
+人事ウオッチ
+
+
+
+Myニュース
+
+
+
+
+
+$(function(){
+    $("#navigation_sokuhou").click(function(event) {
+        var $cookieName = 'aw';
+        _nk.putCookie({JSID_dataSetCookie_name:$cookieName,JSID_dataSetCookie_value:"1",JSID_dataSetCookie_expire:_nk.COOKIE_EXPIRE_LONG});
+    });
+});
+
+
+
+
+
+
+ストーリー
+
+
+
+速 報
+
+
+
+朝刊・夕刊
+
+
+
+日経会社情報
+
+
+
+人事ウオッチ
+
+
+
+Myニュース
+
+
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_normal",{"JSID_dataBreaking_KijiKey":"e","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"f"}]],[["JSID_baseBreaking_url","/async/async.do/?ae=JO_CM_BREAKINGNEWS&sv=NX"]]);
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_emergency",{"JSID_dataBreaking_KijiKey":"ak","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"al"}]]);
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_small",{"JSID_dataBreaking_KijiKey":"g","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"h"}]]);
+
+
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+
+
+
+
+
+			    try{
+			        TagProvider.requestAds({sectionId: 1884, dmp: true, sync: false, handler:'dssv_f1h_text1_callback', format:'jsonp_raw'});
+			    }catch(err){}
+			
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1752, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1598, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2135_1598');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_normal",{"JSID_dataBreaking_KijiKey":"e","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"f"}]],[["JSID_baseBreaking_url","/async/async.do/?ae=JO_CM_BREAKINGNEWS&sv=NX"]]);
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_emergency",{"JSID_dataBreaking_KijiKey":"ak","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"al"}]]);
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_small",{"JSID_dataBreaking_KijiKey":"g","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"h"}]]);
+
+
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+
+
+
+
+
+			    try{
+			        TagProvider.requestAds({sectionId: 1884, dmp: true, sync: false, handler:'dssv_f1h_text1_callback', format:'jsonp_raw'});
+			    }catch(err){}
+			
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1752, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1598, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2135_1598');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_normal",{"JSID_dataBreaking_KijiKey":"e","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"f"}]],[["JSID_baseBreaking_url","/async/async.do/?ae=JO_CM_BREAKINGNEWS&sv=NX"]]);
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_emergency",{"JSID_dataBreaking_KijiKey":"ak","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"al"}]]);
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_small",{"JSID_dataBreaking_KijiKey":"g","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"h"}]]);
+
+
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+
+
+
+
+
+			    try{
+			        TagProvider.requestAds({sectionId: 1884, dmp: true, sync: false, handler:'dssv_f1h_text1_callback', format:'jsonp_raw'});
+			    }catch(err){}
+			
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1752, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1598, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2135_1598');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_normal",{"JSID_dataBreaking_KijiKey":"e","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"f"}]],[["JSID_baseBreaking_url","/async/async.do/?ae=JO_CM_BREAKINGNEWS&sv=NX"]]);
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_emergency",{"JSID_dataBreaking_KijiKey":"ak","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"al"}]]);
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_small",{"JSID_dataBreaking_KijiKey":"g","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"h"}]]);
+
+
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+
+
+
+
+
+			    try{
+			        TagProvider.requestAds({sectionId: 1884, dmp: true, sync: false, handler:'dssv_f1h_text1_callback', format:'jsonp_raw'});
+			    }catch(err){}
+			
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1752, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1598, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2135_1598');
+			     }catch(err){}
+			 
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+1日 0:00更新
+-
+
+
+再表示
+
+閉じる
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+1日 0:00更新
+-
+
+
+再表示
+
+閉じる
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2128_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+_nkconf.ID_BREAKINGNEWS.push([["JSID_baseBreaking_small",{"JSID_dataBreaking_KijiKey":"g","JSID_dataBreaking_kijiValue":",20000101000000","JSID_dataBreaking_motion":false,"JSID_dataBreaking_closeKey":"h"}]]);
+
+
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+
+
+
+
+
+			    try{
+			        TagProvider.requestAds({sectionId: 1884, dmp: true, sync: false, handler:'dssv_f1h_text1_callback', format:'jsonp_raw'});
+			    }catch(err){}
+			
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1752, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+
+
+1日 0:00更新
+-
+
+
+
+再表示
+
+
+閉じる
+
+
+
+1日 0:00更新
+-
+
+
+再表示
+
+閉じる
+
+
+
+著名ゲーム開発者の小島氏がコナミ退社　新会社設立
+
+
+
+
+
+
+
+2015/12/16 2:00
+情報元
+日本経済新聞　電子版
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+	var ua = navigator.userAgent.toLowerCase();
+	var isMac = ((ua.indexOf('mac') > -1) && (ua.indexOf('os') > -1)) && (ua.indexOf('windows') == -1);
+	if(isMac){
+		$('.line-it-button').remove();
+	}
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+
+	_nk.formevent("#JSID_formKIJIToolTop",{});
+	_nk.fontsize({JSID_targetFontSize_hlm:['../../.cmn-article_title/span.JSID_key_fonthlm','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthlm','../../h4.JSID_key_fonthlm','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthlm'],JSID_targetFontSize_hln:['../../.cmn-article_title/span.JSID_key_fonthln','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonthln','../../h4.JSID_key_fonthln','../../.cmn-section/.cmn-article_title/span.JSID_key_fonthln'],JSID_targetFontSize_txt:['../../.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.cmn-small_headline/h5.JSID_key_fonttxt','../../h4.JSID_key_fonttxt','../../.cmn-section/.cmn-article_title/span.JSID_key_fonttxt','../../.cmn-section/.knc-article_wrapper/div.JSID_key_fonttxt','../../div.JSID_key_fonttxt','../../.cmn-section/div.JSID_key_fonttxt','../../.cmn-indent/ul.JSID_key_fonttxt']});
+	_nk.popupmenu("#JSID_formKIJIToolTop_bunrui");
+
+
+			var template = "<dd class=\"m-usefulTools_evernote\"><a class=\"evernote-clip-icon\" href=\"javascript:void(0)\" data-id=\"note\" title=\"この記事をEvernoteで保存する\" onclick=\"_nk.click(this,event,[['JSID_actPopupMenu',{JSID_dataPopupMenu_list:'#JSID_formKIJIToolTop_evernote',JSID_optPopupMenu_position:'bottom',JSID_optPopupMenu_type:'popupunauthsave'}]]);return false\" rel=\"nofollow\">\n  <span class=\"m-wficon evernote\"></span><!-- This can be customized -->\n</a></dd>";
+			
+
+
+		
+		$("#JSID_formKIJIToolTop_snspulldown .close").click(function(){
+         $("#JSID_formKIJIToolTop_snspulldown").hide();
+        })
+
+        
+		var enSavePosition = "";
+		if(0 < $("#JSID_baseFontSize1").find(".m-usefulTools_save").size()){
+			enSavePosition = ".m-usefulTools_twitter";
+			$("#JSID_baseFontSize1").find(enSavePosition).before(template);
+		};
+
+		function enDispChange(){
+			$("#JSID_enClip").addClass("cmn-simple-hide");
+			$("#JSID_enPopup").removeClass("cmn-simple-hide");
+		};
+		/*
+		* 自動翻訳リンク制御
+		*/
+		// ワッペンがある場合リンクを除去する
+		if($('.cmn-section > .cmn-article_title > .cmn-wappen').length > 0) {
+			$('.jscEnglishWindowIconLink')
+				.remove();
+		}
+		$('.cmn-article_topics > dd > a').each(function() {
+			if($(this).text() === 'CBインサイツ') {
+				$('.jscEnglishWindowIconLink')
+					.remove();
+				return false;
+		    }
+		});
+		if($('.jscEnglishWindowIconLink').length > 0) {
+			// バッヂの表示制御 一度でも翻訳リンクをクリックした場合、バッヂは非表示とする
+			if(localStorage.getItem('clickTransrationLink')) {
+				$('.m-usefulTools_badge')
+					.remove();
+			}
+			// 自動翻訳リンクのクリックイベント時の設定
+			$('.jscEnglishWindowLink')
+				.addClass('jscMtaOpen_1');
+			$('.jscMtaOpen_1.jscMtaOpen_2')
+				.removeClass('jscMtaOpen_2');
+			$('.jscEnglishWindowIconLink')
+				.addClass('jscMtaOpenIcon_1');
+			$('.jscMtaOpenIcon_1.jscMtaOpenIcon_2')
+				.removeClass('jscMtaOpenIcon_2');
+			var openMtaWindow = function(event) {
+				var articleId = $('input[name="ng"]').attr('value'),
+				targetUrl = '/news/article-translation/?bf=0&ng=' + articleId,
+				onclickParamMap = [
+					['JSID_actWinPopupOpen',
+						{
+							JSID_urlData: targetUrl,
+							x: 1100,
+							y: 600
+						}
+					]
+				];
+				_nk.click(this,event,onclickParamMap);
+				$('.m-usefulToolsPulldown-pulldown')
+					.css('display', 'none');
+				localStorage.setItem('clickTransrationLink', 'true');
+				$('.m-usefulTools_badge')
+					.remove();
+			};
+			$('.jscMtaOpen_1').click(function (event) {
+				openMtaWindow(event);
+			});
+			$('.jscMtaOpenIcon_1').click(function (event) {
+				openMtaWindow(event);
+			});
+		} else {
+			$('.jscMtaParts')
+				.remove();
+		}
+		
+
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_B1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_B2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://regist.nikkei.com/ds/etc/registhub.do?xp1=FT001&xp4=' + encodeURIComponent(location.href) + '&dps=6'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_B",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+	_nk.putUrl("#JSID_R1FT_C1",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + ''});
+	
+
+	_nk.putUrl("#JSID_R1FT_C2",{JSID_urlTargettype:'href',JSID_urlTargeturl:'/r123/?n_cid=DSPRM122&ak=' + encodeURIComponent(location.href) + '#free'});
+	
+
+	_nk.putUrl("#JSID_R1LOGIN_C",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+        $(document).ready(function () {
+            var patternValue = $('#rcmd_article_ab_01').text();
+            if(patternValue == 'article_u_ab_C') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').show();
+            } else if(patternValue == 'article_u_ab_B') {
+                $('#kobetsuPromotionA').hide();
+                $('#kobetsuPromotionB').show();
+                $('#kobetsuPromotionC').hide();
+            } else {
+                $('#kobetsuPromotionA').show();
+                $('#kobetsuPromotionB').hide();
+                $('#kobetsuPromotionC').hide();
+            }
+        });
+    
+
+
+        Rtoaster.recommendNow("rcmd_article_ab_01");
+    
+
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_0",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=0&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+				_nk.load("#JSID_baseOnLoadKanrenlist_1",{JSID_urlOnLoad:'/async/async.do/?LINK_DSP_KIND=1&a=31&ae=P_LK_KANRENLIST&af=1&ag=201904210940&c=DNX&ng=DGXLZO95184030W5A211C1TI5000&sv=NX',JSID_targetOnLoad:'.'});
+			
+
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+電子版トップ
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+記事保存
+有料会員の方のみご利用になれます。保存した記事はスマホやタブレットでもご覧いただけます。
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_TOOLR1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+Evernote保存
+ご利用には会員登録が必要です
+＞ 新規会員登録
+＞ ログイン
+
+	_nk.putUrl("#JSID_EVERNOTER1LOGIN_top",{JSID_urlTargettype:'href',JSID_urlTargeturl:'https://www.nikkei.com/etc/accounts/login?dps=1&url=' + encodeURIComponent(location.href) + ''});
+	
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+日経の記事利用サービス
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+共有
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+文字サイズ
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+
+小javascript:void(0)javascript:void(0)
+中javascript:void(0)javascript:void(0)
+大javascript:void(0)javascript:void(0)
+
+
+
+				企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+				
+詳しくはこちら
+
+
+
+ 保存javascript:void(0)
+ 共有
+
+					<div class="m-giftArticle-pulldown m-giftArticle-pulldown-top" style="top: 270px; left: 250px; position: absolute; z-index: 1;">
+						<p class="a-fs14 a-tac a-fn a-mb60 a-mt60 a-fc_alert">データが取得できませんでした</p>
+					</div>
+				
+
+
+その他javascript:void(0)
+
+ゲームソフト「メタルギア」シリーズで知られる著名ゲームクリエーターの小島秀夫氏が、15日付でコナミデジタルエンタテインメントを退社した。新会社を設立してゲーム制作を続け、ソニー・コンピュータエンタテインメント（SCE）のゲーム機「プレイステーション（PS）」向けなどで販売するとみられる。コナミ時代の部下と新会社を設立する。代表作「メタルギア」シリーズの版…
+［有料会員限定］ この記事は会員限定です。電子版に登録すると続きをお読みいただけます。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+無料・有料プランを選択
+今すぐ登録
+
+
+会員の方はこちら
+ログイン
+
+
+無料・有料プランを選択
+今すぐ登録
+
+会員の方はこちら
+ログイン
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+有料登録する（申込月無料）
+
+無料登録する（月10本閲覧可）
+
+
+会員の方はこちら
+ログイン
+
+
+会員の方はこちら
+ログイン
+
+この記事は会員限定です。
+春割実施中！無料期間中の解約OK！日経電子版が５月末まで無料！
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+有料登録する（申込月無料）
+
+
+無料登録する（月10本閲覧可）
+
+
+有料登録する（申込月無料）
+
+無料登録する（月10本閲覧可）
+
+
+会員の方はこちら
+ログイン
+
+
+会員の方はこちら
+ログイン
+
+
+
+
+関連キーワード
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+
+
+
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+小島秀夫メタルギアコナミコナミデジタルエンタテインメントプレイステーションSCE宮本茂ゲームクリエーターソニー・コンピュータエンタテインメントゲームソフト任天堂
+
+関連企業・業界
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+
+
+
+企業
+：
+
+任天堂
+
+
+
+
+企業
+：
+
+任天堂
+企業：
+任天堂
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1659, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2205_1659');
+			     }catch(err){}
+			 
+
+
+			     try{
+			         TagProvider.displayAd('2318_1752');
+			     }catch(err){}
+			 
+
+
+[PR]トレンドウオッチ
+一覧
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+[PR]トレンドウオッチ
+一覧
+一覧
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1925, dmp: true, sync: false, instance: "ins1", viewable:{slot:2638,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2638_1925');
+			     }catch(err){}
+			 
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1947, dmp: true, sync: false, instance: "ins1", viewable:{slot:2709,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2709_1947');
+			     }catch(err){}
+			 
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1948, dmp: true, sync: false, instance: "ins1", viewable:{slot:2712,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2712_1948');
+			     }catch(err){}
+			 
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			    try{
+			    	TagProvider.requestAds({sectionId: 1949, dmp: true, sync: false, instance: "ins1", viewable:{slot:2716,percent:0.9,reload:1}});
+			    }catch(err){}
+			
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2716_1949');
+			     }catch(err){}
+			 
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 1597, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+
+アカウント一覧
+
+
+
+訂正・おわび
+
+
+
+
+アクセスランキング
+
+一覧
+
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+
+
+アクセスランキング
+
+一覧
+
+一覧
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+
+
+1.
+2.3.
+
+
+			     try{
+			         TagProvider.displayAd('2134_1597');
+			     }catch(err){}
+			 
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2129_1593');
+			     }catch(err){}
+			 
+
+
+日経からのお知らせ
+キャリア採用、通年で募集
+
+日経からのお知らせ
+キャリア採用、通年で募集日経からのお知らせ
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！
+
+「見えてきた？」特設サイト公開中
+新生活は電子版で！春割で5月末まで無料！「見えてきた？」特設サイト公開中
+おすすめ情報
+
+
+
+
+イチローの「外国人体験」に学べ
+
+
+
+仲間と和気あいあいの、ゆったり個室
+
+
+
+イメージ通りに体が動かないのはなぜ
+
+
+
+「令和の新札」 肖像を右側に描く理由
+
+
+
+いま最も必要な２つの仕事力を伝授！
+
+
+
+フランク・ロイド・ライトの息吹薫る家
+
+
+
+翌朝、必ず礼を　翌朝までが接待
+
+
+
+シェフを呼んで自宅ワインを楽しもう!
+
+
+[PR]一覧はこちら
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+一覧はこちら
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+				    try{
+				        TagProvider.requestAds({sectionId: 2358, dmp: true, sync: false});
+				    }catch(err){}
+				
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2978_2358');
+			     }catch(err){}
+			 
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2130_1593');
+			     }catch(err){}
+			 
+
+
+アクセスランキング
+
+一覧
+
+
+
+1.
+（チャートは語る）自動車産業にCASEの重圧［有料会員限定］
+
+2.
+CASEとは［有料会員限定］
+
+3.
+（私の履歴書）奥正之(20)金融再編［有料会員限定］
+
+4.
+巨大ITへ定期調査［有料会員限定］
+
+5.
+トランプ氏「今すぐ辞表を」　捜査介入、何度も［有料会員限定］
+
+6.
+中途採用、全体の3割［有料会員限定］
+
+7.
+銀行や証券、新卒抑制［有料会員限定］
+
+8.
+車に不具合確認されず、男性の操作ミスか　池袋暴走［有料会員限定］
+
+9.
+10連休、対応大詰め［有料会員限定］
+
+10.
+（春秋）アンダードッグは英語で負け犬という意味だ。これに「効果」がつくと...［有料会員限定］
+
+4/21 9:00 更新
+4/21 9:00 更新
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+			     try{
+			         TagProvider.displayAd('2284_1593');
+			     }catch(err){}
+			 
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+日経 xTECH（クロステック）
+
+スクール水着博覧会、40年の歴史に隠された秘密
+
+日経クロストレンド
+
+AOKIオーダースーツ新店、想定売上高10%超
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+小田嶋隆の「ア・ピース・オブ・警句」 
+
+「不毛な困惑」が招いた空白の6時間
+
+あの天才がなぜ転落？
+
+テスラCEOも惚れた天才科学者の孤独死
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+U22
+
+池上彰と黒田博樹に学生が聞く　どうすれば自信持てる
+
+出世ナビ
+
+出店場所選び、1人で歩き「勘」磨く　日高屋創業者
+
+ヘルスUP
+
+肩凝り・腰痛…　こわばる筋肉緩める「抵抗運動」
+
+グルメクラブ　話題のこの店この味
+
+元外務省職員ハマッたタイの味　東京ドームの店で再現  
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+今さら聞けない接待のマナー　準備編
+
+日程調整、どれくらい前に始めるのがベストか？
+
+大人の隠れ家　～自分だけの特別な空間～
+
+誰にも教えたくないとっておきの店をリストアップ
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+20歳の頃
+
+国際派ソニー平井氏の意外な後悔
+
+チャレンジャー
+
+「ドラえもんは作れる」と若き異才は言う
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+ウーマノミクス・ストーリー
+
+いつも夢を携えて、化粧品も企業もブランディング（伊勢半）
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+PICK UP
+
+日経Smart Work大賞2019　大賞にサントリーホールディングス
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+ひとり家電メーカー、UPQ中澤社長の覚悟
+
+日経STARTUP X
+
+独占！ユニクロ革命の真実
+
+ガイアの夜明け
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+仕事の邪魔をしないBGMラジオ
+
+電子版を読みながらどうぞ◆平日8～21時30分
+
+
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+
+
+                        オスマン帝国の栄華伝える「トルコ至宝展　チューリップの宮殿 トプカプの美」　国立新美術館で開催中 
+
+
+
+                        AIと人・産業の共進化を探る「AI/SUM アプライドAIサミット」4月22日-24日、東京・丸の内で開催 
+
+
+日経TEST
+
+
+
+
+                    企業・団体試験
+                ご希望の日時と場所で実施できます。
+
+
+
+
+天気
+プレスリリース検索
+
+
+アカウント一覧
+
+
+訂正・おわび
+
+
+訂正・おわび
+
+
+			     try{
+			         TagProvider.displayAd('2135_1598');
+			     }catch(err){}
+			 
+
+
+
+日本経済新聞社の関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+
+日経IDの関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+日本経済新聞社の関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+
+日経IDの関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+日本経済新聞社の関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+日経IDの関連サイト
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+日本経済新聞 関連情報
+
+イベント・セミナー
+
+日経イベンツガイド
+日経ホールと貸会議室
+日経懇話会
+講演会向け講師紹介
+
+
+
+教育・キャリア
+
+Versant
+日経の研修とは
+日経TEST
+日経キャリアNET 転職
+
+
+
+各種サービス
+
+日経テレコン
+N-BRAND STUDIO
+ＮＥＥＤＳ
+日本経済新聞の本
+Channel JAPAN
+日経グローカル
+日経チャンネル
+
+
+
+
+日本経済新聞 関連情報
+
+イベント・セミナー
+
+日経イベンツガイド
+日経ホールと貸会議室
+日経懇話会
+講演会向け講師紹介
+
+
+
+教育・キャリア
+
+Versant
+日経の研修とは
+日経TEST
+日経キャリアNET 転職
+
+
+
+各種サービス
+
+日経テレコン
+N-BRAND STUDIO
+ＮＥＥＤＳ
+日本経済新聞の本
+Channel JAPAN
+日経グローカル
+日経チャンネル
+
+
+
+イベント・セミナー
+
+日経イベンツガイド
+日経ホールと貸会議室
+日経懇話会
+講演会向け講師紹介
+
+
+教育・キャリア
+
+Versant
+日経の研修とは
+日経TEST
+日経キャリアNET 転職
+
+
+各種サービス
+
+日経テレコン
+N-BRAND STUDIO
+ＮＥＥＤＳ
+日本経済新聞の本
+Channel JAPAN
+日経グローカル
+日経チャンネル
+
+
+
+
+日本経済新聞 電子版について
+
+サイトポリシー
+ヘルプセンター
+FAQ・お問い合わせ
+ご購読サポート
+電子版広告ガイド
+リンクポリシー
+著作権
+データ利用
+個人情報
+利用規約
+サイトマップ
+
+
+
+日本経済新聞社について
+
+会社情報・お知らせ
+記事利用
+個人情報の取り扱い
+本社採用案内
+日経グループ情報
+新聞広告ガイド
+紙面紹介と購読案内
+法人お問い合わせ窓口
+
+
+
+
+
+日本経済新聞 電子版について
+
+サイトポリシー
+ヘルプセンター
+FAQ・お問い合わせ
+ご購読サポート
+電子版広告ガイド
+リンクポリシー
+著作権
+データ利用
+個人情報
+利用規約
+サイトマップ
+
+
+
+日本経済新聞社について
+
+会社情報・お知らせ
+記事利用
+個人情報の取り扱い
+本社採用案内
+日経グループ情報
+新聞広告ガイド
+紙面紹介と購読案内
+法人お問い合わせ窓口
+
+
+
+日本経済新聞 電子版について
+
+サイトポリシー
+ヘルプセンター
+FAQ・お問い合わせ
+ご購読サポート
+電子版広告ガイド
+リンクポリシー
+著作権
+データ利用
+個人情報
+利用規約
+サイトマップ
+
+
+日本経済新聞社について
+
+会社情報・お知らせ
+記事利用
+個人情報の取り扱い
+本社採用案内
+日経グループ情報
+新聞広告ガイド
+紙面紹介と購読案内
+法人お問い合わせ窓口
+
+
+
+
+
+
+
+Nikkei Inc. No reproduction without permission.
+
+
+
+
+
+
+Nikkei Inc. No reproduction without permission.

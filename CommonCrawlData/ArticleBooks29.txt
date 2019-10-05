@@ -1,0 +1,2184 @@
+Bo goes for a romp in the White House in Bo: America's Commander in Leash. And what a busy boy Bo is! The book begins with Bo stealing the president's letter opener, and he's off and running for the next 25 pages. Flying off the Obama girls' swing. Running from bees near the first lady's vegetable garden. Putting green dye in the fountain for St. Patrick's Day. He even serves up a summer burger to Vice President Biden. Dog lovers will be most amused by the fact that Bo, like most dogs, loves to stick his head out of a vehicle's window to catch the breeze. No car for Bo, though. This time Bo is enjoying the view and breeze from the window of the president's helicopter.It all ends with Bo, exhausted by his day's activities at 1600 Pennsylvania Ave., dreaming about the lucky White House pets who have preceded him.The $14.95 book, aimed at kids 4 to 10, has been in the works for two months, says Aryal, publisher of Mascot, which specializes in books about team and school mascots. Aryal says he wrote a story narrated by a mischievous White House puppy and added details once Bo's identity was known. (The book is also available from mascotbooks.com.) Bo joins a parade of books capitalizing on the first puppy. Already out: Which Puppy? by Kate Feiffer, illustrated by Jules Feiffer, about a contest to live in the White House, and First Dog by J. Patrick Lewis and Beth Zappitello, illustrated by Tim Bowers, about an unnamed "portie."In early June, Algonquin will release First Dogs: American Presidents and Their Best Friends  by Roy Rowan ($9.95, trade paperback). It features 100 photographs, including photos of Bo and the Bush Scottish terriers.
+
+
+
+  Cars  Auto 
+  Financing  Event 
+  Tickets  Jobs  Real 
+  Estate  Online 
+  Degrees Shopping
+
+
+
+SearchHow do I find it?Subscribe to paper 
+OAS_AD("Top728x90");
+
+
+
+Home
+News
+Travel
+Money
+Sports
+Life
+Tech
+Weather
+
+
+function change_lbRule()
+{
+document.getElementById("lbRuleControl").style.borderColor = "#FFFFFF";
+document.getElementById("lbRuleControl").style.marginBottom = "0";
+document.getElementById("lbRuleControl").style.marginTop = "18";
+document.getElementById("ad_leaderboard").style.marginBottom = "8";
+}
+if (document.getElementById("lbRuleControl")&&document.getElementById("ad_leaderboard")){change_lbRule()};
+
+
+
+
+
+
+Life »
+Books
+
+Top 150 Books
+Shop for Books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OAS_AD("Links1");
+
+
+
+
+
+
+
+OAS_AD("Poster3");OAS_AD("PosterBig");OAS_AD("VerticalBanner");
+
+
+
+
+
+OAS_AD("Links2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var showReprintSSI="showReprintSSI";					
+
+function RightslinkPopUp(){	     
+var url = "https://s100.copyright.com/AppDispatchServlet"; 
+var location = url 
++ "?publisherName=" + escape( "USATODAY" )		// required, hard-coded
++ "&publication=" + escape( "USATODAY" )             	// required, hard-coded 
++ "&title=" + escape( "Bo takes office as 'Commander in Leash' in new book " )  // required
++ "&publicationDate=" + escape( "4/15/2009 3:20:30 PM") 		// required
++ "&author=" + escape( "By Bob Minzesheimer and Craig Wilson, USA TODAY" ) 
++ "&contentID="	+ escape( "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm" )	// required
++ "&orderBeanReset=true";					// required, hard-coded                          		                 
+PopUp = window.open( location,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");   
+}
+Bo takes office as 'Commander in Leash' in new book
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM')); | Comment  | Recommend 
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Enlarge
+
+
+
+
+
+
+The children's book Bo: America's Commander in Leash, written by Naren Aryal and illustrated by Danny Moore, arrives in stores next week.
+
+
+
+
+
+
+ EnlargeBy Danny Moore, Mascot BooksBo goes for a romp in the White House in Bo: America's Commander in Leash.  EnlargeBy Jack Gruber, USA TODAY President Obama and first lady Michelle Obama walk with daughters Malia, left, and Sasha as they show off Bo to the press at the White House on Tuesday.
+
+var storyURL = "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm";
+var storyTitle = "Bo takes office as 'Commander in Leash' in new book";
+
+
+document.write('<scr' + 'ipt type="text/javascript" src="http://i.usatoday.net/asp/usatly/handler.ashx?storyid=' + tagID + '&longUrl=' + storyURL + '"><\/scr' + 'ipt>');
+
+
+	if (typeof(articleSummary) == 'undefined'){
+		var articleSummary ="";
+	}
+
+	<!-- yahoobuzz script -->
+	var articleSource = "USATODAY.com";
+	var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+	var yahooBuzzBadgeType = 'text';
+	
+	<!-- twitter script -->
+	var twtUrl    = usatlyshorturl;
+	var maxLength = 140 - (twtUrl.length + 1);
+	var twtSource = 'RT @USATODAY'
+	if (storyTitle.length > maxLength) {
+		storyTitle = storyTitle.substr(0, (maxLength - 5))+'...';
+	}
+	var twtLink = 'http://twitter.com/home?status='+encodeURIComponent( twtSource  + ' ' + storyTitle + ' ' +  twtUrl );
+
+	<!-- myspace script -->
+	function GetThis(T, C, U, L)
+	{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T)
+	+ '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	window.open(targetUrl);
+	}
+
+	var sclListTop = "";
+
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+	sclListTop +='  <li class="sharing-bg">Share</li>';
+
+	/*sclListTop +='  <li id="sprite0" ><span id="yahooBuzzBadge"><!-- this element will be replaced --></span></li>';*/
+	sclListTop +='  <li id="sprite16"><span class="spriteImage sprite16">&nbsp;</span><span><a href="http://mixx.com/submit/story?page_url='+storyURL+'&amp;partner=usat" onClick="uoTrack(\'mixx\')" target="mixx">Add to Mixx</a></span></li>';
+	sclListTop +='  <li id="sprite5"><span class="spriteImage sprite5">&nbsp;</span><span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook">Facebook</a></span></li>';
+	sclListTop +='  <li id="sprite18"><span class="spriteImage sprite18">&nbsp;</span><span><a href="'+twtLink+'" target="_blank"'+'>Twitter<'+'/a></span></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="share-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+
+	sclListTop +='      <li id="sprite13"><span class="spriteImage sprite13">&nbsp;</span><span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark">Fark</a></span></li>';
+	sclListTop +='      <li id="sprite1"><span class="spriteImage sprite1">&nbsp;</span><span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg">Digg</a></span></li>';
+	sclListTop +='      <li id="sprite4"><span class="spriteImage sprite4">&nbsp;</span><span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit">Reddit</a></span></li>';
+	sclListTop +='      <li id="sprite12"><span class="spriteImage sprite12">&nbsp;</span><span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace">MySpace</a></span></li>';
+	sclListTop +='      <li id="sprite14"><span class="spriteImage sprite14">&nbsp;</span><span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+
+	'" uoTrack(\'stumbleupon\')" target="stumbleupon">StumbleUpon</a></span></li>';
+	sclListTop +='      <li id="sprite15"><span class="spriteImage sprite15">&nbsp;</span><span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller">Propeller</a></span></li>';
+	sclListTop +='      <li id="sprite17"><span class="spriteImage sprite17">&nbsp;</span><span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin">LinkedIn</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+	sclListTop +='</div>';
+	jQuery("#topSocialButtons").append(sclListTop);
+
+
+	jQuery(".share-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+jQuery(function() {
+	jQuery.ajax({ type: "GET", url: "/marketing/rss/settings.xml", dataType: "xml", success: BuildSubscribeButtons });
+
+});
+
+function BuildSubscribeButtons(xml) {
+
+	// Build SSTS array
+	var url = document.location.toString();
+	var urlArray = url.split("/")
+	var nurl = "";
+
+	for (i = 3; i < urlArray.length - 1; i++)
+	{				
+		if(i<urlArray.length-2){
+			nurl += urlArray[i] + "|";
+		}
+		else
+		{
+			nurl += urlArray[i];
+		}
+	}
+	var feedid = "";
+	var feedname = "";
+	var idx = 1;
+
+	while (feedid == "" && idx>0) {
+		idx = nurl.indexOf('|');
+		jQuery(xml).find('add').each(function(){
+			if (jQuery(this).attr('key') == nurl) {
+				feedid = jQuery(this).attr('value');
+			}
+		});
+		if (feedid == "") {
+			nurl = nurl.replace(/(.*)\|(.*)/,"$1");
+		}
+	}
+
+	jQuery(xml).find('add').each(function(){
+		if (jQuery(this).attr('key') == feedid) {
+			feedname = jQuery(this).attr('value');
+		}
+	});
+
+
+	if (feedname == "") feedname = "usatoday-NewsTopStories.xml";
+
+	var sclListTop = "";
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+
+	<!-- divider -->
+	sclListTop +='  <li class="sharing-bg">Subscribe</li>';
+	<!-- subscribe buttons -->
+	sclListTop +='  <li id="sprite-my"><span class="spriteImage sprite-my">&nbsp;</span><span><a href="' + 'http://add.my.yahoo.com/rss?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myyahoo\')" target="myyahoo">myYahoo</a></span></li>';
+	sclListTop +='  <li id="sprite-ig"><span class="spriteImage sprite-ig">&nbsp;</span><span><a href="' + 'http://fusion.google.com/add?feedurl=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'igoogle\')" target="igoogle">iGoogle</a></span></li>';
+
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="subscribe-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+	sclListTop +='      <li id="sprite-nv"><span class="spriteImage sprite-nv">&nbsp;</span><span><a href="' + 'http://www.netvibes.com/subscribe.php?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'netvibes\')" target="netvibes">Netvibes</a></span></li>';
+	sclListTop +='      <li id="sprite-ma"><span class="spriteImage sprite-ma">&nbsp;</span><span><a href="' + 'http://favorites.my.aol.com/ffclient/AddFeed/?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myaol\')" target="myaol">myAOL</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+
+	sclListTop +=' <ul class="whatsthis">';
+	<!-- what's this -->
+	sclListTop +='  <li class="socialFoot"><a href="#open-share-help" onClick="document.getElementById(\'sclBtnInfo\').style.visibility=\'visible\';document.getElementById(\'Adv6\').style.display=\'none\';usatAj.ahah(\'sclBtnInfo\', null, \'http://www.usatoday.com/marketing/socialhelp-v1.htm\', null);" title="What\'s this"></a></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div id="sclBtnInfo"></div>';
+	sclListTop +='</div>';
+
+	jQuery("#topSocialButtons").append(sclListTop);
+	jQuery(".subscribe-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+}
+
+
+By Bob Minzesheimer and Craig Wilson, USA TODAY
+Bo, the Obamas' 6-month-old Portuguese water dog, proved Tuesday that he has "star quality" with his rambunctious debut at the White House. And now he, and the president, will star in the children's book Bo, America's Commander in Leash by Naren Aryal, illustrated by Danny Moore (Mascot Books), expected to be in stores next week.
+And what a busy boy Bo is! The book begins with Bo stealing the president's letter opener, and he's off and running for the next 25 pages. Flying off the Obama girls' swing. Running from bees near the first lady's vegetable garden. Putting green dye in the fountain for St. Patrick's Day. He even serves up a summer burger to Vice President Biden. 
+Dog lovers will be most amused by the fact that Bo, like most dogs, loves to stick his head out of a vehicle's window to catch the breeze. No car for Bo, though. This time Bo is enjoying the view and breeze from the window of the president's helicopter.
+It all ends with Bo, exhausted by his day's activities at 1600 Pennsylvania Ave., dreaming about the lucky White House pets who have preceded him.
+The $14.95 book, aimed at kids 4 to 10, has been in the works for two months, says Aryal, publisher of Mascot, which specializes in books about team and school mascots. Aryal says he wrote a story narrated by a mischievous White House puppy and added details once Bo's identity was known. (The book is also available from mascotbooks.com.) 
+
+Bo joins a parade of books capitalizing on the first puppy. Already out: Which Puppy? by Kate Feiffer, illustrated by Jules Feiffer, about a contest to live in the White House, and First Dog by J. Patrick Lewis and Beth Zappitello, illustrated by Tim Bowers, about an unnamed "portie."
+In early June, Algonquin will release First Dogs: American Presidents and Their Best Friends  by Roy Rowan ($9.95, trade paperback). It features 100 photographs, including photos of Bo and the Bush Scottish terriers.
+
+var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+var yahooBuzzBadgeType = 'text';
+
+var sclListBottom = "";
+sclListBottom +='<div id="social2">';
+sclListBottom +='<div id="sclBtnInfoBottom"></div>';
+
+sclListBottom +='<div class="socialdigg">';
+sclListBottom +='<ul id="spritemenu2" class="socialList2">';
+
+/*sclListBottom +='<span id="sprite2"><span id="yahooBuzzBadge-0"><!-- this element will be replaced --></span></span>';*/
+
+sclListBottom +='<span id="sprite16">';
+sclListBottom +='<span><a href="http://mixx.com/submit/story?page_url='+storyURL+'" onClick="uoTrack(\'mixx\')" target="mixx"><span class="spriteImage sprite16">&nbsp;</span>Mixx</a></span>';
+
+sclListBottom +='<span class="scDivider"></span>';
+
+sclListBottom +='<span id="sprite5">';
+sclListBottom +='<span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook" title="Facebook"><span class="spriteImage sprite5">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite18">';
+sclListBottom +='<span><a href="'+twtLink+'" target="_blank"'+'><span class="spriteImage sprite18">&nbsp;</span></span></span><'+'/a>';
+
+sclListBottom +='<span id="sprite13">';
+sclListBottom +='<span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark" title="Fark"><span class="spriteImage sprite13">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite1">';
+sclListBottom +='<span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg" title="Digg"><span class="spriteImage sprite1">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite4">';
+sclListBottom +='<span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit" title="Reddit"><span class="spriteImage sprite4">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+//new additions
+sclListBottom +='<span id="sprite12">';
+sclListBottom +='<span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace" title="MySpace"><span class="spriteImage sprite12">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite14">';
+sclListBottom +='<span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'stumbleupon\')" target="stumbleupon" title="StumbleUpon"><span class="spriteImage sprite14">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite15">';
+sclListBottom +='<span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller" title="Propeller"><span class="spriteImage sprite15">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite17">';
+sclListBottom +='<span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin" title="LinkedIn"><span class="spriteImage sprite17">&nbsp;</span></a></span>';
+
+sclListBottom +='</ul>';
+sclListBottom +='</div>';
+sclListBottom +='<div style="clear:both"></div>';
+sclListBottom +='</div>';
+document.write(sclListBottom);
+
+
+
+
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM'));
+
+
+
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+To report corrections and clarifications, contact Reader Editor Brent Jones. For publication consideration in the newspaper, send comments to letters@usatoday.com. Include name, phone number, city and state for verification. To view our corrections, go to corrections.usatoday.com.
+
+
+Guidelines: You share in the USA TODAY community, so please keep your comments smart and civil.  Don't attack other readers personally, and keep your language decent.  Use the "Report Abuse" button to make a difference. Read more.
+
+
+
+OAS_AD("FloatBottom");
+
+
+
+
+OAS_AD("Bottom728x90");
+Newspaper Home Delivery - Subscribe Today
+
+
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+
+
+
+
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+
+
+
+Copyright 2011 USA TODAY, a division of Gannett Co. Inc.
+
+<!--
+usat.page.addLoadEvent(doLoad);
+//-->
+
+
+
+
+
+OAS_AD("AdOps1");
+OAS_AD("PageCount");
+OAS_AD("InvCount");
+
+
+
+
+function InsertTagsAndStories() {
+	if(typeof tagID!='undefined')
+	{
+		if (document.getElementById('byLineTag')){
+			usat.page.insertTags('byLineTag', tagID, 1);
+		}
+		if (document.getElementById('tagCrumbs')){
+			usat.page.insertTags('tagCrumbs', tagID, 0);
+		}
+	}
+	InsertSSTSStories('sstsStories');
+}
+
+function InsertSSTSStories(element){
+	var ssts = getSSTSArray();
+	var url='/_common/_scripts/SSTSStoriesProvisioner/sstsStories.ashx?t='+ssts;
+	var rH=function(result){
+		try{
+			$(element).innerHTML=result;
+		}
+		catch(e){
+		}
+	}
+	var errH=function(result){
+		usatAj.showDebug("Get Tags Error: "+result);
+	}
+	if (ssts.match(/nfl.football.sports/i)) { 
+		//usatAj.ajax(url,rH,errH);
+	}
+}
+function getSSTSArray(){	
+	var url = document.location.toString();
+	var urlArray = url.split("/")
+		var nurl = "";
+	for (i = urlArray.length - 2; i>=3; i--)
+	{				
+		if(i>3){
+			nurl += urlArray[i] + "^";
+		}
+		else
+		{
+			nurl += urlArray[i];
+		}				
+	}	
+	return nurl;
+}
+
+usat.page.addLoadEvent(loadDynamicContent);
+usat.page.addLoadEvent(InsertTagsAndStories);
+
+
+
+	.video-play { float:left; }
+
+
+
+
+
+
+
+  Cars  Auto 
+  Financing  Event 
+  Tickets  Jobs  Real 
+  Estate  Online 
+  Degrees Shopping
+
+
+
+SearchHow do I find it?Subscribe to paper 
+OAS_AD("Top728x90");
+
+
+
+Home
+News
+Travel
+Money
+Sports
+Life
+Tech
+Weather
+
+
+function change_lbRule()
+{
+document.getElementById("lbRuleControl").style.borderColor = "#FFFFFF";
+document.getElementById("lbRuleControl").style.marginBottom = "0";
+document.getElementById("lbRuleControl").style.marginTop = "18";
+document.getElementById("ad_leaderboard").style.marginBottom = "8";
+}
+if (document.getElementById("lbRuleControl")&&document.getElementById("ad_leaderboard")){change_lbRule()};
+
+
+
+
+
+
+Life »
+Books
+
+Top 150 Books
+Shop for Books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OAS_AD("Links1");
+
+
+
+
+
+
+
+OAS_AD("Poster3");OAS_AD("PosterBig");OAS_AD("VerticalBanner");
+
+
+
+
+
+OAS_AD("Links2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var showReprintSSI="showReprintSSI";					
+
+function RightslinkPopUp(){	     
+var url = "https://s100.copyright.com/AppDispatchServlet"; 
+var location = url 
++ "?publisherName=" + escape( "USATODAY" )		// required, hard-coded
++ "&publication=" + escape( "USATODAY" )             	// required, hard-coded 
++ "&title=" + escape( "Bo takes office as 'Commander in Leash' in new book " )  // required
++ "&publicationDate=" + escape( "4/15/2009 3:20:30 PM") 		// required
++ "&author=" + escape( "By Bob Minzesheimer and Craig Wilson, USA TODAY" ) 
++ "&contentID="	+ escape( "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm" )	// required
++ "&orderBeanReset=true";					// required, hard-coded                          		                 
+PopUp = window.open( location,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");   
+}
+Bo takes office as 'Commander in Leash' in new book
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM')); | Comment  | Recommend 
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Enlarge
+
+
+
+
+
+
+The children's book Bo: America's Commander in Leash, written by Naren Aryal and illustrated by Danny Moore, arrives in stores next week.
+
+
+
+
+
+
+ EnlargeBy Danny Moore, Mascot BooksBo goes for a romp in the White House in Bo: America's Commander in Leash.  EnlargeBy Jack Gruber, USA TODAY President Obama and first lady Michelle Obama walk with daughters Malia, left, and Sasha as they show off Bo to the press at the White House on Tuesday.
+
+var storyURL = "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm";
+var storyTitle = "Bo takes office as 'Commander in Leash' in new book";
+
+
+document.write('<scr' + 'ipt type="text/javascript" src="http://i.usatoday.net/asp/usatly/handler.ashx?storyid=' + tagID + '&longUrl=' + storyURL + '"><\/scr' + 'ipt>');
+
+
+	if (typeof(articleSummary) == 'undefined'){
+		var articleSummary ="";
+	}
+
+	<!-- yahoobuzz script -->
+	var articleSource = "USATODAY.com";
+	var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+	var yahooBuzzBadgeType = 'text';
+	
+	<!-- twitter script -->
+	var twtUrl    = usatlyshorturl;
+	var maxLength = 140 - (twtUrl.length + 1);
+	var twtSource = 'RT @USATODAY'
+	if (storyTitle.length > maxLength) {
+		storyTitle = storyTitle.substr(0, (maxLength - 5))+'...';
+	}
+	var twtLink = 'http://twitter.com/home?status='+encodeURIComponent( twtSource  + ' ' + storyTitle + ' ' +  twtUrl );
+
+	<!-- myspace script -->
+	function GetThis(T, C, U, L)
+	{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T)
+	+ '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	window.open(targetUrl);
+	}
+
+	var sclListTop = "";
+
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+	sclListTop +='  <li class="sharing-bg">Share</li>';
+
+	/*sclListTop +='  <li id="sprite0" ><span id="yahooBuzzBadge"><!-- this element will be replaced --></span></li>';*/
+	sclListTop +='  <li id="sprite16"><span class="spriteImage sprite16">&nbsp;</span><span><a href="http://mixx.com/submit/story?page_url='+storyURL+'&amp;partner=usat" onClick="uoTrack(\'mixx\')" target="mixx">Add to Mixx</a></span></li>';
+	sclListTop +='  <li id="sprite5"><span class="spriteImage sprite5">&nbsp;</span><span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook">Facebook</a></span></li>';
+	sclListTop +='  <li id="sprite18"><span class="spriteImage sprite18">&nbsp;</span><span><a href="'+twtLink+'" target="_blank"'+'>Twitter<'+'/a></span></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="share-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+
+	sclListTop +='      <li id="sprite13"><span class="spriteImage sprite13">&nbsp;</span><span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark">Fark</a></span></li>';
+	sclListTop +='      <li id="sprite1"><span class="spriteImage sprite1">&nbsp;</span><span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg">Digg</a></span></li>';
+	sclListTop +='      <li id="sprite4"><span class="spriteImage sprite4">&nbsp;</span><span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit">Reddit</a></span></li>';
+	sclListTop +='      <li id="sprite12"><span class="spriteImage sprite12">&nbsp;</span><span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace">MySpace</a></span></li>';
+	sclListTop +='      <li id="sprite14"><span class="spriteImage sprite14">&nbsp;</span><span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+
+	'" uoTrack(\'stumbleupon\')" target="stumbleupon">StumbleUpon</a></span></li>';
+	sclListTop +='      <li id="sprite15"><span class="spriteImage sprite15">&nbsp;</span><span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller">Propeller</a></span></li>';
+	sclListTop +='      <li id="sprite17"><span class="spriteImage sprite17">&nbsp;</span><span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin">LinkedIn</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+	sclListTop +='</div>';
+	jQuery("#topSocialButtons").append(sclListTop);
+
+
+	jQuery(".share-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+jQuery(function() {
+	jQuery.ajax({ type: "GET", url: "/marketing/rss/settings.xml", dataType: "xml", success: BuildSubscribeButtons });
+
+});
+
+function BuildSubscribeButtons(xml) {
+
+	// Build SSTS array
+	var url = document.location.toString();
+	var urlArray = url.split("/")
+	var nurl = "";
+
+	for (i = 3; i < urlArray.length - 1; i++)
+	{				
+		if(i<urlArray.length-2){
+			nurl += urlArray[i] + "|";
+		}
+		else
+		{
+			nurl += urlArray[i];
+		}
+	}
+	var feedid = "";
+	var feedname = "";
+	var idx = 1;
+
+	while (feedid == "" && idx>0) {
+		idx = nurl.indexOf('|');
+		jQuery(xml).find('add').each(function(){
+			if (jQuery(this).attr('key') == nurl) {
+				feedid = jQuery(this).attr('value');
+			}
+		});
+		if (feedid == "") {
+			nurl = nurl.replace(/(.*)\|(.*)/,"$1");
+		}
+	}
+
+	jQuery(xml).find('add').each(function(){
+		if (jQuery(this).attr('key') == feedid) {
+			feedname = jQuery(this).attr('value');
+		}
+	});
+
+
+	if (feedname == "") feedname = "usatoday-NewsTopStories.xml";
+
+	var sclListTop = "";
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+
+	<!-- divider -->
+	sclListTop +='  <li class="sharing-bg">Subscribe</li>';
+	<!-- subscribe buttons -->
+	sclListTop +='  <li id="sprite-my"><span class="spriteImage sprite-my">&nbsp;</span><span><a href="' + 'http://add.my.yahoo.com/rss?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myyahoo\')" target="myyahoo">myYahoo</a></span></li>';
+	sclListTop +='  <li id="sprite-ig"><span class="spriteImage sprite-ig">&nbsp;</span><span><a href="' + 'http://fusion.google.com/add?feedurl=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'igoogle\')" target="igoogle">iGoogle</a></span></li>';
+
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="subscribe-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+	sclListTop +='      <li id="sprite-nv"><span class="spriteImage sprite-nv">&nbsp;</span><span><a href="' + 'http://www.netvibes.com/subscribe.php?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'netvibes\')" target="netvibes">Netvibes</a></span></li>';
+	sclListTop +='      <li id="sprite-ma"><span class="spriteImage sprite-ma">&nbsp;</span><span><a href="' + 'http://favorites.my.aol.com/ffclient/AddFeed/?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myaol\')" target="myaol">myAOL</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+
+	sclListTop +=' <ul class="whatsthis">';
+	<!-- what's this -->
+	sclListTop +='  <li class="socialFoot"><a href="#open-share-help" onClick="document.getElementById(\'sclBtnInfo\').style.visibility=\'visible\';document.getElementById(\'Adv6\').style.display=\'none\';usatAj.ahah(\'sclBtnInfo\', null, \'http://www.usatoday.com/marketing/socialhelp-v1.htm\', null);" title="What\'s this"></a></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div id="sclBtnInfo"></div>';
+	sclListTop +='</div>';
+
+	jQuery("#topSocialButtons").append(sclListTop);
+	jQuery(".subscribe-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+}
+
+
+By Bob Minzesheimer and Craig Wilson, USA TODAY
+Bo, the Obamas' 6-month-old Portuguese water dog, proved Tuesday that he has "star quality" with his rambunctious debut at the White House. And now he, and the president, will star in the children's book Bo, America's Commander in Leash by Naren Aryal, illustrated by Danny Moore (Mascot Books), expected to be in stores next week.
+And what a busy boy Bo is! The book begins with Bo stealing the president's letter opener, and he's off and running for the next 25 pages. Flying off the Obama girls' swing. Running from bees near the first lady's vegetable garden. Putting green dye in the fountain for St. Patrick's Day. He even serves up a summer burger to Vice President Biden. 
+Dog lovers will be most amused by the fact that Bo, like most dogs, loves to stick his head out of a vehicle's window to catch the breeze. No car for Bo, though. This time Bo is enjoying the view and breeze from the window of the president's helicopter.
+It all ends with Bo, exhausted by his day's activities at 1600 Pennsylvania Ave., dreaming about the lucky White House pets who have preceded him.
+The $14.95 book, aimed at kids 4 to 10, has been in the works for two months, says Aryal, publisher of Mascot, which specializes in books about team and school mascots. Aryal says he wrote a story narrated by a mischievous White House puppy and added details once Bo's identity was known. (The book is also available from mascotbooks.com.) 
+
+Bo joins a parade of books capitalizing on the first puppy. Already out: Which Puppy? by Kate Feiffer, illustrated by Jules Feiffer, about a contest to live in the White House, and First Dog by J. Patrick Lewis and Beth Zappitello, illustrated by Tim Bowers, about an unnamed "portie."
+In early June, Algonquin will release First Dogs: American Presidents and Their Best Friends  by Roy Rowan ($9.95, trade paperback). It features 100 photographs, including photos of Bo and the Bush Scottish terriers.
+
+var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+var yahooBuzzBadgeType = 'text';
+
+var sclListBottom = "";
+sclListBottom +='<div id="social2">';
+sclListBottom +='<div id="sclBtnInfoBottom"></div>';
+
+sclListBottom +='<div class="socialdigg">';
+sclListBottom +='<ul id="spritemenu2" class="socialList2">';
+
+/*sclListBottom +='<span id="sprite2"><span id="yahooBuzzBadge-0"><!-- this element will be replaced --></span></span>';*/
+
+sclListBottom +='<span id="sprite16">';
+sclListBottom +='<span><a href="http://mixx.com/submit/story?page_url='+storyURL+'" onClick="uoTrack(\'mixx\')" target="mixx"><span class="spriteImage sprite16">&nbsp;</span>Mixx</a></span>';
+
+sclListBottom +='<span class="scDivider"></span>';
+
+sclListBottom +='<span id="sprite5">';
+sclListBottom +='<span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook" title="Facebook"><span class="spriteImage sprite5">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite18">';
+sclListBottom +='<span><a href="'+twtLink+'" target="_blank"'+'><span class="spriteImage sprite18">&nbsp;</span></span></span><'+'/a>';
+
+sclListBottom +='<span id="sprite13">';
+sclListBottom +='<span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark" title="Fark"><span class="spriteImage sprite13">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite1">';
+sclListBottom +='<span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg" title="Digg"><span class="spriteImage sprite1">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite4">';
+sclListBottom +='<span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit" title="Reddit"><span class="spriteImage sprite4">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+//new additions
+sclListBottom +='<span id="sprite12">';
+sclListBottom +='<span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace" title="MySpace"><span class="spriteImage sprite12">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite14">';
+sclListBottom +='<span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'stumbleupon\')" target="stumbleupon" title="StumbleUpon"><span class="spriteImage sprite14">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite15">';
+sclListBottom +='<span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller" title="Propeller"><span class="spriteImage sprite15">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite17">';
+sclListBottom +='<span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin" title="LinkedIn"><span class="spriteImage sprite17">&nbsp;</span></a></span>';
+
+sclListBottom +='</ul>';
+sclListBottom +='</div>';
+sclListBottom +='<div style="clear:both"></div>';
+sclListBottom +='</div>';
+document.write(sclListBottom);
+
+
+
+
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM'));
+
+
+
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+To report corrections and clarifications, contact Reader Editor Brent Jones. For publication consideration in the newspaper, send comments to letters@usatoday.com. Include name, phone number, city and state for verification. To view our corrections, go to corrections.usatoday.com.
+
+
+Guidelines: You share in the USA TODAY community, so please keep your comments smart and civil.  Don't attack other readers personally, and keep your language decent.  Use the "Report Abuse" button to make a difference. Read more.
+
+
+
+OAS_AD("FloatBottom");
+
+
+
+
+OAS_AD("Bottom728x90");
+Newspaper Home Delivery - Subscribe Today
+
+
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+
+
+
+
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+
+
+
+Copyright 2011 USA TODAY, a division of Gannett Co. Inc.
+
+<!--
+usat.page.addLoadEvent(doLoad);
+//-->
+
+
+
+
+
+
+  Cars  Auto 
+  Financing  Event 
+  Tickets  Jobs  Real 
+  Estate  Online 
+  Degrees Shopping
+
+  Cars  Auto 
+  Financing  Event 
+  Tickets  Jobs  Real 
+  Estate  Online 
+  Degrees Shopping
+SearchHow do I find it?Subscribe to paper 
+How do I find it?Subscribe to paper OAS_AD("Top728x90");OAS_AD("Top728x90");OAS_AD("Top728x90");OAS_AD("Top728x90");OAS_AD("Top728x90");
+
+
+
+Home
+News
+Travel
+Money
+Sports
+Life
+Tech
+Weather
+
+
+function change_lbRule()
+{
+document.getElementById("lbRuleControl").style.borderColor = "#FFFFFF";
+document.getElementById("lbRuleControl").style.marginBottom = "0";
+document.getElementById("lbRuleControl").style.marginTop = "18";
+document.getElementById("ad_leaderboard").style.marginBottom = "8";
+}
+if (document.getElementById("lbRuleControl")&&document.getElementById("ad_leaderboard")){change_lbRule()};
+
+
+
+
+
+Home
+News
+Travel
+Money
+Sports
+Life
+Tech
+Weather
+
+
+Home
+News
+Travel
+Money
+Sports
+Life
+Tech
+Weather
+
+
+
+Life »
+Books
+
+Top 150 Books
+Shop for Books
+
+
+
+
+
+Life »
+Books
+
+Top 150 Books
+Shop for Books
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OAS_AD("Links1");
+
+
+
+
+
+
+
+OAS_AD("Poster3");OAS_AD("PosterBig");OAS_AD("VerticalBanner");
+
+
+
+
+
+OAS_AD("Links2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var showReprintSSI="showReprintSSI";					
+
+function RightslinkPopUp(){	     
+var url = "https://s100.copyright.com/AppDispatchServlet"; 
+var location = url 
++ "?publisherName=" + escape( "USATODAY" )		// required, hard-coded
++ "&publication=" + escape( "USATODAY" )             	// required, hard-coded 
++ "&title=" + escape( "Bo takes office as 'Commander in Leash' in new book " )  // required
++ "&publicationDate=" + escape( "4/15/2009 3:20:30 PM") 		// required
++ "&author=" + escape( "By Bob Minzesheimer and Craig Wilson, USA TODAY" ) 
++ "&contentID="	+ escape( "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm" )	// required
++ "&orderBeanReset=true";					// required, hard-coded                          		                 
+PopUp = window.open( location,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");   
+}
+Bo takes office as 'Commander in Leash' in new book
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM')); | Comment  | Recommend 
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Enlarge
+
+
+
+
+
+
+The children's book Bo: America's Commander in Leash, written by Naren Aryal and illustrated by Danny Moore, arrives in stores next week.
+
+
+
+
+
+
+ EnlargeBy Danny Moore, Mascot BooksBo goes for a romp in the White House in Bo: America's Commander in Leash.  EnlargeBy Jack Gruber, USA TODAY President Obama and first lady Michelle Obama walk with daughters Malia, left, and Sasha as they show off Bo to the press at the White House on Tuesday.
+
+var storyURL = "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm";
+var storyTitle = "Bo takes office as 'Commander in Leash' in new book";
+
+
+document.write('<scr' + 'ipt type="text/javascript" src="http://i.usatoday.net/asp/usatly/handler.ashx?storyid=' + tagID + '&longUrl=' + storyURL + '"><\/scr' + 'ipt>');
+
+
+	if (typeof(articleSummary) == 'undefined'){
+		var articleSummary ="";
+	}
+
+	<!-- yahoobuzz script -->
+	var articleSource = "USATODAY.com";
+	var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+	var yahooBuzzBadgeType = 'text';
+	
+	<!-- twitter script -->
+	var twtUrl    = usatlyshorturl;
+	var maxLength = 140 - (twtUrl.length + 1);
+	var twtSource = 'RT @USATODAY'
+	if (storyTitle.length > maxLength) {
+		storyTitle = storyTitle.substr(0, (maxLength - 5))+'...';
+	}
+	var twtLink = 'http://twitter.com/home?status='+encodeURIComponent( twtSource  + ' ' + storyTitle + ' ' +  twtUrl );
+
+	<!-- myspace script -->
+	function GetThis(T, C, U, L)
+	{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T)
+	+ '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	window.open(targetUrl);
+	}
+
+	var sclListTop = "";
+
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+	sclListTop +='  <li class="sharing-bg">Share</li>';
+
+	/*sclListTop +='  <li id="sprite0" ><span id="yahooBuzzBadge"><!-- this element will be replaced --></span></li>';*/
+	sclListTop +='  <li id="sprite16"><span class="spriteImage sprite16">&nbsp;</span><span><a href="http://mixx.com/submit/story?page_url='+storyURL+'&amp;partner=usat" onClick="uoTrack(\'mixx\')" target="mixx">Add to Mixx</a></span></li>';
+	sclListTop +='  <li id="sprite5"><span class="spriteImage sprite5">&nbsp;</span><span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook">Facebook</a></span></li>';
+	sclListTop +='  <li id="sprite18"><span class="spriteImage sprite18">&nbsp;</span><span><a href="'+twtLink+'" target="_blank"'+'>Twitter<'+'/a></span></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="share-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+
+	sclListTop +='      <li id="sprite13"><span class="spriteImage sprite13">&nbsp;</span><span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark">Fark</a></span></li>';
+	sclListTop +='      <li id="sprite1"><span class="spriteImage sprite1">&nbsp;</span><span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg">Digg</a></span></li>';
+	sclListTop +='      <li id="sprite4"><span class="spriteImage sprite4">&nbsp;</span><span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit">Reddit</a></span></li>';
+	sclListTop +='      <li id="sprite12"><span class="spriteImage sprite12">&nbsp;</span><span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace">MySpace</a></span></li>';
+	sclListTop +='      <li id="sprite14"><span class="spriteImage sprite14">&nbsp;</span><span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+
+	'" uoTrack(\'stumbleupon\')" target="stumbleupon">StumbleUpon</a></span></li>';
+	sclListTop +='      <li id="sprite15"><span class="spriteImage sprite15">&nbsp;</span><span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller">Propeller</a></span></li>';
+	sclListTop +='      <li id="sprite17"><span class="spriteImage sprite17">&nbsp;</span><span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin">LinkedIn</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+	sclListTop +='</div>';
+	jQuery("#topSocialButtons").append(sclListTop);
+
+
+	jQuery(".share-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+jQuery(function() {
+	jQuery.ajax({ type: "GET", url: "/marketing/rss/settings.xml", dataType: "xml", success: BuildSubscribeButtons });
+
+});
+
+function BuildSubscribeButtons(xml) {
+
+	// Build SSTS array
+	var url = document.location.toString();
+	var urlArray = url.split("/")
+	var nurl = "";
+
+	for (i = 3; i < urlArray.length - 1; i++)
+	{				
+		if(i<urlArray.length-2){
+			nurl += urlArray[i] + "|";
+		}
+		else
+		{
+			nurl += urlArray[i];
+		}
+	}
+	var feedid = "";
+	var feedname = "";
+	var idx = 1;
+
+	while (feedid == "" && idx>0) {
+		idx = nurl.indexOf('|');
+		jQuery(xml).find('add').each(function(){
+			if (jQuery(this).attr('key') == nurl) {
+				feedid = jQuery(this).attr('value');
+			}
+		});
+		if (feedid == "") {
+			nurl = nurl.replace(/(.*)\|(.*)/,"$1");
+		}
+	}
+
+	jQuery(xml).find('add').each(function(){
+		if (jQuery(this).attr('key') == feedid) {
+			feedname = jQuery(this).attr('value');
+		}
+	});
+
+
+	if (feedname == "") feedname = "usatoday-NewsTopStories.xml";
+
+	var sclListTop = "";
+	sclListTop +='<div class="socialContainer">';
+	sclListTop +=' <ul id="spritemenu" class="socialList">';
+
+	<!-- divider -->
+	sclListTop +='  <li class="sharing-bg">Subscribe</li>';
+	<!-- subscribe buttons -->
+	sclListTop +='  <li id="sprite-my"><span class="spriteImage sprite-my">&nbsp;</span><span><a href="' + 'http://add.my.yahoo.com/rss?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myyahoo\')" target="myyahoo">myYahoo</a></span></li>';
+	sclListTop +='  <li id="sprite-ig"><span class="spriteImage sprite-ig">&nbsp;</span><span><a href="' + 'http://fusion.google.com/add?feedurl=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'igoogle\')" target="igoogle">iGoogle</a></span></li>';
+
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div class="social-wrapper">';
+	sclListTop +='  <div id="social-treeview-wrapper">';
+	sclListTop +='   <ul class="subscribe-nav">';
+	sclListTop +='    <li>More';
+
+	sclListTop +='     <ul id="spritemenu" class="socialList">';
+	sclListTop +='      <li id="sprite-nv"><span class="spriteImage sprite-nv">&nbsp;</span><span><a href="' + 'http://www.netvibes.com/subscribe.php?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'netvibes\')" target="netvibes">Netvibes</a></span></li>';
+	sclListTop +='      <li id="sprite-ma"><span class="spriteImage sprite-ma">&nbsp;</span><span><a href="' + 'http://favorites.my.aol.com/ffclient/AddFeed/?url=http://rssfeeds.usatoday.com/' + escape(feedname) + '" uoTrack(\'myaol\')" target="myaol">myAOL</a></span></li>';
+
+	sclListTop +='     </ul>';
+	sclListTop +='    </li>';
+	sclListTop +='   </ul>';
+	sclListTop +='  </div>';
+	sclListTop +=' </div>';
+
+	sclListTop +=' <ul class="whatsthis">';
+	<!-- what's this -->
+	sclListTop +='  <li class="socialFoot"><a href="#open-share-help" onClick="document.getElementById(\'sclBtnInfo\').style.visibility=\'visible\';document.getElementById(\'Adv6\').style.display=\'none\';usatAj.ahah(\'sclBtnInfo\', null, \'http://www.usatoday.com/marketing/socialhelp-v1.htm\', null);" title="What\'s this"></a></li>';
+	sclListTop +=' </ul>';
+
+	sclListTop +=' <div id="sclBtnInfo"></div>';
+	sclListTop +='</div>';
+
+	jQuery("#topSocialButtons").append(sclListTop);
+	jQuery(".subscribe-nav").treeview({control: ".treecontrol",animated: "medium",collapsed: true});
+}
+
+
+By Bob Minzesheimer and Craig Wilson, USA TODAY
+Bo, the Obamas' 6-month-old Portuguese water dog, proved Tuesday that he has "star quality" with his rambunctious debut at the White House. And now he, and the president, will star in the children's book Bo, America's Commander in Leash by Naren Aryal, illustrated by Danny Moore (Mascot Books), expected to be in stores next week.
+And what a busy boy Bo is! The book begins with Bo stealing the president's letter opener, and he's off and running for the next 25 pages. Flying off the Obama girls' swing. Running from bees near the first lady's vegetable garden. Putting green dye in the fountain for St. Patrick's Day. He even serves up a summer burger to Vice President Biden. 
+Dog lovers will be most amused by the fact that Bo, like most dogs, loves to stick his head out of a vehicle's window to catch the breeze. No car for Bo, though. This time Bo is enjoying the view and breeze from the window of the president's helicopter.
+It all ends with Bo, exhausted by his day's activities at 1600 Pennsylvania Ave., dreaming about the lucky White House pets who have preceded him.
+The $14.95 book, aimed at kids 4 to 10, has been in the works for two months, says Aryal, publisher of Mascot, which specializes in books about team and school mascots. Aryal says he wrote a story narrated by a mischievous White House puppy and added details once Bo's identity was known. (The book is also available from mascotbooks.com.) 
+
+Bo joins a parade of books capitalizing on the first puppy. Already out: Which Puppy? by Kate Feiffer, illustrated by Jules Feiffer, about a contest to live in the White House, and First Dog by J. Patrick Lewis and Beth Zappitello, illustrated by Tim Bowers, about an unnamed "portie."
+In early June, Algonquin will release First Dogs: American Presidents and Their Best Friends  by Roy Rowan ($9.95, trade paperback). It features 100 photographs, including photos of Bo and the Bush Scottish terriers.
+
+var yahooBuzzArticleId = 'usatoday:'+storyURL+'?csp=34';
+var yahooBuzzBadgeType = 'text';
+
+var sclListBottom = "";
+sclListBottom +='<div id="social2">';
+sclListBottom +='<div id="sclBtnInfoBottom"></div>';
+
+sclListBottom +='<div class="socialdigg">';
+sclListBottom +='<ul id="spritemenu2" class="socialList2">';
+
+/*sclListBottom +='<span id="sprite2"><span id="yahooBuzzBadge-0"><!-- this element will be replaced --></span></span>';*/
+
+sclListBottom +='<span id="sprite16">';
+sclListBottom +='<span><a href="http://mixx.com/submit/story?page_url='+storyURL+'" onClick="uoTrack(\'mixx\')" target="mixx"><span class="spriteImage sprite16">&nbsp;</span>Mixx</a></span>';
+
+sclListBottom +='<span class="scDivider"></span>';
+
+sclListBottom +='<span id="sprite5">';
+sclListBottom +='<span><a href="http://www.facebook.com/sharer.php?u='+storyURL+'&amp;title='+storyTitle+'" onClick="window.open(\'\',\'facebook\',\'width=642,height=436,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'facebook\')" target="facebook" title="Facebook"><span class="spriteImage sprite5">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite18">';
+sclListBottom +='<span><a href="'+twtLink+'" target="_blank"'+'><span class="spriteImage sprite18">&nbsp;</span></span></span><'+'/a>';
+
+sclListBottom +='<span id="sprite13">';
+sclListBottom +='<span><a href="http://cgi.fark.com/cgi/fark/farkit.pl?u='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'farkit\')" target="fark" title="Fark"><span class="spriteImage sprite13">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite1">';
+sclListBottom +='<span><a href="http://digg.com/submit?phase=2&amp;url='+storyURL+'&amp;title='+storyTitle+'&amp;topic=" onClick="uoTrack(\'digg\')" target="digg" title="Digg"><span class="spriteImage sprite1">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite4">';
+sclListBottom +='<span><a href="http://reddit.com/submit?url='+storyURL+'&amp;title='+storyTitle+'" onClick="uoTrack(\'reddit\')" target="reddit" title="Reddit"><span class="spriteImage sprite4">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+//new additions
+sclListBottom +='<span id="sprite12">';
+sclListBottom +='<span><a href="http://www.myspace.com/index.cfm?fuseaction=postto&u='+storyURL+'&amp;t='+storyTitle+'" onClick="window.open(\'\',\'myspace\',\'width=800,height=600,left=0,top=0,resizable,scrollbars=yes\');uoTrack(\'myspace\')" target="myspace" title="MySpace"><span class="spriteImage sprite12">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite14">';
+sclListBottom +='<span><a href="http://www.stumbleupon.com/submit?url='+storyURL+'&amp;h='+storyTitle+'" uoTrack(\'stumbleupon\')" target="stumbleupon" title="StumbleUpon"><span class="spriteImage sprite14">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite15">';
+sclListBottom +='<span><a href="http://www.propeller.com/story/submit/?url='+storyURL+'&amp;title='+storyTitle+'" uoTrack(\'propeller\')" target="propeller" title="Propeller"><span class="spriteImage sprite15">&nbsp;</span></a></span>';
+sclListBottom +='</span>';
+
+sclListBottom +='<span id="sprite17">';
+sclListBottom +='<span><a href="http://www.linkedin.com/shareArticle?mini=true&url='+storyURL+'&amp;title='+storyTitle+'&amp;summary='+articleSummary+'&amp;source='+articleSource+'" onClick="window.open(\'\',\'linkedin\',\'width=520,height=570,left=0,top=0,resizable,scrollbars=yes\'); uoTrack(\'linkedin\')" target="linkedin" title="LinkedIn"><span class="spriteImage sprite17">&nbsp;</span></a></span>';
+
+sclListBottom +='</ul>';
+sclListBottom +='</div>';
+sclListBottom +='<div style="clear:both"></div>';
+sclListBottom +='</div>';
+document.write(sclListBottom);
+
+
+
+
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM'));
+
+
+
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+To report corrections and clarifications, contact Reader Editor Brent Jones. For publication consideration in the newspaper, send comments to letters@usatoday.com. Include name, phone number, city and state for verification. To view our corrections, go to corrections.usatoday.com.
+
+
+Guidelines: You share in the USA TODAY community, so please keep your comments smart and civil.  Don't attack other readers personally, and keep your language decent.  Use the "Report Abuse" button to make a difference. Read more.
+
+
+
+OAS_AD("FloatBottom");
+
+
+
+
+OAS_AD("Bottom728x90");
+Newspaper Home Delivery - Subscribe Today
+
+
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+
+
+
+
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+
+
+
+Copyright 2011 USA TODAY, a division of Gannett Co. Inc.
+
+<!--
+usat.page.addLoadEvent(doLoad);
+//-->
+
+
+
+OAS_AD("Links1");OAS_AD("Poster3");OAS_AD("PosterBig");OAS_AD("VerticalBanner");OAS_AD("Links2");
+
+
+
+
+
+
+
+
+
+var showReprintSSI="showReprintSSI";					
+
+function RightslinkPopUp(){	     
+var url = "https://s100.copyright.com/AppDispatchServlet"; 
+var location = url 
++ "?publisherName=" + escape( "USATODAY" )		// required, hard-coded
++ "&publication=" + escape( "USATODAY" )             	// required, hard-coded 
++ "&title=" + escape( "Bo takes office as 'Commander in Leash' in new book " )  // required
++ "&publicationDate=" + escape( "4/15/2009 3:20:30 PM") 		// required
++ "&author=" + escape( "By Bob Minzesheimer and Craig Wilson, USA TODAY" ) 
++ "&contentID="	+ escape( "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm" )	// required
++ "&orderBeanReset=true";					// required, hard-coded                          		                 
+PopUp = window.open( location,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");   
+}
+Bo takes office as 'Commander in Leash' in new book
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM')); | Comment  | Recommend 
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var showReprintSSI="showReprintSSI";					
+
+function RightslinkPopUp(){	     
+var url = "https://s100.copyright.com/AppDispatchServlet"; 
+var location = url 
++ "?publisherName=" + escape( "USATODAY" )		// required, hard-coded
++ "&publication=" + escape( "USATODAY" )             	// required, hard-coded 
++ "&title=" + escape( "Bo takes office as 'Commander in Leash' in new book " )  // required
++ "&publicationDate=" + escape( "4/15/2009 3:20:30 PM") 		// required
++ "&author=" + escape( "By Bob Minzesheimer and Craig Wilson, USA TODAY" ) 
++ "&contentID="	+ escape( "http://www.usatoday.com/life/books/news/2009-04-15-bo-commander-in-leash_N.htm" )	// required
++ "&orderBeanReset=true";					// required, hard-coded                          		                 
+PopUp = window.open( location,  "Rightslink", "toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550");   
+}
+Bo takes office as 'Commander in Leash' in new book
+
+
+
+
+Posted document.write(niceDate('4/15/2009 3:20 PM')); | Comment  | Recommend 
+E-mail | Print | 
+
+
+    .addthis_button_email span {display: none;}
+    .addthis_button_print span {display: none;}
+
+
+<!--
+var tempshowReprintSSI = "";
+if(window.showReprintSSI)
+{
+tempshowReprintSSI = showReprintSSI;
+}
+					if ((navigator.os.indexOf("Mac")==1) && (navigator.type==2)) 
+					{	// macIE						
+						if((document.forms.hiddenValForm.hiddenMacPrintValue.value == "0") || (document.forms.hiddenValForm.hiddenMacPrintValue.value=="2"))
+						{						
+							if(document.forms.hiddenValForm.hiddenMacPrintValue.value == "2"){			
+								document.forms.hiddenValForm.hiddenMacPrintValue.value = "0";	
+							}	
+							else{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "1";	
+							}									
+							if(tempshowReprintSSI == 'showReprintSSI'){
+								writeReprintLink();	
+							}
+							writeSubscribeToLink();							
+						}
+						else
+						{
+							document.forms.hiddenValForm.hiddenMacPrintValue.value = "2";	
+						}
+					}
+					else
+					{// non macIE - write top and bottom	
+					
+						if(tempshowReprintSSI == 'showReprintSSI'){
+							writeReprintLink();
+						}
+						writeSubscribeToLink();	
+					}				
+							
+				function writeReprintLink(){
+					document.write('<a href="javaScript:RightslinkPopUp()">Reprints &amp; Permissions</a> | ');
+				}
+				function writeSubscribeToLink(){	
+				var url = document.location.toString();
+				var urlArray = url.split("/")
+				var nurl = "";
+				for (i = 3; i < urlArray.length - 1; i++)
+				{				
+					if(i<urlArray.length-2){
+						nurl += urlArray[i] + "|";
+					}
+					else
+					{
+						nurl += urlArray[i];
+					}				
+				}				
+				document.write('<a href="http://asp.usatoday.com/marketing/rss/rsstrans.aspx?ssts=' + escape(nurl) + '"><img src="http://images.usatoday.com/marketing/_images/rssbox.gif" width="36" height="14" border="0" align="absmiddle" alt="Subscribe to stories like this" style="border:0; margin:0; padding:2px 0 0 0"/></a>');					
+				}
+//-->					
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Enlarge
+
+
+
+
+
+
+The children's book Bo: America's Commander in Leash, written by Naren Aryal and illustrated by Danny Moore, arrives in stores next week.
+
+
+
+
+
+
+ EnlargeBy Danny Moore, Mascot BooksBo goes for a romp in the White House in Bo: America's Commander in Leash.  EnlargeBy Jack Gruber, USA TODAY President Obama and first lady Michelle Obama walk with daughters Malia, left, and Sasha as they show off Bo to the press at the White House on Tuesday.By Bob Minzesheimer and Craig Wilson, USA TODAYBo, the Obamas' 6-month-old Portuguese water dog, proved Tuesday that he has "star quality" with his rambunctious debut at the White House. And now he, and the president, will star in the children's book Bo, America's Commander in Leash by Naren Aryal, illustrated by Danny Moore (Mascot Books), expected to be in stores next week.Guidelines: You share in the USA TODAY community, so please keep your comments smart and civil.  Don't attack other readers personally, and keep your language decent.  Use the "Report Abuse" button to make a difference. Read more.
+OAS_AD("FloatBottom");OAS_AD("FloatBottom");
+OAS_AD("Bottom728x90");OAS_AD("Bottom728x90");
+Newspaper Home Delivery - Subscribe Today
+
+
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+
+
+
+
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+
+
+
+Copyright 2011 USA TODAY, a division of Gannett Co. Inc.
+
+<!--
+usat.page.addLoadEvent(doLoad);
+//-->
+
+Newspaper Home Delivery - Subscribe Today
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+
+Home • News • Travel • Money • Sports • Life • Tech • Weather 
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+About USATODAY.com: Site Map | FAQ
+ | Contact Us | Jobs with Us | Terms of Service
+Privacy Policy/Your California Privacy Right | Advertise | Press Room | Developer | Media Lounge | Reprints and Permissions
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+News Your Way:
+ 
+Mobile News |
+ 
+Email News |
+ 
+Add USATODAY.com RSS feeds |
+ 
+Twitter |
+ 
+Podcasts |
+ 
+ Widgets
+Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
+
+
+Copyright 2011 USA TODAY, a division of Gannett Co. Inc.
+
+<!--
+usat.page.addLoadEvent(doLoad);
+//-->
+

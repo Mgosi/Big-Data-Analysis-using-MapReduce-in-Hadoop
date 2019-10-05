@@ -1,0 +1,2443 @@
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019.Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019
+
+
+
+        //<![CDATA[
+        //replace the first parameter with "true" to use popup notifications
+        AjaxCart.init(true, '#utils #basket-qty', '', '#basketPopup', '#utils #bookshelf-qty', '#bookshelfBasketPopup', '#utils #subscription-qty', '#subscriptionBasketPopup');
+        //]]>
+    
+
+
+
+         
+    
+
+         
+    
+
+         
+        
+    
+
+Contact Us
+Help
+Offers
+Investors
+
+
+Select your Bloomsbury location
+
+
+UK
+US
+Australia
+India
+ 
+
+     var selectedLanguageId;
+
+        $(document).ready(function () {
+            $("#cancel").click(function (e) {
+                e.preventDefault();
+                $('#location-change-warning-window').data('tWindow').close();
+                resetLanguageDropdown();
+            });
+        });
+
+         function resetLanguageDropdown() {
+            $("#customerlanguage").val('1');
+        }
+        
+        function showCartWarning() {
+                $('#location-change-warning-window').data('tWindow').center().open();
+            }
+
+        function onLanguageChanged() {
+
+       //Check if language selection requires shopping cart items to be removed or not
+        $.ajax({
+            cache: false,
+            type: "POST",
+            url: "/us/common/IsClearCartOnLanguageChange",
+            dataType: "json",
+            traditional: true,
+            beforeSend :  function(xhr){
+                displayAjaxLoading(true);
+            },
+            success: function (result) {
+                if (result.Success == "1") {
+                    showCartWarning();
+                }
+                else if (result.Success == "0") {
+                    ChangeBloomsburyLocation();
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                displayBarNotification(xhr, 'error', 3500);
+            },
+            complete: function (xhr, textStatus) {
+                displayAjaxLoading(false);
+            }
+        });
+
+        }
+
+        function selectLanguage(){
+            var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = selectedCustomerLanguage.options[selectedCustomerLanguage.selectedIndex].value;
+            onLanguageChanged();
+        }
+
+        function selectMobileChangelanguage(){
+            //var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = $(".mobile-customerlanguage").val();
+            onLanguageChanged();
+        }
+
+
+        function ChangeBloomsburyLocation()
+        {         
+            var changeLanguageActionUrl = '/us/commonaction/SetLanguage/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+
+        function languageChangeConfirmed() {
+            var changeLanguageActionUrl = '/us/commonaction/ClearCartOnLanguageChange/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+    
+ You are about to change your locationClose
+ 
+
+
+                    Items in your cart cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                
+
+
+
+Continue
+Cancel
+
+
+
+ 
+
+
+
+
+         
+    
+
+         
+    
+
+         
+        
+    
+ 
+  
+
+
+
+
+    function onDataBindingAutoSuggest(e) {
+        var gid = $('#Gid').val();
+        if ($('#q').val().length > 2 && gid != '3') {
+            var searchModel = {
+                Gid: gid,
+                Q: $('#q').val()
+            };
+            e.data = searchModel;
+        }
+        else {
+            return false;
+        }
+    }
+
+    function onErrorAutoSuggest(args) {
+        //the current XMLHttpRequest object
+        var xhr = args.XMLHttpRequest;
+
+        var title = xhr.responseText.split("<title>")[1].split("</title>")[0];
+        alert(title);
+    }
+
+
+
+
+
+
+
+in
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+
+
+
+
+    $(function () {
+        var $langauge = $('#customerlanguage').clone();
+        $langauge.attr('class', 'mobile-customerlanguage');
+        $langauge.attr('onchange', 'selectMobileChangelanguage();');
+        $("#mobile-location-select").html($langauge);
+        $(".toggel-search").click(function () {
+            $("#searchForm").fadeToggle();
+        });
+    });
+ 
+Location
+
+
+
+
+Sign In
+Register
+My Cart
+            (0)
+
+
+
+
+Bookshelf
+            (0)
+
+
+
+
+My Subscriptions
+            (0)
+
+
+
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+//    function CartRedirection() {
+//        debugger;
+//        alert('hii');
+//    }
+
+
+
+
+                Your Bookshelf is empty!     
+            
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+
+ 
+Academic
+
+
+Authors
+
+
+Digital Resources
+
+
+Instructors & Students
+
+
+Librarians & Researchers
+
+
+Series
+
+
+Anthropology
+
+
+Architecture
+
+
+Art & Visual Culture
+
+
+Biblical Studies
+
+
+Business & Management
+
+
+Classical Studies & Archaeology
+
+
+Design
+
+
+Drama & Performance Studies
+
+
+Economics
+
+
+Education
+
+
+Fashion
+
+
+Film & Media Studies
+
+
+Food
+
+
+Geography
+
+
+History
+
+
+Interior Design and Interior Architecture
+
+
+Law
+
+
+Linguistics
+
+
+Literary Studies
+
+
+Middle East
+
+
+Music & Sound Studies
+
+
+Philosophy
+
+
+Photography
+
+
+Politics & International Relations
+
+
+Psychology
+
+
+Religious Studies
+
+
+Research Methods & Study Skills
+
+
+Sociology
+
+
+Textiles
+
+
+Theology
+
+
+
+
+Children & Teen
+
+
+Awards
+
+
+Board Books
+
+
+Chapter Books
+
+
+Middle Grade
+
+
+Non-Fiction
+
+
+Picture Books
+
+
+Teachers, Librarians, & Parents
+
+
+Teens
+
+
+
+
+Fiction
+
+
+Adventure
+
+
+Authors & Events
+
+
+General Fiction
+
+
+Graphic Novels
+
+
+Historical Fiction
+
+
+Horror
+
+
+Mystery & Thriller
+
+
+Poetry
+
+
+Reading Guides
+
+
+Romance
+
+
+Science Fiction
+
+
+Short Stories
+
+
+
+
+Non-Fiction
+
+
+The Arts
+
+
+Biography & Memoir
+
+
+Business & Management
+
+
+Cooking & Food
+
+
+Crafts & Hobbies
+
+
+Current Events & Politics
+
+
+Drama
+
+
+General
+
+
+Graphic Non-fiction
+
+
+Health & Psychology
+
+
+History
+
+
+Humor
+
+
+Literary Criticism
+
+
+Natural History
+
+
+Nautical
+
+
+Parenting
+
+
+Philosophy & Religion
+
+
+Pop Culture
+
+
+Popular Science
+
+
+Reference & Yearbooks
+
+
+Science & Nature
+
+
+Sports & Fitness
+
+
+Travel
+
+
+Visual Arts
+
+
+Writing
+
+
+Wisden
+
+
+
+
+Authors
+
+
+Author Events
+
+
+Submissions
+
+
+
+
+Communities
+
+
+Newsletters
+
+
+Reading Groups
+
+
+Teachers, Librarians, & Parents
+
+
+
+
+Company
+
+
+About Us
+
+
+Announcements
+
+
+Bloomsbury Bespoke
+
+
+Bloomsbury Content Services
+
+
+Careers
+
+
+Catalogs
+
+
+Contact Us
+
+
+Investor Relations
+
+
+Permissions
+
+
+Rights
+
+
+Trade
+
+
+
+
+
+
+
+
+
+
+
+Twitter  Facebook  Instagram  Pinterest  YouTube  Snapchat  LinkedIn  Sign up for the latest news and offers 
+
+
+
+
+
+    $(document).ready(function () {
+        $("a#share_newsletter").attr('href', '/us/newsletter');
+    });
+
+
+
+
+
+
+
+
+
+
+Bloomsbury Highlights
+
+
+
+        $(document).ready(function () {
+            $('#pc1234492').bxSlider(
+            {
+            slideMargin: 20,
+            hideControlOnEnd: true,
+            auto: true
+            }
+            );
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Women Talking
+
+
+
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+
+
+
+Latest Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+                    $(document).ready(function () {
+                        GetTwitter('BloomsburyPub', '/us/WidgetContent/GetTwitterFeed/BloomsburyPub', 'twitter-feed2686343');
+                    });
+                
+
+
+
+
+
+
+
+
+
+
+
+The Bloomsbury Group - Other SitesBloomsbury Content ServicesBloomsbury InstituteBloomsbury ProfessionalFairchild BooksHarry PotterHart PublishingIndependent Schools YearbookOsprey PublishingWhitaker'sWho's WhoWriters' and Artists' Yearbook Bloomsbury - Digital ProductsBerg Fashion LibraryBloomsbury Applied Visual ArtsBloomsbury Architecture LibraryBloomsbury CollectionsBloomsbury Cultural HistoryBloomsbury Design LibraryBloomsbury Education and Childhood StudiesBloomsbury Encyclopedia of PhilosophersBloomsbury Fashion CentralBloomsbury Food LibraryBloomsbury Popular MusicChurchill ArchiveDrama OnlineScreen StudiesBloomsbury OfficesLondon, UKNew Delhi, IndiaNew York, USASydney, Australia Bloomsbury Investor RelationsUseful LinksAbout UsCareersCookie PolicyHelpModern Slavery StatementsPrivacy PolicyTerms & ConditionsVentures Managed by BloomsburyArcadian Library OnlineIZA World of Labor Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019 
+
+
+
+
+
+
+CareersContact UsCookie PolicyHelpInvestorsPrivacy PolicySite MapTerms & ConditionsVisit Our Mobile Site 
+
+
+
+
+
+        © Bloomsbury Publishing Plc 2019.
+    
+
+
+
+
+
+
+
+
+
+            var policyUrl = '/us/privacy-policy';
+            var policyCookieName = 'bloomsbury_cookiespolicy_1_178163578';
+        
+
+
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. 
+
+
+
+
+
+                 It looks like you are located in Australia or New Zealand
+
+
+                        Close
+
+
+
+
+
+
+
+                                    Visit the Australia site
+
+
+
+                                    Continue on UK site
+
+
+
+
+
+
+
+
+
+    var isMobileDevice = 'False';
+    $(document).ready(function () {
+        $("#cookiedetailtable").click(function () {
+            if (isMobileDevice == "False") {
+                $("#BacktoCookiespolicy").hide();
+
+            }
+        });
+
+
+
+    });
+
+
+
+
+
+
+        //<![CDATA[
+        //replace the first parameter with "true" to use popup notifications
+        AjaxCart.init(true, '#utils #basket-qty', '', '#basketPopup', '#utils #bookshelf-qty', '#bookshelfBasketPopup', '#utils #subscription-qty', '#subscriptionBasketPopup');
+        //]]>
+    
+
+
+
+         
+    
+
+         
+    
+
+         
+        
+    
+
+Contact Us
+Help
+Offers
+Investors
+
+
+Select your Bloomsbury location
+
+
+UK
+US
+Australia
+India
+ 
+
+     var selectedLanguageId;
+
+        $(document).ready(function () {
+            $("#cancel").click(function (e) {
+                e.preventDefault();
+                $('#location-change-warning-window').data('tWindow').close();
+                resetLanguageDropdown();
+            });
+        });
+
+         function resetLanguageDropdown() {
+            $("#customerlanguage").val('1');
+        }
+        
+        function showCartWarning() {
+                $('#location-change-warning-window').data('tWindow').center().open();
+            }
+
+        function onLanguageChanged() {
+
+       //Check if language selection requires shopping cart items to be removed or not
+        $.ajax({
+            cache: false,
+            type: "POST",
+            url: "/us/common/IsClearCartOnLanguageChange",
+            dataType: "json",
+            traditional: true,
+            beforeSend :  function(xhr){
+                displayAjaxLoading(true);
+            },
+            success: function (result) {
+                if (result.Success == "1") {
+                    showCartWarning();
+                }
+                else if (result.Success == "0") {
+                    ChangeBloomsburyLocation();
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                displayBarNotification(xhr, 'error', 3500);
+            },
+            complete: function (xhr, textStatus) {
+                displayAjaxLoading(false);
+            }
+        });
+
+        }
+
+        function selectLanguage(){
+            var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = selectedCustomerLanguage.options[selectedCustomerLanguage.selectedIndex].value;
+            onLanguageChanged();
+        }
+
+        function selectMobileChangelanguage(){
+            //var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = $(".mobile-customerlanguage").val();
+            onLanguageChanged();
+        }
+
+
+        function ChangeBloomsburyLocation()
+        {         
+            var changeLanguageActionUrl = '/us/commonaction/SetLanguage/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+
+        function languageChangeConfirmed() {
+            var changeLanguageActionUrl = '/us/commonaction/ClearCartOnLanguageChange/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+    
+ You are about to change your locationClose
+ 
+
+
+                    Items in your cart cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                
+
+
+
+Continue
+Cancel
+
+
+
+ 
+
+
+
+
+         
+    
+
+         
+    
+
+         
+        
+    
+ 
+  
+
+
+
+
+    function onDataBindingAutoSuggest(e) {
+        var gid = $('#Gid').val();
+        if ($('#q').val().length > 2 && gid != '3') {
+            var searchModel = {
+                Gid: gid,
+                Q: $('#q').val()
+            };
+            e.data = searchModel;
+        }
+        else {
+            return false;
+        }
+    }
+
+    function onErrorAutoSuggest(args) {
+        //the current XMLHttpRequest object
+        var xhr = args.XMLHttpRequest;
+
+        var title = xhr.responseText.split("<title>")[1].split("</title>")[0];
+        alert(title);
+    }
+
+
+
+
+
+
+
+in
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+
+
+
+
+    $(function () {
+        var $langauge = $('#customerlanguage').clone();
+        $langauge.attr('class', 'mobile-customerlanguage');
+        $langauge.attr('onchange', 'selectMobileChangelanguage();');
+        $("#mobile-location-select").html($langauge);
+        $(".toggel-search").click(function () {
+            $("#searchForm").fadeToggle();
+        });
+    });
+ 
+Location
+
+
+
+
+Sign In
+Register
+My Cart
+            (0)
+
+
+
+
+Bookshelf
+            (0)
+
+
+
+
+My Subscriptions
+            (0)
+
+
+
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+//    function CartRedirection() {
+//        debugger;
+//        alert('hii');
+//    }
+
+
+
+
+                Your Bookshelf is empty!     
+            
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+
+ 
+Academic
+
+
+Authors
+
+
+Digital Resources
+
+
+Instructors & Students
+
+
+Librarians & Researchers
+
+
+Series
+
+
+Anthropology
+
+
+Architecture
+
+
+Art & Visual Culture
+
+
+Biblical Studies
+
+
+Business & Management
+
+
+Classical Studies & Archaeology
+
+
+Design
+
+
+Drama & Performance Studies
+
+
+Economics
+
+
+Education
+
+
+Fashion
+
+
+Film & Media Studies
+
+
+Food
+
+
+Geography
+
+
+History
+
+
+Interior Design and Interior Architecture
+
+
+Law
+
+
+Linguistics
+
+
+Literary Studies
+
+
+Middle East
+
+
+Music & Sound Studies
+
+
+Philosophy
+
+
+Photography
+
+
+Politics & International Relations
+
+
+Psychology
+
+
+Religious Studies
+
+
+Research Methods & Study Skills
+
+
+Sociology
+
+
+Textiles
+
+
+Theology
+
+
+
+
+Children & Teen
+
+
+Awards
+
+
+Board Books
+
+
+Chapter Books
+
+
+Middle Grade
+
+
+Non-Fiction
+
+
+Picture Books
+
+
+Teachers, Librarians, & Parents
+
+
+Teens
+
+
+
+
+Fiction
+
+
+Adventure
+
+
+Authors & Events
+
+
+General Fiction
+
+
+Graphic Novels
+
+
+Historical Fiction
+
+
+Horror
+
+
+Mystery & Thriller
+
+
+Poetry
+
+
+Reading Guides
+
+
+Romance
+
+
+Science Fiction
+
+
+Short Stories
+
+
+
+
+Non-Fiction
+
+
+The Arts
+
+
+Biography & Memoir
+
+
+Business & Management
+
+
+Cooking & Food
+
+
+Crafts & Hobbies
+
+
+Current Events & Politics
+
+
+Drama
+
+
+General
+
+
+Graphic Non-fiction
+
+
+Health & Psychology
+
+
+History
+
+
+Humor
+
+
+Literary Criticism
+
+
+Natural History
+
+
+Nautical
+
+
+Parenting
+
+
+Philosophy & Religion
+
+
+Pop Culture
+
+
+Popular Science
+
+
+Reference & Yearbooks
+
+
+Science & Nature
+
+
+Sports & Fitness
+
+
+Travel
+
+
+Visual Arts
+
+
+Writing
+
+
+Wisden
+
+
+
+
+Authors
+
+
+Author Events
+
+
+Submissions
+
+
+
+
+Communities
+
+
+Newsletters
+
+
+Reading Groups
+
+
+Teachers, Librarians, & Parents
+
+
+
+
+Company
+
+
+About Us
+
+
+Announcements
+
+
+Bloomsbury Bespoke
+
+
+Bloomsbury Content Services
+
+
+Careers
+
+
+Catalogs
+
+
+Contact Us
+
+
+Investor Relations
+
+
+Permissions
+
+
+Rights
+
+
+Trade
+
+
+
+
+
+
+
+
+
+
+
+Twitter  Facebook  Instagram  Pinterest  YouTube  Snapchat  LinkedIn  Sign up for the latest news and offers 
+
+
+
+
+
+    $(document).ready(function () {
+        $("a#share_newsletter").attr('href', '/us/newsletter');
+    });
+
+
+
+
+
+
+
+
+
+
+Bloomsbury Highlights
+
+
+
+        $(document).ready(function () {
+            $('#pc1234492').bxSlider(
+            {
+            slideMargin: 20,
+            hideControlOnEnd: true,
+            auto: true
+            }
+            );
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Women Talking
+
+
+
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+
+
+
+Latest Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+                    $(document).ready(function () {
+                        GetTwitter('BloomsburyPub', '/us/WidgetContent/GetTwitterFeed/BloomsburyPub', 'twitter-feed2686343');
+                    });
+                
+
+
+
+
+
+
+
+
+
+
+
+The Bloomsbury Group - Other SitesBloomsbury Content ServicesBloomsbury InstituteBloomsbury ProfessionalFairchild BooksHarry PotterHart PublishingIndependent Schools YearbookOsprey PublishingWhitaker'sWho's WhoWriters' and Artists' Yearbook Bloomsbury - Digital ProductsBerg Fashion LibraryBloomsbury Applied Visual ArtsBloomsbury Architecture LibraryBloomsbury CollectionsBloomsbury Cultural HistoryBloomsbury Design LibraryBloomsbury Education and Childhood StudiesBloomsbury Encyclopedia of PhilosophersBloomsbury Fashion CentralBloomsbury Food LibraryBloomsbury Popular MusicChurchill ArchiveDrama OnlineScreen StudiesBloomsbury OfficesLondon, UKNew Delhi, IndiaNew York, USASydney, Australia Bloomsbury Investor RelationsUseful LinksAbout UsCareersCookie PolicyHelpModern Slavery StatementsPrivacy PolicyTerms & ConditionsVentures Managed by BloomsburyArcadian Library OnlineIZA World of Labor Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019 
+
+
+
+
+
+
+CareersContact UsCookie PolicyHelpInvestorsPrivacy PolicySite MapTerms & ConditionsVisit Our Mobile Site 
+
+
+
+
+
+        © Bloomsbury Publishing Plc 2019.
+    
+
+
+
+
+
+
+
+
+
+            var policyUrl = '/us/privacy-policy';
+            var policyCookieName = 'bloomsbury_cookiespolicy_1_178163578';
+        
+
+
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. 
+
+
+
+
+
+                 It looks like you are located in Australia or New Zealand
+
+
+                        Close
+
+
+
+
+
+
+
+                                    Visit the Australia site
+
+
+
+                                    Continue on UK site
+
+
+
+
+
+
+
+
+Select your Bloomsbury location
+
+
+UK
+US
+Australia
+India
+ 
+
+     var selectedLanguageId;
+
+        $(document).ready(function () {
+            $("#cancel").click(function (e) {
+                e.preventDefault();
+                $('#location-change-warning-window').data('tWindow').close();
+                resetLanguageDropdown();
+            });
+        });
+
+         function resetLanguageDropdown() {
+            $("#customerlanguage").val('1');
+        }
+        
+        function showCartWarning() {
+                $('#location-change-warning-window').data('tWindow').center().open();
+            }
+
+        function onLanguageChanged() {
+
+       //Check if language selection requires shopping cart items to be removed or not
+        $.ajax({
+            cache: false,
+            type: "POST",
+            url: "/us/common/IsClearCartOnLanguageChange",
+            dataType: "json",
+            traditional: true,
+            beforeSend :  function(xhr){
+                displayAjaxLoading(true);
+            },
+            success: function (result) {
+                if (result.Success == "1") {
+                    showCartWarning();
+                }
+                else if (result.Success == "0") {
+                    ChangeBloomsburyLocation();
+                }
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                displayBarNotification(xhr, 'error', 3500);
+            },
+            complete: function (xhr, textStatus) {
+                displayAjaxLoading(false);
+            }
+        });
+
+        }
+
+        function selectLanguage(){
+            var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = selectedCustomerLanguage.options[selectedCustomerLanguage.selectedIndex].value;
+            onLanguageChanged();
+        }
+
+        function selectMobileChangelanguage(){
+            //var selectedCustomerLanguage = document.getElementById('customerlanguage');
+            selectedLanguageId = $(".mobile-customerlanguage").val();
+            onLanguageChanged();
+        }
+
+
+        function ChangeBloomsburyLocation()
+        {         
+            var changeLanguageActionUrl = '/us/commonaction/SetLanguage/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+
+        function languageChangeConfirmed() {
+            var changeLanguageActionUrl = '/us/commonaction/ClearCartOnLanguageChange/languageplaceholder';
+            changeLanguageActionUrl = changeLanguageActionUrl.replace("languageplaceholder", selectedLanguageId);
+            setLocation(changeLanguageActionUrl);
+        }
+    
+ You are about to change your locationClose
+ 
+
+
+                    Items in your cart cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                
+
+
+
+Continue
+Cancel
+
+
+
+ 
+ You are about to change your locationClose
+ 
+
+
+                    Items in your cart cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                
+
+
+
+Continue
+Cancel
+
+
+
+  You are about to change your locationCloseClose
+ 
+
+
+                    Items in your cart cannot be carried over to a different region, and some products may not be available to order due to territorial rights
+                
+
+
+
+Continue
+Cancel
+
+
+
+   
+
+
+    function onDataBindingAutoSuggest(e) {
+        var gid = $('#Gid').val();
+        if ($('#q').val().length > 2 && gid != '3') {
+            var searchModel = {
+                Gid: gid,
+                Q: $('#q').val()
+            };
+            e.data = searchModel;
+        }
+        else {
+            return false;
+        }
+    }
+
+    function onErrorAutoSuggest(args) {
+        //the current XMLHttpRequest object
+        var xhr = args.XMLHttpRequest;
+
+        var title = xhr.responseText.split("<title>")[1].split("</title>")[0];
+        alert(title);
+    }
+
+
+
+
+
+
+
+in
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+
+
+
+
+    $(function () {
+        var $langauge = $('#customerlanguage').clone();
+        $langauge.attr('class', 'mobile-customerlanguage');
+        $langauge.attr('onchange', 'selectMobileChangelanguage();');
+        $("#mobile-location-select").html($langauge);
+        $(".toggel-search").click(function () {
+            $("#searchForm").fadeToggle();
+        });
+    });
+ 
+Location
+
+
+
+
+Sign In
+Register
+My Cart
+            (0)
+
+
+
+
+Bookshelf
+            (0)
+
+
+
+
+My Subscriptions
+            (0)
+
+
+
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+//    function CartRedirection() {
+//        debugger;
+//        alert('hii');
+//    }
+
+
+
+
+                Your Bookshelf is empty!     
+            
+
+
+
+
+
+                Your cart is empty!     
+            
+
+
+
+
+
+
+in
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+
+
+
+
+in
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+ The Whole Site
+ By Author
+By ISBN
+ By Title
+ By Category
+
+
+
+
+
+
+Twitter  Facebook  Instagram  Pinterest  YouTube  Snapchat  LinkedIn  Sign up for the latest news and offers 
+
+
+
+
+
+    $(document).ready(function () {
+        $("a#share_newsletter").attr('href', '/us/newsletter');
+    });
+
+
+
+Twitter  Facebook  Instagram  Pinterest  YouTube  Snapchat  LinkedIn  Sign up for the latest news and offers 
+
+
+Twitter  Facebook  Instagram  Pinterest  YouTube  Snapchat  LinkedIn  Sign up for the latest news and offers 
+
+
+
+
+
+
+
+
+Bloomsbury Highlights
+
+
+
+        $(document).ready(function () {
+            $('#pc1234492').bxSlider(
+            {
+            slideMargin: 20,
+            hideControlOnEnd: true,
+            auto: true
+            }
+            );
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Women Talking
+
+
+
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+
+
+
+Latest Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+                    $(document).ready(function () {
+                        GetTwitter('BloomsburyPub', '/us/WidgetContent/GetTwitterFeed/BloomsburyPub', 'twitter-feed2686343');
+                    });
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bloomsbury Highlights
+
+
+
+        $(document).ready(function () {
+            $('#pc1234492').bxSlider(
+            {
+            slideMargin: 20,
+            hideControlOnEnd: true,
+            auto: true
+            }
+            );
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Women Talking
+
+
+
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+
+
+
+Latest Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bloomsbury Highlights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Women Talking
+
+
+
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+
+ "This amazing, sad, shocking, but touching novel, based on a real-life event, could be right out of The Handmaid's Tale." -Margaret AtwoodWomen Talking by Miriam Toews comes out in April 2019. 
+
+
+Latest Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Bloomsbury Group - Other SitesBloomsbury Content ServicesBloomsbury InstituteBloomsbury ProfessionalFairchild BooksHarry PotterHart PublishingIndependent Schools YearbookOsprey PublishingWhitaker'sWho's WhoWriters' and Artists' Yearbook Bloomsbury - Digital ProductsBerg Fashion LibraryBloomsbury Applied Visual ArtsBloomsbury Architecture LibraryBloomsbury CollectionsBloomsbury Cultural HistoryBloomsbury Design LibraryBloomsbury Education and Childhood StudiesBloomsbury Encyclopedia of PhilosophersBloomsbury Fashion CentralBloomsbury Food LibraryBloomsbury Popular MusicChurchill ArchiveDrama OnlineScreen StudiesBloomsbury OfficesLondon, UKNew Delhi, IndiaNew York, USASydney, Australia Bloomsbury Investor RelationsUseful LinksAbout UsCareersCookie PolicyHelpModern Slavery StatementsPrivacy PolicyTerms & ConditionsVentures Managed by BloomsburyArcadian Library OnlineIZA World of Labor Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019 
+
+
+The Bloomsbury Group - Other SitesBloomsbury Content ServicesBloomsbury InstituteBloomsbury ProfessionalFairchild BooksHarry PotterHart PublishingIndependent Schools YearbookOsprey PublishingWhitaker'sWho's WhoWriters' and Artists' Yearbook Bloomsbury - Digital ProductsBerg Fashion LibraryBloomsbury Applied Visual ArtsBloomsbury Architecture LibraryBloomsbury CollectionsBloomsbury Cultural HistoryBloomsbury Design LibraryBloomsbury Education and Childhood StudiesBloomsbury Encyclopedia of PhilosophersBloomsbury Fashion CentralBloomsbury Food LibraryBloomsbury Popular MusicChurchill ArchiveDrama OnlineScreen StudiesBloomsbury OfficesLondon, UKNew Delhi, IndiaNew York, USASydney, Australia Bloomsbury Investor RelationsUseful LinksAbout UsCareersCookie PolicyHelpModern Slavery StatementsPrivacy PolicyTerms & ConditionsVentures Managed by BloomsburyArcadian Library OnlineIZA World of Labor Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019 
+The Bloomsbury Group - Other SitesBloomsbury Content ServicesBloomsbury InstituteBloomsbury ProfessionalFairchild BooksHarry PotterHart PublishingIndependent Schools YearbookOsprey PublishingWhitaker'sWho's WhoWriters' and Artists' Yearbook Bloomsbury - Digital ProductsBerg Fashion LibraryBloomsbury Applied Visual ArtsBloomsbury Architecture LibraryBloomsbury CollectionsBloomsbury Cultural HistoryBloomsbury Design LibraryBloomsbury Education and Childhood StudiesBloomsbury Encyclopedia of PhilosophersBloomsbury Fashion CentralBloomsbury Food LibraryBloomsbury Popular MusicChurchill ArchiveDrama OnlineScreen StudiesBloomsbury OfficesLondon, UKNew Delhi, IndiaNew York, USASydney, Australia Bloomsbury Investor RelationsUseful LinksAbout UsCareersCookie PolicyHelpModern Slavery StatementsPrivacy PolicyTerms & ConditionsVentures Managed by BloomsburyArcadian Library OnlineIZA World of Labor Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019 Registered Office:1385 Broadway, Fifth Floor, New York, NY 10018 USA Tel:+ 1 (212) 419 5300www.bloomsbury.comBloomsbury Publishing PlcRegistered in England No. 01984336© Bloomsbury Publishing Plc 2019
+
+CareersContact UsCookie PolicyHelpInvestorsPrivacy PolicySite MapTerms & ConditionsVisit Our Mobile Site 
+
+
+CareersContact UsCookie PolicyHelpInvestorsPrivacy PolicySite MapTerms & ConditionsVisit Our Mobile Site 
+
+
+        © Bloomsbury Publishing Plc 2019.
+    
+
+
+
+        © Bloomsbury Publishing Plc 2019.
+    
+
+
+
+
+
+
+
+
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. 
+
+
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. 
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. 
+
+
+                 It looks like you are located in Australia or New Zealand
+
+
+                        Close
+
+
+
+
+
+
+
+                                    Visit the Australia site
+
+
+
+                                    Continue on UK site
+
+
+
+
+
+
+
+
+                 It looks like you are located in Australia or New Zealand
+
+
+                        Close
+
+
+
+
+
+
+
+                                    Visit the Australia site
+
+
+
+                                    Continue on UK site
+
+
+
+
+
+
+                 It looks like you are located in Australia or New Zealand
+
+
+                        Close
+
+
+                        Close
+
+
+
+
+
+                                    Visit the Australia site
+
+
+
+                                    Continue on UK site
+
+
+
+
+
+
+
+
+
+    Some content here

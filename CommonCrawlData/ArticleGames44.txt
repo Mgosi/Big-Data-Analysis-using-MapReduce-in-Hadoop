@@ -1,0 +1,4719 @@
+As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+AlertMe
+Hearst Television participates in various affiliate marketing programs, which means we may get paid commissions on purchases made through our links to retailer sites.
+
+{
+	"backgrounds" : {
+		"clear" : "https://assets.htvapps.com/assets/images/weather/clear_sm.7dd038b.jpg",
+		"cloudy" : "https://assets.htvapps.com/assets/images/weather/cloudy_sm.efb51cc.jpg",
+		"nt_clear" : "https://assets.htvapps.com/assets/images/weather/nt_clear_sm.92a5eb9.jpg",
+		"nt_cloudy" : "https://assets.htvapps.com/assets/images/weather/nt_cloudy_sm.a736566.jpg",
+		"nt_fog" : "https://assets.htvapps.com/assets/images/weather/nt_fog_sm.20f41ec.jpg",
+		"partlycloudy" : "https://assets.htvapps.com/assets/images/weather/partlycloudy_sm.4c673f0.jpg",
+		"rain" : "https://assets.htvapps.com/assets/images/weather/rain_sm.43b702c.jpg",
+		"snow_sm" : "https://assets.htvapps.com/assets/images/weather/snow_sm.150a517.jpg",
+		"snowchance" : "https://assets.htvapps.com/assets/images/weather/snowchance_sm.630f1d3.jpg",
+		"sunny" : "https://assets.htvapps.com/assets/images/weather/sunny_sm.3460ab6.jpg",
+		"sunset" : "https://assets.htvapps.com/assets/images/weather/sunset_sm.381ff7d.jpg",
+		"tstorm" : "https://assets.htvapps.com/assets/images/weather/tstorm_sm.53ec087.jpg",
+		"unknown" : "https://assets.htvapps.com/assets/images/weather/unknown_sm.599fcc7.jpg"
+	}
+}
+
+
+
+
+
+
+NOWCAST
+WXII 12 News at 6 pm Saturday
+
+
+
+
+
+
+
+Watch on Demand
+Live Now
+Coming up Soon
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+Alerts
+Weather
+Search
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+	window.ALERTS_BREAKING_NEWS_COUNT = 0;
+	window.ALERTS_CLOSINGS_COUNT = 0;
+	window.SHOW_ALERTS = true;
+	window.SHOW_WEATHER_SUBMENU = true;
+
+
+	<% if ( count > 0 ) { %>
+		<div class="alerts--items">
+			
+			
+			<% if ( weatherAlerts > 0 ) { %>
+				<span class="alerts--item">
+					<a target="_top" href="/alerts" class="link">
+						<span class="alerts--label">Severe Weather:</span>
+
+						<% var weatherAlertsMessage = "There " + ( weatherAlerts > 1 ? "are" : "is" ) + " currently " + weatherAlerts + " active weather " + ( weatherAlerts > 1 ? "alerts" : "alert" ); %>
+
+						<% if ( weatherAlerts > 1 ) { %>
+							<span class="alerts--headline" title="<%- weatherAlertsMessage %>"><%- weatherAlertsMessage %></span>
+						<% } else { %>
+							<span class="alerts--headline" title="<%- weatherAlertsMessage %>"><%- weatherAlertsMessage %></span>
+						<% } %>
+					</a>
+				</span>
+			<% } %>
+		</div>
+
+		<div class="alerts--control">
+			<% if ( count > 1 ) { %>
+				<span class="alerts--count" data-count="<%- count %>">1 / <%- count %></span>
+			<% } %>
+
+			<% var appendDisabledClass = count < 2 ? "disabled" : ""; %>
+
+			<span class="alerts--arrows left"><i class="icon icon-arrow-left01 <%- appendDisabledClass %> mobile-exclude"></i></span>
+			<span class="alerts--arrows right"><i class="icon icon-arrow-right01 <%- appendDisabledClass %> mobile-exclude"></i></span>
+		</div>
+	<% } else { %>
+		<div class="alerts--empty">
+			No Alerts &amp; Closings in Your Area&nbsp;
+			<a target="_top" href="http://link.wxii12.com/join/5df/signin">Sign Up to Get Future Alerts</a>
+		</div>
+	<% } %>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Change
+
+
+
+
+
+
+
+
+MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+Homepage
+Local News
+National News
+Politics
+Matter of Fact
+Weather
+Radar
+Skycams
+Alerts
+Hurricanes
+Traffic
+Business 40 Construction Project
+Sports
+High School Sports
+Deacon Minute
+Health
+State of Addiction
+Entertainment
+ulocal
+Triad CW
+Behind the Wild
+Stitch
+Upload
+News Team
+Contests
+Seen on 12
+Contact
+Privacy Notice
+Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+Press enter to search
+Type to Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search location by ZIP code
+
+
+
+
+
+
+
+
+
+
+
+
+		<h3 class="medium-headline">Current location</h3>
+		<p class="medium-headline location" data-zip="<%= locations[0].zip %>"><%= locations[0].name %> <%= locations[0].zip %></p>
+
+		<% if ( locations.length > 1 ) { %>
+			<h3 class="medium-headline">Recent locations</h3>
+			<% for( var i = 1; i < locations.length; i++ ) { %>
+				<p class="medium-headline location" data-zip="<%= locations[i].zip %>"><%= locations[i].name %> <%= locations[i].zip %></p>
+			<% } %>
+		<% } %>
+	
+
+
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+var HRSTArticles = HRSTArticles || {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"] = {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].site = {
+    "name": "WXII",
+    "prefix": "wxii",
+    "domain": "wxii12.com",
+    "dartZone": "36117602",
+    "adUnit": "htv-wxii.com\/news\/local_news\/htv_video_syndication",
+    "fluid_ad_slot_enabled": false
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].datalayer = {
+    "analyticsID": "UA-17913526-1",
+    "pgType": "video"
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].article = {
+    "sourceName": "Hearst TV",
+    "syndicatingSite": "WXII",
+    "syndicateSiteOrigin": "",
+    "universalID": "19829500",
+    "artID": "2d9323b6-9e26-4e37-94f4-014390a12ede",
+    "pageUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "canonicalUrl": "",
+    "ogUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "type": "article",
+    "title": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "section": {
+        "name": "News",
+        "prefix": "news"
+    },
+    "subSection": {
+        "name": "Local News",
+        "prefix": "local-news"
+    },
+    "collection": "htv-video-syndication",
+    "collections": "htv-video-syndication",
+    "author": {
+        "name": "Mallory Lane"
+    },
+    "publishDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "modifiedDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "20",
+        "minute": "19"
+    },
+    "createDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "15",
+        "minute": "44"
+    },
+    "displayDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "keywords": "fortnite, greensboro, north carolina, teenager, tornado, video game",
+    "description": "As\u00a0strong storms\u00a0barreled\u00a0through a\u00a0Greensboro neighborhood\u00a0on Sunday night, a young man on Phillips Avenue\u00a0helped his sister and nephew stay safe despite being\u00a0caught up in a video game.",
+    "image": "https:\/\/kubrick.htvapps.com\/htv-prod-media.s3.amazonaws.com\/images\/poster-c9937ba33b784a7888a216650aedc55c-1523894411.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "seoTitle": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "sourceSite": "wxii"
+};
+
+            if ( typeof( window.hearstLumiereRecs ) === "undefined" ) {
+                window.hearstLumiereRecs = [];
+            }
+            window.hearstLumiereRecs.push( {
+                id: "2d9323b6-9e26-4e37-94f4-014390a12ede",
+                playlist: [],
+                embeds: ["578f939b-1f66-4f54-b6ea-d7424e65b5f1","76e67c2c-df2c-43d3-a4cd-0aba732d8799","c0f9c50b-0860-4d4a-b8de-f294bf52e4b9","06b9b39e-e9c0-4a39-9fb8-057af09c217f","48bcf014-f69d-40b7-8c53-96a59b00503a","d483cf45-3b76-4392-8944-ac0b54384c67","a4aa9e02-ef7a-4b9d-a7b4-8334ca6c2e27","d07a9787-b7a0-4a4b-819d-af0199256dbd","c0e39fca-3713-4a8c-9eec-09ab9d2f7039","089276ea-c31e-4cba-ae58-d7bca01b3914","76efe720-be03-4b7e-8ec7-55dabfe480fb","e0a6d6b1-6df7-44ac-a14b-287a74024e5f","3a75a6ac-dc58-405e-8303-2fda9cf1359b","d1a3a013-f612-4b66-8750-7712fd198dd2","0dcc22e5-6f81-4fb6-a854-8df38325b40d","07ea64f1-f5ac-42eb-8425-9db159dcab35","ccb4b8a3-fa80-4975-8799-5c5a78f0932e","089c79b1-23bf-4e24-9156-e37c5a3a1dc1","4c674529-2fc3-4f8e-b35c-0b82e16e49d8","f4d8b1e5-2fc8-46c3-ab5c-6a3b9e8a1144"],
+            } );
+        
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+ 
+Loading more articles...
+
+
+
+
+	<div class="share-dialog share-content">
+		<div class="share-dialog--options">
+			<ul class="share-dialog--utils">
+				<li class="share-dialog--utils-action facebook">
+					<a href="#" class="js-share-social js-share-facebook"><i class="icon icon-facebook"></i></a>
+				</li>
+
+				<li class="share-dialog--utils-action twitter">
+					<a href="#" class="js-share-social js-share-twitter"><i class="icon icon-twitter"></i></a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="share-dialog--link-action">
+			<div class="share-content--copy-link js-copy-content">
+	<div class="share-content--copy-link--content-wrapper">
+		<div class="share-content--copy-link--header">
+			<span class="share-content--copy-link--header-title">
+				<i class="fa fa-link share-content--copy-link--header-icon"></i>
+
+				Copy Link
+			</span>
+
+			<i class="icon icon-close01 js-copy-content-close"></i>
+		</div>
+
+		<div class="share-content--copy-link--body">
+			<input readonly class="share-content--copy-link--body-input js-copy-content-input"><button class="share-content--copy-link--body-button js-copy-content-button" type="button">Copy</button>
+		</div>
+
+		<div class="share-content--copy-link--footer">
+			<span class="share-content--copy-link--footer-instructions js-copy-content-instruction">
+				{copyShortcut} to copy
+			</span>
+
+			<span class="share-content--copy-link--footer-feedback js-copy-content-feedback">
+				Link copied!
+			</span>
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+
+
+
+	{
+		"nowcast": {"enabled":true,"title":"NOWCAST","label":"WXII 12 News at 6 pm Saturday","pageTitle":"WXII 12 News at 6 pm Saturday","programTitle":"WXII 12 News at 6 pm Saturday","nextShowTitle":"WXII 12 News on Triad CW at 10pm Saturday","stream_url":"https://content.uplynk.com/ext/d152c28720c84922a94b5f347e89ae9b/190420_223030_1_wxii.m3u8?ad=wxiimidroll&boundary.adx=skip","thumbnail_url":"https://content.uplynk.com/ext/d152c28720c84922a94b5f347e89ae9b/190420_223030_1_wxii.m3u8?ad=wxiimidroll&boundary.adx=skip","jwThumbnail":"https://kubrick.htvapps.com/mediaos.s3.amazonaws.com/htv_default_image/wxii/top_image.png","preroll_tag":"https://pubads.g.doubleclick.net/gampad/ads?sz=640x480%7C3x3&iu=/36117602/htv-wxii.com/news/local_news/nowcast&ciu_szs=300x250,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=https://www.wxii12.com/nowcast&description_url=https://www.wxii12.com/nowcast&correlator=[timestamp]&cust_params=tool%3Dvideo%26pos%3D8%26artid%3Df20833a4-8033-4779-bc7c-b19fb8782bf7%26refdomain%3D[refdomain]&vpos=preroll","preroll_vod":"https://pubads.g.doubleclick.net/gampad/ads?sz=640x480%7C3x3&iu=/36117602/htv-wxii.com/news/live/midroll/dvr&ciu_szs=300x250,728x90&impl=s&gdfp_req=1&env=vp&ad_rule=1&output=xml_vmap1&unviewed_position_start=1&url=https://www.wxii12.com/nowcast&description_url=https://www.wxii12.com/nowcast&cmsid=2473396&vid=wxiivodnowcast&cust_params=tool%3Dvideo%26pos%3Dmidroll%26site%3Dwxii&correlator=[timestamp]","nowcast_description":"<p>Get news and weather from WXII 12 News. Watch live weekdays at 4:30am, 5am, 6am, 7am, 8am, 12pm, 4pm, 5pm, 6pm, 10pm and 11pm. Watch live Saturdays at 5:30am, 6am, 7am, 8am, 6pm, 10pm and 11pm. Watch live Sundays at 6am, 7am, 8am, 6pm, 10pm and 11pm.<br /><br />If you have clicked between live broadcasts, you will see our most-recent newscast on demand.<br /><br />Desktop users must have flash installed to watch the livestreams.<br /><br />Android users please download the app to watch the latest newscast.</p>","mode":"demand","live":false,"upcoming":false,"demand":true,"override":false},
+		"sharecount": {
+			"enabled": true
+		},
+		"text": {
+			"title": "Share"
+		},
+		"bidding": {
+			"amazon": true
+		}
+	}
+
+
+
+
+
+
+
+                    WXII 12 Winston-Salem
+                
+
+
+
+
+
+
+   
+
+
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+
+
+
+Hearst Television participates in various affiliate marketing programs, which means we may get paid commissions on purchases made through our links to retailer sites.
+
+            ©2019, Hearst Television Inc. on behalf of WXII-TV.
+        
+Privacy Notice
+Your California Privacy Rights
+Interest-Based Ads
+Terms of Use
+Site Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOWCAST
+WXII 12 News at 6 pm Saturday
+
+
+
+
+
+
+
+Watch on Demand
+Live Now
+Coming up Soon
+
+
+
+
+
+NOWCAST
+WXII 12 News at 6 pm Saturday
+
+
+
+
+
+
+
+Watch on Demand
+Live Now
+Coming up Soon
+
+
+NOWCAST
+WXII 12 News at 6 pm Saturday
+
+
+
+
+
+
+Watch on Demand
+Live Now
+Coming up Soon
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+Alerts
+Weather
+Search
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+				Share
+			
+
+
+
+				Shares
+			
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+				Copy Link
+			
+
+
+Copy
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+
+ Change
+
+
+
+
+
+
+
+
+MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Change
+
+
+
+
+
+
+
+
+MORE
+
+
+
+
+
+
+
+
+
+
+
+
+ Change
+
+
+
+
+
+
+
+ Change
+
+
+
+
+
+ Change
+
+
+
+
+MORE
+
+
+
+
+
+
+
+
+
+
+
+Press enter to search
+Type to Search
+
+
+
+
+
+
+
+
+
+
+
+
+Press enter to search
+Type to Search
+
+
+
+
+
+
+
+Press enter to search
+Type to Search
+
+
+
+
+
+
+
+
+
+Search location by ZIP code
+
+
+
+
+
+
+
+
+
+
+
+
+		<h3 class="medium-headline">Current location</h3>
+		<p class="medium-headline location" data-zip="<%= locations[0].zip %>"><%= locations[0].name %> <%= locations[0].zip %></p>
+
+		<% if ( locations.length > 1 ) { %>
+			<h3 class="medium-headline">Recent locations</h3>
+			<% for( var i = 1; i < locations.length; i++ ) { %>
+				<p class="medium-headline location" data-zip="<%= locations[i].zip %>"><%= locations[i].name %> <%= locations[i].zip %></p>
+			<% } %>
+		<% } %>
+	
+
+
+
+
+
+
+Search location by ZIP code
+
+
+
+
+
+
+
+
+
+
+
+
+Search location by ZIP code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+var HRSTArticles = HRSTArticles || {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"] = {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].site = {
+    "name": "WXII",
+    "prefix": "wxii",
+    "domain": "wxii12.com",
+    "dartZone": "36117602",
+    "adUnit": "htv-wxii.com\/news\/local_news\/htv_video_syndication",
+    "fluid_ad_slot_enabled": false
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].datalayer = {
+    "analyticsID": "UA-17913526-1",
+    "pgType": "video"
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].article = {
+    "sourceName": "Hearst TV",
+    "syndicatingSite": "WXII",
+    "syndicateSiteOrigin": "",
+    "universalID": "19829500",
+    "artID": "2d9323b6-9e26-4e37-94f4-014390a12ede",
+    "pageUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "canonicalUrl": "",
+    "ogUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "type": "article",
+    "title": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "section": {
+        "name": "News",
+        "prefix": "news"
+    },
+    "subSection": {
+        "name": "Local News",
+        "prefix": "local-news"
+    },
+    "collection": "htv-video-syndication",
+    "collections": "htv-video-syndication",
+    "author": {
+        "name": "Mallory Lane"
+    },
+    "publishDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "modifiedDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "20",
+        "minute": "19"
+    },
+    "createDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "15",
+        "minute": "44"
+    },
+    "displayDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "keywords": "fortnite, greensboro, north carolina, teenager, tornado, video game",
+    "description": "As\u00a0strong storms\u00a0barreled\u00a0through a\u00a0Greensboro neighborhood\u00a0on Sunday night, a young man on Phillips Avenue\u00a0helped his sister and nephew stay safe despite being\u00a0caught up in a video game.",
+    "image": "https:\/\/kubrick.htvapps.com\/htv-prod-media.s3.amazonaws.com\/images\/poster-c9937ba33b784a7888a216650aedc55c-1523894411.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "seoTitle": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "sourceSite": "wxii"
+};
+
+            if ( typeof( window.hearstLumiereRecs ) === "undefined" ) {
+                window.hearstLumiereRecs = [];
+            }
+            window.hearstLumiereRecs.push( {
+                id: "2d9323b6-9e26-4e37-94f4-014390a12ede",
+                playlist: [],
+                embeds: ["578f939b-1f66-4f54-b6ea-d7424e65b5f1","76e67c2c-df2c-43d3-a4cd-0aba732d8799","c0f9c50b-0860-4d4a-b8de-f294bf52e4b9","06b9b39e-e9c0-4a39-9fb8-057af09c217f","48bcf014-f69d-40b7-8c53-96a59b00503a","d483cf45-3b76-4392-8944-ac0b54384c67","a4aa9e02-ef7a-4b9d-a7b4-8334ca6c2e27","d07a9787-b7a0-4a4b-819d-af0199256dbd","c0e39fca-3713-4a8c-9eec-09ab9d2f7039","089276ea-c31e-4cba-ae58-d7bca01b3914","76efe720-be03-4b7e-8ec7-55dabfe480fb","e0a6d6b1-6df7-44ac-a14b-287a74024e5f","3a75a6ac-dc58-405e-8303-2fda9cf1359b","d1a3a013-f612-4b66-8750-7712fd198dd2","0dcc22e5-6f81-4fb6-a854-8df38325b40d","07ea64f1-f5ac-42eb-8425-9db159dcab35","ccb4b8a3-fa80-4975-8799-5c5a78f0932e","089c79b1-23bf-4e24-9156-e37c5a3a1dc1","4c674529-2fc3-4f8e-b35c-0b82e16e49d8","f4d8b1e5-2fc8-46c3-ab5c-6a3b9e8a1144"],
+            } );
+        
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+ 
+Loading more articles...
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+	 
+
+
+
+
+var HRSTArticles = HRSTArticles || {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"] = {};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].site = {
+    "name": "WXII",
+    "prefix": "wxii",
+    "domain": "wxii12.com",
+    "dartZone": "36117602",
+    "adUnit": "htv-wxii.com\/news\/local_news\/htv_video_syndication",
+    "fluid_ad_slot_enabled": false
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].datalayer = {
+    "analyticsID": "UA-17913526-1",
+    "pgType": "video"
+};
+HRSTArticles["2d9323b6-9e26-4e37-94f4-014390a12ede"].article = {
+    "sourceName": "Hearst TV",
+    "syndicatingSite": "WXII",
+    "syndicateSiteOrigin": "",
+    "universalID": "19829500",
+    "artID": "2d9323b6-9e26-4e37-94f4-014390a12ede",
+    "pageUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "canonicalUrl": "",
+    "ogUrl": "https:\/\/www.wxii12.com\/article\/as-strong-storms-barrel-through-greensboro-neighborhood-man-recalls-his-video-game-being-disrupted\/19829500",
+    "type": "article",
+    "title": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "section": {
+        "name": "News",
+        "prefix": "news"
+    },
+    "subSection": {
+        "name": "Local News",
+        "prefix": "local-news"
+    },
+    "collection": "htv-video-syndication",
+    "collections": "htv-video-syndication",
+    "author": {
+        "name": "Mallory Lane"
+    },
+    "publishDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "modifiedDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "20",
+        "minute": "19"
+    },
+    "createDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "15",
+        "minute": "44"
+    },
+    "displayDate": {
+        "year": "2018",
+        "month": "04",
+        "day": "16",
+        "hour": "16",
+        "minute": "04"
+    },
+    "keywords": "fortnite, greensboro, north carolina, teenager, tornado, video game",
+    "description": "As\u00a0strong storms\u00a0barreled\u00a0through a\u00a0Greensboro neighborhood\u00a0on Sunday night, a young man on Phillips Avenue\u00a0helped his sister and nephew stay safe despite being\u00a0caught up in a video game.",
+    "image": "https:\/\/kubrick.htvapps.com\/htv-prod-media.s3.amazonaws.com\/images\/poster-c9937ba33b784a7888a216650aedc55c-1523894411.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "seoTitle": "As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game",
+    "sourceSite": "wxii"
+};
+
+            if ( typeof( window.hearstLumiereRecs ) === "undefined" ) {
+                window.hearstLumiereRecs = [];
+            }
+            window.hearstLumiereRecs.push( {
+                id: "2d9323b6-9e26-4e37-94f4-014390a12ede",
+                playlist: [],
+                embeds: ["578f939b-1f66-4f54-b6ea-d7424e65b5f1","76e67c2c-df2c-43d3-a4cd-0aba732d8799","c0f9c50b-0860-4d4a-b8de-f294bf52e4b9","06b9b39e-e9c0-4a39-9fb8-057af09c217f","48bcf014-f69d-40b7-8c53-96a59b00503a","d483cf45-3b76-4392-8944-ac0b54384c67","a4aa9e02-ef7a-4b9d-a7b4-8334ca6c2e27","d07a9787-b7a0-4a4b-819d-af0199256dbd","c0e39fca-3713-4a8c-9eec-09ab9d2f7039","089276ea-c31e-4cba-ae58-d7bca01b3914","76efe720-be03-4b7e-8ec7-55dabfe480fb","e0a6d6b1-6df7-44ac-a14b-287a74024e5f","3a75a6ac-dc58-405e-8303-2fda9cf1359b","d1a3a013-f612-4b66-8750-7712fd198dd2","0dcc22e5-6f81-4fb6-a854-8df38325b40d","07ea64f1-f5ac-42eb-8425-9db159dcab35","ccb4b8a3-fa80-4975-8799-5c5a78f0932e","089c79b1-23bf-4e24-9156-e37c5a3a1dc1","4c674529-2fc3-4f8e-b35c-0b82e16e49d8","f4d8b1e5-2fc8-46c3-ab5c-6a3b9e8a1144"],
+            } );
+        
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+ 
+Loading more articles...
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+			Advertisement
+		
+
+			Advertisement
+		
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+				Share
+			
+
+
+
+				Shares
+			
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+				Copy Link
+			
+
+
+Copy
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+Hide Transcript
+Show Transcript
+
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+				Share
+			
+
+
+
+				Shares
+			
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+				Copy Link
+			
+
+
+Copy
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+Hide Transcript
+Show Transcript
+
+											WEBVTT LET’S GO NOW TO MALLORY LANE. SHE’S ALSO IN GREENSBORO. SHE IS ON PHILLIPS AVENUE. MALLORY: WE HAVE MOVED DOWN A LITTLE BIT. WE’RE NOW BY VALLEYVIEW STREET. I THINK WE’RE JUST LEARNING THE EXTENT OF THE DAMAGE. IT IS MASSIVE. YOU CAN SEE THIS VAN OVERTURNED. THIS WHITE HOUSE NEXT TO IT WAS LIFTED OFF OF ITS FOUNDATION AND MOVED. THE HOUSE NEXT-DOOR HAS SOME SIDING THAT HAS COME OFF IN A POWER LINE DOWN RIGHT IN FRONT OF IT. I HAVE ANTON WILLIAMS HERE, AND HE LIVES IN THE HOUSE WITH THE POWER LINES DOWN ON IT. HE WAS AT HOME WHEN THIS HAPPENED TO YOU KEEP SAYING, I CANNOT BELIEVE THIS IS HAPPENING IN GREENSBORO. TELL US WHAT YOU ARE DOING AND WHAT YOU SAW. >> I WAS SITTING AT HOME AND PLAYING FORTNIGHT. SUDDENLY A HEARD SOME NOISE AND LOOKED UP THE WINDOW AND I STARTED SEEING THE ROOFS COME OFF OF THE HOUSES IN FRONT OF ME. I SAT BACK DOWN BECAUSE I WAS GOING TO TRY TO FINISH THE GAME. IT JUST STARTED GETTING WORSE AND IS ON THE POWER LINES COME DOWN. SO I TOLD MY SISTER AND NEPHEW TO COME TO THE BATHROOM SO WE WOULD BE OK. MALLORY: WHAT DID YOU HEAR, LOUD NOISE? A LOT OF PEOPLE SAY IT SOUNDS LIKE A TRAIN. DID YOU HEAR ANYTHING OR HEAR ANYTHING HITTING AGAINST YOUR HOME? >> I REALLY DID NOT HEAR ANYTHING BUT I DID HEAR IT WHEN THE ROOF STARTED COMING OFF THE SIDE OF THE HOUSE. MALLORY: WHAT WAS GOING THROUGH YOUR MIND WHEN YOU WERE IN THE BATHROOM WITH YOUR SISTER AND NEPHEW? >> HONESTLY, I WAS JUST THINKING ABOUT THE GAME. BUT I WAS HOPING EVERYBODY WAS OK AROUND ME. WHEN I CAME OUTSIDE TO CHECK ON MY NEIGHBORS, THEY SAID EVERYTHING WAS FINE. MALLORY: YOU SAID YOU TALK TO THE PEOPLE WHO LIVE IN THE HOME THAT WAS LIFTED UP UP THE FOUNDATON. WHAT DID THEY TELL YOU? >> THEY JUST TELL THE FAMILY TO GO INSIDE THE RESTROOM, BUT THEY SAID THEY FELT THEY HOUSE LIFTING UP OFF THE GROUND. THEY FELT THE PRESSURE OF THE WIND COME TO THE WINDOWS. THE LOOP UP AS YOU ARE WALKING OUTSIDE IN SEEING THE DAMAGE, WHAT DO YOU THINK? >> I AM THINKING LIKE I DID NOT EVEN KNOW SOMETHING LIKE THIS COULD HAPPEN IN GREENSBORO. YOU CANNOT PICTURE THIS HAPPENING. MALLORY: WE ARE GLAD YOU ARE OK. THANK YOU FOR TAKING THE TIME TO TALK TO US. WE HAVE NOT HEARD ANY CONFIRM INJURIES, BUT I SPOKE TO ORIGINAL MAN WHO WAS WALKING BY AND SAID HIS HIP HURT. HE WAS AT A HOME UP THE ROAD A LITTLE WAYS. LET’S TURN YOU AROUND HERE AND SHOW YOU BACK THIS WAY. MASSIVE TREES UPROOTED, ON TOP OF CARS HERE. THIS HOME HAS EXTENSIVE DAMAGE. YOU CAN SEE ALMOST A LINE OF WHERE THE TREES HAVE COME DOWN AND THEIR SPLIT IN HALF AGAIN. POWER LINES THROWN ALL OVER THE PLACE. WE’RE GETTING FIRST RESPONDERS UP THESE TREAT -- OF THE STREET PEOPLE ARE OUT HERE TAKING PICTURES AT MOST PEOPLE WE HAVE TALKED TO JUST CAME OUT AFTER THE STORM BLEW THROUGH. LOOKS LIKE THERE IS AN AMBULANCE COMING DOWN THE ROAD HERE. WE ARE GOING TO TRY TO FIND SOME EMERGENCY OFFICIALS WHO MIGHT BE ABLE TO TELL US THE EXTENT OF SOME INJURIES HERE. AS WE’RE WALKING DOWN A LITTLE FURTHER, POWER LINES ON THE ROAD. EVERYBODY TELLING FOLKS TO WATCH OUT AS THEY ARE WALKING HEREIN HERE IS A CREW COMING DOWN TO PROBABLY CUT DOWN SOME TREES THAT ARE IN THE WAY. LOTS GOING ON HERE. AGAIN, PHILL
+									
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+			Advertisement
+		
+
+			Advertisement
+		As tornado sweeps through neighborhood, teen just keeps playing Fortnite video game
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+
+
+				Share
+			
+
+
+
+
+				Shares
+			
+
+
+
+				Share
+			
+
+
+
+				Shares
+			
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+
+
+				Copy Link
+			
+
+
+
+Copy
+
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+
+
+				Copy Link
+			
+
+
+Copy
+
+
+				{copyShortcut} to copy
+			
+
+				Link copied!
+			
+
+
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+					Updated: 12:04 PM EDT Apr 16, 2018
+				
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+
+													Mallory Lane
+											
+
+
+
+
+
+
+
+						Anchor/Reporter
+					
+
+
+					As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+				
+GREENSBORO, N.C. — As strong storms barreled through a Greensboro neighborhood on Sunday night, a young man on Phillips Avenue helped his sister and nephew stay safe despite being caught up in a video game."I was sitting at home and I was playing Fortnite, and all of sudden, I hear a bunch of noise," Anton Williams told WXII 12's Mallory Lane. "I look out the window and I started seeing the roof come off the houses in front of me."
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+Next door, strong winds blew a family's home away from its foundation."I sit back down because I only have a couple people left in my game, and I was going to try to finish the game, but then it started getting worse and I started to see the power lines come down, so I told my sister and my nephew to come to the bathroom."While seeking shelter in the bathroom, Williams was still focused on his game."Honestly, I was thinking about the game, but I was hoping everybody was OK around me," Williams said.After the storm let up, Williams said he went outside to check on his neighbors -- who were alright.
+
+AlertMe
+
+
+
+
+
+
+			Advertisement
+		
+
+
+
+
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+
+
+
+
+
+			Advertisement
+		
+
+			Advertisement
+		
+
+		Related Content
+	
+
+
+
+Real-life storm interrupts 'Fortnite' gamer as Michael barrels through the Triad
+
+
+
+
+
+“It’s Greensboro. Our city means the world to us," NC State's Sam Hunt helps with tornado recovery
+
+
+
+
+
+Two tornado survivors seek medical treatment after carbon monoxide leaks from generator
+
+
+
+
+
+GCS students who attend 3 schools severely damaged by tornado will be relocated to other campuses
+
+
+
+
+ Loading more articles...
+
+
+
+                    WXII 12 Winston-Salem
+                
+
+
+
+
+
+
+   
+
+
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+
+
+
+Hearst Television participates in various affiliate marketing programs, which means we may get paid commissions on purchases made through our links to retailer sites.
+
+            ©2019, Hearst Television Inc. on behalf of WXII-TV.
+        
+Privacy Notice
+Your California Privacy Rights
+Interest-Based Ads
+Terms of Use
+Site Map
+
+
+
+                    WXII 12 Winston-Salem
+                
+
+
+
+
+
+
+   
+
+
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+
+
+
+
+                    WXII 12 Winston-Salem
+                
+
+
+
+
+
+
+   
+
+                    WXII 12 Winston-Salem
+                
+
+
+
+
+   
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+
+Contact Us
+News Team
+Apps & Social
+Email Alerts
+
+Careers
+Internships
+Advertise
+Digital Advertising Terms & Conditions
+Broadcast Terms & Conditions
+RSS
+
+EEO Reports
+Captioning Contacts
+WXII Public Inspection File
+WCWG Public Inspection File
+Public File Assistance
+News Policy Statements
+
+            ©2019, Hearst Television Inc. on behalf of WXII-TV.
+        
+
+
+
+
+
+
+

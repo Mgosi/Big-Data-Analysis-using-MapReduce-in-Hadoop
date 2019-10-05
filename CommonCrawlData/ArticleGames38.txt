@@ -1,0 +1,188 @@
+You are not signed in.Rachel WeberSenior EditorFriday 16th May 2014Share this articleCompanies in this articleOculus VROculus VR Inc.UpdateAdrian Wong is the latest recruit to Oculus VR's army, bringing with him experience of working with Google's most cutting-edge product, Google Glass.Join us in welcoming Adrian Wong (@almostsquare), formerly of Google [x], to the Oculus team!Wong has been quiet about the move except for a post on Facebook.
+"Surprise! Today is my last day at Google. Three rollercoaster years with Google[x] and Glass. What amazing memories. Now, time for the next great adventure!"Original storyKenneth Scott, the art director on Halo 4, has swapped 343 Industries for the same role at Oculus VR where he'll concentrate on first party content for the popular virtual reality headset.Welcome Kenneth Scott (@superactionfunb), Oculus Art Director, formerly of 343 and id Software. Ken is building our 1st-party content team!Scott previously spent six years with 343 Industries and prior to that 10 with id Software. If you're thinking that everyone in the industry has now quit their jobs to work on Oculus Rift, you're not far off the mark. Valve VR veterans Atman Binstock and Michael Abrash,Aaron Nicholls and id Software's John Carmack  and Matt Hooper are just a handful of those that have joined the company in the last year. If you have jobs news to share or a new hire you want to shout about, please contact us on newhires@gamesindustry.biz
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Related storiesNate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James BatchelorMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan SinclairRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (3)Sign in to contribute
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7 SectionsYou are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot Develop
+                    function mormontLoaded() {
+                        mormont('set', 'section', 'article');
+                        mormont('set', 'language', 'en');
+                                                                            mormont('set', 'published', "2014-05-16T08:46:00+01:00");
+                                                                            mormont('set', 'article_type', "news");
+                                                                            mormont('set', 'author', "Rachel Weber");
+                                                                            mormont('set', 'tags', ['tag:development','tag:jobs'])
+                                                mormont('set', 'is_logged_in', "1");
+                        mormont('send', 'pageview');
+                    }
+                You are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot DevelopHalo art director joins Oculus VRUpdate: And now Google's Adrian Wong is on board too Rachel WeberSenior EditorFriday 16th May 2014Share this article Recommend Tweet ShareCompanies in this articleOculus VROculus VR Inc.UpdateAdrian Wong is the latest recruit to Oculus VR's army, bringing with him experience of working with Google's most cutting-edge product, Google Glass.Join us in welcoming Adrian Wong (@almostsquare), formerly of Google [x], to the Oculus team!— Oculus (@oculus) May 15, 2014Wong has been quiet about the move except for a post on Facebook.
+"Surprise! Today is my last day at Google. Three rollercoaster years with Google[x] and Glass. What amazing memories. Now, time for the next great adventure!"Original storyKenneth Scott, the art director on Halo 4, has swapped 343 Industries for the same role at Oculus VR where he'll concentrate on first party content for the popular virtual reality headset.Welcome Kenneth Scott (@superactionfunb), Oculus Art Director, formerly of 343 and id Software. Ken is building our 1st-party content team!— Oculus (@oculus) May 13, 2014Scott previously spent six years with 343 Industries and prior to that 10 with id Software. If you're thinking that everyone in the industry has now quit their jobs to work on Oculus Rift, you're not far off the mark. Valve VR veterans Atman Binstock and Michael Abrash,Aaron Nicholls and id Software's John Carmack  and Matt Hooper are just a handful of those that have joined the company in the last year. If you have jobs news to share or a new hire you want to shout about, please contact us on newhires@gamesindustry.biz
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (3)Peter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Halo art director joins Oculus VRUpdate: And now Google's Adrian Wong is on board too Rachel WeberSenior EditorFriday 16th May 2014Share this article Recommend Tweet ShareCompanies in this articleOculus VROculus VR Inc.UpdateAdrian Wong is the latest recruit to Oculus VR's army, bringing with him experience of working with Google's most cutting-edge product, Google Glass.Join us in welcoming Adrian Wong (@almostsquare), formerly of Google [x], to the Oculus team!— Oculus (@oculus) May 15, 2014Wong has been quiet about the move except for a post on Facebook.
+"Surprise! Today is my last day at Google. Three rollercoaster years with Google[x] and Glass. What amazing memories. Now, time for the next great adventure!"Original storyKenneth Scott, the art director on Halo 4, has swapped 343 Industries for the same role at Oculus VR where he'll concentrate on first party content for the popular virtual reality headset.Welcome Kenneth Scott (@superactionfunb), Oculus Art Director, formerly of 343 and id Software. Ken is building our 1st-party content team!— Oculus (@oculus) May 13, 2014Scott previously spent six years with 343 Industries and prior to that 10 with id Software. If you're thinking that everyone in the industry has now quit their jobs to work on Oculus Rift, you're not far off the mark. Valve VR veterans Atman Binstock and Michael Abrash,Aaron Nicholls and id Software's John Carmack  and Matt Hooper are just a handful of those that have joined the company in the last year. If you have jobs news to share or a new hire you want to shout about, please contact us on newhires@gamesindustry.biz
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (3)Peter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Halo art director joins Oculus VRUpdate: And now Google's Adrian Wong is on board too Rachel WeberSenior EditorFriday 16th May 2014 Recommend Tweet ShareOculus VROculus VR Inc.
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month agoOculus: "It's no longer a burden to get into virtual reality"Nate Mitchell and Jason Rubin discuss how a two-pronged approach with Quest and Rift S will finally bring down the barriers to VRBy James Batchelor A month ago A month agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months agoZeniMax, Facebook settle VR lawsuitMediation program results in undisclosed agreement between companies, dismissal of appealsBy Brendan Sinclair 4 months ago 4 months agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Related JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Senior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (3)Peter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replyPeter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replyPeter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replyPeter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyPeter Dwyer
+					Games Designer/Developer
+		
+		4 years ago
+					Well last time I looked Oculus didn't make games so this doesn't exactly make any sense unless he'll be doing marketing assets....
+		
+							
+			0Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyStu Johnson
+					Technical Lead
+		
+		4 years ago
+					Actually it makes perfect sense.
+A first party content team staffed by industry veterans with internal access to the tech., aiming to create the killer game that elevates OR from a cool toy to the next must have.
+Beats shipping dev kits then sitting back hoping someone else will do it for them..
+		
+							
+			4Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replyEric Leisy
+					VR Production Designer, Nike4 years ago
+					Indeed - Oculus is completely staffing up to make games.  Just like any "console" maker, when you bring out a new piece of hardware it's important to show off its capabilities and who better to do that than in-house development staff
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationLatest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, Poland 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, California 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCel 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, Germany 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Latest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Bob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7

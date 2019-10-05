@@ -1,0 +1,1788 @@
+By
+          
+
+Laura Miller
+
+Mike Dawson
+          I’m not much of a language stickler. I roll my eyes when people argue over the Oxford comma, and I couldn’t care less when someone says they “could care less.” As a descriptivist (rather than a prescriptivist), I’m mostly OK with seeing the meaning of words evolve and transform over time, because that’s what a living language does.
+        
+          But we all have our weaknesses. There’s one particular error I see over and over, often in criticism, that sets my teeth on edge. That’s because it flies beyond being a simple misnomer and instead misunderstands and erases an entire literary tradition, a rich and wonderful one that flowered most gloriously in the 13th century. My gripe isn’t totally arcane, I promise! Just bear with me for a moment while I get medieval on those who abuse the word allegory.
+        
+          What people usually mean when they call something an allegory today is that the fictional work in question can function as a metaphor for some real-world situation or event. This is a common arts journalist’s device: finding a political parallel to whatever you happen to be reviewing is a handy way to make it appear worth writing about in the first place. Calling that parallel an allegory serves to make the comparison more forceful. Fusion says that Batman v Superman is a “none-too-subtle allegory for the fight between Republican presidential hopefuls Donald Trump and Ted Cruz.” (It is not.) The Hollywood Reporter calls Zootopia an “accidental anti-Trump allegory”—this despite the fact that there is no literary form less accidental than allegory. The meaning of the word has drifted so far that even works that aren’t especially metaphorical get labeled as allegory: A film about artistic repression in Iran is a “clunky allegory” for … artistic repression in Iran.
+        
+          Allegory or metaphor: The distinction might seem obscure and academic to many readers. Shouldn’t allegory be grateful to get any attention at all? Isn’t it just an archaic literary mode that nobody uses anymore? Yes and no. About the only people creating true allegories today are political cartoonists. But a culture never entirely discards its roots, and allegory, which first appeared in the waning years of the Roman Empire, is one of the foundations of Western literature. Maybe if we understood it better, we’d realize how much we owe to it. Besides, the allegorical imagination lives on, just not in the places where critics think they see it.
+        
+          An allegory, in short, is not just another word for a metaphor. In essence, it’s a form of fiction that represents immaterial things as images. It calls attention to what it’s doing, typically by giving those images overtly thematic labels, like presenting the Seven Deadly Sins as a procession of people named Lust, Sloth, Pride, and the rest. The most famous allegory ever written, John Bunyan’s The Pilgrim’s Progress, was published in 1678, making it a holdover; allegory saw its artistic heyday in the Middle Ages. Yet The Pilgrim’s Progress was a colossal hit; for two centuries, it was the second book purchased by any Protestant household affluent and literate enough to own its own Bible. Everyone read about the narrator who falls asleep and dreams of a man named Christian fleeing the City of Destruction while bearing a heavy burden (representing the knowledge of his own sins) on his back. A figure named Evangelist instructs Christian on how to reach the Celestial City, a long journey past such perils as the Slough (swamp) of Despond and the Hill of Difficulty, where people with names like Mr. Worldly Wiseman and Hypocrisy attempt to lead him astray.
+        
+          The low opinion in which allegory is now widely held can be blamed on The Pilgrim’s Progress. The book is pious and manifestly didactic, although I can testify from experience that a young-enough reader can still find it an entertaining adventure yarn. Adults, apart from some very devout Protestants, tend to experience its sermonizing as oppressive. When critics call a work of art an allegory today, and especially when they use adjectives like clunky and none-too-subtle, they invoke this aspect of The Pilgrim’s Progress; they mean a story that imposes a single, conspicuous interpretation on a reader or viewer. Allegory lectures. As the critic Northrop Frye wrote, “The commenting critic is often prejudiced against allegory without knowing the real reason, which is that continuous allegory prescribes the direction of his commentary, and so restricts its freedom.”
+        
+          Perhaps Frye was right, and what we resent about allegory is the way it makes thematic analysis superfluous. You can’t really congratulate yourself for ferreting out the moral of Christian fighting his way through the fancy city of Vanity Fair or the mining town named Lucre. Should a book or a film present its argument so simply that even a child can discern it, what’s left to talk about? Merely language, story, and imagery—all the pleasures that art is made of.
+        
+          Do we even know how to read such a book anymore? C.S. Lewis thought not. He wrote the definitive treatise on the form in 1936: The Allegory of Love: A Study in Medieval Tradition. We know Lewis today as the author of The Chronicles of Narnia and as a writer of Christian apologetics, but before all that he was a sensational literary critic—and I mean sensational literally. Perceptive, erudite, and witty, he also wrote with an infectious vividness about the experience of reading, of mingling with an author’s mind and imagination. Here’s how he described the allegories of Martianus Capella, an influential writer of the early fifth century:
+        
+The philosophies of others, the religions of others—back even to the twilight of pre-Republican Rome—have all gone into the curiosity shop of his mind. It is not his business to believe or disbelieve them; the wicked old pedant knows a trick worth two of that. He piles them up all around him until there is hardly room for him to sit among them in the middle darkness of the shop; and there he gloats and catalogues, but never dusts them, for even their dust is precious in his eyes.
+
+          Lewis’ apologetics can be parochial, but his criticism flings open its doors and windows to welcome in any writer with even a wisp of distinction. Most remarkable of all, his scholarly works are never, ever incomprehensible or boring, even when they concern the most tedious literature. (Lewis’ biographer, A.N. Wilson, wrote that his one great fault as a critic was his “enthusiastic generosity” toward authors “who are not really as interesting as he makes them sound.”)
+        
+          A medievalist, Lewis was forever defending the Middle Ages from the glib notion that they constituted an intellectual and artistic fallow period between the classical world and the Renaissance. (He is completely convincing on this point.) We often fail to understand the beauty of medieval art, he argued, because we experience the world and our place in it so differently from the people of that time. We can’t appreciate medieval allegory until we make a concerted effort to imagine what it was like to inhabit the world as they saw it, as a divinely ordered universe in which “certain sympathies, antipathies, and strivings [are] inherent in matter itself.  Everything has its right place, its home, the region that suits it.”
+        
+          Lewis traces the origins of allegory to a period in late antiquity when, for undetermined reasons, the Western concept of a virtuous life changed profoundly. In the Nicomachean Ethics, Aristotle described virtue as a skill to be learned by practice, until it becomes not just second nature, but an end in itself. “The man who does not enjoy doing noble actions is not a good man at all,” he wrote. You don’t become a good cook by conquering your desire to cook badly; similarly, you become a good man by simultaneously acquiring the expertise and reaping its rewards.
+        
+          The emerging idea that virtue instead results from an ongoing inner battle against our own worst impulses was not exclusively Christian, but it fit perfectly with the Christian belief in humanity’s fallen nature. We’re so familiar with this concept of the psyche as a theater of struggle between opposing forces that it’s difficult to conceive of a time when it was relatively new, the time when allegory was born. “To fight against ‘temptation,’ ” Lewis writes, “is also to explore the inner world; and it is scarcely less plain that to do so is to be already on the verge of allegory.”
+        
+          Yet today we associate allegory with a lack of the “round” fictional characters we value most, characters whose believability resides at least partly in their internal conflicts. This is a standard set by the novel, a relatively recent literary form that (for the most part) aims to produce a naturalistic depiction of the world. Allegory doesn’t work that way. The characters in allegories like the 13th-century poem Roman de la Rose, or Edmund Spenser’s 16th-century masterpiece, The Faerie Queene, are “flat” by contemporary standards, possessed of only a few traits and behaving with inhuman consistency.
+        
+          But, as Lewis demonstrates in a long, virtuosic reading of Roman de la Rose, this is because they aren’t actually meant to be characters. Instead these people, the objects they handle, and the spaces they occupy all represent aspects of the self. Roman de la Rose describes the courtship of a noble maiden by a courtier. Like many allegories it is framed as a dream, a sign that we’ve entered into a psychological interior. The lover seeks the Garden of Love, where he meets such clashing figures as Mirth, Companionship, Pride, and Shame. The lady herself seems strangely dematerialized because, as Lewis observes, “her character is distributed among personifications.”
+        
+          But, Lewis hastens to add, an allegory is not merely an equation to be solved, leaving you free to “throw aside the allegorical imagery as something which has now done its work.” Allegorical reading requires sustaining both image and meaning in the reader’s mind, as equally valued components of the work. “It is not enough,” Lewis writes, “to see that the dreamer gazing into the fountain signifies the lover first looking into the lady’s eyes. We must feel that the scene by the fountain is an imaginative likeness of the lover’s experience.” We must be able to see the sparkling water and the shining eyes at the same time and recognize them to be facets of a singular, layered understanding that includes the recognition of other, abstract qualities as well, such as the purity of her spirit.
+        
+          The literate people of the Middle Ages were experts at comprehending art in this way. They routinely compounded vast amounts of meaning into certain ideas or motifs, partly because they were always attempting to integrate the cultural legacy of classical paganism into Christian theology. For them, “Venus” signified multiple things simultaneously: a planet, a Roman goddess with a set of stories attached to her, a literary figure, the image of feminine beauty, the force of erotic love, God’s will manifested in the fruitful union of a man and a woman, and so on. Christianity formed a bedrock for this way of thinking, but no one of these is the “true” meaning of Venus to which all others can be reduced. Their characters may seem “thin” when compared with those in a great novel, but their images are much fuller and richer.
+        
+          Lewis would surely argue that it is the modern reader who, viewing allegory as reductive, shows a lack of subtlety. In a great allegory, the imagery is not a code for the underlying theme; it is every bit as important as theme. Perhaps the greatest allegory, Edmund Spenser’s The Faerie Queene, offers a case in point. Lewis was Spenser’s foremost champion, rescuing the Elizabethan poet from near-obscurity and restoring The Faerie Queene to the canon—to the dismay of many undergraduates but to the delight of others. Lewis first read the epic poem as a boy, devouring it as a tale of brave knights battling dragons, giants, and wicked enchanters against a sylvan landscape splashed with gore. A grasp of the religious and political implications of such figures as the beautiful but nefarious lady Duessa (an allegory for the Catholic Church) or the Redcross Knight (who embodies the spirit of England) would come later, but many generations of readers have been well-satisfied with the surface alone.
+        
+The Faerie Queene is a vast, ravishing spectacle—one that contemporary readers can find pretty inaccessible due to Spenser’s use of language and diction that is deliberately archaic, even for his own time. (Ben Jonson, a near contemporary, complained that “in affecting the ancients Spenser writ no language.”) Fortunately, an unabridged audiobook, masterfully narrated by David Timson, released late last year makes the poem much more readily intelligible for a new or returning reader. The Faerie Queene is a pageant of one gorgeous, trippy vision after another, from the Garden of Proserpina, the queen of the underworld, (every blossom, leaf, and fruit in it is coal black) to the adventures of “the famous Britomart,” a female knight every bit as valiant as our beloved Brienne of Tarth. And while many of Spenser’s allegorical concerns have become obsolete, it only takes a scene like the Redcross Knight’s encounter with shaggy, gaunt Despair as he crouches in his cave, surrounded by the knights he has persuaded to kill themselves, to remind a reader of the form’s potency.
+        
+          Spenser’s Despair calls to mind the dementors, the most terrifying monsters in the Harry Potter series, although J.K. Rowling’s specters are not so much personifications of depression as allegorical deployments of it. This is where the spirit of allegory lives on, in novels and films when the action feels as if it is taking place inside one person’s head. Sometimes a superhero comic or film slips into an allegorical mode, less by mimicking some timely political situation than by creating an antagonist like the Penguin, who resembles an updating of the medieval allegory for greed. The Hero’s Journey, a staple of screenwriting courses and, alas, the model for so many mediocre films, is really just an allegorical narrative slapped with the more palatable label of “myth.” Yet the contemporary artworks most redolent of allegory’s heady psychic atmosphere are both archetypal and dreamlike: the novels of Haruki Murakami and the films of David Lynch, to name two examples. These stories partake of what Lewis describes as “the perennial strangeness, the adventurousness, and the sinuous forward movement of the inner life.” They are more enigmatic and chaotic than medieval allegory, but ours is a more confusing and disordered world.
+        
+            Slate is published by The Slate Group, a Graham Holdings Company.
+            All contents © 2019 The Slate Group LLC. All rights reserved.
+          Slate relies on advertising to support our journalism. If you value our work, please disable your ad blocker.By joining Slate Plus you support our work and get exclusive content. And you'll never see this message again.
+
+
+
+
+Notable topics
+
+
+
+
+
+Mueller Report
+
+
+Impeachment
+
+
+North Pole
+
+
+Green New Deal
+
+
+Under the Silver Lake
+
+
+Game of Thrones
+
+
+News Quiz
+
+
+
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+
+
+
+Slate homepage
+
+
+
+
+
+
+
+
+
+Submit search
+
+
+
+
+
+Enter query
+
+
+
+
+Sign In
+
+My Account ▾
+
+Settings
+Log out
+
+
+
+
+
+
+                      News & Politics
+                      
+
+
+
+
+
+
+                      Culture
+                      
+
+
+
+
+
+
+                      Technology
+                      
+
+
+
+
+
+
+                      Business
+                      
+
+
+
+
+
+
+                      Human Interest
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+Notable topics
+
+
+
+
+
+Mueller Report
+
+
+Impeachment
+
+
+North Pole
+
+
+Green New Deal
+
+
+Under the Silver Lake
+
+
+Game of Thrones
+
+
+News Quiz
+
+
+
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+
+Notable topics
+
+
+
+
+
+Mueller Report
+
+
+Impeachment
+
+
+North Pole
+
+
+Green New Deal
+
+
+Under the Silver Lake
+
+
+Game of Thrones
+
+
+News Quiz
+
+
+
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+Slate homepage
+
+
+
+
+
+
+
+
+
+Submit search
+
+
+
+
+
+Enter query
+
+
+
+
+Sign In
+
+My Account ▾
+
+Settings
+Log out
+
+
+
+
+
+
+                      News & Politics
+                      
+
+
+
+
+
+
+                      Culture
+                      
+
+
+
+
+
+
+                      Technology
+                      
+
+
+
+
+
+
+                      Business
+                      
+
+
+
+
+
+
+                      Human Interest
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit search
+
+
+
+
+
+Enter query
+
+
+
+
+Sign In
+
+My Account ▾
+
+Settings
+Log out
+
+
+
+
+
+
+                      News & Politics
+                      
+
+
+
+
+
+
+                      Culture
+                      
+
+
+
+
+
+
+                      Technology
+                      
+
+
+
+
+
+
+                      Business
+                      
+
+
+
+
+
+
+                      Human Interest
+                      
+
+
+
+
+
+
+
+
+
+
+Submit search
+
+
+
+
+
+Enter query
+
+
+
+
+Sign In
+
+My Account ▾
+
+Settings
+Log out
+
+
+
+My Account ▾
+
+Settings
+Log out
+
+
+Settings
+Log out
+
+
+
+
+Slate homepage
+
+
+
+
+
+
+Menu
+
+Open menu
+
+
+
+
+
+
+Close menu
+
+
+
+
+
+
+Notable topics
+
+
+
+
+Mueller Report
+Impeachment
+North Pole
+Green New Deal
+Under the Silver Lake
+Game of Thrones
+News Quiz
+
+
+
+News & Politics
+Culture
+Technology
+Business
+Human Interest
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+                Search
+              
+
+                Follow us
+                
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+
+Register
+Sign in
+
+
+Settings
+Log out
+
+
+
+
+
+
+Slate homepage
+
+
+
+
+
+Menu
+
+Open menu
+
+
+
+
+
+
+Close menu
+
+
+
+
+
+
+Notable topics
+
+
+
+
+Mueller Report
+Impeachment
+North Pole
+Green New Deal
+Under the Silver Lake
+Game of Thrones
+News Quiz
+
+
+
+News & Politics
+Culture
+Technology
+Business
+Human Interest
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+                Search
+              
+
+                Follow us
+                
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+
+Register
+Sign in
+
+
+Settings
+Log out
+
+
+
+
+
+Notable topics
+
+
+
+
+Mueller Report
+Impeachment
+North Pole
+Green New Deal
+Under the Silver Lake
+Game of Thrones
+News Quiz
+
+
+Mueller Report
+Impeachment
+North Pole
+Green New Deal
+Under the Silver Lake
+Game of Thrones
+News Quiz
+
+News & Politics
+Culture
+Technology
+Business
+Human Interest
+
+
+Podcasts
+
+
+
+
+
+Slate Plus
+
+
+
+
+
+
+
+                Search
+              
+
+                Follow us
+                
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+                Follow us
+                
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+Register
+Sign in
+
+Settings
+Log out
+
+
+
+*
+
+
+
+                A Dippy Blast
+              
+
+            Follow Us
+            
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+
+
+*
+
+
+
+                A Dippy Blast
+              
+
+            Follow Us
+            
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+            Follow Us
+            
+
+Slate on Instagram
+
+
+
+
+
+Slate on Twitter
+
+
+
+
+
+Slate on Facebook
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Books
+      
+
+Save the Allegory!
+An entire literary tradition is being forgotten because writers use the term allegory to mean, like, whatever they want.
+
+By
+          
+
+Laura Miller
+
+
+
+May 03, 20164:15 PM
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike Dawson
+
+
+
+
+          I’m not much of a language stickler. I roll my eyes when people argue over the Oxford comma, and I couldn’t care less when someone says they “could care less.” As a descriptivist (rather than a prescriptivist), I’m mostly OK with seeing the meaning of words evolve and transform over time, because that’s what a living language does.
+        
+
+          But we all have our weaknesses. There’s one particular error I see over and over, often in criticism, that sets my teeth on edge. That’s because it flies beyond being a simple misnomer and instead misunderstands and erases an entire literary tradition, a rich and wonderful one that flowered most gloriously in the 13th century. My gripe isn’t totally arcane, I promise! Just bear with me for a moment while I get medieval on those who abuse the word allegory.
+        
+
+
+
+
+
+          What people usually mean when they call something an allegory today is that the fictional work in question can function as a metaphor for some real-world situation or event. This is a common arts journalist’s device: finding a political parallel to whatever you happen to be reviewing is a handy way to make it appear worth writing about in the first place. Calling that parallel an allegory serves to make the comparison more forceful. Fusion says that Batman v Superman is a “none-too-subtle allegory for the fight between Republican presidential hopefuls Donald Trump and Ted Cruz.” (It is not.) The Hollywood Reporter calls Zootopia an “accidental anti-Trump allegory”—this despite the fact that there is no literary form less accidental than allegory. The meaning of the word has drifted so far that even works that aren’t especially metaphorical get labeled as allegory: A film about artistic repression in Iran is a “clunky allegory” for … artistic repression in Iran.
+        
+
+
+
+
+
+
+
+          Allegory or metaphor: The distinction might seem obscure and academic to many readers. Shouldn’t allegory be grateful to get any attention at all? Isn’t it just an archaic literary mode that nobody uses anymore? Yes and no. About the only people creating true allegories today are political cartoonists. But a culture never entirely discards its roots, and allegory, which first appeared in the waning years of the Roman Empire, is one of the foundations of Western literature. Maybe if we understood it better, we’d realize how much we owe to it. Besides, the allegorical imagination lives on, just not in the places where critics think they see it.
+        
+
+          An allegory, in short, is not just another word for a metaphor. In essence, it’s a form of fiction that represents immaterial things as images. It calls attention to what it’s doing, typically by giving those images overtly thematic labels, like presenting the Seven Deadly Sins as a procession of people named Lust, Sloth, Pride, and the rest. The most famous allegory ever written, John Bunyan’s The Pilgrim’s Progress, was published in 1678, making it a holdover; allegory saw its artistic heyday in the Middle Ages. Yet The Pilgrim’s Progress was a colossal hit; for two centuries, it was the second book purchased by any Protestant household affluent and literate enough to own its own Bible. Everyone read about the narrator who falls asleep and dreams of a man named Christian fleeing the City of Destruction while bearing a heavy burden (representing the knowledge of his own sins) on his back. A figure named Evangelist instructs Christian on how to reach the Celestial City, a long journey past such perils as the Slough (swamp) of Despond and the Hill of Difficulty, where people with names like Mr. Worldly Wiseman and Hypocrisy attempt to lead him astray.
+        
+
+
+
+
+
+
+
+
+
+          The low opinion in which allegory is now widely held can be blamed on The Pilgrim’s Progress. The book is pious and manifestly didactic, although I can testify from experience that a young-enough reader can still find it an entertaining adventure yarn. Adults, apart from some very devout Protestants, tend to experience its sermonizing as oppressive. When critics call a work of art an allegory today, and especially when they use adjectives like clunky and none-too-subtle, they invoke this aspect of The Pilgrim’s Progress; they mean a story that imposes a single, conspicuous interpretation on a reader or viewer. Allegory lectures. As the critic Northrop Frye wrote, “The commenting critic is often prejudiced against allegory without knowing the real reason, which is that continuous allegory prescribes the direction of his commentary, and so restricts its freedom.”
+        
+
+          Perhaps Frye was right, and what we resent about allegory is the way it makes thematic analysis superfluous. You can’t really congratulate yourself for ferreting out the moral of Christian fighting his way through the fancy city of Vanity Fair or the mining town named Lucre. Should a book or a film present its argument so simply that even a child can discern it, what’s left to talk about? Merely language, story, and imagery—all the pleasures that art is made of.
+        
+
+
+
+
+
+
+
+          Do we even know how to read such a book anymore? C.S. Lewis thought not. He wrote the definitive treatise on the form in 1936: The Allegory of Love: A Study in Medieval Tradition. We know Lewis today as the author of The Chronicles of Narnia and as a writer of Christian apologetics, but before all that he was a sensational literary critic—and I mean sensational literally. Perceptive, erudite, and witty, he also wrote with an infectious vividness about the experience of reading, of mingling with an author’s mind and imagination. Here’s how he described the allegories of Martianus Capella, an influential writer of the early fifth century:
+        
+
+The philosophies of others, the religions of others—back even to the twilight of pre-Republican Rome—have all gone into the curiosity shop of his mind. It is not his business to believe or disbelieve them; the wicked old pedant knows a trick worth two of that. He piles them up all around him until there is hardly room for him to sit among them in the middle darkness of the shop; and there he gloats and catalogues, but never dusts them, for even their dust is precious in his eyes.
+
+
+
+
+
+
+
+
+
+
+          Lewis’ apologetics can be parochial, but his criticism flings open its doors and windows to welcome in any writer with even a wisp of distinction. Most remarkable of all, his scholarly works are never, ever incomprehensible or boring, even when they concern the most tedious literature. (Lewis’ biographer, A.N. Wilson, wrote that his one great fault as a critic was his “enthusiastic generosity” toward authors “who are not really as interesting as he makes them sound.”)
+        
+
+          A medievalist, Lewis was forever defending the Middle Ages from the glib notion that they constituted an intellectual and artistic fallow period between the classical world and the Renaissance. (He is completely convincing on this point.) We often fail to understand the beauty of medieval art, he argued, because we experience the world and our place in it so differently from the people of that time. We can’t appreciate medieval allegory until we make a concerted effort to imagine what it was like to inhabit the world as they saw it, as a divinely ordered universe in which “certain sympathies, antipathies, and strivings [are] inherent in matter itself.  Everything has its right place, its home, the region that suits it.”
+        
+
+
+
+
+
+          Lewis traces the origins of allegory to a period in late antiquity when, for undetermined reasons, the Western concept of a virtuous life changed profoundly. In the Nicomachean Ethics, Aristotle described virtue as a skill to be learned by practice, until it becomes not just second nature, but an end in itself. “The man who does not enjoy doing noble actions is not a good man at all,” he wrote. You don’t become a good cook by conquering your desire to cook badly; similarly, you become a good man by simultaneously acquiring the expertise and reaping its rewards.
+        
+
+
+
+          The emerging idea that virtue instead results from an ongoing inner battle against our own worst impulses was not exclusively Christian, but it fit perfectly with the Christian belief in humanity’s fallen nature. We’re so familiar with this concept of the psyche as a theater of struggle between opposing forces that it’s difficult to conceive of a time when it was relatively new, the time when allegory was born. “To fight against ‘temptation,’ ” Lewis writes, “is also to explore the inner world; and it is scarcely less plain that to do so is to be already on the verge of allegory.”
+        
+
+
+
+          Yet today we associate allegory with a lack of the “round” fictional characters we value most, characters whose believability resides at least partly in their internal conflicts. This is a standard set by the novel, a relatively recent literary form that (for the most part) aims to produce a naturalistic depiction of the world. Allegory doesn’t work that way. The characters in allegories like the 13th-century poem Roman de la Rose, or Edmund Spenser’s 16th-century masterpiece, The Faerie Queene, are “flat” by contemporary standards, possessed of only a few traits and behaving with inhuman consistency.
+        
+
+
+
+          But, as Lewis demonstrates in a long, virtuosic reading of Roman de la Rose, this is because they aren’t actually meant to be characters. Instead these people, the objects they handle, and the spaces they occupy all represent aspects of the self. Roman de la Rose describes the courtship of a noble maiden by a courtier. Like many allegories it is framed as a dream, a sign that we’ve entered into a psychological interior. The lover seeks the Garden of Love, where he meets such clashing figures as Mirth, Companionship, Pride, and Shame. The lady herself seems strangely dematerialized because, as Lewis observes, “her character is distributed among personifications.”
+        
+
+
+
+
+
+          But, Lewis hastens to add, an allegory is not merely an equation to be solved, leaving you free to “throw aside the allegorical imagery as something which has now done its work.” Allegorical reading requires sustaining both image and meaning in the reader’s mind, as equally valued components of the work. “It is not enough,” Lewis writes, “to see that the dreamer gazing into the fountain signifies the lover first looking into the lady’s eyes. We must feel that the scene by the fountain is an imaginative likeness of the lover’s experience.” We must be able to see the sparkling water and the shining eyes at the same time and recognize them to be facets of a singular, layered understanding that includes the recognition of other, abstract qualities as well, such as the purity of her spirit.
+        
+
+
+
+          The literate people of the Middle Ages were experts at comprehending art in this way. They routinely compounded vast amounts of meaning into certain ideas or motifs, partly because they were always attempting to integrate the cultural legacy of classical paganism into Christian theology. For them, “Venus” signified multiple things simultaneously: a planet, a Roman goddess with a set of stories attached to her, a literary figure, the image of feminine beauty, the force of erotic love, God’s will manifested in the fruitful union of a man and a woman, and so on. Christianity formed a bedrock for this way of thinking, but no one of these is the “true” meaning of Venus to which all others can be reduced. Their characters may seem “thin” when compared with those in a great novel, but their images are much fuller and richer.
+        
+
+
+
+          Lewis would surely argue that it is the modern reader who, viewing allegory as reductive, shows a lack of subtlety. In a great allegory, the imagery is not a code for the underlying theme; it is every bit as important as theme. Perhaps the greatest allegory, Edmund Spenser’s The Faerie Queene, offers a case in point. Lewis was Spenser’s foremost champion, rescuing the Elizabethan poet from near-obscurity and restoring The Faerie Queene to the canon—to the dismay of many undergraduates but to the delight of others. Lewis first read the epic poem as a boy, devouring it as a tale of brave knights battling dragons, giants, and wicked enchanters against a sylvan landscape splashed with gore. A grasp of the religious and political implications of such figures as the beautiful but nefarious lady Duessa (an allegory for the Catholic Church) or the Redcross Knight (who embodies the spirit of England) would come later, but many generations of readers have been well-satisfied with the surface alone.
+        
+
+
+
+The Faerie Queene is a vast, ravishing spectacle—one that contemporary readers can find pretty inaccessible due to Spenser’s use of language and diction that is deliberately archaic, even for his own time. (Ben Jonson, a near contemporary, complained that “in affecting the ancients Spenser writ no language.”) Fortunately, an unabridged audiobook, masterfully narrated by David Timson, released late last year makes the poem much more readily intelligible for a new or returning reader. The Faerie Queene is a pageant of one gorgeous, trippy vision after another, from the Garden of Proserpina, the queen of the underworld, (every blossom, leaf, and fruit in it is coal black) to the adventures of “the famous Britomart,” a female knight every bit as valiant as our beloved Brienne of Tarth. And while many of Spenser’s allegorical concerns have become obsolete, it only takes a scene like the Redcross Knight’s encounter with shaggy, gaunt Despair as he crouches in his cave, surrounded by the knights he has persuaded to kill themselves, to remind a reader of the form’s potency.
+        
+
+
+
+
+
+          Spenser’s Despair calls to mind the dementors, the most terrifying monsters in the Harry Potter series, although J.K. Rowling’s specters are not so much personifications of depression as allegorical deployments of it. This is where the spirit of allegory lives on, in novels and films when the action feels as if it is taking place inside one person’s head. Sometimes a superhero comic or film slips into an allegorical mode, less by mimicking some timely political situation than by creating an antagonist like the Penguin, who resembles an updating of the medieval allegory for greed. The Hero’s Journey, a staple of screenwriting courses and, alas, the model for so many mediocre films, is really just an allegorical narrative slapped with the more palatable label of “myth.” Yet the contemporary artworks most redolent of allegory’s heady psychic atmosphere are both archetypal and dreamlike: the novels of Haruki Murakami and the films of David Lynch, to name two examples. These stories partake of what Lewis describes as “the perennial strangeness, the adventurousness, and the sinuous forward movement of the inner life.” They are more enigmatic and chaotic than medieval allegory, but ours is a more confusing and disordered world.
+        
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+            Books
+          
+
+            Language
+          
+
+            Slate Book Review
+          
+
+
+
+
+
+
+
+
+    {"@context":"http://schema.org","@type":"NewsArticle","articleSection":"Books","dateCreated":"2016-05-03T20:15:26+00:00","headline":"That Thing You Think Is an Allegory Isn’t an Allegory!","url":"https://slate.com/culture/2016/05/an-allegory-is-not-the-same-as-a-metaphor-in-praise-of-the-medieval-literary-tradition.html","thumbnailUrl":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","keywords":["redux","Section:culture","AdNode:culture/books"],"creator":["Laura Miller"],"author":["Laura Miller"],"datePublished":"2016-05-03T20:15:26+00:00","image":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","publisher":{"@type":"Organization","name":"Slate","logo":{"@type":"ImageObject","url":"https://slate.com/media/sites/slate-com/icon.400x400.png"}}}
+  
+
+
+
+
+
+
+
+
+
+
+
+              window._taboola = window._taboola || [];
+              _taboola.push({
+                mode: 'thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+              });
+            
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Books
+      
+
+Save the Allegory!
+An entire literary tradition is being forgotten because writers use the term allegory to mean, like, whatever they want.
+
+By
+          
+
+Laura Miller
+
+
+
+May 03, 20164:15 PM
+
+
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike Dawson
+
+
+
+
+          I’m not much of a language stickler. I roll my eyes when people argue over the Oxford comma, and I couldn’t care less when someone says they “could care less.” As a descriptivist (rather than a prescriptivist), I’m mostly OK with seeing the meaning of words evolve and transform over time, because that’s what a living language does.
+        
+
+          But we all have our weaknesses. There’s one particular error I see over and over, often in criticism, that sets my teeth on edge. That’s because it flies beyond being a simple misnomer and instead misunderstands and erases an entire literary tradition, a rich and wonderful one that flowered most gloriously in the 13th century. My gripe isn’t totally arcane, I promise! Just bear with me for a moment while I get medieval on those who abuse the word allegory.
+        
+
+
+
+
+
+          What people usually mean when they call something an allegory today is that the fictional work in question can function as a metaphor for some real-world situation or event. This is a common arts journalist’s device: finding a political parallel to whatever you happen to be reviewing is a handy way to make it appear worth writing about in the first place. Calling that parallel an allegory serves to make the comparison more forceful. Fusion says that Batman v Superman is a “none-too-subtle allegory for the fight between Republican presidential hopefuls Donald Trump and Ted Cruz.” (It is not.) The Hollywood Reporter calls Zootopia an “accidental anti-Trump allegory”—this despite the fact that there is no literary form less accidental than allegory. The meaning of the word has drifted so far that even works that aren’t especially metaphorical get labeled as allegory: A film about artistic repression in Iran is a “clunky allegory” for … artistic repression in Iran.
+        
+
+
+
+
+
+
+
+          Allegory or metaphor: The distinction might seem obscure and academic to many readers. Shouldn’t allegory be grateful to get any attention at all? Isn’t it just an archaic literary mode that nobody uses anymore? Yes and no. About the only people creating true allegories today are political cartoonists. But a culture never entirely discards its roots, and allegory, which first appeared in the waning years of the Roman Empire, is one of the foundations of Western literature. Maybe if we understood it better, we’d realize how much we owe to it. Besides, the allegorical imagination lives on, just not in the places where critics think they see it.
+        
+
+          An allegory, in short, is not just another word for a metaphor. In essence, it’s a form of fiction that represents immaterial things as images. It calls attention to what it’s doing, typically by giving those images overtly thematic labels, like presenting the Seven Deadly Sins as a procession of people named Lust, Sloth, Pride, and the rest. The most famous allegory ever written, John Bunyan’s The Pilgrim’s Progress, was published in 1678, making it a holdover; allegory saw its artistic heyday in the Middle Ages. Yet The Pilgrim’s Progress was a colossal hit; for two centuries, it was the second book purchased by any Protestant household affluent and literate enough to own its own Bible. Everyone read about the narrator who falls asleep and dreams of a man named Christian fleeing the City of Destruction while bearing a heavy burden (representing the knowledge of his own sins) on his back. A figure named Evangelist instructs Christian on how to reach the Celestial City, a long journey past such perils as the Slough (swamp) of Despond and the Hill of Difficulty, where people with names like Mr. Worldly Wiseman and Hypocrisy attempt to lead him astray.
+        
+
+
+
+
+
+
+
+
+
+          The low opinion in which allegory is now widely held can be blamed on The Pilgrim’s Progress. The book is pious and manifestly didactic, although I can testify from experience that a young-enough reader can still find it an entertaining adventure yarn. Adults, apart from some very devout Protestants, tend to experience its sermonizing as oppressive. When critics call a work of art an allegory today, and especially when they use adjectives like clunky and none-too-subtle, they invoke this aspect of The Pilgrim’s Progress; they mean a story that imposes a single, conspicuous interpretation on a reader or viewer. Allegory lectures. As the critic Northrop Frye wrote, “The commenting critic is often prejudiced against allegory without knowing the real reason, which is that continuous allegory prescribes the direction of his commentary, and so restricts its freedom.”
+        
+
+          Perhaps Frye was right, and what we resent about allegory is the way it makes thematic analysis superfluous. You can’t really congratulate yourself for ferreting out the moral of Christian fighting his way through the fancy city of Vanity Fair or the mining town named Lucre. Should a book or a film present its argument so simply that even a child can discern it, what’s left to talk about? Merely language, story, and imagery—all the pleasures that art is made of.
+        
+
+
+
+
+
+
+
+          Do we even know how to read such a book anymore? C.S. Lewis thought not. He wrote the definitive treatise on the form in 1936: The Allegory of Love: A Study in Medieval Tradition. We know Lewis today as the author of The Chronicles of Narnia and as a writer of Christian apologetics, but before all that he was a sensational literary critic—and I mean sensational literally. Perceptive, erudite, and witty, he also wrote with an infectious vividness about the experience of reading, of mingling with an author’s mind and imagination. Here’s how he described the allegories of Martianus Capella, an influential writer of the early fifth century:
+        
+
+The philosophies of others, the religions of others—back even to the twilight of pre-Republican Rome—have all gone into the curiosity shop of his mind. It is not his business to believe or disbelieve them; the wicked old pedant knows a trick worth two of that. He piles them up all around him until there is hardly room for him to sit among them in the middle darkness of the shop; and there he gloats and catalogues, but never dusts them, for even their dust is precious in his eyes.
+
+
+
+
+
+
+
+
+
+
+          Lewis’ apologetics can be parochial, but his criticism flings open its doors and windows to welcome in any writer with even a wisp of distinction. Most remarkable of all, his scholarly works are never, ever incomprehensible or boring, even when they concern the most tedious literature. (Lewis’ biographer, A.N. Wilson, wrote that his one great fault as a critic was his “enthusiastic generosity” toward authors “who are not really as interesting as he makes them sound.”)
+        
+
+          A medievalist, Lewis was forever defending the Middle Ages from the glib notion that they constituted an intellectual and artistic fallow period between the classical world and the Renaissance. (He is completely convincing on this point.) We often fail to understand the beauty of medieval art, he argued, because we experience the world and our place in it so differently from the people of that time. We can’t appreciate medieval allegory until we make a concerted effort to imagine what it was like to inhabit the world as they saw it, as a divinely ordered universe in which “certain sympathies, antipathies, and strivings [are] inherent in matter itself.  Everything has its right place, its home, the region that suits it.”
+        
+
+
+
+
+
+          Lewis traces the origins of allegory to a period in late antiquity when, for undetermined reasons, the Western concept of a virtuous life changed profoundly. In the Nicomachean Ethics, Aristotle described virtue as a skill to be learned by practice, until it becomes not just second nature, but an end in itself. “The man who does not enjoy doing noble actions is not a good man at all,” he wrote. You don’t become a good cook by conquering your desire to cook badly; similarly, you become a good man by simultaneously acquiring the expertise and reaping its rewards.
+        
+
+
+
+          The emerging idea that virtue instead results from an ongoing inner battle against our own worst impulses was not exclusively Christian, but it fit perfectly with the Christian belief in humanity’s fallen nature. We’re so familiar with this concept of the psyche as a theater of struggle between opposing forces that it’s difficult to conceive of a time when it was relatively new, the time when allegory was born. “To fight against ‘temptation,’ ” Lewis writes, “is also to explore the inner world; and it is scarcely less plain that to do so is to be already on the verge of allegory.”
+        
+
+
+
+          Yet today we associate allegory with a lack of the “round” fictional characters we value most, characters whose believability resides at least partly in their internal conflicts. This is a standard set by the novel, a relatively recent literary form that (for the most part) aims to produce a naturalistic depiction of the world. Allegory doesn’t work that way. The characters in allegories like the 13th-century poem Roman de la Rose, or Edmund Spenser’s 16th-century masterpiece, The Faerie Queene, are “flat” by contemporary standards, possessed of only a few traits and behaving with inhuman consistency.
+        
+
+
+
+          But, as Lewis demonstrates in a long, virtuosic reading of Roman de la Rose, this is because they aren’t actually meant to be characters. Instead these people, the objects they handle, and the spaces they occupy all represent aspects of the self. Roman de la Rose describes the courtship of a noble maiden by a courtier. Like many allegories it is framed as a dream, a sign that we’ve entered into a psychological interior. The lover seeks the Garden of Love, where he meets such clashing figures as Mirth, Companionship, Pride, and Shame. The lady herself seems strangely dematerialized because, as Lewis observes, “her character is distributed among personifications.”
+        
+
+
+
+
+
+          But, Lewis hastens to add, an allegory is not merely an equation to be solved, leaving you free to “throw aside the allegorical imagery as something which has now done its work.” Allegorical reading requires sustaining both image and meaning in the reader’s mind, as equally valued components of the work. “It is not enough,” Lewis writes, “to see that the dreamer gazing into the fountain signifies the lover first looking into the lady’s eyes. We must feel that the scene by the fountain is an imaginative likeness of the lover’s experience.” We must be able to see the sparkling water and the shining eyes at the same time and recognize them to be facets of a singular, layered understanding that includes the recognition of other, abstract qualities as well, such as the purity of her spirit.
+        
+
+
+
+          The literate people of the Middle Ages were experts at comprehending art in this way. They routinely compounded vast amounts of meaning into certain ideas or motifs, partly because they were always attempting to integrate the cultural legacy of classical paganism into Christian theology. For them, “Venus” signified multiple things simultaneously: a planet, a Roman goddess with a set of stories attached to her, a literary figure, the image of feminine beauty, the force of erotic love, God’s will manifested in the fruitful union of a man and a woman, and so on. Christianity formed a bedrock for this way of thinking, but no one of these is the “true” meaning of Venus to which all others can be reduced. Their characters may seem “thin” when compared with those in a great novel, but their images are much fuller and richer.
+        
+
+
+
+          Lewis would surely argue that it is the modern reader who, viewing allegory as reductive, shows a lack of subtlety. In a great allegory, the imagery is not a code for the underlying theme; it is every bit as important as theme. Perhaps the greatest allegory, Edmund Spenser’s The Faerie Queene, offers a case in point. Lewis was Spenser’s foremost champion, rescuing the Elizabethan poet from near-obscurity and restoring The Faerie Queene to the canon—to the dismay of many undergraduates but to the delight of others. Lewis first read the epic poem as a boy, devouring it as a tale of brave knights battling dragons, giants, and wicked enchanters against a sylvan landscape splashed with gore. A grasp of the religious and political implications of such figures as the beautiful but nefarious lady Duessa (an allegory for the Catholic Church) or the Redcross Knight (who embodies the spirit of England) would come later, but many generations of readers have been well-satisfied with the surface alone.
+        
+
+
+
+The Faerie Queene is a vast, ravishing spectacle—one that contemporary readers can find pretty inaccessible due to Spenser’s use of language and diction that is deliberately archaic, even for his own time. (Ben Jonson, a near contemporary, complained that “in affecting the ancients Spenser writ no language.”) Fortunately, an unabridged audiobook, masterfully narrated by David Timson, released late last year makes the poem much more readily intelligible for a new or returning reader. The Faerie Queene is a pageant of one gorgeous, trippy vision after another, from the Garden of Proserpina, the queen of the underworld, (every blossom, leaf, and fruit in it is coal black) to the adventures of “the famous Britomart,” a female knight every bit as valiant as our beloved Brienne of Tarth. And while many of Spenser’s allegorical concerns have become obsolete, it only takes a scene like the Redcross Knight’s encounter with shaggy, gaunt Despair as he crouches in his cave, surrounded by the knights he has persuaded to kill themselves, to remind a reader of the form’s potency.
+        
+
+
+
+
+
+          Spenser’s Despair calls to mind the dementors, the most terrifying monsters in the Harry Potter series, although J.K. Rowling’s specters are not so much personifications of depression as allegorical deployments of it. This is where the spirit of allegory lives on, in novels and films when the action feels as if it is taking place inside one person’s head. Sometimes a superhero comic or film slips into an allegorical mode, less by mimicking some timely political situation than by creating an antagonist like the Penguin, who resembles an updating of the medieval allegory for greed. The Hero’s Journey, a staple of screenwriting courses and, alas, the model for so many mediocre films, is really just an allegorical narrative slapped with the more palatable label of “myth.” Yet the contemporary artworks most redolent of allegory’s heady psychic atmosphere are both archetypal and dreamlike: the novels of Haruki Murakami and the films of David Lynch, to name two examples. These stories partake of what Lewis describes as “the perennial strangeness, the adventurousness, and the sinuous forward movement of the inner life.” They are more enigmatic and chaotic than medieval allegory, but ours is a more confusing and disordered world.
+        
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+            Books
+          
+
+            Language
+          
+
+            Slate Book Review
+          
+
+
+
+
+
+
+
+
+    {"@context":"http://schema.org","@type":"NewsArticle","articleSection":"Books","dateCreated":"2016-05-03T20:15:26+00:00","headline":"That Thing You Think Is an Allegory Isn’t an Allegory!","url":"https://slate.com/culture/2016/05/an-allegory-is-not-the-same-as-a-metaphor-in-praise-of-the-medieval-literary-tradition.html","thumbnailUrl":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","keywords":["redux","Section:culture","AdNode:culture/books"],"creator":["Laura Miller"],"author":["Laura Miller"],"datePublished":"2016-05-03T20:15:26+00:00","image":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","publisher":{"@type":"Organization","name":"Slate","logo":{"@type":"ImageObject","url":"https://slate.com/media/sites/slate-com/icon.400x400.png"}}}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Books
+      
+
+By
+          
+
+Laura Miller
+
+
+
+May 03, 20164:15 PM
+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike Dawson
+
+
+
+
+          I’m not much of a language stickler. I roll my eyes when people argue over the Oxford comma, and I couldn’t care less when someone says they “could care less.” As a descriptivist (rather than a prescriptivist), I’m mostly OK with seeing the meaning of words evolve and transform over time, because that’s what a living language does.
+        
+
+          But we all have our weaknesses. There’s one particular error I see over and over, often in criticism, that sets my teeth on edge. That’s because it flies beyond being a simple misnomer and instead misunderstands and erases an entire literary tradition, a rich and wonderful one that flowered most gloriously in the 13th century. My gripe isn’t totally arcane, I promise! Just bear with me for a moment while I get medieval on those who abuse the word allegory.
+        
+
+
+
+
+
+          What people usually mean when they call something an allegory today is that the fictional work in question can function as a metaphor for some real-world situation or event. This is a common arts journalist’s device: finding a political parallel to whatever you happen to be reviewing is a handy way to make it appear worth writing about in the first place. Calling that parallel an allegory serves to make the comparison more forceful. Fusion says that Batman v Superman is a “none-too-subtle allegory for the fight between Republican presidential hopefuls Donald Trump and Ted Cruz.” (It is not.) The Hollywood Reporter calls Zootopia an “accidental anti-Trump allegory”—this despite the fact that there is no literary form less accidental than allegory. The meaning of the word has drifted so far that even works that aren’t especially metaphorical get labeled as allegory: A film about artistic repression in Iran is a “clunky allegory” for … artistic repression in Iran.
+        
+
+
+
+
+
+
+
+          Allegory or metaphor: The distinction might seem obscure and academic to many readers. Shouldn’t allegory be grateful to get any attention at all? Isn’t it just an archaic literary mode that nobody uses anymore? Yes and no. About the only people creating true allegories today are political cartoonists. But a culture never entirely discards its roots, and allegory, which first appeared in the waning years of the Roman Empire, is one of the foundations of Western literature. Maybe if we understood it better, we’d realize how much we owe to it. Besides, the allegorical imagination lives on, just not in the places where critics think they see it.
+        
+
+          An allegory, in short, is not just another word for a metaphor. In essence, it’s a form of fiction that represents immaterial things as images. It calls attention to what it’s doing, typically by giving those images overtly thematic labels, like presenting the Seven Deadly Sins as a procession of people named Lust, Sloth, Pride, and the rest. The most famous allegory ever written, John Bunyan’s The Pilgrim’s Progress, was published in 1678, making it a holdover; allegory saw its artistic heyday in the Middle Ages. Yet The Pilgrim’s Progress was a colossal hit; for two centuries, it was the second book purchased by any Protestant household affluent and literate enough to own its own Bible. Everyone read about the narrator who falls asleep and dreams of a man named Christian fleeing the City of Destruction while bearing a heavy burden (representing the knowledge of his own sins) on his back. A figure named Evangelist instructs Christian on how to reach the Celestial City, a long journey past such perils as the Slough (swamp) of Despond and the Hill of Difficulty, where people with names like Mr. Worldly Wiseman and Hypocrisy attempt to lead him astray.
+        
+
+
+
+
+
+
+
+
+
+          The low opinion in which allegory is now widely held can be blamed on The Pilgrim’s Progress. The book is pious and manifestly didactic, although I can testify from experience that a young-enough reader can still find it an entertaining adventure yarn. Adults, apart from some very devout Protestants, tend to experience its sermonizing as oppressive. When critics call a work of art an allegory today, and especially when they use adjectives like clunky and none-too-subtle, they invoke this aspect of The Pilgrim’s Progress; they mean a story that imposes a single, conspicuous interpretation on a reader or viewer. Allegory lectures. As the critic Northrop Frye wrote, “The commenting critic is often prejudiced against allegory without knowing the real reason, which is that continuous allegory prescribes the direction of his commentary, and so restricts its freedom.”
+        
+
+          Perhaps Frye was right, and what we resent about allegory is the way it makes thematic analysis superfluous. You can’t really congratulate yourself for ferreting out the moral of Christian fighting his way through the fancy city of Vanity Fair or the mining town named Lucre. Should a book or a film present its argument so simply that even a child can discern it, what’s left to talk about? Merely language, story, and imagery—all the pleasures that art is made of.
+        
+
+
+
+
+
+
+
+          Do we even know how to read such a book anymore? C.S. Lewis thought not. He wrote the definitive treatise on the form in 1936: The Allegory of Love: A Study in Medieval Tradition. We know Lewis today as the author of The Chronicles of Narnia and as a writer of Christian apologetics, but before all that he was a sensational literary critic—and I mean sensational literally. Perceptive, erudite, and witty, he also wrote with an infectious vividness about the experience of reading, of mingling with an author’s mind and imagination. Here’s how he described the allegories of Martianus Capella, an influential writer of the early fifth century:
+        
+
+The philosophies of others, the religions of others—back even to the twilight of pre-Republican Rome—have all gone into the curiosity shop of his mind. It is not his business to believe or disbelieve them; the wicked old pedant knows a trick worth two of that. He piles them up all around him until there is hardly room for him to sit among them in the middle darkness of the shop; and there he gloats and catalogues, but never dusts them, for even their dust is precious in his eyes.
+
+
+
+
+
+
+
+
+
+
+          Lewis’ apologetics can be parochial, but his criticism flings open its doors and windows to welcome in any writer with even a wisp of distinction. Most remarkable of all, his scholarly works are never, ever incomprehensible or boring, even when they concern the most tedious literature. (Lewis’ biographer, A.N. Wilson, wrote that his one great fault as a critic was his “enthusiastic generosity” toward authors “who are not really as interesting as he makes them sound.”)
+        
+
+          A medievalist, Lewis was forever defending the Middle Ages from the glib notion that they constituted an intellectual and artistic fallow period between the classical world and the Renaissance. (He is completely convincing on this point.) We often fail to understand the beauty of medieval art, he argued, because we experience the world and our place in it so differently from the people of that time. We can’t appreciate medieval allegory until we make a concerted effort to imagine what it was like to inhabit the world as they saw it, as a divinely ordered universe in which “certain sympathies, antipathies, and strivings [are] inherent in matter itself.  Everything has its right place, its home, the region that suits it.”
+        
+
+
+
+
+
+          Lewis traces the origins of allegory to a period in late antiquity when, for undetermined reasons, the Western concept of a virtuous life changed profoundly. In the Nicomachean Ethics, Aristotle described virtue as a skill to be learned by practice, until it becomes not just second nature, but an end in itself. “The man who does not enjoy doing noble actions is not a good man at all,” he wrote. You don’t become a good cook by conquering your desire to cook badly; similarly, you become a good man by simultaneously acquiring the expertise and reaping its rewards.
+        
+
+
+
+          The emerging idea that virtue instead results from an ongoing inner battle against our own worst impulses was not exclusively Christian, but it fit perfectly with the Christian belief in humanity’s fallen nature. We’re so familiar with this concept of the psyche as a theater of struggle between opposing forces that it’s difficult to conceive of a time when it was relatively new, the time when allegory was born. “To fight against ‘temptation,’ ” Lewis writes, “is also to explore the inner world; and it is scarcely less plain that to do so is to be already on the verge of allegory.”
+        
+
+
+
+          Yet today we associate allegory with a lack of the “round” fictional characters we value most, characters whose believability resides at least partly in their internal conflicts. This is a standard set by the novel, a relatively recent literary form that (for the most part) aims to produce a naturalistic depiction of the world. Allegory doesn’t work that way. The characters in allegories like the 13th-century poem Roman de la Rose, or Edmund Spenser’s 16th-century masterpiece, The Faerie Queene, are “flat” by contemporary standards, possessed of only a few traits and behaving with inhuman consistency.
+        
+
+
+
+          But, as Lewis demonstrates in a long, virtuosic reading of Roman de la Rose, this is because they aren’t actually meant to be characters. Instead these people, the objects they handle, and the spaces they occupy all represent aspects of the self. Roman de la Rose describes the courtship of a noble maiden by a courtier. Like many allegories it is framed as a dream, a sign that we’ve entered into a psychological interior. The lover seeks the Garden of Love, where he meets such clashing figures as Mirth, Companionship, Pride, and Shame. The lady herself seems strangely dematerialized because, as Lewis observes, “her character is distributed among personifications.”
+        
+
+
+
+
+
+          But, Lewis hastens to add, an allegory is not merely an equation to be solved, leaving you free to “throw aside the allegorical imagery as something which has now done its work.” Allegorical reading requires sustaining both image and meaning in the reader’s mind, as equally valued components of the work. “It is not enough,” Lewis writes, “to see that the dreamer gazing into the fountain signifies the lover first looking into the lady’s eyes. We must feel that the scene by the fountain is an imaginative likeness of the lover’s experience.” We must be able to see the sparkling water and the shining eyes at the same time and recognize them to be facets of a singular, layered understanding that includes the recognition of other, abstract qualities as well, such as the purity of her spirit.
+        
+
+
+
+          The literate people of the Middle Ages were experts at comprehending art in this way. They routinely compounded vast amounts of meaning into certain ideas or motifs, partly because they were always attempting to integrate the cultural legacy of classical paganism into Christian theology. For them, “Venus” signified multiple things simultaneously: a planet, a Roman goddess with a set of stories attached to her, a literary figure, the image of feminine beauty, the force of erotic love, God’s will manifested in the fruitful union of a man and a woman, and so on. Christianity formed a bedrock for this way of thinking, but no one of these is the “true” meaning of Venus to which all others can be reduced. Their characters may seem “thin” when compared with those in a great novel, but their images are much fuller and richer.
+        
+
+
+
+          Lewis would surely argue that it is the modern reader who, viewing allegory as reductive, shows a lack of subtlety. In a great allegory, the imagery is not a code for the underlying theme; it is every bit as important as theme. Perhaps the greatest allegory, Edmund Spenser’s The Faerie Queene, offers a case in point. Lewis was Spenser’s foremost champion, rescuing the Elizabethan poet from near-obscurity and restoring The Faerie Queene to the canon—to the dismay of many undergraduates but to the delight of others. Lewis first read the epic poem as a boy, devouring it as a tale of brave knights battling dragons, giants, and wicked enchanters against a sylvan landscape splashed with gore. A grasp of the religious and political implications of such figures as the beautiful but nefarious lady Duessa (an allegory for the Catholic Church) or the Redcross Knight (who embodies the spirit of England) would come later, but many generations of readers have been well-satisfied with the surface alone.
+        
+
+
+
+The Faerie Queene is a vast, ravishing spectacle—one that contemporary readers can find pretty inaccessible due to Spenser’s use of language and diction that is deliberately archaic, even for his own time. (Ben Jonson, a near contemporary, complained that “in affecting the ancients Spenser writ no language.”) Fortunately, an unabridged audiobook, masterfully narrated by David Timson, released late last year makes the poem much more readily intelligible for a new or returning reader. The Faerie Queene is a pageant of one gorgeous, trippy vision after another, from the Garden of Proserpina, the queen of the underworld, (every blossom, leaf, and fruit in it is coal black) to the adventures of “the famous Britomart,” a female knight every bit as valiant as our beloved Brienne of Tarth. And while many of Spenser’s allegorical concerns have become obsolete, it only takes a scene like the Redcross Knight’s encounter with shaggy, gaunt Despair as he crouches in his cave, surrounded by the knights he has persuaded to kill themselves, to remind a reader of the form’s potency.
+        
+
+
+
+
+
+          Spenser’s Despair calls to mind the dementors, the most terrifying monsters in the Harry Potter series, although J.K. Rowling’s specters are not so much personifications of depression as allegorical deployments of it. This is where the spirit of allegory lives on, in novels and films when the action feels as if it is taking place inside one person’s head. Sometimes a superhero comic or film slips into an allegorical mode, less by mimicking some timely political situation than by creating an antagonist like the Penguin, who resembles an updating of the medieval allegory for greed. The Hero’s Journey, a staple of screenwriting courses and, alas, the model for so many mediocre films, is really just an allegorical narrative slapped with the more palatable label of “myth.” Yet the contemporary artworks most redolent of allegory’s heady psychic atmosphere are both archetypal and dreamlike: the novels of Haruki Murakami and the films of David Lynch, to name two examples. These stories partake of what Lewis describes as “the perennial strangeness, the adventurousness, and the sinuous forward movement of the inner life.” They are more enigmatic and chaotic than medieval allegory, but ours is a more confusing and disordered world.
+        
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Comment
+
+
+
+
+
+
+
+
+Mike Dawson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Books
+          
+
+            Language
+          
+
+            Slate Book Review
+          
+
+
+
+    {"@context":"http://schema.org","@type":"NewsArticle","articleSection":"Books","dateCreated":"2016-05-03T20:15:26+00:00","headline":"That Thing You Think Is an Allegory Isn’t an Allegory!","url":"https://slate.com/culture/2016/05/an-allegory-is-not-the-same-as-a-metaphor-in-praise-of-the-medieval-literary-tradition.html","thumbnailUrl":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","keywords":["redux","Section:culture","AdNode:culture/books"],"creator":["Laura Miller"],"author":["Laura Miller"],"datePublished":"2016-05-03T20:15:26+00:00","image":"https://compote.slate.com/images/93fdd2d1-3d89-40a3-9828-c0e604f066c5.jpg","publisher":{"@type":"Organization","name":"Slate","logo":{"@type":"ImageObject","url":"https://slate.com/media/sites/slate-com/icon.400x400.png"}}}
+  
+
+
+
+
+
+
+
+
+
+
+              window._taboola = window._taboola || [];
+              _taboola.push({
+                mode: 'thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+              });
+            
+
+
+
+
+
+Reprints
+Advertise: Site / Podcasts
+Commenting
+Podcast FAQs
+Contact / Feedback
+Pitch guidelines
+Corrections
+About us
+Work with us
+Send us tips
+User agreement
+Privacy policy
+AdChoices
+Slate Shop
+
+
+Follow Us
+
+
+
+
+            Facebook
+          
+
+
+
+
+            Twitter
+          
+
+
+
+
+            Instagram
+          
+
+
+
+
+            RSS Feed
+          
+
+
+
+The Slate Group logo
+
+
+
+            Slate is published by The Slate Group, a Graham Holdings Company.
+            All contents © 2019 The Slate Group LLC. All rights reserved.
+          
+
+
+Follow Us
+
+
+
+
+            Facebook
+          
+
+
+
+
+            Twitter
+          
+
+
+
+
+            Instagram
+          
+
+
+
+
+            RSS Feed
+          
+Follow Us
+
+The Slate Group logo
+
+
+
+            Slate is published by The Slate Group, a Graham Holdings Company.
+            All contents © 2019 The Slate Group LLC. All rights reserved.
+          
+ 
+
+
+
+
+
+
+
+
+
+
+We Need to Talk About Your Ad Blocker
+Slate relies on advertising to support our journalism. If you value our work, please disable your ad blocker.
+Enable Ads on Slate
+
+
+Want to Block Ads But Still Support Slate?
+By joining Slate Plus you support our work and get exclusive content. And you'll never see this message again.
+Join Slate Plus
+
+
+
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+  
+
+
+
+    @-webkit-keyframes fadeInKilnLogo{0%{opacity:0}to{opacity:1}}@keyframes fadeInKilnLogo{0%{opacity:0}to{opacity:1}}.clay-kiln-logo{background-color:hsla(0,0%,100%,.8);display:none;height:100vh;left:0;opacity:0;position:fixed;top:0;width:100vw;z-index:99999}.clay-kiln-logo.show{-webkit-animation:.2s ease forwards fadeInKilnLogo;animation:.2s ease forwards fadeInKilnLogo;display:block}.clay-kiln-logo svg{box-sizing:border-box;height:110px;left:calc(50vw - 155px);position:fixed;top:calc(50vh - 55px);width:310px}
+  
+
+
+    !function(t){function n(r){if(e[r])return e[r].exports;var o=e[r]={i:r,l:!1,exports:{}};return t[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}var e={};n.m=t,n.c=e,n.d=function(t,e,r){n.o(t,e)||Object.defineProperty(t,e,{configurable:!1,enumerable:!0,get:r})},n.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return n.d(e,"a",e),e},n.o=function(t,n){return Object.prototype.hasOwnProperty.call(t,n)},n.p="",n(n.s=1151)}({110:function(t,n){function e(t,n,e,r){for(var o=t.length,u=e+(r?1:-1);r?u--:++u<o;)if(n(t[u],u,t))return u;return-1}t.exports=e},1151:function(t,n,e){"use strict";var r=e(709),o=function(t){return t&&t.__esModule?t:{default:t}}(r);e(238),(0,o.default)()},125:function(t,n){function e(t){return"number"==typeof t&&t>-1&&t%1==0&&t<=r}var r=9007199254740991;t.exports=e},128:function(t,n,e){function r(t,n,e){return n===n?c(t,n,e):o(t,u,e)}var o=e(110),u=e(191),c=e(192);t.exports=r},147:function(t,n){n=t.exports=function(t){if(t&&"object"==typeof t){var n=t.which||t.keyCode||t.charCode;n&&(t=n)}if("number"==typeof t)return u[t];var o=t+"",c=e[o.toLowerCase()];if(c)return c;var c=r[o.toLowerCase()];return c||(1===o.length?o.charCodeAt(0):void 0)};var e=n.code=n.codes={backspace:8,tab:9,enter:13,shift:16,ctrl:17,alt:18,"pause/break":19,"caps lock":20,esc:27,space:32,"page up":33,"page down":34,end:35,home:36,left:37,up:38,right:39,down:40,insert:45,delete:46,command:91,"left command":91,"right command":93,"numpad *":106,"numpad +":107,"numpad -":109,"numpad .":110,"numpad /":111,"num lock":144,"scroll lock":145,"my computer":182,"my calculator":183,";":186,"=":187,",":188,"-":189,".":190,"/":191,"`":192,"[":219,"\\":220,"]":221,"'":222},r=n.aliases={windows:91,"⇧":16,"⌥":18,"⌃":17,"⌘":91,ctl:17,control:17,option:18,pause:19,break:19,caps:20,return:13,escape:27,spc:32,pgup:33,pgdn:34,ins:45,del:46,cmd:91};/*!
+ * Programatically add the following
+ */
+for(o=97;o<123;o++)e[String.fromCharCode(o)]=o-32;for(var o=48;o<58;o++)e[o-48]=o;for(o=1;o<13;o++)e["f"+o]=o+111;for(o=0;o<10;o++)e["numpad "+o]=o+96;var u=n.names=n.title={};for(o in e)u[e[o]]=o;for(var c in r)e[c]=r[c]},157:function(t,n,e){"use strict";function r(t){var n=void 0,e=void 0,r=void 0;t=t||window.location,n=t.protocol+"//"+t.host+t.pathname+t.search,e=n.indexOf("?edit=true"),r=n.indexOf("&edit=true"),e>-1?n=n.substring(0,e):r>-1?n=n.substring(0,r):n.indexOf("?")>-1?n+="&edit=true":n+="?edit=true",t.assign(n)}Object.defineProperty(n,"__esModule",{value:!0}),n.default=r},173:function(t,n,e){function r(t){return t?(t=o(t))===u||t===-u?(t<0?-1:1)*c:t===t?t:0:0===t?t:0}var o=e(80),u=1/0,c=1.7976931348623157e308;t.exports=r},191:function(t,n){function e(t){return t!==t}t.exports=e},192:function(t,n){function e(t,n,e){for(var r=e-1,o=t.length;++r<o;)if(t[r]===n)return r;return-1}t.exports=e},193:function(t,n,e){function r(t){return null==t?[]:o(t,u(t))}var o=e(194),u=e(42);t.exports=r},194:function(t,n,e){function r(t,n){return o(n,function(n){return t[n]})}var o=e(31);t.exports=r},238:function(t,n){},3:function(t,n){var e=Array.isArray;t.exports=e},31:function(t,n){function e(t,n){for(var e=-1,r=null==t?0:t.length,o=Array(r);++e<r;)o[e]=n(t[e],e,t);return o}t.exports=e},38:function(t,n){function e(t){return null!=t&&"object"==typeof t}t.exports=e},39:function(t,n,e){function r(t){return null!=t&&u(t.length)&&!o(t)}var o=e(63),u=e(125);t.exports=r},4:function(t,n){function e(t){var n=typeof t;return null!=t&&("object"==n||"function"==n)}t.exports=e},42:function(t,n,e){var r=e(67),o=r(Object.keys,Object);t.exports=o},43:function(t,n){function e(t){return o.call(t)}var r=Object.prototype,o=r.toString;t.exports=e},5:function(t,n,e){function r(t){return"string"==typeof t||!u(t)&&c(t)&&o(t)==i}var o=e(43),u=e(3),c=e(38),i="[object String]";t.exports=r},55:function(t,n){function e(){return!1}t.exports=e},58:function(t,n,e){function r(t){var n=o(t),e=n%1;return n===n?e?n-e:n:0}var o=e(173);t.exports=r},63:function(t,n,e){function r(t){if(!u(t))return!1;var n=o(t);return n==i||n==f||n==c||n==a}var o=e(43),u=e(4),c="[object AsyncFunction]",i="[object Function]",f="[object GeneratorFunction]",a="[object Proxy]";t.exports=r},67:function(t,n){function e(t,n){return function(e){return t(n(e))}}t.exports=e},7:function(t,n,e){function r(t,n,e,r){t=u(t)?t:f(t),e=e&&!r?i(e):0;var s=t.length;return e<0&&(e=a(s+e,0)),c(t)?e<=s&&t.indexOf(n,e)>-1:!!s&&o(t,n,e)>-1}var o=e(128),u=e(39),c=e(5),i=e(58),f=e(193),a=Math.max;t.exports=r},709:function(t,n,e){"use strict";function r(t){return t&&t.__esModule?t:{default:t}}function o(){var t=document.querySelector(".clay-kiln-logo");t&&t.classList.add("show")}function u(){document.addEventListener("keydown",function(t){var n=(0,a.default)(t);(0,i.default)(["c","l","a","y"],n)&&!0===t.shiftKey?p+=n:p="","clay"===p?o():p.length>4&&(0,i.default)(p,"clay")?(0,l.default)():p.length>4&&(p="")}),document.addEventListener("keyup",function(){"clay"===p&&(0,l.default)()})}Object.defineProperty(n,"__esModule",{value:!0});var c=e(7),i=r(c);n.default=u;var f=e(147),a=r(f),s=e(157),l=r(s),p=""},80:function(t,n,e){function r(t){if("number"==typeof t)return t;if(u(t))return c;if(o(t)){var n="function"==typeof t.valueOf?t.valueOf():t;t=o(n)?n+"":n}if("string"!=typeof t)return 0===t?t:+t;t=t.replace(i,"");var e=a.test(t);return e||s.test(t)?l(t.slice(2),e?2:8):f.test(t)?c:+t}var o=e(4),u=e(55),c=NaN,i=/^\s+|\s+$/g,f=/^[-+]0x[0-9a-f]+$/i,a=/^0b[01]+$/i,s=/^0o[0-7]+$/i,l=parseInt;t.exports=r}});
+  
+
+
+
+
+
+
+
+
+
+
+
+We Need to Talk About Your Ad Blocker
+Slate relies on advertising to support our journalism. If you value our work, please disable your ad blocker.
+Enable Ads on Slate
+
+
+Want to Block Ads But Still Support Slate?
+By joining Slate Plus you support our work and get exclusive content. And you'll never see this message again.
+Join Slate Plus
+
+
+
+
+
+
+
+
+
+
+
+
+We Need to Talk About Your Ad Blocker
+Slate relies on advertising to support our journalism. If you value our work, please disable your ad blocker.
+Enable Ads on Slate
+
+
+Want to Block Ads But Still Support Slate?
+By joining Slate Plus you support our work and get exclusive content. And you'll never see this message again.
+Join Slate Plus
+
+
+
+
+
+
+
+

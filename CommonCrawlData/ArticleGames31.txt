@@ -1,0 +1,5111 @@
+
+Don't miss:
+GTA 5 Cheats
+									 | 
+																												The Best Version of Every Final Fantasy Game
+									 | 
+																												Monster Hunter World Great Jagras - How to Track and Kill the Great Jagras in Monster Hunter World.
+
+					BioWare has delivered its Anthem, and it's a huge disappointment.
+				
+						By Mike Williams
+Reviews Editor
+
+02/22/2019
+Anthem is finally here. It's seen by some as the last ditch effort of a studio that was once hailed as a premiere Western RPG developer. Its previous effort, Mass Effect: Andromeda, stalled out so completely that the studio, BioWare Montreal, was consumed by another team within the machine that is Electronic Arts. The next Dragon Age is coming, but "when" is another question entirely. For the foreseeable future, the only new BioWare games we're getting are an expansion for Star Wars: The Old Republic and Anthem. The quality of the Old Republic add-on remains to be seen, but Anthem is currently unlikely to please BioWare fans or people hoping to find the next must play Destiny-alike.Last night, following the early release of the planned Day One patch, I booted up Anthem again and tried to see if the update smoothed out some of the rough edges I'd seen in my earlier playtime. Thus far I've been disappointed. Fort Tarsis, a previously smooth experience, now sees stuttering and frame rate drops that are apparently related to Nvidia's GeForce Experience. The Quickplay Stronghold option is gone, a temporary situation according to Anthem executive producer Mark Darrah. That was my preferred type of content to run at endgame, so I instead jumped into Mission Quickplay. Of the four missions I tried, all four were bugged to the point that they were unable to be completed. Across these different missions, two had infinite enemy spawn portals, and the other two lacked waypoint or objective markers, meaning there was no way move the mission forward. This is Anthem's launch state.Anthem's story is a straightforward tale of good vs evil, but there are so many specific bits of lore and jargon thrown at you that it feels complex. Humanity finds a new and untamed world and tries to colonize it. It works for a time, with the exception of a mysterious, unpredictable energy called the Anthem of Creation. Relics powered by this Anthem can occasionally cause huge Cataclysm storms that tear up and reshape the landscape. The Dominion, the more militaristic of this world's factions, tries to take control of one such relic and accidentally creates The Heart of Rage, a persistent hellstorm that swallows a city. Now the Dominion is making a play to control it again, and it's up to you, an unaffiliated Freelancer, to stop them.If your eyes glazed over a bit, that's about how it feels to have most of this delivered to you through dialogue. Around half of that lore is shared by characters that lack any spark of life. The dialogue is wooden, the delivery in the voice acting is rote, and animations do nothing to liven them up. They tell you stories, but the stories have no meaning. Knowing why Prospero, the vanity store vendor, ended up on that career path doesn't mean anything to me, because there's no payoff. It's a random aside that leads to nothing.There are some characters that rise above the rest, showing a bit of that BioWare magic. Owen, your Cypher (Anthem's version of the Man in the Chair), is a delightful saving grace in the early hours of the campaign. His dialogue, voice acting, and excellent animation combine to make a character who's instantly magnetic. Likewise, the awkward Sentinel Brin is a fun time, and eventually the supporting cast is joined by somewhat memorable characters like Haluk and Dax.In terms of gameplay, Anthem does make a solid first impression within its early hours. The open world that BioWare's environmental designers and artists have built is great. It's simply beautiful to look at, with dense jungles, waterfalls, and ancient ruins dotting its overall landscape. It also stands above most other games of this type by prizing verticality from the beginning. The main city of Fort Tarsis sits high on a mountain cliff, so leaving the docking area automatically requires the player to jump into space and experience flight for the first time. Flight is another winner—the part of Anthem that Bioware nails. It's easy to fly around (once you tweak the mouse aiming a bit), hover in the sky raining down hot pain on enemies, and come in for a landing. There's even a bit of strategy to it, as flying overheats your suit. You dump heat by landing, diving in mid-air, or flying near a source of water. That means that while you're flying, you'll want to try to maximize air time by diving or looking for sources of water. It's a good system, adding a little bit of brainpower to an otherwise straightforward systems. Getting around an Anthem is a sheer delight; it might get old in the future, but for now, I'm loving it.And the sights you see. Flying through massive tunnels, through monuments to the old civilizations, or simply through the trees of a forest is awe-inspiring. Runes glow, trees pulse with alien light, and old Shaper machines hum with an unearthly light. Anthem looks fantastic and runs pretty well on my relatively old Nvidia GTX 970. The soundtrack also does a great job of backing up the few cinematics with any impact; it sounds Halo-esque, putting a synthetic spin on ancient chants.The opening may make you think you're playing a pretty good game. Players have a choice of four different Javelin armor: the jack-of-all-trades Ranger, the wizard-like Storm, the hulking Colossus, and the speedy Interceptor. Each Javelin feels distinct in and eventually you'll gain access to all four, allowing you to switch between them to tackle different missions. Anthem's guns don't feel all that great—unless you're playing Colossus, oddly enough—but combat overall is a wonderful mix of aggressive flying, insane skill explosions, and that satisfying combo sound. But several hours in, the experience begins to break down. The smaller annoyances start to weigh on Anthem much more in the latter hours of the campaign. One glaring problem is that Fort Tarsis, the open-world, and the social area for players are all different areas. In Fort Tarsis, Anthem is entirely in first-person mode as you amble slowly long the city streets to your destination. (Oddly enough, even when there's people around, the place feels a bit lifeless because there's not enough crowd noise.) Out in the world, it's third-person, with a few players occasionally flying by in Freeplay—a large freeroaming zone where you can take on random world missions at will . The Launch Bay (which doesn't unlock until a few missions in) is the social area, containing many of the kiosks and vendors that Fort Tarsis has, but in a space with other players. It's weird that Fort Tarsis and the Launch Bay aren't the same space. Fort Tarsis pushes the play towards a more single-player experience, while the Launch Bay lacks the ability to pick up new missions from the cast. The Launch Bay was a late addition to Anthem and it's perplexing that players having a social space wasn't something Bioware thought of ahead of time.The next problem is flow. There is none in Anthem. In a standard game in this genre, you'd grab three or four missions from your quest hub, and then head out into the open world to finish them off one by one. You find  more quests as you play, forming a breadcrumb of content drawing you across the world. Everything you do nets you XP and loot, which you can equip immediately.Anthem's mission structure means this isn't possible. The general mission flow is like so: Walk around Fort Tarsis, pick up a contract, walk back to the launch area, wait for a loading screen, drop into the open world and follow the mission objectives, complete the mission, wait for a loading screen, watch the mission completion screen, wait for a loading screen, go to the Forge to equip your new gear, wait for a loading screen, and then repeat the process. You have to do that for every mission and Stronghold. There's no way to jump from one mission to the next. Mid-mission, there's no way to just randomly explore and take on world events, because you'll be teleported back to the mission area. People have made hash of Anthem because of the long loading times, but they haven't been that long for me, since I'm running the game on a SSD. The problem is there are too many and they cut up the game's world and content far too much. There's too much downtime where players are doing nothing, or doing very little slowly. Why is the Forge something that needs to be loaded at all, instead of a menu the player could simply access anywhere? Why is it impossible to tackle multiple missions back-to-back, something that would encourage players to remain together in randomly matchmade groups? Why aren't there more opportunities to start missions within the open world, whether through events or quest givers?Anthem is at its heart a loot game: you go on missions for the story reasons, but the real game is killing things to get loot and make yourself feel stronger. So far, loot doesn't feel as meaningful as it could. There's no pop to Anthem's loot. You pick it up and there's a small notification in the corner of your UI and then you don't think about it again until the mission is over. There's a complete lack of indication of what the loot actually is, outside of rarity. There's not even any mystery either, because special loot isn't decoded like Diablo or unlocked like Destiny's Engrams.Back in the first gameplay reveal of Anthem, the player picked up one of the shining diamonds that indicated loot and there was a fully animated sequence that showed what the item was.I don't think the release version needs to be as large, but it needs something similar. Why do loot boxes in games like Overwatch, Fortnite, and Apex Legends explode in color and sound when you open them? It's because that ties some anticipation and emotional meaning to the results. The older version tells me that BioWare knew this was important at one point, so why is it so minimized now?Loot should be something the player prizes, something they can't wait to equip, items they jump into their inventory to look at immediately. You can't even do that in Anthem, since you can't see loot in your inventory until after a mission is done; I assume this was done to keep players focused on the battle in front of them, but it defers all the excitement into a big melange of rewards at the end; a big list of stuff, most of which gets salvaged for crafting materials anyways. Anthem's loot system doesn't really pull you in. I just equip whatever is the strongest version of the Relentless light machine gun I have available. Shotgun #6 is only slightly better than the first five shotguns. The difference between a Common and Uncommon version is a perk that I might not feel in gameplay like "Assault Rifle +1 Percent Damage". The aesthetics of the loot system are a disservice to Anthem, which is sad because given the sci-fi setting, the weapon models could be more interesting.And as you begin really grinding for loot in Grandmaster difficulties, further holes become apparent. Masterwork and Legendary gear are just the existing categories of gear with a slightly-higher top level and better inscriptions. So you're not getting much in terms of unique weapons. The bigger issue is the inscription rolls are random, meaning you can end up with inscriptions like " Plus 100 percent Light Machine Gun damage" on your Masterwork or Legendary, when you don't use Light Machine Guns. And there's no way to reroll inscriptions, you just have to hope the same Masterwork drops with a better set of inscriptions. (This is less painful post-patch, as Grandmaster Strongholds now seem to offer at least one Masterwork per run, but you have to hope you get the one you want out of a potential 27 options.)In addition, there's a general lack of visual armor. In many loot-based online games, allowing for visual difference is only for players to show off their achievements. Anthem offers up an excellent visual customization system with paints and materials, allowing you to change up the look of the basic armor to suit your style. You can purchase other vanity sets on the store, but it's only two at a time in a slow rotation. BioWare has promised to augment this system with Stronghold Vanity Chests, allowing players to get vanity loot from strongholds, but it's odd to not have this system available at launch.Finally, these weapons and armor don't feed into anything concrete. There's a general power level listed for your Javelin in the forge, but Anthem doesn't have a character stats page. The community has crunched some of the numbers to figure things out for min-maxing, but there's no way to do this in-game. Either Anthem needed to be brick simple in terms of stats, or offer a comprehensive stat page for your character, so you can work out the best gear.There are also issues with the Grandmaster difficulties, which comprise all of the endgame grind. I've completed a number of Grandmaster missions and instances, so the problem isn't that they're too hard, it's that the GM difficulties run counter to how you've been playing the game up until that point. In Normal and Hard missions, players are flying around the battlefield, comboing skills together, and lighting enemies up. This mix of fight and flight sees Anthem's combat at its best. Starting at the first Grandmaster difficulty though, the enemy health, damage, and most importantly, aim, becomes so high and so perfect that Anthem essentially becomes a slow cover shooter. Enemy snipers will nearly one-shot you, many times from directions you can't see (and occasionally after you've ducked behind cover). I say "nearly" because Anthem has a mechanic where any hit that would kill you drops you to a sliver of life. In combat though, this generally means a grunt will ping that last hit and you'll die anyways. In Anthem, dying puts you in a downed state, meaning you can't do anything. There's no respawn timer, even in areas with no respawn restrictions. So you just sit there, waiting for your teammates to resurrect you. You can't crawl to safety and you can't eventually respawn after a few minutes. You just... wait. Worse, the indicator makes it hard for your teammates to know you're down, if they even care to resurrect you, that is. No one wants that, so Grandmaster 1 and 2 Anthem is a game of turtle. (I've actually not tried GM3 yet.) You hide behind cover, only peeking out to shoot a target or use a skill. If you take a hit, you're generally so damaged that you have to wait for your shield to regenerate. The growth in enemy health in Grandmaster 2 means pitched fights are just huge wars of attrition: pinging a boss down slowly and hoping you never get hit. (Unless you've picked up an Avenging Herald, who perk increases weapon damage 200 percent while hovering. That speeds things up.)It's not particularly enjoyable. BioWare could offer new mechanics that make Grandmaster bosses harder without taking away what makes Anthem's combat work. The Titans have an ability that creates waves of flame at different heights, forcing you to time your jumps to avoid getting hit. More mechanics like that, which prize precise movement, could be used to make boss fights more interesting than chipping away at bullet sponges for 15 minutes behind cover. The current Stronghold bosses feel too similar, lacking encounter mechanics that would make them feel more unique. Anthem is a frustrating experience that leaves me lost at times. I generally can guess at the reason behind certain design choices, but with Anthem I'm left asking myself "Why is it like this?" in several areas. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. Anthem is a game that fights against itself. It's focused on loot, but lacking many of the loot acquisition mechanics we've come to expect from games of this type. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so, and sections off so much of its content from that open world. BioWare is being open and transparent about fixes to major issues, but many of these should've been addressed ahead of time for a game six years into development. The frustration I'm feeling here is reminiscent of my time with Fallout 76, even if this game is much better from a presentation standpoint. Anthem ultimately doesn't feel like the best BioWare can do. Maybe a year from now, Anthem's major expansion will improve this into a better game, just in time for BioWare to roll around into the excellent Anthem 2. But at release, this is far from  the game that will "redefine interactive entertainment." that Casey Hudson promised in his departure letter five years ago. What a shame.Check out our Anthem guide for more details on the all the Javelins, with tip for those just starting out.. Also check out our Everything We Know guide for info on the Early Access and full launches. For a look at all of the Anthem Chest Locations we've found so far, head over to our Anthem Chest Locations Guide. Anthem is a frustrating experience. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so. Anthem ultimately doesn't feel like the best BioWare can do, and that's a horrible shame.
+2.5/5
+						
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.More about AnthemSubscribe to our weekly newslettersGet the best of USG in your inbox by subscribing to our newsletters.
+							Read this next
+					How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular	DICE's engine finds a rough reception at other EA studios.
+
+
+						By Mike Williams
+
+ 9
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+4
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+1
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+6
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+8
+
+More Reviews
+Katana Zero Review	It's a bad trip, but a great game.
+
+
+						By Mike Williams
+
+
+3
+Anno 1800 Review	Gotta get back in time.
+
+
+						By Mike Williams
+
+
+
+Heaven's Vault Review	Digging up a long lost history.
+
+
+						By Caty McCarthy
+
+
+3
+Earth Defense Force: Iron Rain Review	The giant bugs move from Japan to the sunny skies of California.
+
+
+						By Mike Williams
+
+
+2
+
+More on PC
+What's Your Favorite Co-Op Game to Play With Loved Ones?	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+						By USgamer Team
+
+ 15
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+10
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+2
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+5
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+More MMO Games
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+						By Jake Green
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+						By Jake Green
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+						By Jake Green
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+						By Mike Williams
+
+
+
+Popular GamesSekiro: Shadows Die TwiceEssential Tips for Sekiro: Shadows Die TwiceThe Division 2The Division 2 PvP Build - On the Ropes LMG Build, Best BuildsAnthemHow the Frostbite Engine Became a Nightmare for EA in General, and BioWare in ParticularApex LegendsWhat's Your Favorite Co-Op Game to Play With Loved Ones?Pokemon GoPokemon Go April Field Research Quests - Research Breakthrough, RewardsRed Dead Redemption 2Grand Theft Auto 6 May be in Development According to One Artist's Resume
+				Covering the best in video gaming. News, Reviews, and Guides for Switch, PS4, Xbox One, PC, and more!
+			
+				This site © 2019 Gamer Network.
+			
+				All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+			
+
+
+
+
+ExplorePopular gamesHelpful linksGamer NetworkEventsMore from USGSign in
+						(Forgotten your details?)
+					Connect with FacebookNew in town?
+
+USgamer
+
+
+Don't miss:
+GTA 5 Cheats
+									 | 
+																												The Best Version of Every Final Fantasy Game
+									 | 
+																												Monster Hunter World Great Jagras - How to Track and Kill the Great Jagras in Monster Hunter World.
+
+
+
+
+News
+Reviews
+Guides
+Long Reads
+Best Games
+Retro
+Podcast
+
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Deals
+Starting Screen
+The Division 2
+Apex Legends
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+USgamer
+
+
+Don't miss:
+GTA 5 Cheats
+									 | 
+																												The Best Version of Every Final Fantasy Game
+									 | 
+																												Monster Hunter World Great Jagras - How to Track and Kill the Great Jagras in Monster Hunter World.
+
+
+
+
+News
+Reviews
+Guides
+Long Reads
+Best Games
+Retro
+Podcast
+
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Deals
+Starting Screen
+The Division 2
+Apex Legends
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+Don't miss:
+GTA 5 Cheats
+									 | 
+																												The Best Version of Every Final Fantasy Game
+									 | 
+																												Monster Hunter World Great Jagras - How to Track and Kill the Great Jagras in Monster Hunter World.
+
+
+
+News
+Reviews
+Guides
+Long Reads
+Best Games
+Retro
+Podcast
+
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Deals
+Starting Screen
+The Division 2
+Apex Legends
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+|
+
+
+
+					Reviews
+				
+
+
+|
+
+
+
+					PC
+				
+
+
+|
+
+
+
+					Anthem
+				
+
+
+
+
+
+
+
+Anthem Review
+
+					BioWare has delivered its Anthem, and it's a huge disappointment.
+				
+
+
+
+
+
+
+Mike Williams
+
+
+
+						By Mike Williams
+Reviews Editor
+
+
+02/22/2019
+
+
+
+
+About this game
+
+
+Developer
+										BioWare
+									
+
+Publisher
+										Electronic Arts
+									
+
+Version reviewed
+										PC
+									
+
+Also available on
+										PS4, Xbox One
+									
+
+Price
+										$59.99
+									
+
+Get it here
+Amazon
+
+
+Review copy from
+										The Publisher
+									
+
+
+
+Anthem is finally here. It's seen by some as the last ditch effort of a studio that was once hailed as a premiere Western RPG developer. Its previous effort, Mass Effect: Andromeda, stalled out so completely that the studio, BioWare Montreal, was consumed by another team within the machine that is Electronic Arts. The next Dragon Age is coming, but "when" is another question entirely. For the foreseeable future, the only new BioWare games we're getting are an expansion for Star Wars: The Old Republic and Anthem. The quality of the Old Republic add-on remains to be seen, but Anthem is currently unlikely to please BioWare fans or people hoping to find the next must play Destiny-alike.
+Last night, following the early release of the planned Day One patch, I booted up Anthem again and tried to see if the update smoothed out some of the rough edges I'd seen in my earlier playtime. Thus far I've been disappointed. Fort Tarsis, a previously smooth experience, now sees stuttering and frame rate drops that are apparently related to Nvidia's GeForce Experience. The Quickplay Stronghold option is gone, a temporary situation according to Anthem executive producer Mark Darrah. That was my preferred type of content to run at endgame, so I instead jumped into Mission Quickplay. Of the four missions I tried, all four were bugged to the point that they were unable to be completed. Across these different missions, two had infinite enemy spawn portals, and the other two lacked waypoint or objective markers, meaning there was no way move the mission forward. This is Anthem's launch state.
+
+
+
+
+Dive into the Anthem. | Mike Williams/USG, BioWare
+
+Singing an Epic Ballad
+Anthem's story is a straightforward tale of good vs evil, but there are so many specific bits of lore and jargon thrown at you that it feels complex. Humanity finds a new and untamed world and tries to colonize it. It works for a time, with the exception of a mysterious, unpredictable energy called the Anthem of Creation. Relics powered by this Anthem can occasionally cause huge Cataclysm storms that tear up and reshape the landscape. The Dominion, the more militaristic of this world's factions, tries to take control of one such relic and accidentally creates The Heart of Rage, a persistent hellstorm that swallows a city. Now the Dominion is making a play to control it again, and it's up to you, an unaffiliated Freelancer, to stop them.
+If your eyes glazed over a bit, that's about how it feels to have most of this delivered to you through dialogue. Around half of that lore is shared by characters that lack any spark of life. The dialogue is wooden, the delivery in the voice acting is rote, and animations do nothing to liven them up. They tell you stories, but the stories have no meaning. Knowing why Prospero, the vanity store vendor, ended up on that career path doesn't mean anything to me, because there's no payoff. It's a random aside that leads to nothing.
+There are some characters that rise above the rest, showing a bit of that BioWare magic. Owen, your Cypher (Anthem's version of the Man in the Chair), is a delightful saving grace in the early hours of the campaign. His dialogue, voice acting, and excellent animation combine to make a character who's instantly magnetic. Likewise, the awkward Sentinel Brin is a fun time, and eventually the supporting cast is joined by somewhat memorable characters like Haluk and Dax.
+In terms of gameplay, Anthem does make a solid first impression within its early hours. The open world that BioWare's environmental designers and artists have built is great. It's simply beautiful to look at, with dense jungles, waterfalls, and ancient ruins dotting its overall landscape. It also stands above most other games of this type by prizing verticality from the beginning. The main city of Fort Tarsis sits high on a mountain cliff, so leaving the docking area automatically requires the player to jump into space and experience flight for the first time. 
+
+
+
+
+
+
+Flight is another winner—the part of Anthem that Bioware nails. It's easy to fly around (once you tweak the mouse aiming a bit), hover in the sky raining down hot pain on enemies, and come in for a landing. There's even a bit of strategy to it, as flying overheats your suit. You dump heat by landing, diving in mid-air, or flying near a source of water. That means that while you're flying, you'll want to try to maximize air time by diving or looking for sources of water. It's a good system, adding a little bit of brainpower to an otherwise straightforward systems. Getting around an Anthem is a sheer delight; it might get old in the future, but for now, I'm loving it.
+And the sights you see. Flying through massive tunnels, through monuments to the old civilizations, or simply through the trees of a forest is awe-inspiring. Runes glow, trees pulse with alien light, and old Shaper machines hum with an unearthly light. Anthem looks fantastic and runs pretty well on my relatively old Nvidia GTX 970. The soundtrack also does a great job of backing up the few cinematics with any impact; it sounds Halo-esque, putting a synthetic spin on ancient chants.
+
+
+
+
+It looks damned good though. | Mike Williams/USG, BioWare
+
+Discovering Fire All Over Again
+The opening may make you think you're playing a pretty good game. Players have a choice of four different Javelin armor: the jack-of-all-trades Ranger, the wizard-like Storm, the hulking Colossus, and the speedy Interceptor. Each Javelin feels distinct in and eventually you'll gain access to all four, allowing you to switch between them to tackle different missions. Anthem's guns don't feel all that great—unless you're playing Colossus, oddly enough—but combat overall is a wonderful mix of aggressive flying, insane skill explosions, and that satisfying combo sound. 
+But several hours in, the experience begins to break down. The smaller annoyances start to weigh on Anthem much more in the latter hours of the campaign. One glaring problem is that Fort Tarsis, the open-world, and the social area for players are all different areas. In Fort Tarsis, Anthem is entirely in first-person mode as you amble slowly long the city streets to your destination. (Oddly enough, even when there's people around, the place feels a bit lifeless because there's not enough crowd noise.) Out in the world, it's third-person, with a few players occasionally flying by in Freeplay—a large freeroaming zone where you can take on random world missions at will . The Launch Bay (which doesn't unlock until a few missions in) is the social area, containing many of the kiosks and vendors that Fort Tarsis has, but in a space with other players. 
+It's weird that Fort Tarsis and the Launch Bay aren't the same space. Fort Tarsis pushes the play towards a more single-player experience, while the Launch Bay lacks the ability to pick up new missions from the cast. The Launch Bay was a late addition to Anthem and it's perplexing that players having a social space wasn't something Bioware thought of ahead of time.
+
+
+
+
+Fort Tarsis could use more life. | Mike Williams/USG, BioWare
+
+The next problem is flow. There is none in Anthem. In a standard game in this genre, you'd grab three or four missions from your quest hub, and then head out into the open world to finish them off one by one. You find  more quests as you play, forming a breadcrumb of content drawing you across the world. Everything you do nets you XP and loot, which you can equip immediately.
+Anthem's mission structure means this isn't possible. The general mission flow is like so: Walk around Fort Tarsis, pick up a contract, walk back to the launch area, wait for a loading screen, drop into the open world and follow the mission objectives, complete the mission, wait for a loading screen, watch the mission completion screen, wait for a loading screen, go to the Forge to equip your new gear, wait for a loading screen, and then repeat the process. You have to do that for every mission and Stronghold. There's no way to jump from one mission to the next. Mid-mission, there's no way to just randomly explore and take on world events, because you'll be teleported back to the mission area. 
+People have made hash of Anthem because of the long loading times, but they haven't been that long for me, since I'm running the game on a SSD. The problem is there are too many and they cut up the game's world and content far too much. There's too much downtime where players are doing nothing, or doing very little slowly. 
+Why is the Forge something that needs to be loaded at all, instead of a menu the player could simply access anywhere? Why is it impossible to tackle multiple missions back-to-back, something that would encourage players to remain together in randomly matchmade groups? Why aren't there more opportunities to start missions within the open world, whether through events or quest givers?
+
+
+
+The challenges get more of a callout than the loot. | Mike Williams/USG, BioWare
+
+This Loot Doesn't Shine Enough
+Anthem is at its heart a loot game: you go on missions for the story reasons, but the real game is killing things to get loot and make yourself feel stronger. So far, loot doesn't feel as meaningful as it could. There's no pop to Anthem's loot. You pick it up and there's a small notification in the corner of your UI and then you don't think about it again until the mission is over. There's a complete lack of indication of what the loot actually is, outside of rarity. There's not even any mystery either, because special loot isn't decoded like Diablo or unlocked like Destiny's Engrams.
+Back in the first gameplay reveal of Anthem, the player picked up one of the shining diamonds that indicated loot and there was a fully animated sequence that showed what the item was.I don't think the release version needs to be as large, but it needs something similar. Why do loot boxes in games like Overwatch, Fortnite, and Apex Legends explode in color and sound when you open them? It's because that ties some anticipation and emotional meaning to the results. The older version tells me that BioWare knew this was important at one point, so why is it so minimized now?
+Loot should be something the player prizes, something they can't wait to equip, items they jump into their inventory to look at immediately. You can't even do that in Anthem, since you can't see loot in your inventory until after a mission is done; I assume this was done to keep players focused on the battle in front of them, but it defers all the excitement into a big melange of rewards at the end; a big list of stuff, most of which gets salvaged for crafting materials anyways. 
+
+
+
+
+The differences in Masterwork and Legendary loot needs to be more pronounced. | Mike Williams/USG, BioWare
+
+Anthem's loot system doesn't really pull you in. I just equip whatever is the strongest version of the Relentless light machine gun I have available. Shotgun #6 is only slightly better than the first five shotguns. The difference between a Common and Uncommon version is a perk that I might not feel in gameplay like "Assault Rifle +1 Percent Damage". The aesthetics of the loot system are a disservice to Anthem, which is sad because given the sci-fi setting, the weapon models could be more interesting.
+And as you begin really grinding for loot in Grandmaster difficulties, further holes become apparent. Masterwork and Legendary gear are just the existing categories of gear with a slightly-higher top level and better inscriptions. So you're not getting much in terms of unique weapons. The bigger issue is the inscription rolls are random, meaning you can end up with inscriptions like " Plus 100 percent Light Machine Gun damage" on your Masterwork or Legendary, when you don't use Light Machine Guns. And there's no way to reroll inscriptions, you just have to hope the same Masterwork drops with a better set of inscriptions. (This is less painful post-patch, as Grandmaster Strongholds now seem to offer at least one Masterwork per run, but you have to hope you get the one you want out of a potential 27 options.)
+In addition, there's a general lack of visual armor. In many loot-based online games, allowing for visual difference is only for players to show off their achievements. Anthem offers up an excellent visual customization system with paints and materials, allowing you to change up the look of the basic armor to suit your style. You can purchase other vanity sets on the store, but it's only two at a time in a slow rotation. BioWare has promised to augment this system with Stronghold Vanity Chests, allowing players to get vanity loot from strongholds, but it's odd to not have this system available at launch.
+Finally, these weapons and armor don't feed into anything concrete. There's a general power level listed for your Javelin in the forge, but Anthem doesn't have a character stats page. The community has crunched some of the numbers to figure things out for min-maxing, but there's no way to do this in-game. Either Anthem needed to be brick simple in terms of stats, or offer a comprehensive stat page for your character, so you can work out the best gear.
+
+
+
+
+Combat is flying high, until Grandmaster grounds you. | Mike Williams/USG, BioWare
+
+The Student Doesn't Want to Become the Grandmaster
+There are also issues with the Grandmaster difficulties, which comprise all of the endgame grind. I've completed a number of Grandmaster missions and instances, so the problem isn't that they're too hard, it's that the GM difficulties run counter to how you've been playing the game up until that point. In Normal and Hard missions, players are flying around the battlefield, comboing skills together, and lighting enemies up. This mix of fight and flight sees Anthem's combat at its best. 
+Starting at the first Grandmaster difficulty though, the enemy health, damage, and most importantly, aim, becomes so high and so perfect that Anthem essentially becomes a slow cover shooter. Enemy snipers will nearly one-shot you, many times from directions you can't see (and occasionally after you've ducked behind cover). I say "nearly" because Anthem has a mechanic where any hit that would kill you drops you to a sliver of life. In combat though, this generally means a grunt will ping that last hit and you'll die anyways. 
+In Anthem, dying puts you in a downed state, meaning you can't do anything. There's no respawn timer, even in areas with no respawn restrictions. So you just sit there, waiting for your teammates to resurrect you. You can't crawl to safety and you can't eventually respawn after a few minutes. You just... wait. Worse, the indicator makes it hard for your teammates to know you're down, if they even care to resurrect you, that is. 
+No one wants that, so Grandmaster 1 and 2 Anthem is a game of turtle. (I've actually not tried GM3 yet.) You hide behind cover, only peeking out to shoot a target or use a skill. If you take a hit, you're generally so damaged that you have to wait for your shield to regenerate. The growth in enemy health in Grandmaster 2 means pitched fights are just huge wars of attrition: pinging a boss down slowly and hoping you never get hit. (Unless you've picked up an Avenging Herald, who perk increases weapon damage 200 percent while hovering. That speeds things up.)
+It's not particularly enjoyable. BioWare could offer new mechanics that make Grandmaster bosses harder without taking away what makes Anthem's combat work. The Titans have an ability that creates waves of flame at different heights, forcing you to time your jumps to avoid getting hit. More mechanics like that, which prize precise movement, could be used to make boss fights more interesting than chipping away at bullet sponges for 15 minutes behind cover. The current Stronghold bosses feel too similar, lacking encounter mechanics that would make them feel more unique. 
+
+
+
+
+
+The Monitor is our Darth Vader, for all he actually does. | Mike Williams/USG, BioWare
+
+Anthem is a frustrating experience that leaves me lost at times. I generally can guess at the reason behind certain design choices, but with Anthem I'm left asking myself "Why is it like this?" in several areas. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. Anthem is a game that fights against itself. It's focused on loot, but lacking many of the loot acquisition mechanics we've come to expect from games of this type. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so, and sections off so much of its content from that open world. 
+BioWare is being open and transparent about fixes to major issues, but many of these should've been addressed ahead of time for a game six years into development. The frustration I'm feeling here is reminiscent of my time with Fallout 76, even if this game is much better from a presentation standpoint. Anthem ultimately doesn't feel like the best BioWare can do. Maybe a year from now, Anthem's major expansion will improve this into a better game, just in time for BioWare to roll around into the excellent Anthem 2. But at release, this is far from  the game that will "redefine interactive entertainment." that Casey Hudson promised in his departure letter five years ago. What a shame.
+
+Check out our Anthem guide for more details on the all the Javelins, with tip for those just starting out.. Also check out our Everything We Know guide for info on the Early Access and full launches. For a look at all of the Anthem Chest Locations we've found so far, head over to our Anthem Chest Locations Guide.
+
+ 
+
+Anthem is a frustrating experience. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so. Anthem ultimately doesn't feel like the best BioWare can do, and that's a horrible shame.
+
+2.5/5
+						
+
+
+
+
+
+
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.
+
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+
+		$(document).ready(function() {
+			c = $(".related-games");
+			i = c.find(".related-games-item");
+			o = c.find(".related-games-overflow");
+			w = i.outerWidth(true);
+			t = w * i.length;
+			n = i.length;
+
+			c.find(".button").on("click", function(e) {
+				button = $(e.currentTarget);
+				action = button.attr('data-action');
+				container = $(".related-games");
+				overflow = container.find(".related-games-overflow");
+				items = container.find(".related-games-item");
+				width = items.first().outerWidth(true);
+				m = parseInt(overflow.css('margin-left'));
+
+				if(action == "right") {
+					m -= width;
+					if (m < -t + width) {
+						m = 0;
+					} else {
+						m = Math.floor(m / width) * width;
+					}
+				}
+
+				if(action == "left") {
+					m += width;
+					if (m > 0) {
+						m = -width * (n - 1);
+					} else {
+						m = Math.ceil(m / width) * width;
+					}
+				}
+
+				overflow.css("margin-left", m + "px");
+			});
+			o.width(t);
+		});
+	
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Read this next
+					
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Reviews
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+More on PC
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+More MMO Games
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+Popular Games
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+|
+
+
+
+					Reviews
+				
+
+
+|
+
+
+
+					PC
+				
+
+
+|
+
+
+
+					Anthem
+				
+
+
+
+
+
+
+
+Anthem Review
+
+					BioWare has delivered its Anthem, and it's a huge disappointment.
+				
+
+
+
+
+
+
+Mike Williams
+
+
+
+						By Mike Williams
+Reviews Editor
+
+
+02/22/2019
+
+
+
+
+About this game
+
+
+Developer
+										BioWare
+									
+
+Publisher
+										Electronic Arts
+									
+
+Version reviewed
+										PC
+									
+
+Also available on
+										PS4, Xbox One
+									
+
+Price
+										$59.99
+									
+
+Get it here
+Amazon
+
+
+Review copy from
+										The Publisher
+									
+
+
+
+Anthem is finally here. It's seen by some as the last ditch effort of a studio that was once hailed as a premiere Western RPG developer. Its previous effort, Mass Effect: Andromeda, stalled out so completely that the studio, BioWare Montreal, was consumed by another team within the machine that is Electronic Arts. The next Dragon Age is coming, but "when" is another question entirely. For the foreseeable future, the only new BioWare games we're getting are an expansion for Star Wars: The Old Republic and Anthem. The quality of the Old Republic add-on remains to be seen, but Anthem is currently unlikely to please BioWare fans or people hoping to find the next must play Destiny-alike.
+Last night, following the early release of the planned Day One patch, I booted up Anthem again and tried to see if the update smoothed out some of the rough edges I'd seen in my earlier playtime. Thus far I've been disappointed. Fort Tarsis, a previously smooth experience, now sees stuttering and frame rate drops that are apparently related to Nvidia's GeForce Experience. The Quickplay Stronghold option is gone, a temporary situation according to Anthem executive producer Mark Darrah. That was my preferred type of content to run at endgame, so I instead jumped into Mission Quickplay. Of the four missions I tried, all four were bugged to the point that they were unable to be completed. Across these different missions, two had infinite enemy spawn portals, and the other two lacked waypoint or objective markers, meaning there was no way move the mission forward. This is Anthem's launch state.
+
+
+
+
+Dive into the Anthem. | Mike Williams/USG, BioWare
+
+Singing an Epic Ballad
+Anthem's story is a straightforward tale of good vs evil, but there are so many specific bits of lore and jargon thrown at you that it feels complex. Humanity finds a new and untamed world and tries to colonize it. It works for a time, with the exception of a mysterious, unpredictable energy called the Anthem of Creation. Relics powered by this Anthem can occasionally cause huge Cataclysm storms that tear up and reshape the landscape. The Dominion, the more militaristic of this world's factions, tries to take control of one such relic and accidentally creates The Heart of Rage, a persistent hellstorm that swallows a city. Now the Dominion is making a play to control it again, and it's up to you, an unaffiliated Freelancer, to stop them.
+If your eyes glazed over a bit, that's about how it feels to have most of this delivered to you through dialogue. Around half of that lore is shared by characters that lack any spark of life. The dialogue is wooden, the delivery in the voice acting is rote, and animations do nothing to liven them up. They tell you stories, but the stories have no meaning. Knowing why Prospero, the vanity store vendor, ended up on that career path doesn't mean anything to me, because there's no payoff. It's a random aside that leads to nothing.
+There are some characters that rise above the rest, showing a bit of that BioWare magic. Owen, your Cypher (Anthem's version of the Man in the Chair), is a delightful saving grace in the early hours of the campaign. His dialogue, voice acting, and excellent animation combine to make a character who's instantly magnetic. Likewise, the awkward Sentinel Brin is a fun time, and eventually the supporting cast is joined by somewhat memorable characters like Haluk and Dax.
+In terms of gameplay, Anthem does make a solid first impression within its early hours. The open world that BioWare's environmental designers and artists have built is great. It's simply beautiful to look at, with dense jungles, waterfalls, and ancient ruins dotting its overall landscape. It also stands above most other games of this type by prizing verticality from the beginning. The main city of Fort Tarsis sits high on a mountain cliff, so leaving the docking area automatically requires the player to jump into space and experience flight for the first time. 
+
+
+
+
+
+
+Flight is another winner—the part of Anthem that Bioware nails. It's easy to fly around (once you tweak the mouse aiming a bit), hover in the sky raining down hot pain on enemies, and come in for a landing. There's even a bit of strategy to it, as flying overheats your suit. You dump heat by landing, diving in mid-air, or flying near a source of water. That means that while you're flying, you'll want to try to maximize air time by diving or looking for sources of water. It's a good system, adding a little bit of brainpower to an otherwise straightforward systems. Getting around an Anthem is a sheer delight; it might get old in the future, but for now, I'm loving it.
+And the sights you see. Flying through massive tunnels, through monuments to the old civilizations, or simply through the trees of a forest is awe-inspiring. Runes glow, trees pulse with alien light, and old Shaper machines hum with an unearthly light. Anthem looks fantastic and runs pretty well on my relatively old Nvidia GTX 970. The soundtrack also does a great job of backing up the few cinematics with any impact; it sounds Halo-esque, putting a synthetic spin on ancient chants.
+
+
+
+
+It looks damned good though. | Mike Williams/USG, BioWare
+
+Discovering Fire All Over Again
+The opening may make you think you're playing a pretty good game. Players have a choice of four different Javelin armor: the jack-of-all-trades Ranger, the wizard-like Storm, the hulking Colossus, and the speedy Interceptor. Each Javelin feels distinct in and eventually you'll gain access to all four, allowing you to switch between them to tackle different missions. Anthem's guns don't feel all that great—unless you're playing Colossus, oddly enough—but combat overall is a wonderful mix of aggressive flying, insane skill explosions, and that satisfying combo sound. 
+But several hours in, the experience begins to break down. The smaller annoyances start to weigh on Anthem much more in the latter hours of the campaign. One glaring problem is that Fort Tarsis, the open-world, and the social area for players are all different areas. In Fort Tarsis, Anthem is entirely in first-person mode as you amble slowly long the city streets to your destination. (Oddly enough, even when there's people around, the place feels a bit lifeless because there's not enough crowd noise.) Out in the world, it's third-person, with a few players occasionally flying by in Freeplay—a large freeroaming zone where you can take on random world missions at will . The Launch Bay (which doesn't unlock until a few missions in) is the social area, containing many of the kiosks and vendors that Fort Tarsis has, but in a space with other players. 
+It's weird that Fort Tarsis and the Launch Bay aren't the same space. Fort Tarsis pushes the play towards a more single-player experience, while the Launch Bay lacks the ability to pick up new missions from the cast. The Launch Bay was a late addition to Anthem and it's perplexing that players having a social space wasn't something Bioware thought of ahead of time.
+
+
+
+
+Fort Tarsis could use more life. | Mike Williams/USG, BioWare
+
+The next problem is flow. There is none in Anthem. In a standard game in this genre, you'd grab three or four missions from your quest hub, and then head out into the open world to finish them off one by one. You find  more quests as you play, forming a breadcrumb of content drawing you across the world. Everything you do nets you XP and loot, which you can equip immediately.
+Anthem's mission structure means this isn't possible. The general mission flow is like so: Walk around Fort Tarsis, pick up a contract, walk back to the launch area, wait for a loading screen, drop into the open world and follow the mission objectives, complete the mission, wait for a loading screen, watch the mission completion screen, wait for a loading screen, go to the Forge to equip your new gear, wait for a loading screen, and then repeat the process. You have to do that for every mission and Stronghold. There's no way to jump from one mission to the next. Mid-mission, there's no way to just randomly explore and take on world events, because you'll be teleported back to the mission area. 
+People have made hash of Anthem because of the long loading times, but they haven't been that long for me, since I'm running the game on a SSD. The problem is there are too many and they cut up the game's world and content far too much. There's too much downtime where players are doing nothing, or doing very little slowly. 
+Why is the Forge something that needs to be loaded at all, instead of a menu the player could simply access anywhere? Why is it impossible to tackle multiple missions back-to-back, something that would encourage players to remain together in randomly matchmade groups? Why aren't there more opportunities to start missions within the open world, whether through events or quest givers?
+
+
+
+The challenges get more of a callout than the loot. | Mike Williams/USG, BioWare
+
+This Loot Doesn't Shine Enough
+Anthem is at its heart a loot game: you go on missions for the story reasons, but the real game is killing things to get loot and make yourself feel stronger. So far, loot doesn't feel as meaningful as it could. There's no pop to Anthem's loot. You pick it up and there's a small notification in the corner of your UI and then you don't think about it again until the mission is over. There's a complete lack of indication of what the loot actually is, outside of rarity. There's not even any mystery either, because special loot isn't decoded like Diablo or unlocked like Destiny's Engrams.
+Back in the first gameplay reveal of Anthem, the player picked up one of the shining diamonds that indicated loot and there was a fully animated sequence that showed what the item was.I don't think the release version needs to be as large, but it needs something similar. Why do loot boxes in games like Overwatch, Fortnite, and Apex Legends explode in color and sound when you open them? It's because that ties some anticipation and emotional meaning to the results. The older version tells me that BioWare knew this was important at one point, so why is it so minimized now?
+Loot should be something the player prizes, something they can't wait to equip, items they jump into their inventory to look at immediately. You can't even do that in Anthem, since you can't see loot in your inventory until after a mission is done; I assume this was done to keep players focused on the battle in front of them, but it defers all the excitement into a big melange of rewards at the end; a big list of stuff, most of which gets salvaged for crafting materials anyways. 
+
+
+
+
+The differences in Masterwork and Legendary loot needs to be more pronounced. | Mike Williams/USG, BioWare
+
+Anthem's loot system doesn't really pull you in. I just equip whatever is the strongest version of the Relentless light machine gun I have available. Shotgun #6 is only slightly better than the first five shotguns. The difference between a Common and Uncommon version is a perk that I might not feel in gameplay like "Assault Rifle +1 Percent Damage". The aesthetics of the loot system are a disservice to Anthem, which is sad because given the sci-fi setting, the weapon models could be more interesting.
+And as you begin really grinding for loot in Grandmaster difficulties, further holes become apparent. Masterwork and Legendary gear are just the existing categories of gear with a slightly-higher top level and better inscriptions. So you're not getting much in terms of unique weapons. The bigger issue is the inscription rolls are random, meaning you can end up with inscriptions like " Plus 100 percent Light Machine Gun damage" on your Masterwork or Legendary, when you don't use Light Machine Guns. And there's no way to reroll inscriptions, you just have to hope the same Masterwork drops with a better set of inscriptions. (This is less painful post-patch, as Grandmaster Strongholds now seem to offer at least one Masterwork per run, but you have to hope you get the one you want out of a potential 27 options.)
+In addition, there's a general lack of visual armor. In many loot-based online games, allowing for visual difference is only for players to show off their achievements. Anthem offers up an excellent visual customization system with paints and materials, allowing you to change up the look of the basic armor to suit your style. You can purchase other vanity sets on the store, but it's only two at a time in a slow rotation. BioWare has promised to augment this system with Stronghold Vanity Chests, allowing players to get vanity loot from strongholds, but it's odd to not have this system available at launch.
+Finally, these weapons and armor don't feed into anything concrete. There's a general power level listed for your Javelin in the forge, but Anthem doesn't have a character stats page. The community has crunched some of the numbers to figure things out for min-maxing, but there's no way to do this in-game. Either Anthem needed to be brick simple in terms of stats, or offer a comprehensive stat page for your character, so you can work out the best gear.
+
+
+
+
+Combat is flying high, until Grandmaster grounds you. | Mike Williams/USG, BioWare
+
+The Student Doesn't Want to Become the Grandmaster
+There are also issues with the Grandmaster difficulties, which comprise all of the endgame grind. I've completed a number of Grandmaster missions and instances, so the problem isn't that they're too hard, it's that the GM difficulties run counter to how you've been playing the game up until that point. In Normal and Hard missions, players are flying around the battlefield, comboing skills together, and lighting enemies up. This mix of fight and flight sees Anthem's combat at its best. 
+Starting at the first Grandmaster difficulty though, the enemy health, damage, and most importantly, aim, becomes so high and so perfect that Anthem essentially becomes a slow cover shooter. Enemy snipers will nearly one-shot you, many times from directions you can't see (and occasionally after you've ducked behind cover). I say "nearly" because Anthem has a mechanic where any hit that would kill you drops you to a sliver of life. In combat though, this generally means a grunt will ping that last hit and you'll die anyways. 
+In Anthem, dying puts you in a downed state, meaning you can't do anything. There's no respawn timer, even in areas with no respawn restrictions. So you just sit there, waiting for your teammates to resurrect you. You can't crawl to safety and you can't eventually respawn after a few minutes. You just... wait. Worse, the indicator makes it hard for your teammates to know you're down, if they even care to resurrect you, that is. 
+No one wants that, so Grandmaster 1 and 2 Anthem is a game of turtle. (I've actually not tried GM3 yet.) You hide behind cover, only peeking out to shoot a target or use a skill. If you take a hit, you're generally so damaged that you have to wait for your shield to regenerate. The growth in enemy health in Grandmaster 2 means pitched fights are just huge wars of attrition: pinging a boss down slowly and hoping you never get hit. (Unless you've picked up an Avenging Herald, who perk increases weapon damage 200 percent while hovering. That speeds things up.)
+It's not particularly enjoyable. BioWare could offer new mechanics that make Grandmaster bosses harder without taking away what makes Anthem's combat work. The Titans have an ability that creates waves of flame at different heights, forcing you to time your jumps to avoid getting hit. More mechanics like that, which prize precise movement, could be used to make boss fights more interesting than chipping away at bullet sponges for 15 minutes behind cover. The current Stronghold bosses feel too similar, lacking encounter mechanics that would make them feel more unique. 
+
+
+
+
+
+The Monitor is our Darth Vader, for all he actually does. | Mike Williams/USG, BioWare
+
+Anthem is a frustrating experience that leaves me lost at times. I generally can guess at the reason behind certain design choices, but with Anthem I'm left asking myself "Why is it like this?" in several areas. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. Anthem is a game that fights against itself. It's focused on loot, but lacking many of the loot acquisition mechanics we've come to expect from games of this type. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so, and sections off so much of its content from that open world. 
+BioWare is being open and transparent about fixes to major issues, but many of these should've been addressed ahead of time for a game six years into development. The frustration I'm feeling here is reminiscent of my time with Fallout 76, even if this game is much better from a presentation standpoint. Anthem ultimately doesn't feel like the best BioWare can do. Maybe a year from now, Anthem's major expansion will improve this into a better game, just in time for BioWare to roll around into the excellent Anthem 2. But at release, this is far from  the game that will "redefine interactive entertainment." that Casey Hudson promised in his departure letter five years ago. What a shame.
+
+Check out our Anthem guide for more details on the all the Javelins, with tip for those just starting out.. Also check out our Everything We Know guide for info on the Early Access and full launches. For a look at all of the Anthem Chest Locations we've found so far, head over to our Anthem Chest Locations Guide.
+
+ 
+
+Anthem is a frustrating experience. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so. Anthem ultimately doesn't feel like the best BioWare can do, and that's a horrible shame.
+
+2.5/5
+						
+
+
+
+
+
+
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.
+
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+
+		$(document).ready(function() {
+			c = $(".related-games");
+			i = c.find(".related-games-item");
+			o = c.find(".related-games-overflow");
+			w = i.outerWidth(true);
+			t = w * i.length;
+			n = i.length;
+
+			c.find(".button").on("click", function(e) {
+				button = $(e.currentTarget);
+				action = button.attr('data-action');
+				container = $(".related-games");
+				overflow = container.find(".related-games-overflow");
+				items = container.find(".related-games-item");
+				width = items.first().outerWidth(true);
+				m = parseInt(overflow.css('margin-left'));
+
+				if(action == "right") {
+					m -= width;
+					if (m < -t + width) {
+						m = 0;
+					} else {
+						m = Math.floor(m / width) * width;
+					}
+				}
+
+				if(action == "left") {
+					m += width;
+					if (m > 0) {
+						m = -width * (n - 1);
+					} else {
+						m = Math.ceil(m / width) * width;
+					}
+				}
+
+				overflow.css("margin-left", m + "px");
+			});
+			o.width(t);
+		});
+	
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Read this next
+					
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Reviews
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+More on PC
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+More MMO Games
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+Popular Games
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+|
+
+
+
+					Reviews
+				
+
+
+|
+
+
+
+					PC
+				
+
+
+|
+
+
+
+					Anthem
+				
+
+
+
+
+
+
+
+Anthem Review
+
+					BioWare has delivered its Anthem, and it's a huge disappointment.
+				
+
+
+
+
+
+
+Mike Williams
+
+
+
+						By Mike Williams
+Reviews Editor
+
+
+02/22/2019
+
+
+
+
+About this game
+
+
+Developer
+										BioWare
+									
+
+Publisher
+										Electronic Arts
+									
+
+Version reviewed
+										PC
+									
+
+Also available on
+										PS4, Xbox One
+									
+
+Price
+										$59.99
+									
+
+Get it here
+Amazon
+
+
+Review copy from
+										The Publisher
+									
+
+
+
+Anthem is finally here. It's seen by some as the last ditch effort of a studio that was once hailed as a premiere Western RPG developer. Its previous effort, Mass Effect: Andromeda, stalled out so completely that the studio, BioWare Montreal, was consumed by another team within the machine that is Electronic Arts. The next Dragon Age is coming, but "when" is another question entirely. For the foreseeable future, the only new BioWare games we're getting are an expansion for Star Wars: The Old Republic and Anthem. The quality of the Old Republic add-on remains to be seen, but Anthem is currently unlikely to please BioWare fans or people hoping to find the next must play Destiny-alike.
+Last night, following the early release of the planned Day One patch, I booted up Anthem again and tried to see if the update smoothed out some of the rough edges I'd seen in my earlier playtime. Thus far I've been disappointed. Fort Tarsis, a previously smooth experience, now sees stuttering and frame rate drops that are apparently related to Nvidia's GeForce Experience. The Quickplay Stronghold option is gone, a temporary situation according to Anthem executive producer Mark Darrah. That was my preferred type of content to run at endgame, so I instead jumped into Mission Quickplay. Of the four missions I tried, all four were bugged to the point that they were unable to be completed. Across these different missions, two had infinite enemy spawn portals, and the other two lacked waypoint or objective markers, meaning there was no way move the mission forward. This is Anthem's launch state.
+
+
+
+
+Dive into the Anthem. | Mike Williams/USG, BioWare
+
+Singing an Epic Ballad
+Anthem's story is a straightforward tale of good vs evil, but there are so many specific bits of lore and jargon thrown at you that it feels complex. Humanity finds a new and untamed world and tries to colonize it. It works for a time, with the exception of a mysterious, unpredictable energy called the Anthem of Creation. Relics powered by this Anthem can occasionally cause huge Cataclysm storms that tear up and reshape the landscape. The Dominion, the more militaristic of this world's factions, tries to take control of one such relic and accidentally creates The Heart of Rage, a persistent hellstorm that swallows a city. Now the Dominion is making a play to control it again, and it's up to you, an unaffiliated Freelancer, to stop them.
+If your eyes glazed over a bit, that's about how it feels to have most of this delivered to you through dialogue. Around half of that lore is shared by characters that lack any spark of life. The dialogue is wooden, the delivery in the voice acting is rote, and animations do nothing to liven them up. They tell you stories, but the stories have no meaning. Knowing why Prospero, the vanity store vendor, ended up on that career path doesn't mean anything to me, because there's no payoff. It's a random aside that leads to nothing.
+There are some characters that rise above the rest, showing a bit of that BioWare magic. Owen, your Cypher (Anthem's version of the Man in the Chair), is a delightful saving grace in the early hours of the campaign. His dialogue, voice acting, and excellent animation combine to make a character who's instantly magnetic. Likewise, the awkward Sentinel Brin is a fun time, and eventually the supporting cast is joined by somewhat memorable characters like Haluk and Dax.
+In terms of gameplay, Anthem does make a solid first impression within its early hours. The open world that BioWare's environmental designers and artists have built is great. It's simply beautiful to look at, with dense jungles, waterfalls, and ancient ruins dotting its overall landscape. It also stands above most other games of this type by prizing verticality from the beginning. The main city of Fort Tarsis sits high on a mountain cliff, so leaving the docking area automatically requires the player to jump into space and experience flight for the first time. 
+
+
+
+
+
+
+Flight is another winner—the part of Anthem that Bioware nails. It's easy to fly around (once you tweak the mouse aiming a bit), hover in the sky raining down hot pain on enemies, and come in for a landing. There's even a bit of strategy to it, as flying overheats your suit. You dump heat by landing, diving in mid-air, or flying near a source of water. That means that while you're flying, you'll want to try to maximize air time by diving or looking for sources of water. It's a good system, adding a little bit of brainpower to an otherwise straightforward systems. Getting around an Anthem is a sheer delight; it might get old in the future, but for now, I'm loving it.
+And the sights you see. Flying through massive tunnels, through monuments to the old civilizations, or simply through the trees of a forest is awe-inspiring. Runes glow, trees pulse with alien light, and old Shaper machines hum with an unearthly light. Anthem looks fantastic and runs pretty well on my relatively old Nvidia GTX 970. The soundtrack also does a great job of backing up the few cinematics with any impact; it sounds Halo-esque, putting a synthetic spin on ancient chants.
+
+
+
+
+It looks damned good though. | Mike Williams/USG, BioWare
+
+Discovering Fire All Over Again
+The opening may make you think you're playing a pretty good game. Players have a choice of four different Javelin armor: the jack-of-all-trades Ranger, the wizard-like Storm, the hulking Colossus, and the speedy Interceptor. Each Javelin feels distinct in and eventually you'll gain access to all four, allowing you to switch between them to tackle different missions. Anthem's guns don't feel all that great—unless you're playing Colossus, oddly enough—but combat overall is a wonderful mix of aggressive flying, insane skill explosions, and that satisfying combo sound. 
+But several hours in, the experience begins to break down. The smaller annoyances start to weigh on Anthem much more in the latter hours of the campaign. One glaring problem is that Fort Tarsis, the open-world, and the social area for players are all different areas. In Fort Tarsis, Anthem is entirely in first-person mode as you amble slowly long the city streets to your destination. (Oddly enough, even when there's people around, the place feels a bit lifeless because there's not enough crowd noise.) Out in the world, it's third-person, with a few players occasionally flying by in Freeplay—a large freeroaming zone where you can take on random world missions at will . The Launch Bay (which doesn't unlock until a few missions in) is the social area, containing many of the kiosks and vendors that Fort Tarsis has, but in a space with other players. 
+It's weird that Fort Tarsis and the Launch Bay aren't the same space. Fort Tarsis pushes the play towards a more single-player experience, while the Launch Bay lacks the ability to pick up new missions from the cast. The Launch Bay was a late addition to Anthem and it's perplexing that players having a social space wasn't something Bioware thought of ahead of time.
+
+
+
+
+Fort Tarsis could use more life. | Mike Williams/USG, BioWare
+
+The next problem is flow. There is none in Anthem. In a standard game in this genre, you'd grab three or four missions from your quest hub, and then head out into the open world to finish them off one by one. You find  more quests as you play, forming a breadcrumb of content drawing you across the world. Everything you do nets you XP and loot, which you can equip immediately.
+Anthem's mission structure means this isn't possible. The general mission flow is like so: Walk around Fort Tarsis, pick up a contract, walk back to the launch area, wait for a loading screen, drop into the open world and follow the mission objectives, complete the mission, wait for a loading screen, watch the mission completion screen, wait for a loading screen, go to the Forge to equip your new gear, wait for a loading screen, and then repeat the process. You have to do that for every mission and Stronghold. There's no way to jump from one mission to the next. Mid-mission, there's no way to just randomly explore and take on world events, because you'll be teleported back to the mission area. 
+People have made hash of Anthem because of the long loading times, but they haven't been that long for me, since I'm running the game on a SSD. The problem is there are too many and they cut up the game's world and content far too much. There's too much downtime where players are doing nothing, or doing very little slowly. 
+Why is the Forge something that needs to be loaded at all, instead of a menu the player could simply access anywhere? Why is it impossible to tackle multiple missions back-to-back, something that would encourage players to remain together in randomly matchmade groups? Why aren't there more opportunities to start missions within the open world, whether through events or quest givers?
+
+
+
+The challenges get more of a callout than the loot. | Mike Williams/USG, BioWare
+
+This Loot Doesn't Shine Enough
+Anthem is at its heart a loot game: you go on missions for the story reasons, but the real game is killing things to get loot and make yourself feel stronger. So far, loot doesn't feel as meaningful as it could. There's no pop to Anthem's loot. You pick it up and there's a small notification in the corner of your UI and then you don't think about it again until the mission is over. There's a complete lack of indication of what the loot actually is, outside of rarity. There's not even any mystery either, because special loot isn't decoded like Diablo or unlocked like Destiny's Engrams.
+Back in the first gameplay reveal of Anthem, the player picked up one of the shining diamonds that indicated loot and there was a fully animated sequence that showed what the item was.I don't think the release version needs to be as large, but it needs something similar. Why do loot boxes in games like Overwatch, Fortnite, and Apex Legends explode in color and sound when you open them? It's because that ties some anticipation and emotional meaning to the results. The older version tells me that BioWare knew this was important at one point, so why is it so minimized now?
+Loot should be something the player prizes, something they can't wait to equip, items they jump into their inventory to look at immediately. You can't even do that in Anthem, since you can't see loot in your inventory until after a mission is done; I assume this was done to keep players focused on the battle in front of them, but it defers all the excitement into a big melange of rewards at the end; a big list of stuff, most of which gets salvaged for crafting materials anyways. 
+
+
+
+
+The differences in Masterwork and Legendary loot needs to be more pronounced. | Mike Williams/USG, BioWare
+
+Anthem's loot system doesn't really pull you in. I just equip whatever is the strongest version of the Relentless light machine gun I have available. Shotgun #6 is only slightly better than the first five shotguns. The difference between a Common and Uncommon version is a perk that I might not feel in gameplay like "Assault Rifle +1 Percent Damage". The aesthetics of the loot system are a disservice to Anthem, which is sad because given the sci-fi setting, the weapon models could be more interesting.
+And as you begin really grinding for loot in Grandmaster difficulties, further holes become apparent. Masterwork and Legendary gear are just the existing categories of gear with a slightly-higher top level and better inscriptions. So you're not getting much in terms of unique weapons. The bigger issue is the inscription rolls are random, meaning you can end up with inscriptions like " Plus 100 percent Light Machine Gun damage" on your Masterwork or Legendary, when you don't use Light Machine Guns. And there's no way to reroll inscriptions, you just have to hope the same Masterwork drops with a better set of inscriptions. (This is less painful post-patch, as Grandmaster Strongholds now seem to offer at least one Masterwork per run, but you have to hope you get the one you want out of a potential 27 options.)
+In addition, there's a general lack of visual armor. In many loot-based online games, allowing for visual difference is only for players to show off their achievements. Anthem offers up an excellent visual customization system with paints and materials, allowing you to change up the look of the basic armor to suit your style. You can purchase other vanity sets on the store, but it's only two at a time in a slow rotation. BioWare has promised to augment this system with Stronghold Vanity Chests, allowing players to get vanity loot from strongholds, but it's odd to not have this system available at launch.
+Finally, these weapons and armor don't feed into anything concrete. There's a general power level listed for your Javelin in the forge, but Anthem doesn't have a character stats page. The community has crunched some of the numbers to figure things out for min-maxing, but there's no way to do this in-game. Either Anthem needed to be brick simple in terms of stats, or offer a comprehensive stat page for your character, so you can work out the best gear.
+
+
+
+
+Combat is flying high, until Grandmaster grounds you. | Mike Williams/USG, BioWare
+
+The Student Doesn't Want to Become the Grandmaster
+There are also issues with the Grandmaster difficulties, which comprise all of the endgame grind. I've completed a number of Grandmaster missions and instances, so the problem isn't that they're too hard, it's that the GM difficulties run counter to how you've been playing the game up until that point. In Normal and Hard missions, players are flying around the battlefield, comboing skills together, and lighting enemies up. This mix of fight and flight sees Anthem's combat at its best. 
+Starting at the first Grandmaster difficulty though, the enemy health, damage, and most importantly, aim, becomes so high and so perfect that Anthem essentially becomes a slow cover shooter. Enemy snipers will nearly one-shot you, many times from directions you can't see (and occasionally after you've ducked behind cover). I say "nearly" because Anthem has a mechanic where any hit that would kill you drops you to a sliver of life. In combat though, this generally means a grunt will ping that last hit and you'll die anyways. 
+In Anthem, dying puts you in a downed state, meaning you can't do anything. There's no respawn timer, even in areas with no respawn restrictions. So you just sit there, waiting for your teammates to resurrect you. You can't crawl to safety and you can't eventually respawn after a few minutes. You just... wait. Worse, the indicator makes it hard for your teammates to know you're down, if they even care to resurrect you, that is. 
+No one wants that, so Grandmaster 1 and 2 Anthem is a game of turtle. (I've actually not tried GM3 yet.) You hide behind cover, only peeking out to shoot a target or use a skill. If you take a hit, you're generally so damaged that you have to wait for your shield to regenerate. The growth in enemy health in Grandmaster 2 means pitched fights are just huge wars of attrition: pinging a boss down slowly and hoping you never get hit. (Unless you've picked up an Avenging Herald, who perk increases weapon damage 200 percent while hovering. That speeds things up.)
+It's not particularly enjoyable. BioWare could offer new mechanics that make Grandmaster bosses harder without taking away what makes Anthem's combat work. The Titans have an ability that creates waves of flame at different heights, forcing you to time your jumps to avoid getting hit. More mechanics like that, which prize precise movement, could be used to make boss fights more interesting than chipping away at bullet sponges for 15 minutes behind cover. The current Stronghold bosses feel too similar, lacking encounter mechanics that would make them feel more unique. 
+
+
+
+
+
+The Monitor is our Darth Vader, for all he actually does. | Mike Williams/USG, BioWare
+
+Anthem is a frustrating experience that leaves me lost at times. I generally can guess at the reason behind certain design choices, but with Anthem I'm left asking myself "Why is it like this?" in several areas. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. Anthem is a game that fights against itself. It's focused on loot, but lacking many of the loot acquisition mechanics we've come to expect from games of this type. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so, and sections off so much of its content from that open world. 
+BioWare is being open and transparent about fixes to major issues, but many of these should've been addressed ahead of time for a game six years into development. The frustration I'm feeling here is reminiscent of my time with Fallout 76, even if this game is much better from a presentation standpoint. Anthem ultimately doesn't feel like the best BioWare can do. Maybe a year from now, Anthem's major expansion will improve this into a better game, just in time for BioWare to roll around into the excellent Anthem 2. But at release, this is far from  the game that will "redefine interactive entertainment." that Casey Hudson promised in his departure letter five years ago. What a shame.
+
+Check out our Anthem guide for more details on the all the Javelins, with tip for those just starting out.. Also check out our Everything We Know guide for info on the Early Access and full launches. For a look at all of the Anthem Chest Locations we've found so far, head over to our Anthem Chest Locations Guide.
+
+ 
+
+Anthem is a frustrating experience. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so. Anthem ultimately doesn't feel like the best BioWare can do, and that's a horrible shame.
+
+2.5/5
+						
+
+
+
+
+
+
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.
+
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+
+		$(document).ready(function() {
+			c = $(".related-games");
+			i = c.find(".related-games-item");
+			o = c.find(".related-games-overflow");
+			w = i.outerWidth(true);
+			t = w * i.length;
+			n = i.length;
+
+			c.find(".button").on("click", function(e) {
+				button = $(e.currentTarget);
+				action = button.attr('data-action');
+				container = $(".related-games");
+				overflow = container.find(".related-games-overflow");
+				items = container.find(".related-games-item");
+				width = items.first().outerWidth(true);
+				m = parseInt(overflow.css('margin-left'));
+
+				if(action == "right") {
+					m -= width;
+					if (m < -t + width) {
+						m = 0;
+					} else {
+						m = Math.floor(m / width) * width;
+					}
+				}
+
+				if(action == "left") {
+					m += width;
+					if (m > 0) {
+						m = -width * (n - 1);
+					} else {
+						m = Math.ceil(m / width) * width;
+					}
+				}
+
+				overflow.css("margin-left", m + "px");
+			});
+			o.width(t);
+		});
+	
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+|
+
+
+
+					Reviews
+				
+
+
+|
+
+
+
+					PC
+				
+
+
+|
+
+
+
+					Anthem
+				
+
+
+
+Anthem Review
+
+					BioWare has delivered its Anthem, and it's a huge disappointment.
+				
+
+
+
+Mike Williams
+
+
+
+						By Mike Williams
+Reviews Editor
+
+
+02/22/2019
+
+
+
+
+About this game
+
+
+Developer
+										BioWare
+									
+
+Publisher
+										Electronic Arts
+									
+
+Version reviewed
+										PC
+									
+
+Also available on
+										PS4, Xbox One
+									
+
+Price
+										$59.99
+									
+
+Get it here
+Amazon
+
+
+Review copy from
+										The Publisher
+									
+
+
+
+
+						By Mike Williams
+Reviews Editor
+
+
+02/22/2019
+
+
+
+
+
+Anthem is a frustrating experience. There's a core gameplay idea that's fun, but it's not enough to keep the experience alive in endgame and beyond. It wants to sell us on flying and combat, but Grandmaster levels stop that dead. It offers a wide world to explore, but offers no reason to do so. Anthem ultimately doesn't feel like the best BioWare can do, and that's a horrible shame.
+
+2.5/5
+						
+
+
+
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.
+
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+
+		$(document).ready(function() {
+			c = $(".related-games");
+			i = c.find(".related-games-item");
+			o = c.find(".related-games-overflow");
+			w = i.outerWidth(true);
+			t = w * i.length;
+			n = i.length;
+
+			c.find(".button").on("click", function(e) {
+				button = $(e.currentTarget);
+				action = button.attr('data-action');
+				container = $(".related-games");
+				overflow = container.find(".related-games-overflow");
+				items = container.find(".related-games-item");
+				width = items.first().outerWidth(true);
+				m = parseInt(overflow.css('margin-left'));
+
+				if(action == "right") {
+					m -= width;
+					if (m < -t + width) {
+						m = 0;
+					} else {
+						m = Math.floor(m / width) * width;
+					}
+				}
+
+				if(action == "left") {
+					m += width;
+					if (m > 0) {
+						m = -width * (n - 1);
+					} else {
+						m = Math.ceil(m / width) * width;
+					}
+				}
+
+				overflow.css("margin-left", m + "px");
+			});
+			o.width(t);
+		});
+	
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+
+
+
+
+			Tagged with
+							Bioware,							Electronic Arts,							MMOs,							PC,							PlayStation 4,							Reviews,							Shooters,							Xbox One.					
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. See our terms & conditions.
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+More about Anthem
+
+News
+Guides
+Long Reads
+
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+Subscribe to our weekly newsletters
+Get the best of USG in your inbox by subscribing to our newsletters.
+
+
+
+The USG Weekly Newsletter
+
+Axe of the Blood God Newsletter
+Enter your email address
+
+
+Subscribe
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+							Read this next
+					
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Reviews
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+More on PC
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+More MMO Games
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+Popular Games
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Read this next
+					
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Reviews
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+More on PC
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+More MMO Games
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Read this next
+					
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+	DICE's engine finds a rough reception at other EA studios.
+
+
+
+						By Mike Williams
+
+ 9
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+"We Have a Saying: At Ubisoft You Always Have a Second Chance"
+
+4
+
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+BioWare Admits Toxic Workplace Problems "Are Real" Following Damning Anthem Development Report
+
+1
+
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+BioWare Only Added Flight to Anthem to Impress an EA Executive
+
+6
+
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+Anthem is February 2019's Best-Selling Game and BioWare's Second Best Launch Ever
+
+8
+
+
+
+
+
+
+
+
+
+More Reviews
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+Katana Zero Review
+	It's a bad trip, but a great game.
+
+
+
+						By Mike Williams
+
+
+3
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+Anno 1800 Review
+	Gotta get back in time.
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+Heaven's Vault Review
+	Digging up a long lost history.
+
+
+
+						By Caty McCarthy
+
+
+3
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+Earth Defense Force: Iron Rain Review
+	The giant bugs move from Japan to the sunny skies of California.
+
+
+
+						By Mike Williams
+
+
+2
+
+
+
+More on PC
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+See more
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+						By USgamer Team
+
+ 15
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+Gearbox CEO: Steam "May Look Like a Dying Store" in 5 to 10 Years
+
+10
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+
+2
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+
+5
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+See more
+
+
+See more
+
+
+
+
+
+
+
+
+More MMO Games
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+	If you’re heading into PvP in The Division 2, you’ll need to run with a good build. Here are the best builds in The Division 2.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+The Division 2 Raid - Dark Hours Release Date, Details, 8 Players, Required Gear Score
+	Raids are set to arrive in The Division 2 very soon indeed. Let’s take a look at what Operation Dark Hours has in store.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+The Division 2 FX Slots: How to Get FX Mods in The Division 2
+	You’ll notice a slot for FX mods on some of your Skills. Here’s all you need to know about them.
+
+
+
+						By Jake Green
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+
+
+WoW's Rise of Azshara Offers New Zones, A New Raid, and Wicked Big Wheel Mount
+	New zones, a new raid, and big changes for the Heart of Azeroth are coming!
+
+
+
+						By Mike Williams
+
+
+
+
+Popular Games
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+Sekiro: Shadows Die Twice
+Essential Tips for Sekiro: Shadows Die Twice
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+The Division 2
+The Division 2 PvP Build - On the Ropes LMG Build, Best Builds
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+Anthem
+How the Frostbite Engine Became a Nightmare for EA in General, and BioWare in Particular
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+Apex Legends
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+Pokemon Go
+Pokemon Go April Field Research Quests - Research Breakthrough, Rewards
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+Red Dead Redemption 2
+Grand Theft Auto 6 May be in Development According to One Artist's Resume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Covering the best in video gaming. News, Reviews, and Guides for Switch, PS4, Xbox One, PC, and more!
+			
+
+				This site © 2019 Gamer Network.
+			
+
+				All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+			
+
+
+
+
+
+
+
+
+
+
+Explore
+
+
+
+										News
+									
+
+
+
+										Reviews
+									
+
+
+
+										Guides
+									
+
+
+
+										Long Reads
+									
+
+
+
+										Best Games
+									
+
+
+
+										Retro
+									
+
+
+
+										Podcast
+									
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Topics index
+
+
+
+Popular games
+
+
+
+									Sekiro: Shadows Die Twice
+								
+
+
+
+									The Division 2
+								
+
+
+
+									Anthem
+								
+
+
+
+									Apex Legends
+								
+
+
+
+									Pokemon Go
+								
+
+
+
+									Red Dead Redemption 2
+								
+
+Games index
+
+
+
+Helpful links
+
+
+Careers
+
+
+Code of conduct
+
+
+Contact us
+
+
+How we work
+
+
+Latest comments
+
+
+Privacy policy
+
+
+Review policy
+
+
+Staff & contributors
+
+
+Terms & Conditions
+
+
+
+
+Gamer Network
+
+Eurogamer
+Gamer's Edition
+GamesIndustry
+GamesIndustry Japan
+Jelly Deals
+Metabomb
+NintendoLife
+Push Square
+Rock Paper Shotgun
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+
+
+
+
+				Covering the best in video gaming. News, Reviews, and Guides for Switch, PS4, Xbox One, PC, and more!
+			
+
+				This site © 2019 Gamer Network.
+			
+
+				All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+			
+
+
+
+
+
+
+
+
+
+Explore
+
+
+
+										News
+									
+
+
+
+										Reviews
+									
+
+
+
+										Guides
+									
+
+
+
+										Long Reads
+									
+
+
+
+										Best Games
+									
+
+
+
+										Retro
+									
+
+
+
+										Podcast
+									
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Topics index
+
+
+
+Popular games
+
+
+
+									Sekiro: Shadows Die Twice
+								
+
+
+
+									The Division 2
+								
+
+
+
+									Anthem
+								
+
+
+
+									Apex Legends
+								
+
+
+
+									Pokemon Go
+								
+
+
+
+									Red Dead Redemption 2
+								
+
+Games index
+
+
+
+Helpful links
+
+
+Careers
+
+
+Code of conduct
+
+
+Contact us
+
+
+How we work
+
+
+Latest comments
+
+
+Privacy policy
+
+
+Review policy
+
+
+Staff & contributors
+
+
+Terms & Conditions
+
+
+
+
+Gamer Network
+
+Eurogamer
+Gamer's Edition
+GamesIndustry
+GamesIndustry Japan
+Jelly Deals
+Metabomb
+NintendoLife
+Push Square
+Rock Paper Shotgun
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+Explore
+
+
+
+										News
+									
+
+
+
+										Reviews
+									
+
+
+
+										Guides
+									
+
+
+
+										Long Reads
+									
+
+
+
+										Best Games
+									
+
+
+
+										Retro
+									
+
+
+
+										Podcast
+									
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Topics index
+
+
+
+Popular games
+
+
+
+									Sekiro: Shadows Die Twice
+								
+
+
+
+									The Division 2
+								
+
+
+
+									Anthem
+								
+
+
+
+									Apex Legends
+								
+
+
+
+									Pokemon Go
+								
+
+
+
+									Red Dead Redemption 2
+								
+
+Games index
+
+
+
+Helpful links
+
+
+Careers
+
+
+Code of conduct
+
+
+Contact us
+
+
+How we work
+
+
+Latest comments
+
+
+Privacy policy
+
+
+Review policy
+
+
+Staff & contributors
+
+
+Terms & Conditions
+
+
+
+
+Gamer Network
+
+Eurogamer
+Gamer's Edition
+GamesIndustry
+GamesIndustry Japan
+Jelly Deals
+Metabomb
+NintendoLife
+Push Square
+Rock Paper Shotgun
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+Explore
+
+
+
+										News
+									
+
+
+
+										Reviews
+									
+
+
+
+										Guides
+									
+
+
+
+										Long Reads
+									
+
+
+
+										Best Games
+									
+
+
+
+										Retro
+									
+
+
+
+										Podcast
+									
+
+Switch
+PlayStation 4
+Xbox One
+PC
+Topics index
+
+
+Popular games
+
+
+
+									Sekiro: Shadows Die Twice
+								
+
+
+
+									The Division 2
+								
+
+
+
+									Anthem
+								
+
+
+
+									Apex Legends
+								
+
+
+
+									Pokemon Go
+								
+
+
+
+									Red Dead Redemption 2
+								
+
+Games index
+
+
+Helpful links
+
+
+Careers
+
+
+Code of conduct
+
+
+Contact us
+
+
+How we work
+
+
+Latest comments
+
+
+Privacy policy
+
+
+Review policy
+
+
+Staff & contributors
+
+
+Terms & Conditions
+
+
+
+Gamer Network
+
+Eurogamer
+Gamer's Edition
+GamesIndustry
+GamesIndustry Japan
+Jelly Deals
+Metabomb
+NintendoLife
+Push Square
+Rock Paper Shotgun
+VG247
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+More from USG
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+	Part-River City Ransom, part-Persona, part-Yasujirō Ozu: can there ever be a better mix?
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+	THIS WEEK IN THE BUSINESS | Console news abound, games are banned and restricted, and big companies continue to get even bigger.
+
+
+
+
+
+More from USG
+
+
+
+What's Your Favorite Co-Op Game to Play With Loved Ones?
+	COMMUNITY QUESTION | It's a weekend all about spending time with family and friends, so let's hunker down and talk about our favorite co-op games!
+
+
+
+
+
+
+The Friends of Ringo Ishikawa Is a Coming of Age Beat 'Em Up With A Lot On Its Mind
+	Part-River City Ransom, part-Persona, part-Yasujirō Ozu: can there ever be a better mix?
+
+
+
+
+
+
+"The Fact That We're Still So Afraid of a Topic Like Weed Instead of Murder Simulators [...], It's Shocking"
+	THIS WEEK IN THE BUSINESS | Console news abound, games are banned and restricted, and big companies continue to get even bigger.
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+Username
+
+
+
+Password
+
+
+
+Sign in
+
+						(Forgotten your details?)
+					
+
+
+Connect with Facebook
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in..."
+							}
+						});
+					});
+				
+
+New in town?
+Create an account
+Close this overlay
+
+
+
+
+
+
+Sign in
+
+
+
+
+Username
+
+
+
+Password
+
+
+
+Sign in
+
+						(Forgotten your details?)
+					
+
+
+Connect with Facebook
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in..."
+							}
+						});
+					});
+				
+
+New in town?
+Create an account
+Close this overlay
+
+
+
+
+Sign in
+
+
+
+
+Username
+
+
+
+Password
+
+
+
+Sign in
+
+						(Forgotten your details?)
+					
+
+
+Connect with Facebook
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in..."
+							}
+						});
+					});
+				
+
+New in town?
+Create an account
+Close this overlay
+
+
+Sign in
+
+
+
+
+Username
+
+
+
+Password
+
+
+
+Sign in
+
+						(Forgotten your details?)
+					
+
+
+Connect with Facebook
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-overlay"),
+							style: "wide",
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in..."
+							}
+						});
+					});
+				
+
+New in town?
+Create an account
+Close this overlay
+
+
+Username
+
+
+
+Password
+
+
+
+Username
+
+
+Password
+

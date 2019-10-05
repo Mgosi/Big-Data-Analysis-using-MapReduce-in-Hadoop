@@ -1,0 +1,5207 @@
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+Wesley Yin-Poole
+Deputy EditorIt's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more.Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3.How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4.Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well.There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out.The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.Buy The Last Guardian from Amazon [?]Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.Games in this articleDriveClubPlayStation 4PlayStation VitaRise of the Tomb RaiderSilent HillThe Last GuardianUntil DawnAbout the authorWesley Yin-PooleDeputy EditorWesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.Comments (166)Comments for this article are now closed, but please feel free to continue chatting
+on the forum!AdvertisementFollow your favourite games, get instant updates
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											DriveClubPlayStation 4PlayStation VitaRise of the Tomb RaiderSilent HillRelated
+
+RecommendedDriveClub Bikes review						
+Four wheels good, two wheels better. 
+
+Tomb Raider film review - a new kind of game-to-film failure						
+Gravely default.
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+On a Saturday.
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+V-bad.
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+Specs have leaked for a new AMD console chip - but what is it?Latest
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+On a Saturday.
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+V-bad.
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+Specs have leaked for a new AMD console chip - but what is it?
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+Biker ran.AdvertisementSubscribe to The Eurogamer.net Daily
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								Bad puns and video games since 1999.This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.ExploreHelpful linksAcross EuropeGamer NetworkEventsSign inConnect with FacebookNew in town?
+
+
+
+Sign in
+
+Create an account
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+
+
+
+Sign in
+
+Create an account
+
+
+Sign in
+
+Create an account
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+
+
+
+
+
+Wesley Yin-Poole
+
+Deputy Editor
+@wyp100
+
+
+ 
+It's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.
+Buy The Last Guardian from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (166)
+
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (166)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+					"type": "interview",
+											"topics": "gamescom-2014",
+																"platforms": "PS3,VITA,PS4",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1701381,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+DriveClub
+
+
+
+
+PlayStation 4
+
+
+
+
+PlayStation Vita
+
+
+
+
+Rise of the Tomb Raider
+
+
+
+
+Silent Hill
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+					$(document).ready( function () {
+						new LanguageBar({
+							site: 1,
+							sites: {
+																	1: {
+										www: "https://www.eurogamer.net/",
+										exists: "Do you know about Eurogamer.net?",
+										cta: "Click here to visit Eurogamer.net!"
+									},
+																	2: {
+										www: "https://www.eurogamer.de/",
+										exists: "Kennst du Eurogamer.de?",
+										cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+									},
+																	4: {
+										www: "https://www.eurogamer.es/",
+										exists: "&iquest;Conoces Eurogamer.es?",
+										cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+									},
+																	5: {
+										www: "https://www.eurogamer.it/",
+										exists: "Sapevi di Eurogamer.it?",
+										cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+									},
+																	10: {
+										www: "https://www.eurogamer.cz/",
+										exists: "V&iacute;te o Eurogamer.cz?",
+										cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+									},
+																	13: {
+										www: "https://www.eurogamer.pl/",
+										exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+										cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+									},
+																	7: {
+										www: "https://www.eurogamer.nl/",
+										exists: "Had je al gehoord van Eurogamer.nl?",
+										cta: "Klik hier om Eurogamer.nl te bezoeken!"
+									},
+																15: {
+									www: "http://www.usgamer.net",
+									exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+									cta: "Click here to visit!"
+								}
+							}
+						})
+					});
+				
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-header"),
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in...",
+								error: "An error has occurred."
+							}
+						});
+
+						$("#launch-sign-in-overlay").on("click", function(e) {
+							$(".sign-in-overlay").addClass("open");
+						});
+
+						$(".sign-in-overlay").on("click", function(e) {
+							if($(e.target).hasClass("sign-in-container")) {
+								$(".sign-in-overlay").removeClass("open");
+							}
+						});
+					});
+				
+
+			function do_the_ads(custom_variables) {
+
+				jQuery(document).ready(function() {
+
+					function getAudienceProjectTargetingData() {
+					    "use strict";
+
+					    var CACHE_KEY = "apr_tdc";
+					    try {
+					        var json = window.localStorage.getItem(CACHE_KEY);
+					        if (json) {
+					            var cache = JSON.parse(json);
+					            if (cache.exp > Date.now()) {
+					                return cache.d;
+					            }
+					            else {
+					                window.localStorage.removeItem(CACHE_KEY);
+					            }
+					        }
+					    }
+					    catch (err) {
+					        window.localStorage.removeItem(CACHE_KEY);
+					    }
+					    return {};
+					};
+
+					function setAPTargeting() {
+					    var setTargeting = function () {
+					        var targetingData = getAudienceProjectTargetingData();
+					        for (var key in targetingData) {
+					            if (targetingData.hasOwnProperty(key)) {
+					                window.googletag.pubads().setTargeting(key, targetingData[key]);
+					            }
+					        }
+					    };
+
+					    window.googletag = window.googletag || {};
+					    window.googletag.cmd = window.googletag.cmd || [];
+					    if (window.googletag.cmd.unshift) {
+					        window.googletag.cmd.unshift(setTargeting);
+					    }
+					    else {
+					        window.googletag.cmd.push(setTargeting);
+					    }
+					};
+
+					if(jQuery('#content header').length) {
+						jQuery('#skyscraper').css({'margin-top' : jQuery('#content header').height() + 'px'});
+					}
+			
+											if(jQuery('#prod-buy').length > 0) {
+							jQuery('#sidebar .games').after('<li id=\"sidebar_amazon\"></li>');
+							jQuery('#sidebar_amazon').append(jQuery('#prod-buy'));
+							jQuery('#prod-buy').show();
+						}
+					
+					custom_variables['source'] = "article";
+					custom_variables['version'] = "hd";
+					custom_variables['release'] = "eg12";
+					custom_variables['logged_in'] = "false";
+
+											custom_variables['tags'] = ["interview","ps3","vita","ps4","gamescom-2014","driving","action-adventure","blockbuster","horror","puzzle"];
+					
+											custom_variables['games'] = ["driveclub","playstation-4","playstation-vita","rise-tomb-raider","silent-hills","last-guardian","until-dawn"];
+					
+					
+					
+											var ads_space = 450;
+					
+					if(Cookies.get('sp')) {
+						custom_variables['sp_message'] = Cookies.get('sp');
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').status == 'true') {
+						dfp_npa = 'true';
+					} else {
+						dfp_npa = 'false';
+						setAPTargeting();
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').chosen == 'true') {
+						if(Cookies.getJSON('dfp-npa').status == 'true') {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_no';
+						} else {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_yes';
+						}
+					} else {
+						custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_none';
+					}
+					
+					jQuery('.advertContainer').getDFPads({
+						'custom_variables' : custom_variables,
+						'lazyload_spacer': ads_space,
+						'showNonPersonalisedAds': dfp_npa,
+						'size_mappings': {
+							'portable-leaderboard': [
+								{viewport: [1260, 300], ad_sizes: [[728, 90], [970, 250], [1260, 110], [1260, 250]]},
+								{viewport: [ 980, 300], ad_sizes: [[728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [728, 90]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-fishbowl': [
+								{viewport: [ 980, 300], ad_sizes: [[320, 400], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[320, 400], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-mpu-leader': [
+								{viewport: [ 980, 300], ad_sizes: [[300, 250], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[300, 250], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							]
+						},
+					});	
+
+					
+						if(dfp_npa == 'true') {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=1;
+						} else {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=0;
+						}
+						window.adsbygoogle.push({});	
+
+								
+				});
+			}
+			
+ 
+					( function () {
+						var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){R||(R=!0,D=b.config=b.config||{},s(),F=D.bootstrap&&D.bootstrap.contentControlCallback||D.content_control_callback,q=D.accountId||D.account_id||D.client_id||window.sp_cid,N=D.beacon&&D.beacon.contentControlEndpoint||D.content_control_beacon_endpoint||v.a,D.debug_level&&"OFF"!==D.debug_level.toString().toUpperCase()||D.debug&&D.debug.level&&"OFF"!==D.debug.level.toString().toUpperCase()?j=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(j=!0),j&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+N+"/cct?v="+encodeURIComponent(v.b)+"&ct="+h+"&cid="+encodeURIComponent(q)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+"&d0="+encodeURIComponent(i)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),c&&c()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",a=arguments[4],c=arguments[5];if(a){var d=e.lastIndexOf("."),u=e.lastIndexOf("/"),s=-1===d||u>d?e+".png":e.substring(0,d)+".png",l=new Image;l.addEventListener("load",function(){r("1",s)}),l.addEventListener("error",function(){o.i(f.a)(s,function(n,t,o){r("0",s+"::"+o)})}),l.src=s}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(L):t("exabot")?i(O):t("bingbot")||t("bingpreview")?i(k):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(C):t("googleweblight")?i(E):window.location.host===w?i(x):t("msie 10")||t("msie 9")||t("msie 8")?i(I):c(n,r,i)},document.head.appendChild(a)}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(S)return void u(U+"::"+n,o);r(y,n,t,o,e,function(){if(F){if(j){g.error("bootstrap locking",y,n,t,o,e);debugger}setTimeout(function(){F()},250)}})}function u(n,t,o,e){r(_,n,t,o,e)}function s(){b._networkListenerData||(b._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=window._sp_||{},h=1,_=0,y=1,L="m",C="g",x="gw",E="gl",I="i",k="b",O="e",U="n",R=!1,S=!1,j=!1,D=void 0,F=void 0,q=void 0,N=void 0;window.addEventListener("beforeunload",function(){S=!0}),window._sp_=b,b.setupNetworkListeners=s,b.bootstrap=l,window.spBootstrap=l,t["default"]=b},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1098"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","0","9","8",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=document.createElement("a");if(p.href=n,"https:"===e.protocol&&p.protocol!==e.protocol)return r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,p.protocol,u);var v=new XMLHttpRequest,g=f.withCredentials;null!=g&&(v.withCredentials=g);try{v.open(f.method||"GET",n)}catch(n){return void t(!0,!1,n.toString(),c,v)}if(null!=f.headers){var m=f.headers;Object.keys(m).forEach(function(n){v.setRequestHeader(n,m[n])})}var w=void 0,b=void 0;v.onloadstart=function(n){w=o(n)},v.onreadystatechange=function(n){if(4===this.readyState){b=o(n)-w;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+b,c,v)}};try{v.send(f.body)}catch(n){return void t(!0,!1,n.toString(),d,v)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+							//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1098/Ym9vdHN0cmFwLmpz.map
+							window ._sp_ =  window ._sp_ || {};
+							window ._sp_.config =  window ._sp_.config || {};
+							window ._sp_.config.account_id = 347;
+							window ._sp_.config.content_control_callback =  function () {
+								//console.log( "CONTENT LOCK" );
+							};
+							window ._sp_.config.mms_domain =  "eurogamer-uk.eurogamer.net" ;
+							window ._sp_.mms =  window ._sp_.mms || {};
+							window ._sp_.mms.cmd =  window ._sp_.mms.cmd || [];
+							window ._sp_.config.mms_client_data_callback =  function (o) {
+								var _sp_msg_id = parseInt(o.info.msg_id);
+								var _sp_cookie_val = "";
+								if(o.d.abp==true && _sp_msg_id>0) {
+
+																	if( _sp_msg_id == 30015) {
+										Cookies.set("sp", "eg_wl_only_message_seen", { expires: 30 });
+									} else {
+										Cookies.set("sp", "eg_continue_message_seen", { expires: 30 });
+									}
+								
+								}
+							};
+
+															window._sp_.config.fsm_endpoint = "//eg-p2.eurogamer.net";
+								window._sp_.config.enable_fsm_detection = true;
+								window._sp_.config.enable_fsm_network_detection = true;
+							
+							window ._sp_.mms.cmd.push( function () {
+
+								window ._sp_.mms.setTargeting( "logged-in", "false" );
+								window ._sp_.mms.setTargeting( "page", "article" );
+								window ._sp_.mms.setTargeting( "show-ads", "true" );
+					
+														
+																	window ._sp_.mms.setTargeting( "guide", "false" );
+								
+							});
+
+							window ._sp_.mms.cmd.push( function () {
+								window ._sp_.mms.startMsg();
+							});
+
+							window ._sp_.bootstrap( "scripts/Eurogamer/meurogamer-fsm.js?3" );
+							window ._sp_.config.mms_choice_selected_callback =  function (choiceID) {};
+
+														
+						})();
+					
+
+					var dfp_npa = 'false';
+					var custom_variables = {};
+					custom_variables['gdpr_message'] = 'none';
+					do_the_ads(custom_variables);
+				
+
+			{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://www.eurogamer.net/articles/2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+    "url": "https://www.eurogamer.net/articles/2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+    "headline": "Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales",
+    "description": "Our Gamescom interview with Sony's Shuhei Yoshida.",
+    "datePublished": "2014-08-19T12:00:00+01:00",
+    "dateModified": "2014-08-19T12:00:00+01:00",
+    "inLanguage": "en",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.gamer-network.net/2013/articles/1/7/0/1/3/8/1/tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales-1408371422348.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Wesley Yin-Poole",
+        "sameAs": "https://www.eurogamer.net/authors/621"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eurogamer.net",
+        "sameAs": "https://www.eurogamer.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x120/logo.png"
+        }
+    }
+}		
+
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "8518622" });
+		  (function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = "https://sb.scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		  })();
+		
+
+
+
+
+
+			window.fbAsyncInit = function () {
+				FB.init({
+					appId: '156247124404264',
+					version: 'v2.7',
+					channelUrl: '/channel.html',
+					status: true,
+					cookie: true,
+					xfbml: true,
+					oauth: true
+				});
+			};
+
+			// Load the SDK Asynchronously
+			(function (d) {
+				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+				if (d.getElementById(id)) {
+					return;
+				}
+				js = d.createElement('script');
+				js.id = id;
+				js.async = true;
+
+								js.src = "//connect.facebook.net/en_GB/all.js";
+				ref.parentNode.insertBefore(js, ref);
+			}(document));
+		
+
+
+			!function (f, b, e, v, n, t, s) {
+				if (f.fbq)return;
+				n = f.fbq = function () {
+					n.callMethod ?
+							n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq)f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window,
+					document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '897415313645265');
+			fbq('track', 'PageView');
+		
+
+
+
+
+			(function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/12431/px.js');
+		
+
+
+				function mormontLoaded () {
+
+				var injectRecommendations = $('aside.popular').length != true;
+
+									mormont('configure', 'property', 'eurogamer');
+					mormont('set', 'section', 'article');
+				if (window.location.pathname.match('^/profile')) {
+					mormont('set', 'section', 'community');
+				}
+				if (window.location.pathname.match('^/inbox')) {
+					mormont('set', 'section', 'user');
+				}
+					mormont('set', 'language', 'en');
+									mormont('set', 'platforms', ["ps3","vita","ps4"]);
+													mormont('set', 'tags', ["tag:gamescom-2014","genre:driving","genre:action-adventure","genre:blockbuster","genre:action-adventure","genre:blockbuster","genre:action-adventure","genre:blockbuster","genre:action-adventure","genre:blockbuster","genre:horror","genre:action-adventure","genre:puzzle","genre:horror","game:driveclub","game:playstation-4","game:playstation-vita","game:rise-tomb-raider","game:silent-hills","game:last-guardian","game:until-dawn"]);
+																	mormont('set', 'published', '2014-08-19T12:00:00+01:00');
+					mormont('set', 'article_type', 'interview');
+													mormont('set', 'author', "Wesley Yin-Poole");
+									mormont('send', 'pageview');
+
+										if (injectRecommendations) {
+							mormont('configure', 'label', "More stories");
+							mormont('configure', 'recommendations_site', 'www.eurogamer.net');
+							mormont('configure', 'selector', 'article');
+							mormont('configure', 'render_recommendations', true);
+							mormont('configure', 'max_rec_links', 2);
+							mormont('configure', 'max_containers', 2);
+							mormont('fetchRecommendations');
+						}
+						mormont('trackClicks', ['article']);
+								};
+			
+
+
+			$(document).ready(function() {
+				window.followButtons = new FollowButtons({
+					uid: 0,
+					lang: {
+						follow: "Follow",
+						unfollow: "Unfollow",
+						following: "Following"
+					}
+				});
+			});
+		
+
+				jQuery(document).ready(function(){
+					renderEdmonds('.edmonds-block', {
+						'site': 'eurogamer.net',
+					});
+
+					// Check for other Amazon links and add subtag if required
+					jQuery.each(jQuery('article main a'), function(i, k) {
+
+						var link_href = jQuery(k).attr('href');
+					    if(link_href.match(/amazon\./i) && link_href.indexOf('ascsubtag') == -1) {
+
+					      subtag='';
+					      if(window.location.pathname.length > 1){
+					        var subtag = window.location.pathname.substring(1);
+					        subtag = subtag.replace(/\//g,'-').substring(0,89);
+					      } else {
+					        subtag='index';
+					      }
+					      link_href = link_href + ((link_href.indexOf('?') == -1) ? '?ascsubtag=' : '&ascsubtag=') + subtag;
+
+					      jQuery(k).attr('href', link_href);
+
+					    }
+
+					});
+
+				});
+			
+
+				$(document).ready( function() {
+										window['adsSidebar'] = new SidebarAds({
+						content: $(".document > .main"),
+						sidebar: $(".ads-rail.upper"),
+						offset: 600,
+						firstOffset: 600,
+						limit: 20,
+						prefix: "ARTICLE",
+						zone: 'EGNET_Lazy_Load_HP_MPU',
+						site: 'eurogamer.net',
+						articles: [{"slug":"2015-11-06-driveclub-bikes-review","title":"DriveClub Bikes review","subtitle":"Four wheels good, two wheels better. ","comments":133},{"slug":"2018-03-16-tomb-raider-film-review-a-new-kind-of-game-to-film-failure","title":"Tomb Raider film review - a new kind of game-to-film failure","subtitle":"Gravely default.","comments":96},{"slug":"2016-12-05-the-last-guardian-review","title":"The Last Guardian review","subtitle":"The thing with feathers.","comments":342},{"slug":"2015-08-27-until-dawn-review","title":"Until Dawn review","subtitle":"A cut above. ","comments":190},{"slug":"2016-11-10-how-to-transfer-data-from-ps4-to-ps4-pro-transfer-saves-games-trophies-settings-and-more-explained","title":"How to transfer data from PS4 to PS4 Pro - transferring saves, games, trophies, settings and more explained","subtitle":"Step-by-step guide to transferring everything from your old PS4 to your new PS4 Pro.","comments":82},{"slug":"2016-10-14-rise-of-the-tomb-raider-croft-manor-blood-ties-walkthrough-guide","title":"Rise of the Tomb Raider - Croft Manor: Blood Ties walkthrough and guide","subtitle":"Solve every puzzle and find every collectible in the Blood Ties story expansion.","comments":0},{"slug":"2016-10-11-rise-of-the-tomb-raider-walkthrough-and-guide-4021","title":"Rise of the Tomb Raider walkthrough and guide","subtitle":"Our comprehensive guide to Rise of the Tomb Raider on PS4, Xbox One and PC.","comments":0},{"slug":"2016-11-10-ps4-pro-games-list-specs-comparison","title":"PS4 Pro games list, specs comparison and everything else we know about Sony's new hardware","subtitle":"What's different in Sony's mid-generation 4K upgrade.","comments":0},{"slug":"digitalfoundry-2016-how-to-access-smoother-performance-for-the-last-guardian-on-4k-screens-ps4-pro","title":"How to access smoother performance for The Last Guardian on 4K displays","subtitle":"How to trade resolution for higher frame-rates on PS4 Pro.","comments":39},{"slug":"2019-03-31-driveclub-servers-will-shut-down-in-march-2020","title":"Driveclub servers will shut down in March 2020","subtitle":"DLC will be available until 31st August. ","comments":68},{"slug":"2018-01-15-new-uk-studio-driveclub-motorstorm","title":"New UK studio from makers of Driveclub, MotorStorm","subtitle":"Working with someone you may not expect.","comments":31},{"slug":"2016-10-31-driveclubs-final-update-is-also-its-most-generous","title":"DriveClub's final update is also its most generous","subtitle":"15 new tracks come in free download.","comments":82},{"slug":"2016-04-11-codemasters-picks-up-driveclub-dev-evo","title":"Codemasters picks up Driveclub developer Evolution Studios","subtitle":"And now it's multiplatform.","comments":147},{"slug":"2016-03-22-sony-closes-driveclub-developer-evolution","title":"Sony closes Driveclub developer Evolution","subtitle":"What now for Driveclub VR?","comments":234},{"slug":"2016-02-10-big-driveclub-update-adds-hardcore-handling","title":"Big DriveClub update adds &quot;hardcore handling&quot;","subtitle":"Eyes on the road.","comments":38},{"slug":"2016-01-22-driveclub-is-getting-a-hardcore-mode-in-february","title":"DriveClub is getting a Hardcore mode in February","subtitle":"Removes traction control, stability control and other assists.","comments":43},{"slug":"2015-10-27-looks-like-driveclub-bikes-for-ps4-is-a-thing","title":"Looks like Driveclub Bikes for PS4 is a thing","subtitle":"UPDATE: Confirmed. Out... now!","comments":57},{"slug":"2015-08-18-driveclubs-just-got-another-update-that-makes-some-big-changes","title":"DriveClub's latest update makes some big changes","subtitle":"Improved clutch support, remixed tracks and boosted level cap.","comments":35},{"slug":"2015-08-03-driveclub-surpasses-2m-sales","title":"DriveClub overtakes 2m sales","subtitle":"Even without PS Plus Edition.","comments":47},{"slug":"2019-04-10-you-can-finally-change-your-playstation-id-name-but-sony-warns-of-potential-issues","title":"You can finally change your PlayStation ID, but Sony warns of potential issues","subtitle":"North America now, Europe tomorrow.","comments":124},{"slug":"2019-03-22-playstation-will-hold-a-nintendo-direct-and-inside-xbox-style-announcement-show","title":"PlayStation will hold a Nintendo Direct-style show on Monday","subtitle":"State of Play.","comments":67},{"slug":"2018-11-22-playstation-is-launching-a-second-pair-of-official-shoes","title":"PlayStation launching a second pair of official shoes","subtitle":"Reboot.","comments":29},{"slug":"2018-11-16-nintendo-and-microsoft-confirm-e3-attendance-in-wake-of-playstation-no-show","title":"Nintendo and Microsoft confirm E3 attendance in wake of PlayStation no-show","subtitle":"&quot;An outstanding opportunity.&quot;","comments":78},{"slug":"2018-11-10-in-chicago-playstation-users-will-soon-have-to-pay-a-9-percent-cloud-tax","title":"In Chicago, PlayStation users will soon have to pay a 9% &quot;cloud tax&quot;","subtitle":"Bulls hit.","comments":111},{"slug":"2018-10-16-playstation-says-its-fixed-messages-that-were-crashing-consoles","title":"PlayStation says it has fixed messages that were crashing consoles","subtitle":"Quaking in my reboots.","comments":34},{"slug":"2018-10-10-sony-will-let-you-change-your-psn-id-early-2019","title":"Sony will let you change your PSN ID early 2019","subtitle":"Beta coming soon.","comments":128},{"slug":"2018-10-04-november-playstation-plus-games-include-bulletstorm-yakuza-kiwami","title":"November PlayStation Plus games include Bulletstorm, Yakuza Kiwami","subtitle":"Gunning for your money.","comments":93},{"slug":"2018-09-29-playstation-chief-on-why-sony-took-so-long-to-enable-console-cross-play","title":"PlayStation chief on why Sony took so long to enable console cross-play","subtitle":"&quot;Enabling cross-play isn't just about flipping a switch&#8230;&quot;","comments":76},{"slug":"2018-09-26-playstation-4-gets-cross-play-with-nintendo-switch-and-xbox-one","title":"PlayStation 4 gets cross-play with Nintendo Switch and Xbox One","subtitle":"Starting today with Fortnite.","comments":296},{"slug":"2019-02-19-playstation-vita-production-winding-down","title":"PlayStation Vita production winding down","subtitle":"No life left.","comments":92},{"slug":"2018-09-20-no-plans-for-a-vita-successor-sony-says","title":"No plans for a Vita successor, Sony says","subtitle":"Manufacturing to cease in 2019.","comments":118},{"slug":"2017-06-06-sony-downplays-dream-of-playstation-vita-successor","title":"Sony downplays dream of PlayStation Vita successor","subtitle":"&quot;It became hard to keep the Vita as a going concern.&quot;","comments":120},{"slug":"2016-07-05-twitch-app-lands-on-playstation-vita","title":"Twitch app lands on PlayStation Vita","subtitle":"It's a new release for PlayStation Vita!","comments":15},{"slug":"2015-10-23-sony-reaffirms-lack-of-triple-a-playstation-vita-development","title":"Sony reaffirms lack of triple-A PlayStation Vita development","subtitle":"Console yourself.","comments":104},{"slug":"2015-09-26-sony-climate-not-healthy-for-playstation-vita-successor","title":"Sony: climate &quot;not healthy&quot; for PlayStation Vita successor","subtitle":"Because of the &quot;huge dominance of mobile gaming&quot;.","comments":93},{"slug":"2015-03-11-sony-signals-end-of-playstation-mobile","title":"Sony signals end of PlayStation Mobile","subtitle":"We barely knew you.","comments":58},{"slug":"2015-01-28-sony-ending-playstation-vita-maps-near-features","title":"Sony ending PlayStation Vita Maps, near features","subtitle":"YouTube app will also disappear.","comments":132},{"slug":"2014-12-02-the-bonkers-ads-of-playstation","title":"The bonkers ads of PlayStation","subtitle":"PSone turns 20 tomorrow. Reminisce with fancy marketing.","comments":59},{"slug":"2014-10-09-minecraft-playstation-vita-release-date-finally-announced","title":"Minecraft PlayStation Vita release date finally announced","subtitle":"PC version's Horse Update now headed to all consoles.","comments":31},{"slug":"2018-08-12-new-microsoft-studio-the-initiative-acquires-senior-talent-from-santa-monica-studio-rockstar-and-crystal-dynamics","title":"New Microsoft studio, The Initiative, acquires senior talent from Santa Monica Studio, Rockstar and Crystal Dynamics","subtitle":"&quot;I'm excited to add to the team!&quot;","comments":49},{"slug":"2018-02-19-theres-a-tomb-raider-barbie-doll","title":"There's a Tomb Raider Barbie doll","subtitle":"Ken you believe it.","comments":31},{"slug":"2017-12-07-a-new-tomb-raider-game-is-coming-says-square-enix","title":"&quot;A new Tomb Raider game is coming&quot; says Square Enix","subtitle":"&quot;Our journey together will begin with a major event in 2018.&quot;\r\n","comments":31},{"slug":"2017-11-07-rise-of-the-tomb-raider-enhancements-specified-for-xbox-one-x","title":"Here's the list of Xbox One X improvements for Rise of Tomb Raider","subtitle":"Witch croft. ","comments":26},{"slug":"2017-09-20-new-tomb-raider-film-gets-its-first-trailer","title":"New Tomb Raider film gets first trailer","subtitle":"Better than the poster.","comments":39},{"slug":"2017-09-18-tomb-raider-film-awkward-poster","title":"Fans don't like Tomb Raider's awkward film poster","subtitle":"Clever girl.","comments":111},{"slug":"2017-05-11-meanwhile-square-enix-just-reported-huge-sales-and-profits","title":"Meanwhile, Square Enix just reported huge sales and profits","subtitle":"FF15 and Rise of the Tomb Raider PS4 do well.","comments":28},{"slug":"2017-03-28-heres-what-lara-croft-looks-like-in-the-new-tomb-raider-movie","title":"Here's what Lara Croft looks like in the new Tomb Raider movie","subtitle":"Starring Alicia Vikander as &quot;a bike courier, barely making the rent&quot;.","comments":57},{"slug":"2016-11-01-next-tomb-raider-game-leaks-after-someone-left-their-laptop-open-on-the-subway","title":"Next Tomb Raider game leaks after someone leaves laptop open on the subway","subtitle":"And it's not being helmed by regular developer Crystal Dynamics.","comments":69},{"slug":"2016-08-08-tomb-raider-live-in-concert-premieres-at-hammersmith-apollo-in-december","title":"Tomb Raider - Live in Concert premieres at Hammersmith Apollo in December","subtitle":"For one night only - crotchet while you can! ","comments":6},{"slug":"2017-12-05-rise-of-the-tomb-raiders-mansion-exploration-episode-blood-ties-finally-has-vr-support-on-pc","title":"Rise of the Tomb Raider's mansion-exploration episode Blood Ties finally has VR support on PC","subtitle":"Mind your manors.","comments":9},{"slug":"digitalfoundry-2016-input-lag-fixed-on-rise-of-the-tomb-raider","title":"Input lag issues fixed on PS4 Rise of the Tomb Raider","subtitle":"Patch 1.04 improves gameplay, optimises PS4 Pro performance.","comments":62},{"slug":"2019-01-05-unreal-pt-is-another-impressive-pc-remake-of-hideo-kojimas-lost-playable-teaser","title":"Unreal PT is another impressive PC remake of Hideo Kojima's lost playable teaser","subtitle":"And this one has VR support.","comments":23},{"slug":"2016-05-09-check-out-these-unreal-engine-4-fan-tributes-to-silent-hill-and-bloodborne","title":"Silent Hill and Bloodborne receive Unreal Engine 4 fan tributes","subtitle":"UPDATE: Silent Hill stage now available to download.","comments":31},{"slug":"2015-09-28-silent-hills-would-have-been-even-better-than-we-thought","title":"Silent Hills would have been even better than we thought","subtitle":"Horror manga artist Junji Ito was working with Kojima and del Toro.","comments":50},{"slug":"2015-08-14-guillermo-del-toro-doesnt-want-to-make-another-game","title":"Guillermo del Toro doesn't want to make another game","subtitle":"&quot;I have proven to be the albatross.&quot;","comments":46},{"slug":"2015-05-06-p-t-no-longer-available-for-re-download-in-the-us","title":"P.T. no longer available for re-download in the US","subtitle":"Still working in Europe, but for how long?\r\n","comments":68},{"slug":"2015-04-26-silent-hills-is-dead-actor-norman-reedus-confirms","title":"Silent Hills is dead, actor Norman Reedus confirms","subtitle":"UPDATE: Konami confirms Silent Hills cancelled.","comments":211},{"slug":"2015-04-26-p-t-is-being-pulled-from-psn-on-wednesday","title":"P.T. is being pulled from PSN on Wednesday","subtitle":"Could this mean Silent Hills is cancelled?","comments":79},{"slug":"2015-04-01-silent-hills-page-removes-kojima-productions-logo","title":"Silent Hills\/P.T. page removes Kojima Productions' logo","subtitle":"Konami says it's just switched to a &quot;headquarters-based organisation&quot;.\r\n","comments":50},{"slug":"2014-09-19-woman-sets-guinness-world-record-for-largest-silent-hill-collection","title":"Woman sets Guinness World Record for largest Silent Hill collection","subtitle":"Consisting of 360 items.","comments":56},{"slug":"2014-09-18-silent-hills-concept-trailer-is-coming-for-you","title":"Silent Hills concept trailer is coming for you","subtitle":"Maggots. Lots of maggots.","comments":29},{"slug":"2018-09-13-shadow-of-colossus-creator-fumito-ueda-offers-update-on-his-mysterious-new-game","title":"Shadow of Colossus creator Fumito Ueda offers update on his mysterious new game","subtitle":"&quot;What we're making now doesn't feel like an indie game&quot;.","comments":41},{"slug":"2018-01-02-fumito-uedas-studio-shows-a-picture-of-what-could-be-its-new-game","title":"Fumito Ueda's studio shows a picture of what could be its new game","subtitle":"A girl and a giant, titled Beauty and the Beast. ","comments":29},{"slug":"2017-12-09-the-last-guardian-vr-demo-out-next-week","title":"The Last Guardian VR demo out next week","subtitle":"&quot;Our gift to you.&quot;","comments":9},{"slug":"2017-06-29-fumito-ueda-submitted-a-proposal-of-changes-for-the-shadow-of-the-colossus-ps4-remake","title":"Fumito Ueda submitted a proposal of changes for the Shadow of the Colossus PS4 remake","subtitle":"He doesn't know if they'll be included yet.","comments":31},{"slug":"2016-12-12-dead-rising-4-outsold-the-last-guardian","title":"Dead Rising 4 outsold The Last Guardian","subtitle":"But it did beat Ico and Shadow of the Colossus.","comments":214},{"slug":"2016-11-29-the-last-guardian-media-kit-includes-a-heartfelt-message-to-fans-from-creator-fumito-ueda","title":"The Last Guardian media kit includes a heartfelt message from creator Fumito Ueda","subtitle":"&quot;... we ran into a few twists and turns along the way&#8230;&quot;","comments":72},{"slug":"2016-11-10-the-last-guardian-is-getting-ps4-pro-support","title":"The Last Guardian is getting PS4 Pro support","subtitle":"4K support, improved performance and HDR inbound. ","comments":23},{"slug":"2016-10-21-after-nearly-a-decade-the-last-guardian-has-gone-gold","title":"After nearly a decade The Last Guardian has gone gold","subtitle":"The cat's out of the bag.","comments":64},{"slug":"2016-09-17-beast-your-eyes-on-18-minutes-of-the-last-guardian-gameplay","title":"Beast your eyes on 18 minutes of The Last Guardian gameplay","subtitle":"It'll be out Ico Ico one day.","comments":61},{"slug":"2016-09-12-the-last-guardian-delayed-again","title":"The Last Guardian delayed again","subtitle":"Now out December 2016.","comments":115},{"slug":"2017-06-28-until-dawn-and-tokyo-jungle-are-free-for-ps-plus-members-in-july","title":"Until Dawn and Tokyo Jungle are free for PS Plus members in July","subtitle":"Don't Die Mr. Robot.\r\n","comments":54},{"slug":"2017-06-13-until-dawn-is-getting-a-vr-prequel-the-inpatient","title":"Until Dawn dev announces VR prequel The Inpatient","subtitle":"Set 60 years before the first game.\r\n ","comments":13},{"slug":"2017-06-13-until-dawn-dev-shows-hidden-agenda-a-crime-thriller-for-ps4-with-a-social-twist","title":"Until Dawn dev shows Hidden Agenda, a crime thriller for PS4 with a social twist","subtitle":"Couples with new initiative called PlayLink.","comments":6},{"slug":"2016-12-19-watch-until-dawns-early-first-person-version","title":"Watch Until Dawn's early first-person version","subtitle":"From back when it was a PS3 Move game.","comments":18},{"slug":"2015-12-10-the-last-of-us-until-dawn-are-bogof-on-psn","title":"The Last of Us, Until Dawn are BOGOF on PSN","subtitle":"And dozens more.","comments":116},{"slug":"2015-10-27-until-dawn-rush-of-blood-announced-for-playstation-vr","title":"Until Dawn: Rush of Blood announced for PlayStation VR","subtitle":"Life is a rollercoaster.","comments":18},{"slug":"2015-08-27-until-dawn-death-scene-censored-in-japan","title":"Until Dawn death scene censored in Japan","subtitle":"Saw that coming.","comments":29},{"slug":"2015-05-26-ps4-exclusive-until-dawn-finally-has-a-release-date","title":"PS4 exclusive Until Dawn finally has a release date","subtitle":"Prison Break and Arrow star Peter Stormare joins cast.","comments":48},{"slug":"2014-12-06-heres-a-fresh-look-at-ps4-exclusive-horror-thriller-until-dawn","title":"Here's a fresh look at PS4-exclusive horror thriller Until Dawn","subtitle":"Don't hide under the bed. Never hide under the bed.","comments":14},{"slug":"2014-08-12-teen-horror-game-until-dawn-reemerges-on-ps4","title":"Teen horror game Until Dawn reemerges on PS4","subtitle":"&quot;You decide who will survive.&quot;","comments":13}],
+						lang: {
+							advertisement: "Advertisement",
+							related: "Related"
+						},
+					});
+					
+
+										// Video Player
+					var videos = $(".video-player");
+					for(i = 0; i < videos.length; i++) {
+						var video = $(videos[i]);
+						new videoPlayer({
+							player: video,
+							label: video.attr('data-label'),
+							more: "More videos",
+							subscribe: "Subscribe to our YouTube channel",
+							version: "hd",
+							error: "Sorry, but there was an error loading the video player.",
+						});
+					}
+					
+					
+					// Lazy Covers
+					var lc = new LazyCovers({
+						selector: ".cover, .avatar"
+					});
+
+									});
+			
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+
+
+
+
+
+Wesley Yin-Poole
+
+Deputy Editor
+@wyp100
+
+
+ 
+It's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.
+Buy The Last Guardian from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (166)
+
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (166)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+					"type": "interview",
+											"topics": "gamescom-2014",
+																"platforms": "PS3,VITA,PS4",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1701381,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+DriveClub
+
+
+
+
+PlayStation 4
+
+
+
+
+PlayStation Vita
+
+
+
+
+Rise of the Tomb Raider
+
+
+
+
+Silent Hill
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+ 
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+
+
+
+
+
+Wesley Yin-Poole
+
+Deputy Editor
+@wyp100
+
+
+ 
+It's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.
+Buy The Last Guardian from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (166)
+
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (166)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+					"type": "interview",
+											"topics": "gamescom-2014",
+																"platforms": "PS3,VITA,PS4",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1701381,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+DriveClub
+
+
+
+
+PlayStation 4
+
+
+
+
+PlayStation Vita
+
+
+
+
+Rise of the Tomb Raider
+
+
+
+
+Silent Hill
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+
+
+
+
+
+Wesley Yin-Poole
+
+Deputy Editor
+@wyp100
+
+
+ 
+It's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.
+Buy The Last Guardian from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (166)
+
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+
+
+
+
+
+Wesley Yin-Poole
+
+Deputy Editor
+@wyp100
+
+
+ 
+It's been a fantastic year for Sony and the PlayStation 4, with a whopping 10m consoles sold. But there have been bumps along the road.The Last Guardian remains missing in action years after it was announced. It's been in development for so long it's becoming a bit of a running joke.There's also the issue of the delay to Evolution's racing game DriveClub. It was once due out alongside the PS4 in November 2013. Now, it'll launch almost a year later, going up against the likes of Forza Horizon 2, Project Cars and The Crew.What was that strongly-worded statement on EA Access all about? Sony doesn't want the subscription service on PlayStation, but shouldn't we get the chance to decide for ourselves?Sony ignored Vita during its Gamescom press conference - not for the first time at a big show - causing some to question Sony's commitment to the console. Is Vita dead?And of course, PlayStation consoles won't get Rise of the Tomb Raider when it launches exclusively on Xbox late next year. The question is, will Lara's latest eventually release on PlayStation 4? Xbox boss Phil Spencer doesn't know. Square Enix isn't saying. So, what does Sony think?Read on for all this and more. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Until Dawn was announced a while ago as a PlayStation 3 game that has undergone a change. Can you explain what has gone on and why it has been repurposed for PS4?Shuhei Yoshida: When we announced the title two or three years ago on PS3, we were happy about the reception. But it was a time for us to look at all the games in development. Some of the titles, like Until Dawn, looked better to move it to PS4, because it's a horror title. We realised the game and genre can benefit from moving to higher performance hardware, so the visual impact can be stronger. It's all about who you decide to survive through the event. It's the characters' facial expressions can make it much more impactful.So the developer tried some experimentation on PS4 and the early result was great. So at that time we decided, yeah, the PS4 was taking off and lets move it to PS4.You also announced PS4 had sold 10m units.Shuhei Yoshida: Yep. Sell through.That's a very impressive number just nine months into the console's life. Last November we were all hoping the new consoles would sell well, but this is beyond most people's predictions. It suggests something different is going on this time than we've seen in the past. What do you think is the reason for it doing so well so quickly?Shuhei Yoshida: The 10m sell through in the first nine months is well beyond what we had hoped for. As you know, we have struggled to keep up with demand of PS4 for so many months. It was hard to find and purchase PS4. Now we are able to supply units so in every territory I believe you can find PS4. So we just managed to catch up with demand.It's just beyond our imagination. We are so happy. But I for one am a bit nervous because we do not completely understand what's happening. You need to understand why your products are selling well so you can plan for the future, right? It defied the conventional thinking. Lots of people thought the dedicated game hardware might not be needed going forward, but still lots of people are very excited. When you see the new games coming out and being announced this E3 and Gamescom, I think there's a good enough reason for a gamer to believe this is something worth investing in.I agree, but I don't think that explains the speed of sales.Shuhei Yoshida: Yeah. Actually I'm asking journalists who ask that question their opinion.I don't know. I was hoping you would know.Shuhei Yoshida: I'm asking marketing people to tell us why. They've been to people who already purchased, and some of the early data was amazing in terms of the number of people who didn't used to own PS3 have already purchased PS4. So we are getting lots of new customers coming into PlayStation. And some people never purchased any last-gen hardware: PS3, or Xbox 360 or Nintendo Wii. So where did they come from?Why buy now then?Shuhei Yoshida: Well, yeah. I don't know. As soon as we see a great sales number, our instinct tells us we should be concerned about future sales, right? Are we exhausting all the core gamers? If we sell this number of units, there are no more consumers we can sell to. That's a really terrifying prospect. So we want to understand who are these consumers who we do not necessarily consider core gamers, who are purchasing PS4 and why they are doing it and what they are doing with PS4, so we can create a bit more of a positive future, rather than saying, wow, we have sold to every single core gamer. So that's what we are doing.At the same time there are many things we are working on to add new features to the firmware and our network services and game catalogues, so we hope we can continue this momentum and reach a wider audience than we were able to do on PS3. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+How do you feel about the PS4's line-up this Christmas. I was disappointed that The Order was delayed because I was looking at that as being one of the big PS4 Sony games.Shuhei Yoshida: I was disappointed as well. And our marketing people were disappointed.Do you feel that's perhaps left a gap that hasn't been filled when you think about the exclusive content coming up for PS4 this Christmas?Shuhei Yoshida: No. How important do you think it is?A lot of people consider buying consoles at Christmas and one of the big reasons to buy a console is for exclusive games. And The Order was a game held up as fantastic-looking PS4 exclusive.Shuhei Yoshida: I understand that, but the purchase decision of consoles is a long-term investment. It's not like a smartphone where every two years you purchase new hardware. So people hopefully are looking at a bit longer term. The Order, it's not like it disappeared. It moved from Christmas time to February, so it's two or three more months. It's looking great.And there are games coming out this Christmas from both third parties and first-party. Destiny is a great product. You can play Destiny on other platforms as well, however, we are talking about the breadth of content from both first-party and third-party. When you extend your view to next year's titles, Bloodborne we are extremely excited about, and Uncharted 4 is coming out. And we have announced other games like Until Dawn and many digital titles. I was so happy to watch the new trailer for Rime. These days indie titles' quality is so high. It is very hard to tell which is what. Like Wild. So hopefully people see the holistic view of third-party and first party and hopefully they find games available now good enough to spend their time on PS4 this Christmas.Another great surprise is the sell-through of The Last of Us. It just released and is doing extremely well. Because so many people didn't own PS3, for those people who purchased PS4 this is the first opportunity for them to try The Last of Us, one of the best games of the last generation.We are taking in all these things happening and understanding what consumers on PS4 are enjoying. It's very encouraging to see the initial sales of PS4 titles. Not just our games but third party games. I wasn't expecting the first year from the very beginning, when third-party games released on both cross-generations, PS4 versions some of the them outsold the PS3 version, like Watch Dogs. It's an amazingly quick move from PS3 to PS4. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+Did you manage to catch Microsoft's press conference?Shuhei Yoshida: I followed live tweets.What did you think?Shuhei Yoshida: I was like, ah yeah, they're going deeper into the games already announced, you know, same kind of lineup, until they talked about Tomb Raider being exclusive. It's very interesting the way Phil Spencer said, what we are saying is, in holiday 2015 Tomb Raider is exclusive to Xbox. So it's open to interpretation. But still, we didn't anticipate something like this would happen.You didn't know that would be announced?Shuhei Yoshida: How could we know?Because when Tomb Raider was announced at E3 it was suggested it was for PC, PS4 and Xbox One.Shuhei Yoshida: That's why I'm saying I was surprised.I thought Square Enix might have told Sony they had planned this because it had already been suggested it was coming to PS4.Shuhei Yoshida: They might have to our third-party relations team, but I didn't know.So you were surprised. Did you see the reaction on the internet to the announcement?Shuhei Yoshida: Oh, yeah. Anything Microsoft announces, people complain to me as well. In general there are lots of people who are angry, who emotionally reacted to the announcement. Some people created an image saying negative things, like the end of Tomb Raider. It was a very emotional response.Do you think it will eventually come out on PS4?Shuhei Yoshida: That question has to be asked to Square Enix and Microsoft. I hope the game will come out eventually on PS4. But how can I tell? Other than that cryptic message by Phil Spencer.There was a feeling that major third-party exclusives were dying out, because third party publishers, we thought, couldn't afford not to release their games on all platforms.Shuhei Yoshida: Right, other than DLC or beta or some other bundle. These days even marketing has exclusivity. If you're a marketing person at Square Enix and projecting your sales for the game, if it doesn't come out on PS4, it must be lots of units that have to be covered by some means.Microsoft will make it worth their while, I'm sure.Shuhei Yoshida: Yeah. It's amazing.I'd like to talk about the EA Access issue. Sony put out a strongly-worded statement that suggested it wasn't good value for PlayStation customers. The reaction from some was, we'd like that decision for ourselves. We'd like the choice. How do you feel about that reaction?The statement might look aggressive. But the thinking behind it is, we just do not look at one proposition, like EA Access. We look at the whole offering of the titles or services on the platform, and we thought about the impact of having something like that as a new symptom. If every publisher follows suit, and as a consumer you have to choose by publisher which service to subscribe to, that's not something we believe is best for consumers.So we are not just looking at that one proposition. We were thinking about the impact that might have for the future offering of products and services on PlayStation.Is the decision final, or is there room for negotiation?Shuhei Yoshida: Yeah, always. Nothing can be final. It's not a technical matter. It's more a business matter. I'm not directly involved as it's a third-party relations matter. But I'm sure our third-party guys are talking with EA closely. And also we are listening to consumers as well. I'm the one who gets harsh comments. I have to give that feedback to my company, right? Otherwise I can't maintain my sanity. That sometimes annoys some of our members, but that's part of my job now.During the press conference there was no mention of the Vita. I'm sure you've seen the reaction from some about that.Shuhei Yoshida: There's a campaign. I get the same exact text from many people. They're disappointed. They wanted to hear some new news about PS Vita.So why did you not talk about Vita during the press conference?Shuhei Yoshida: This is not the first time. E3... We've been focusing on talking about new titles on PS4. We do not want to extend the press conference for too long, and we had to limit the number of titles we put in the conference. You realise some of the new updated, that we believe are great titles of our titles had to be pushed out into a pre-show, like Bloodborne, The Order and LittleBigPlanet 3.We are pretty happy with games coming out on PS Vita and the games that are in the pipeline. PS Vita gamers are pretty core, dedicated gamers. They seek information, so we trust them to find out about the games coming out on PS Vita.The perception, though, when you don't talk about it during the press conference is Sony doesn't care about Vita any more.Shuhei Yoshida: We totally understand why people are saying this. We hear that and we feel the pain of these people, even though if the same person sends the same tweet multiple times I block them. Not because I don't like the message, but just the way some of the people are sending it.Shahid [Kamal Ahmad, PlayStation strategic content chief] got a lot of messages on Twitter about it.Shuhei Yoshida: What I respect about Shahid is he tried to address it. He's so proud of the titles that are coming out on Vita. I'm excited. I can't keep up with the great games I have on PS Vita. I'm working on Metrico. It's a beautiful game but very hard. I'm still working on my character level on Rogue Legacy. It's a great game. This week Hohokum is coming out on PS Vita. And Minecraft hopefully coming out soon. So many games coming out. And we have from our studios in Japan, Freedom Wars, which is a great game selling well in Japan. Initially we were planning to release it digital only in Europe, but lots of European customers asked for the physical release, so SCE Europe decided to do that. I am happy we're able to respond to people's request like that.So, we'll continue to have conversations with consumers. It's our intent to support PS Vita as well. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+There was a surprise at the press conference about what seems to have turned into a new Silent Hill game.Shuhei Yoshida: Yeah. I was like, what? Before I slept I was checking and people were already talking about, I saw the video. What I heard was it was very hard to see, but it just took a couple of hours for people to find out. It's the humour Kojima-san's studio has.He likes being cryptic.Shuhei Yoshida: Yeah. I saw one journalist tweet, next time you see a new announcement by an unknown studio, it's Hideo Kojima's new game.Is it a PS4 exclusive?Shuhei Yoshida: I don't know. I didn't know it was Silent Hill either.You had to find out about it just like we did?Shuhei Yoshida: Yeah. Actually I was told during rehearsal. I'm first-party. It's always fun to come to these events, like E3 and Gamescom, because I learn a lot from Adam Boyes. I asked Adam, what is that? In a good way. In the same way Adam enjoys the new reveal. I'm sure he had no idea we were announcing games like Tomorrow's Children or Wild.DriveClub is coming out later this year around the time a lot of racing games are coming out. There's DriveClub, Forza, Project Cars and The Crew. I remember the last time a lot of racing games all came out at the same time a few years ago. Some of them struggled and there were even some studio closures. I wonder if DriveClub may suffer because there are just so many racing games all coming out at the same time.Shuhei Yoshida: So you are suggesting we should push it out to next year? Two years in a row!The ideal situation would have been it would have come out when it was supposed to come out.Shuhei Yoshida: We're excited with what DriveClub is now. Last year we were hoping to get it done, but there was a huge technical issue. So the team had to go back and re-engineer some parts of the game. That's the reason it took so long. It's almost a whole year, because the team went back to the drawing board in some of the key aspects of the game.So, now what we have is a game the team has always imagined. I personally checked out other racing games at E3 and personally I was pretty happy. It's a different kind of game compared to the other games you mentioned. I didn't see any direct competition, from my perspective. I don't know. People will tell us when it comes out. 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+The final question is the obvious one. Will we see The Last Guardian at the Tokyo Game Show?Shuhei Yoshida: I don't think so. Sorry.So, when will we see it?Shuhei Yoshida: When we are ready. I cannot confirm any timing because we are waiting for it to be in a state where we are happy that this is the game. We have a certain time frame in our mind, and the team is making great progress, but still not to the point that we can say that, here you go.Can you say why it's taking so long in development?Shuhei Yoshida: The technical issues on PS3 and the way it was engineered didn't work. It worked to some extent, that's why we had a date in mind.You did announce a release date for it on PS3.Shuhei Yoshida: Yeah. That was a mistake. But at one time it was looking possible. It has been totally re-engineered. They're still working on it. I've been seeing the progress.Thanks for your time.
+Buy The Last Guardian from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (166)
+
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+DriveClub
+
+
+
+
+
+
+
+
+19/08/2014
+
+Interview
+
+PlayStation 3 / PlayStation 4 / PlayStation Vita 
+
+													Tomb Raider, Vita's no-show and the mystery of 10m PS4 sales											
+
+														Our Gamescom interview with Sony's Shuhei Yoshida.						
+
+ 
+
+
+
+
+Subscribe to our YouTube channel
+
+
+
+
+
+Subscribe to our YouTube channel
+
+
+
+
+
+Subscribe to our YouTube channel
+
+
+
+
+
+Subscribe to our YouTube channel
+
+
+
+
+
+Subscribe to our YouTube channel
+Buy The Last Guardian from Amazon [?]
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+					$(document).ready(function() {
+						var grids = $(".game-grid-block");
+						for(i = 0; i < grids.length; i++) {
+							new GameGrid({ target: grids[i], version: 'hd' });
+						}
+					});
+				
+About the author
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+Games in this article
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+DriveClub
+
+DriveClub Review
+News (57)
+Features (14)
+
+
+
+PlayStation 4
+
+News (268)
+Features (10)
+Guides (1)
+
+
+
+PlayStation Vita
+
+News (29)
+Features (3)
+Videos (9)
+
+
+
+Rise of the Tomb Raider
+
+Rise of the Tomb Raider Review
+News (32)
+Features (11)
+Videos (3)
+Guides (2)
+
+
+
+Silent Hill
+
+News (13)
+Features (5)
+Videos (4)
+
+
+
+The Last Guardian
+
+The Last Guardian Review
+News (58)
+Features (26)
+Videos (8)
+Guides (1)
+
+
+
+Until Dawn
+
+Until Dawn Review
+News (10)
+Features (4)
+Videos (1)
+
+
+
+
+
+
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+Wesley Yin-Poole
+Deputy Editor
+Wesley is Eurogamer's deputy editor. He likes news, interviews, and more news. He also likes Street Fighter more than anyone can get him to shut up about it.
+More articles by Wesley Yin-Poole
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (166)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+					"type": "interview",
+											"topics": "gamescom-2014",
+																"platforms": "PS3,VITA,PS4",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1701381,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+DriveClub
+
+
+
+
+PlayStation 4
+
+
+
+
+PlayStation Vita
+
+
+
+
+Rise of the Tomb Raider
+
+
+
+
+Silent Hill
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+ 
+
+
+
+Comments (166)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2014-08-19-tomb-raider-vitas-no-show-and-the-mystery-of-10m-ps4-sales",
+					"type": "interview",
+											"topics": "gamescom-2014",
+																"platforms": "PS3,VITA,PS4",
+										"author": "Wesley Yin-Poole"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1701381,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+Hide low-scoring comments
+Yes
+No
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+Threading
+Expand all
+Collapse all
+
+
+Advertisement
+
+
+
+Advertisement
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+DriveClub
+
+
+
+
+PlayStation 4
+
+
+
+
+PlayStation Vita
+
+
+
+
+Rise of the Tomb Raider
+
+
+
+
+Silent Hill
+
+
+
+
+DriveClub
+
+
+
+PlayStation 4
+
+
+
+PlayStation Vita
+
+
+
+Rise of the Tomb Raider
+
+
+
+Silent Hill
+
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+
+
+Image
+
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+
+Image
+
+
+
+RecommendedDriveClub Bikes review						
+
+Four wheels good, two wheels better. 
+
+133
+
+
+133
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+
+
+Image
+
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+
+Image
+
+
+
+Tomb Raider film review - a new kind of game-to-film failure						
+
+Gravely default.
+
+96
+
+
+96
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+Image
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+24
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+Image
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+4
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+Image
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+64
+
+ 
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+Image
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+24
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+Image
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+4
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+Image
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+64
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+Image
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+34
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+Image
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+23
+
+Advertisement
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+Subscribe
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+Mobile
+Portable
+Desktop
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?

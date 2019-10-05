@@ -1,0 +1,993 @@
+You are not signed in.Haydn TaylorStaff  WriterThursday 15th February 2018Share this articleOriginal story (13/02/18): Hawaii has become the first US state to officially propose legislation against loot boxes in video games. Last month Kevin Ranker, a Democratic state senator in Washington, introduced a bill  aimed at defining whether or not the mechanic in games constitutes gambling.However, the proposed Hawaiian legislation goes a step further. The collection of four bills explicitly targets loot boxes, and proposes comprehensive legislation addressing multiple areas of concern. "These predatory mechanisms... can present the same psychological, addictive, and financial risks as gambling," reads the bill text, which also cites the recent World Health Organisation move to consider 'gaming disorder' as a disease. The bills have been spearheaded by Democratic state representative Chris Lee who previously described Star Wars Battlefront II as a "Star Wars-themed online casino". "I grew up playing games my whole life," said Lee in a Hawaii Tribune Herald report. "I've watched firsthand the evolution of the industry from one that seeks to create new things to one that's begun to exploit people, especially children, to maximize profit."According to Lee, who has worked alongside other states and countries in a bid to create a widespread response, more than half of US states are considering some form of loot box legislation. "If enough of the market reacts, the industry would have to respond and change its practices," he said.The first pair of bills, House Bill 2686 and Senate Bill 3024, aim to prohibit the sale of video games containing randomised rewards, or a virtual item that can be redeemed to receive a randomised reward, to consumers under the age of 21.The second set of bills, House Bill 2727 and Senate Bill 3025, seek to establish disclosure requirements - including probability rates - for publishers of games that feature loot box mechanics. Furthermore, any digital or physical copies of games that feature loot boxes would be labelled as follows: "Warning: contains in-game purchases and gambling-like mechanisms which may be harmful or addictive". GamesIndustry.biz has reached out to state representative Lee for comment regarding the legislation, and is awaiting a response. Update (14/02/18): In response to an inquiry from GamesIndustry.biz, a spokesperson from the Entertainment Software Association defended the industry's record on self-regulation, and drew attention to existing consumer protection systems such as the ESRB classifications and parental controls."As an industry, we take our responsibility to consumers very seriously and continually work to create greater awareness and transparency about the wide range of in-game experiences," said the spokesperson."We strongly believe that the industry's robust, self-regulatory efforts remain the most effective way to address these important issues, and that system has a proven and long record of doing so."Some consumers and parents may have questions about how loot boxes work, and ESA has demonstrated a commitment to providing information to guide consumers, especially parents, in their purchase decisions." Update (15/02/18): Hawaiian state representative Sean Quinlan has affirmed support of his colleague's efforts to "curb the proliferation of gambling mechanics in games that are marketed to children", saying he expects other states to follow Hawaii's lead in the "absence of strong signals from the industry that they will deal with the issue internally". In December last year, Quinlan said that regulation would be a "slippery slope" and that the industry should self-regulate.  "When I was a teenager, a senator by the name of Joseph Lieberman tried to regulate the content of violent video games," Quinlan told GamesIndustry.biz. "His attempts to conflate video game violence with real world violence did lasting damage to the image of video games and certain publishers. "I want to make it clear that we are only regulating a mechanism, not the content of the game itself. I would hope that any further legislation dealing with video games would similarly only look at particular mechanisms and not content itself."We live in an age where behavioral psychologists have discovered certain triggers and strategies that are extremely efficient at separating people from their money at a frightening pace. If even mature and intelligent adults are falling victim to these mechanisms, how are kids expected to respond?"
+
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Related storiesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn TaylorComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn TaylorRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (17)
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			Sign in to contribute
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7 SectionsYou are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot Develop
+                    function mormontLoaded() {
+                        mormont('set', 'section', 'article');
+                        mormont('set', 'language', 'en');
+                                                                            mormont('set', 'published', "2018-02-15T14:45:00+00:00");
+                                                                            mormont('set', 'article_type', "news");
+                                                                            mormont('set', 'author', "Haydn Taylor");
+                                                                            mormont('set', 'tags', ['tag:politics'])
+                                                mormont('set', 'is_logged_in', "1");
+                        mormont('send', 'pageview');
+                    }
+                You are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot DevelopHawaii proposes landmark legislation against loot boxesUPDATE: State representative who previously declared legislation a "slippery slope" affirms support for efforts toward regulating loot boxes; expects more states to follow Hawaii's leadHaydn TaylorStaff  WriterThursday 15th February 2018Share this article Recommend Tweet ShareOriginal story (13/02/18): Hawaii has become the first US state to officially propose legislation against loot boxes in video games. Last month Kevin Ranker, a Democratic state senator in Washington, introduced a bill  aimed at defining whether or not the mechanic in games constitutes gambling.However, the proposed Hawaiian legislation goes a step further. The collection of four bills explicitly targets loot boxes, and proposes comprehensive legislation addressing multiple areas of concern. "These predatory mechanisms... can present the same psychological, addictive, and financial risks as gambling," reads the bill text, which also cites the recent World Health Organisation move to consider 'gaming disorder' as a disease. The bills have been spearheaded by Democratic state representative Chris Lee who previously described Star Wars Battlefront II as a "Star Wars-themed online casino". "I grew up playing games my whole life," said Lee in a Hawaii Tribune Herald report. "I've watched firsthand the evolution of the industry from one that seeks to create new things to one that's begun to exploit people, especially children, to maximize profit."According to Lee, who has worked alongside other states and countries in a bid to create a widespread response, more than half of US states are considering some form of loot box legislation. "If enough of the market reacts, the industry would have to respond and change its practices," he said.The first pair of bills, House Bill 2686 and Senate Bill 3024, aim to prohibit the sale of video games containing randomised rewards, or a virtual item that can be redeemed to receive a randomised reward, to consumers under the age of 21.The second set of bills, House Bill 2727 and Senate Bill 3025, seek to establish disclosure requirements - including probability rates - for publishers of games that feature loot box mechanics. Furthermore, any digital or physical copies of games that feature loot boxes would be labelled as follows: "Warning: contains in-game purchases and gambling-like mechanisms which may be harmful or addictive". GamesIndustry.biz has reached out to state representative Lee for comment regarding the legislation, and is awaiting a response. Update (14/02/18): In response to an inquiry from GamesIndustry.biz, a spokesperson from the Entertainment Software Association defended the industry's record on self-regulation, and drew attention to existing consumer protection systems such as the ESRB classifications and parental controls."As an industry, we take our responsibility to consumers very seriously and continually work to create greater awareness and transparency about the wide range of in-game experiences," said the spokesperson."We strongly believe that the industry's robust, self-regulatory efforts remain the most effective way to address these important issues, and that system has a proven and long record of doing so."Some consumers and parents may have questions about how loot boxes work, and ESA has demonstrated a commitment to providing information to guide consumers, especially parents, in their purchase decisions." Update (15/02/18): Hawaiian state representative Sean Quinlan has affirmed support of his colleague's efforts to "curb the proliferation of gambling mechanics in games that are marketed to children", saying he expects other states to follow Hawaii's lead in the "absence of strong signals from the industry that they will deal with the issue internally". In December last year, Quinlan said that regulation would be a "slippery slope" and that the industry should self-regulate.  "When I was a teenager, a senator by the name of Joseph Lieberman tried to regulate the content of violent video games," Quinlan told GamesIndustry.biz. "His attempts to conflate video game violence with real world violence did lasting damage to the image of video games and certain publishers. "I want to make it clear that we are only regulating a mechanism, not the content of the game itself. I would hope that any further legislation dealing with video games would similarly only look at particular mechanisms and not content itself."We live in an age where behavioral psychologists have discovered certain triggers and strategies that are extremely efficient at separating people from their money at a frightening pace. If even mature and intelligent adults are falling victim to these mechanisms, how are kids expected to respond?"
+
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (17)Ian Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyShow all comments (17)Christopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Hawaii proposes landmark legislation against loot boxesUPDATE: State representative who previously declared legislation a "slippery slope" affirms support for efforts toward regulating loot boxes; expects more states to follow Hawaii's leadHaydn TaylorStaff  WriterThursday 15th February 2018Share this article Recommend Tweet ShareOriginal story (13/02/18): Hawaii has become the first US state to officially propose legislation against loot boxes in video games. Last month Kevin Ranker, a Democratic state senator in Washington, introduced a bill  aimed at defining whether or not the mechanic in games constitutes gambling.However, the proposed Hawaiian legislation goes a step further. The collection of four bills explicitly targets loot boxes, and proposes comprehensive legislation addressing multiple areas of concern. "These predatory mechanisms... can present the same psychological, addictive, and financial risks as gambling," reads the bill text, which also cites the recent World Health Organisation move to consider 'gaming disorder' as a disease. The bills have been spearheaded by Democratic state representative Chris Lee who previously described Star Wars Battlefront II as a "Star Wars-themed online casino". "I grew up playing games my whole life," said Lee in a Hawaii Tribune Herald report. "I've watched firsthand the evolution of the industry from one that seeks to create new things to one that's begun to exploit people, especially children, to maximize profit."According to Lee, who has worked alongside other states and countries in a bid to create a widespread response, more than half of US states are considering some form of loot box legislation. "If enough of the market reacts, the industry would have to respond and change its practices," he said.The first pair of bills, House Bill 2686 and Senate Bill 3024, aim to prohibit the sale of video games containing randomised rewards, or a virtual item that can be redeemed to receive a randomised reward, to consumers under the age of 21.The second set of bills, House Bill 2727 and Senate Bill 3025, seek to establish disclosure requirements - including probability rates - for publishers of games that feature loot box mechanics. Furthermore, any digital or physical copies of games that feature loot boxes would be labelled as follows: "Warning: contains in-game purchases and gambling-like mechanisms which may be harmful or addictive". GamesIndustry.biz has reached out to state representative Lee for comment regarding the legislation, and is awaiting a response. Update (14/02/18): In response to an inquiry from GamesIndustry.biz, a spokesperson from the Entertainment Software Association defended the industry's record on self-regulation, and drew attention to existing consumer protection systems such as the ESRB classifications and parental controls."As an industry, we take our responsibility to consumers very seriously and continually work to create greater awareness and transparency about the wide range of in-game experiences," said the spokesperson."We strongly believe that the industry's robust, self-regulatory efforts remain the most effective way to address these important issues, and that system has a proven and long record of doing so."Some consumers and parents may have questions about how loot boxes work, and ESA has demonstrated a commitment to providing information to guide consumers, especially parents, in their purchase decisions." Update (15/02/18): Hawaiian state representative Sean Quinlan has affirmed support of his colleague's efforts to "curb the proliferation of gambling mechanics in games that are marketed to children", saying he expects other states to follow Hawaii's lead in the "absence of strong signals from the industry that they will deal with the issue internally". In December last year, Quinlan said that regulation would be a "slippery slope" and that the industry should self-regulate.  "When I was a teenager, a senator by the name of Joseph Lieberman tried to regulate the content of violent video games," Quinlan told GamesIndustry.biz. "His attempts to conflate video game violence with real world violence did lasting damage to the image of video games and certain publishers. "I want to make it clear that we are only regulating a mechanism, not the content of the game itself. I would hope that any further legislation dealing with video games would similarly only look at particular mechanisms and not content itself."We live in an age where behavioral psychologists have discovered certain triggers and strategies that are extremely efficient at separating people from their money at a frightening pace. If even mature and intelligent adults are falling victim to these mechanisms, how are kids expected to respond?"
+
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (17)Ian Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyShow all comments (17)Christopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Hawaii proposes landmark legislation against loot boxesUPDATE: State representative who previously declared legislation a "slippery slope" affirms support for efforts toward regulating loot boxes; expects more states to follow Hawaii's leadHaydn TaylorStaff  WriterThursday 15th February 2018 Recommend Tweet Share
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The Daily Update and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days agoIraqi lawmakers consider ban on violent gamesPopular games like Fortnite “threaten the social and moral peace” of Iraq, says one MPBy Haydn Taylor 4 days ago 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days agoISFE calls on European gambling authorities to tackle online skin bettingComments come following move by Danish Gambling Authority to block 15 skin betting websites By Haydn Taylor 4 days ago 4 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Related JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Senior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (17)Ian Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyShow all comments (17)Christopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyShow all comments (17)Christopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyShow all comments (17)Christopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					Again, there's no proof of internet gaming disorder, and the current evidence actually suggests that it isn't a thing. Also, there are lots of protections against spending, namely in the form of parental controls.
+Bill 2686 would effectively kill off games like Pokemon Go in Hawaii as anyone under 21 would no longer be able to get it. As the App Store and Google Play Store don't support a 21 and up notion these game would have to be made unavailable in Hawaii.
+If this goes forward I really hope someone brings up the Commerce Clause.
+		
+							
+			3Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					The idea that games should include a bright red warning that says something might be harmful or addictive when there is NO evidence that it is the case is absurd.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					Whilst I agree that more research is required to determine whether these mechanics have ill health effects, we need to be cautious about gambling mechanics sneaking into games through the backdoor, simply because they're not regulated by gambling commissions.
+I've worked in both industries and its easy to see the similarities, we shouldn't turn a blind eye. With that said, rushed legislation is not helpful.
+		
+							
+			5Sign inorRegisterto rate and replyChristopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replyChristopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyChristopher Dring
+					Publisher, GamesIndustry.bizA year ago
+					There are some games where the monetisation methods are certainly questionable.
+However, legislative action on an industry as rapidly moving and complex as games is  tricky. The WHO addictive research is equally troubling... are all games addictive? Even ones that you finish in a few hours? Do they all need great big warning signs printed on the box?
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell With trading card games, LOL Babies and Panini sticker albums aimed directly at children this is nothing new. The only thing that happened is gamers got mad at EA and one of them happened to be a state legislator. They're going to risk taking away beloved games enjoyed by millions because they didn't like the entirely optional purchases in SWBF2 that was promptly removed.
+IAPs are easily switched off at the system level and the entire notion of playing games on devices is one that parents are in full control of. We shouldn't have legislation to cover lazy parenting.
+@Christopher Dring:  Games aren't addictive, no. All the current evidence points to games as not being addictive. The WHO is a hammer, everything is a nail. The same is true of politicians in general.
+		
+							
+			1Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKeldon Alleyne
+					Strategic keyboard basher, Avasopht LtdA year ago
+					@Ian: I find it hard to outright dismiss the notion that a dopamine based reward loop can be addictive. Maybe you can't think of ways to produce at least a mildly addictive gaming loop, but there are certainly others out there that can.
+I don't think it's necessary for people within the games industry to become defensive about the industry to a fault.
+We're not talking heroin or alcohol level addiction. But we do know for certain that people can become addicted to games with gambling (which is what casinos are). I don't see the use in become defensive at the suggestion that games with lootboxes can also be (at least a little) addictive - not on the heroin / alcohol level, just the plain old casino level, or maybe a little bit less than that.
+Certainly something worth exploring.
+Maybe a study with fMRI would hold much more weight.
+		
+							
+			3Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Humans tolerated a great amount of things big and small, until they got out of bed one morning and found they had changed their opinion.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, AzoomeeA year ago
+					@Ian Griffiths: Ian, in my very personal opinion, as a games industry we also need to tone down our defensiveness and consider the fact there may be a problem.
+Its not just about gamers getting mad, many of us can see something you can't. And whilst I'm happy for people to say "there's not enough evidence" outright dismissing the fact that casino game mechanics being used in games is not at all addictive, doesn't make sense to me.
+Moreover, this isn't just about children, its about everyone who uses games. There's a reason why gambling is regulated as it can lead to problematic behaviour and exploitation. Let's have a proper discussion about the implications and how we as the biggest entertainment industry in the UK can address the points being raised.
+		
+							
+					
+				Edited 2 times. Last edit by Adam Campbell on 15th February 2018 10:27am
+			4Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Keldon Alleyne: It doesn't matter what you think is likely to be the case, what matters is evidence. There's no evidence that games are addictive despite the fact that they are played by hundreds of millions of people.
+Now, games can be addicting but that's not the same thing as a clinical definition of addictive. People keep talking about dopamine as though it's special. You get the a dopamine response for doing many things that feel good, getting the good space in a car park, eating some chocolate and so on. It's how we work, there's no way to do anything that won't have some kind of chemical reaction in the brain.
+I understand that people think there's an intuitive link but again, regulation should be based on evidence and not just conjecture when it comes to health issues. Ultimately, if loot boxes are addictive where are the widespread or major problem cases? where are all the afflicted? Where are the centres with people addicted to loot boxes? A lack of cases indicates that it actually might not be a serious issue.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: the problem is that it's not people who are affected that have a problem with it. Where are the voices that are saying - I'm addicted to loot boxes?
+This is mostly people who just don't like loot boxes trying to stop people who do from enjoying them. Do you really think we should stop people from playing games like Hearthstone and Pokemon Go if they want to?
+Do you think it's right to have health labels that are based on conjecture and not science? we don't put warning on chocolate and soda despite demonstrable harm. We don't put warnings on cars despite the fact that thousands of people are killed using them and yet here there's talk of labelling something that has no known negative impact!
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Adam Campbell: As you want to consider intuition and inferences then what about this - if there's a problem, where are the afflicted?
+These products are used by hundreds of millions of people but where are all the problem cases? The lack of a widespread or of notable cases indicates that there's not much of a problem. You mention problematic behaviour, where is it?
+Lets say you ban loot boxes, you're basically going to shut down games that people love like Hearthstone and Pokemon Go for the sake of whom exactly? Why should the majority be punished for the lack of control of a tiny minority?
+And if these are an issue why do we allow  blind box toys like LOL Suprpise! which are aimed squarely at kids. Why would we not also need to reign in trading card games like Magic the Gathering where parents actually don't have a password to stop kids spending?
+I'm find with sensible approaches, displaying odds, I don't even mind if they're limited to 16 like the national lottery, it's not like that part of the market generates a notable amount of revenue. What I am against is arduous restrictions like ensuring someone is 21 or over. If we apply this to digital loot boxes then we must apply them to toys and TGC too.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year agoWe don't put warnings on cars despite the fact that thousands of people are killed using them
+Europe regulates the living hell out of cars and then manufacturers begin to cheat. Emission tests, crash tests and driver tests are just the beginning. We put sign posts anywhere and train children to go against their instincts while on the streets. Cars are serious business and if you live in the right place, you absolutely put a warning sticker on your car, warning others that you are an 'Apprenti',
+We do this as a society because we weighted the advantages of a motorized society against the disadvantages of living in a place that has banned cars, trucks and busses. Something that tends to work in favor of cars and not so much in favor of randomized purchases inside of video games. We do not behave in such a way that we ban everything that is deemed dangerous. We regulate it.
+As long as your customers are not children, revenue should be the same. Games will have an ID wall in addition to the paywalls they have. It already works for 18+ video content in Germany on Amazon Prime like a charm, so what are video game companies afraid of? Too much tech? Having one more datapoint about their customers to cross check with a government server in 20ms or less? Bright side: EA can now sell two editions of FiFa each year, one for children, the other one for the real pro hardcore adults, esports, pay2win, myBALLZrBIGGA, version. Isn't that what revenue is all about?
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Klaus Preisinger: We don't have bright red stickers warning us of cars when we buy them. When we turn them on they don't present a warning screen about the dangers. Our crossings don't detail the risk of death.
+Games have tonnes of regulation on everything from content to user licence agreements and data protection, not to mention all of the consumer regulation that comes with selling anything to a consumer. It's hardly the wild west, the paperwork alone for running a game is at least one full time job.
+In this case we're regulating something with no demonstrable harm. Really, why is it such a big ask to get evidence of harm, even anecdotally before pursuing regulation? And again, why does this not apply to blind box toys that are actually aimed at children?
+Even if your customers aren't children the requirement for confirming someone is 21 is considerable and arduous. It's like the cookie warnings that plague every website because of ridiculous EU legislation. The extra friction will hurt many games which means less choice for the consumer. Additionally, what happens to things like Pokemon Go? Kids who enjoyed those can no long play them. And above all - all of the platforms have device level controls where you can disable IAPs! This is a solution to a non-problem and a solution that ignores real-world examples which are often far more egregious in their targetting.
+		
+							
+			1Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyJessica Hyland
+					Artist, Turbulenz LimitedA year ago
+					Waypoint had an interesting piece recently on how lootboxes have negatively impacted some people's lives - their experiences sound very similar to people who become addicted to slot machines and fixed odds betting terminals(which, it bears pointing out, have recently come under government scrutiny for their addictive nature). I wouldn't be so hasty to declare that nobody is being harmed by predatory game and monetisation design - clearly, some people are.
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year ago
+					@Jessica Hyland: I don't doubt there are some cases, I may sound a little knee-jerk because the other side of the argument is, in my opinion, taking an equally hyperbolic stance that there's no good to be had in loot boxes. From my research there is a notable prevalence of problem cases with gambling, alcohol and other addictions but I couldn't find similar on games or loot boxes and there are a non-trivial number of people using them.
+It's the question of how we regulate the majority to protect the minority. I've written a more in depth article on Gamasutra about Loot Boxes that more fully explains my thinking.
+		
+							
+			1Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyKlaus Preisinger
+					Freelance Writing
+		
+		A year ago
+					Having grown up in Germany I know all too well that video games are not innocent until proven guilty, they are suspicious until proven otherwise.
+Once something is under general suspicion, it gets the wrong end of the stick. There is no equal treatment, which is why medication is tested until it is proven to be harmless (enough) and bath salts are on sale until they are proven to be narcotics after all. Nobody tested baby toys for poisonous effects of plastic until somebody did and now quite a few people regret not having done it earlier.Part of why video games are treated the way they are is found in a past filled with products that were never tested and turned out to be quite harmful after all and too big to remove from public at the same time. People have no problem jumping into a Turkish mudbath featuring slightly radioactive mud and then go home to protest against nuclear waste transports with a fraction of the radiation leaking out while it passes through their town and not the next town over. Welcome to Earth, insanity is par for the course.
+Besides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card. I know, that is a topic in itself. Be that as it may, age verification is going to be just another middleware, that goes where all the other payment processing middleware goes.
+		
+							
+			0Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replyIan Griffiths
+					Product Owner, HutchA year agoBesides, age verification is blazing fast. Amazon does it once with your account and all you need to do it put in 26 numbers from your government issue ID card.
+Hahaha, much like all you need to do is click 'I consent to cookies' for every website. I think you and I have very different ideas on how much the state should burden us!
+		
+							
+			2Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationLatest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, Poland 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, California 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCel 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, Germany 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Latest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Bob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7

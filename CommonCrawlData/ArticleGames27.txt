@@ -1,0 +1,211 @@
+You are not signed in.Dan PearsonEuropean EditorThursday 19th September 2013Share this articleOuya CEO Julie Uhrman has announced an overhaul to the company's troubled Free The Games funding initiative, admitting that the initial idea was plagued by "too many loopholes."Those "loopholes" were suspected to have been exploited by several projects, using spurious donations to game Ouya's fund-matching promises. Some of those projects, like Dungeons: the Eye of Draconus, have now been withdrawn from the program at either Ouya or their creator's request. Initially Uhrman defended the program, but has now admitted that the first draft left the door open to exploitation. However, she still stands by the ethos of the fund and says that the company will continue to refine the rules until they find a model which works. "The program isn't working," Uhrman admitted in a video update. "Regardless of my best intentions, there are just too many loopholes."To close those loopholes, Uhrman has instigated a number of changes. Projects now need only raise $10,000 to qualify instead of the previous total of $50,000, but each $10,000 raised must come from at least 100 backers, preventing the pattern of suspiciously large donations seen in the cancelled projects."The intent is for the community to want your game, not a small number of well-resourced supporters," Uhrman continued. "We felt we needed to look at the minimum number of backers to make sure it is in line with the spirit of our program."You need to play by the spirit of the fund as much as the rules. We can't account for every loophole. So, if we, or our community, feel you are gaming the system, we will review your project (and consult with our developer friends for their advice) and determine whether to fund it or not."Part of the terms and conditions for the funding now include a requirement to "play by the spirit of the fund as well as the rules." What exactly that spirit consists of or how closely it will be enforced remains to be seen.
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Related storiesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah ValentineHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah ValentineRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (4)Sign in to contribute
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7 SectionsYou are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot Develop
+                    function mormontLoaded() {
+                        mormont('set', 'section', 'article');
+                        mormont('set', 'language', 'en');
+                                                                            mormont('set', 'published', "2013-09-19T09:57:00+01:00");
+                                                                            mormont('set', 'article_type', "news");
+                                                                            mormont('set', 'author', "Dan Pearson");
+                                                                            mormont('set', 'tags', ['tag:publishing'])
+                                                mormont('set', 'is_logged_in', "1");
+                        mormont('send', 'pageview');
+                    }
+                You are not signed in.Sign inRegisterHomeDevelopmentPublishingPolitics & LawMedia & MarketingMobileVR & ARFinancialEsportsEventsGames Industry JobsReboot DevelopOuya's Free The Games fund redesigned in face of controversy"Too many loopholes" in previous incarnation, says UhrmanDan PearsonEuropean EditorThursday 19th September 2013Share this article Recommend Tweet ShareOuya CEO Julie Uhrman has announced an overhaul to the company's troubled Free The Games funding initiative, admitting that the initial idea was plagued by "too many loopholes."Those "loopholes" were suspected to have been exploited by several projects, using spurious donations to game Ouya's fund-matching promises. Some of those projects, like Dungeons: the Eye of Draconus, have now been withdrawn from the program at either Ouya or their creator's request. Initially Uhrman defended the program, but has now admitted that the first draft left the door open to exploitation. However, she still stands by the ethos of the fund and says that the company will continue to refine the rules until they find a model which works. "The program isn't working," Uhrman admitted in a video update. "Regardless of my best intentions, there are just too many loopholes."To close those loopholes, Uhrman has instigated a number of changes. Projects now need only raise $10,000 to qualify instead of the previous total of $50,000, but each $10,000 raised must come from at least 100 backers, preventing the pattern of suspiciously large donations seen in the cancelled projects."The intent is for the community to want your game, not a small number of well-resourced supporters," Uhrman continued. "We felt we needed to look at the minimum number of backers to make sure it is in line with the spirit of our program."You need to play by the spirit of the fund as much as the rules. We can't account for every loophole. So, if we, or our community, feel you are gaming the system, we will review your project (and consult with our developer friends for their advice) and determine whether to fund it or not."Part of the terms and conditions for the funding now include a requirement to "play by the spirit of the fund as well as the rules." What exactly that spirit consists of or how closely it will be enforced remains to be seen.
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (4)Iain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyShow all comments (4)Adam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Ouya's Free The Games fund redesigned in face of controversy"Too many loopholes" in previous incarnation, says UhrmanDan PearsonEuropean EditorThursday 19th September 2013Share this article Recommend Tweet ShareOuya CEO Julie Uhrman has announced an overhaul to the company's troubled Free The Games funding initiative, admitting that the initial idea was plagued by "too many loopholes."Those "loopholes" were suspected to have been exploited by several projects, using spurious donations to game Ouya's fund-matching promises. Some of those projects, like Dungeons: the Eye of Draconus, have now been withdrawn from the program at either Ouya or their creator's request. Initially Uhrman defended the program, but has now admitted that the first draft left the door open to exploitation. However, she still stands by the ethos of the fund and says that the company will continue to refine the rules until they find a model which works. "The program isn't working," Uhrman admitted in a video update. "Regardless of my best intentions, there are just too many loopholes."To close those loopholes, Uhrman has instigated a number of changes. Projects now need only raise $10,000 to qualify instead of the previous total of $50,000, but each $10,000 raised must come from at least 100 backers, preventing the pattern of suspiciously large donations seen in the cancelled projects."The intent is for the community to want your game, not a small number of well-resourced supporters," Uhrman continued. "We felt we needed to look at the minimum number of backers to make sure it is in line with the spirit of our program."You need to play by the spirit of the fund as much as the rules. We can't account for every loophole. So, if we, or our community, feel you are gaming the system, we will review your project (and consult with our developer friends for their advice) and determine whether to fund it or not."Part of the terms and conditions for the funding now include a requirement to "play by the spirit of the fund as well as the rules." What exactly that spirit consists of or how closely it will be enforced remains to be seen.
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Latest comments (4)Iain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyShow all comments (4)Adam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Ouya's Free The Games fund redesigned in face of controversy"Too many loopholes" in previous incarnation, says UhrmanDan PearsonEuropean EditorThursday 19th September 2013 Recommend Tweet Share
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email address
+					Sign up for The UK Publishing & Retail newsletter and get the best of GamesIndustry.biz in your inbox.
+				Enter your email addressRelated storiesSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days agoSouth Korean FTC examining consumer regulations surrounding in-game purchasesGovernment body currently investigating issues surrounding minors making purchases and "unfair" limitations on refundsBy Rebekah Valentine 1 days ago 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days agoChina introduces new game approval process, limiting total approvals per yearHTML5 games now require approval, anti-addiction system policy expanded to mobile titlesBy Rebekah Valentine 1 days ago 1 days agoRelated JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Related JobsSenior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeDiscover more jobs in games Senior Game Designer - SUMO NOTTINGHAM Nottingham Sumo DigitalCharacter Artist - New IP South East Creative AssemblyQA Manager Bulgaria SEGA EuropeLatest comments (4)Iain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyShow all comments (4)Adam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replyIain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyShow all comments (4)Adam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replyIain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyShow all comments (4)Adam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replyIain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyIain Stanford
+					Experienced Software Engineer, Tinderstone5 years ago
+					My main problem with OUYA is that I keep seeing images of Julie Uhrman and thinking they are pictures of Rebecca Front leading me to imagine the offices of OUYA like a Thick Of It episode, with everyone bumbling from one failure and cock up to another....with an angry Scot occasionally coming into the room and insulting them all.
+With the articles that appear too, that may well be happening.
+		
+							
+			1Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					She needs to put a stop to the momentum of negativity and fast...
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyGreg Wilcox
+					Creator, Destroy All Fanboys!
+		
+		5 years ago
+					@Adam: The problem is, this could and should have been prevented from the beginning has the company kept more of the promises it made at the outset. On paper, Ouya is a grand idea, but from people who paid in not getting their systems until after others who pledged later, to the issues with some units and so forth up to this latest stuff, there's a lot of momentum that's built up that needs stopping.
+I'm going to check in on some friends and fellow writers types over the next month who own Ouyas and see what they're up to. I know one guy has pretty much stopped using his until he sees more games worth buying. He's happy as hell to own one, but he doesn't make games so that function is useless to him and he's hoping to see something that's not on his phone or tablet that's 100% finished and not a tech demo or game that's over in an hour or three.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replyAdam Campbell
+					Game Manager, Azoomee5 years ago
+					I don't disagree Greg but as said, the momentum of negativity needs to be stopped going forward. Julie will need to come up with some serious initiatives to do so because the console's image is in freefall. Yes there has been a lot of build up and early issues that dented opinion, but the future is what needs to be focussed on now.
+		
+							
+			0Sign inorRegisterto rate and replySign in to contributeEmail addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Email addressPasswordSign in
+					Need an account? Register now.
+				Latest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationLatest articles from our teamMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationMatthew HandrahanEditor-in-ChiefAmy Hennig: AAA industry is at "an interesting crossroads" with storytellingJames BatchelorUK EditorHow Clone Wars and Rebels influenced Star Wars Jedi: Fallen OrderBrendan SinclairNorth American Editor"The bankers are actually much more metal than publishers"Haydn TaylorStaff  WriterLife after EVE Online: From intergalactic warfare to "elegant, cosy" card gamesRebekah ValentineStaff WriterCode to Inspire is creating "Afghan Hero Girls" through educationRob FaheyContributing EditorDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionChristopher DringPublisherEight ways the UK games industry can work better with educationUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsUpcoming EventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, GermanyShow all Games Industry eventsDigital Dragons 27th May 2019 ICE Krakow Congress Centre, Krakow, Poland 27th May 2019 ICE Krakow Congress Centre, Krakow, PolandE3 2019 11th June 2019 Los Angeles, California 11th June 2019 Los Angeles, CaliforniaEGX 17th October 2019 London ExCel 17th October 2019 London ExCelEGX Berlin 1st November 2019 Station Berlin, Berlin, Germany 1st November 2019 Station Berlin, Berlin, GermanyLatest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Latest CommentsBob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7Bob Johnson posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionAlexander McConnell posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionKlaus Preisinger posted a comment inDiverging paths: Sony, Microsoft and Nintendo's radically different visions | OpinionDavid Cornelius posted a comment inDevolver: Publishing Weedcraft Inc "has been a nightmare"Sergio Rosa posted a comment inSony says #MeToo, streaming behind stricter limits on sex in gamesPaul Jace posted a comment inXbox One S All-Digital Edition launches May 7

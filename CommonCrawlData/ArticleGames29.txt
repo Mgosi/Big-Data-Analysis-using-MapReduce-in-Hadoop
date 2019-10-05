@@ -1,0 +1,4275 @@
+
+														"We have our next six heroes planned out right now."						
+Robert Purchese
+Senior Staff Writer
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers.When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to.Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon.I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about. You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.Buy Overwatch from Amazon [?]Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.More about OverwatchAbout the authorRobert PurcheseSenior Staff WriterBertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.Comments (7)Comments for this article are now closed, but please feel free to continue chatting
+on the forum!AdvertisementFollow your favourite games, get instant updates
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											OverwatchRelated
+
+EssentialOverwatch Review						
+O Kaplan! My Kaplan!
+
+Overwatch guide: heroes, maps, mechanics and more!						
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+On a Saturday.
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+V-bad.
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+Specs have leaked for a new AMD console chip - but what is it?Latest
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+On a Saturday.
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+V-bad.
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+Specs have leaked for a new AMD console chip - but what is it?
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+Biker ran.AdvertisementSubscribe to The Eurogamer.net Daily
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								Bad puns and video games since 1999.This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.ExploreHelpful linksAcross EuropeGamer NetworkEventsSign inConnect with FacebookNew in town?
+
+
+
+Sign in
+
+Create an account
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+
+
+
+Sign in
+
+Create an account
+
+
+Sign in
+
+Create an account
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+
+
+
+
+
+Robert Purchese
+
+Senior Staff Writer
+@Clert
+
+
+ 
+
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers. When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...See the tall android with a triangle on her head? That's Echo - who we had previously thought was Athena.Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to. 
+
+
+
+Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon. 
+Subscribe to our YouTube channel
+
+
+I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about.  
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.
+Buy Overwatch from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (7)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (7)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+					"type": "interview",
+																"platforms": "PC,PS4,XBOXONE",
+										"author": "Robert Purchese"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2005736,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Overwatch
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+					$(document).ready( function () {
+						new LanguageBar({
+							site: 1,
+							sites: {
+																	1: {
+										www: "https://www.eurogamer.net/",
+										exists: "Do you know about Eurogamer.net?",
+										cta: "Click here to visit Eurogamer.net!"
+									},
+																	2: {
+										www: "https://www.eurogamer.de/",
+										exists: "Kennst du Eurogamer.de?",
+										cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+									},
+																	4: {
+										www: "https://www.eurogamer.es/",
+										exists: "&iquest;Conoces Eurogamer.es?",
+										cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+									},
+																	5: {
+										www: "https://www.eurogamer.it/",
+										exists: "Sapevi di Eurogamer.it?",
+										cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+									},
+																	10: {
+										www: "https://www.eurogamer.cz/",
+										exists: "V&iacute;te o Eurogamer.cz?",
+										cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+									},
+																	13: {
+										www: "https://www.eurogamer.pl/",
+										exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+										cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+									},
+																	7: {
+										www: "https://www.eurogamer.nl/",
+										exists: "Had je al gehoord van Eurogamer.nl?",
+										cta: "Klik hier om Eurogamer.nl te bezoeken!"
+									},
+																15: {
+									www: "http://www.usgamer.net",
+									exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+									cta: "Click here to visit!"
+								}
+							}
+						})
+					});
+				
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-header"),
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in...",
+								error: "An error has occurred."
+							}
+						});
+
+						$("#launch-sign-in-overlay").on("click", function(e) {
+							$(".sign-in-overlay").addClass("open");
+						});
+
+						$(".sign-in-overlay").on("click", function(e) {
+							if($(e.target).hasClass("sign-in-container")) {
+								$(".sign-in-overlay").removeClass("open");
+							}
+						});
+					});
+				
+
+			function do_the_ads(custom_variables) {
+
+				jQuery(document).ready(function() {
+
+					function getAudienceProjectTargetingData() {
+					    "use strict";
+
+					    var CACHE_KEY = "apr_tdc";
+					    try {
+					        var json = window.localStorage.getItem(CACHE_KEY);
+					        if (json) {
+					            var cache = JSON.parse(json);
+					            if (cache.exp > Date.now()) {
+					                return cache.d;
+					            }
+					            else {
+					                window.localStorage.removeItem(CACHE_KEY);
+					            }
+					        }
+					    }
+					    catch (err) {
+					        window.localStorage.removeItem(CACHE_KEY);
+					    }
+					    return {};
+					};
+
+					function setAPTargeting() {
+					    var setTargeting = function () {
+					        var targetingData = getAudienceProjectTargetingData();
+					        for (var key in targetingData) {
+					            if (targetingData.hasOwnProperty(key)) {
+					                window.googletag.pubads().setTargeting(key, targetingData[key]);
+					            }
+					        }
+					    };
+
+					    window.googletag = window.googletag || {};
+					    window.googletag.cmd = window.googletag.cmd || [];
+					    if (window.googletag.cmd.unshift) {
+					        window.googletag.cmd.unshift(setTargeting);
+					    }
+					    else {
+					        window.googletag.cmd.push(setTargeting);
+					    }
+					};
+
+					if(jQuery('#content header').length) {
+						jQuery('#skyscraper').css({'margin-top' : jQuery('#content header').height() + 'px'});
+					}
+			
+											if(jQuery('#prod-buy').length > 0) {
+							jQuery('#sidebar .games').after('<li id=\"sidebar_amazon\"></li>');
+							jQuery('#sidebar_amazon').append(jQuery('#prod-buy'));
+							jQuery('#prod-buy').show();
+						}
+					
+					custom_variables['source'] = "article";
+					custom_variables['version'] = "hd";
+					custom_variables['release'] = "eg12";
+					custom_variables['logged_in'] = "false";
+
+											custom_variables['tags'] = ["interview","pc","ps4","xboxone","esports","fps"];
+					
+											custom_variables['games'] = ["overwatch"];
+					
+					
+					
+											var ads_space = 450;
+					
+					if(Cookies.get('sp')) {
+						custom_variables['sp_message'] = Cookies.get('sp');
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').status == 'true') {
+						dfp_npa = 'true';
+					} else {
+						dfp_npa = 'false';
+						setAPTargeting();
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').chosen == 'true') {
+						if(Cookies.getJSON('dfp-npa').status == 'true') {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_no';
+						} else {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_yes';
+						}
+					} else {
+						custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_none';
+					}
+					
+					jQuery('.advertContainer').getDFPads({
+						'custom_variables' : custom_variables,
+						'lazyload_spacer': ads_space,
+						'showNonPersonalisedAds': dfp_npa,
+						'size_mappings': {
+							'portable-leaderboard': [
+								{viewport: [1260, 300], ad_sizes: [[728, 90], [970, 250], [1260, 110], [1260, 250]]},
+								{viewport: [ 980, 300], ad_sizes: [[728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [728, 90]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-fishbowl': [
+								{viewport: [ 980, 300], ad_sizes: [[320, 400], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[320, 400], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-mpu-leader': [
+								{viewport: [ 980, 300], ad_sizes: [[300, 250], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[300, 250], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							]
+						},
+					});	
+
+					
+						if(dfp_npa == 'true') {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=1;
+						} else {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=0;
+						}
+						window.adsbygoogle.push({});	
+
+								
+				});
+			}
+			
+ 
+					( function () {
+						var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){R||(R=!0,D=b.config=b.config||{},s(),F=D.bootstrap&&D.bootstrap.contentControlCallback||D.content_control_callback,q=D.accountId||D.account_id||D.client_id||window.sp_cid,N=D.beacon&&D.beacon.contentControlEndpoint||D.content_control_beacon_endpoint||v.a,D.debug_level&&"OFF"!==D.debug_level.toString().toUpperCase()||D.debug&&D.debug.level&&"OFF"!==D.debug.level.toString().toUpperCase()?j=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(j=!0),j&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+N+"/cct?v="+encodeURIComponent(v.b)+"&ct="+h+"&cid="+encodeURIComponent(q)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+"&d0="+encodeURIComponent(i)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),c&&c()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",a=arguments[4],c=arguments[5];if(a){var d=e.lastIndexOf("."),u=e.lastIndexOf("/"),s=-1===d||u>d?e+".png":e.substring(0,d)+".png",l=new Image;l.addEventListener("load",function(){r("1",s)}),l.addEventListener("error",function(){o.i(f.a)(s,function(n,t,o){r("0",s+"::"+o)})}),l.src=s}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(L):t("exabot")?i(O):t("bingbot")||t("bingpreview")?i(k):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(C):t("googleweblight")?i(E):window.location.host===w?i(x):t("msie 10")||t("msie 9")||t("msie 8")?i(I):c(n,r,i)},document.head.appendChild(a)}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(S)return void u(U+"::"+n,o);r(y,n,t,o,e,function(){if(F){if(j){g.error("bootstrap locking",y,n,t,o,e);debugger}setTimeout(function(){F()},250)}})}function u(n,t,o,e){r(_,n,t,o,e)}function s(){b._networkListenerData||(b._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=window._sp_||{},h=1,_=0,y=1,L="m",C="g",x="gw",E="gl",I="i",k="b",O="e",U="n",R=!1,S=!1,j=!1,D=void 0,F=void 0,q=void 0,N=void 0;window.addEventListener("beforeunload",function(){S=!0}),window._sp_=b,b.setupNetworkListeners=s,b.bootstrap=l,window.spBootstrap=l,t["default"]=b},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1098"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","0","9","8",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=document.createElement("a");if(p.href=n,"https:"===e.protocol&&p.protocol!==e.protocol)return r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,p.protocol,u);var v=new XMLHttpRequest,g=f.withCredentials;null!=g&&(v.withCredentials=g);try{v.open(f.method||"GET",n)}catch(n){return void t(!0,!1,n.toString(),c,v)}if(null!=f.headers){var m=f.headers;Object.keys(m).forEach(function(n){v.setRequestHeader(n,m[n])})}var w=void 0,b=void 0;v.onloadstart=function(n){w=o(n)},v.onreadystatechange=function(n){if(4===this.readyState){b=o(n)-w;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+b,c,v)}};try{v.send(f.body)}catch(n){return void t(!0,!1,n.toString(),d,v)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+							//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1098/Ym9vdHN0cmFwLmpz.map
+							window ._sp_ =  window ._sp_ || {};
+							window ._sp_.config =  window ._sp_.config || {};
+							window ._sp_.config.account_id = 347;
+							window ._sp_.config.content_control_callback =  function () {
+								//console.log( "CONTENT LOCK" );
+							};
+							window ._sp_.config.mms_domain =  "eurogamer-uk.eurogamer.net" ;
+							window ._sp_.mms =  window ._sp_.mms || {};
+							window ._sp_.mms.cmd =  window ._sp_.mms.cmd || [];
+							window ._sp_.config.mms_client_data_callback =  function (o) {
+								var _sp_msg_id = parseInt(o.info.msg_id);
+								var _sp_cookie_val = "";
+								if(o.d.abp==true && _sp_msg_id>0) {
+
+																	if( _sp_msg_id == 30015) {
+										Cookies.set("sp", "eg_wl_only_message_seen", { expires: 30 });
+									} else {
+										Cookies.set("sp", "eg_continue_message_seen", { expires: 30 });
+									}
+								
+								}
+							};
+
+															window._sp_.config.fsm_endpoint = "//eg-p2.eurogamer.net";
+								window._sp_.config.enable_fsm_detection = true;
+								window._sp_.config.enable_fsm_network_detection = true;
+							
+							window ._sp_.mms.cmd.push( function () {
+
+								window ._sp_.mms.setTargeting( "logged-in", "false" );
+								window ._sp_.mms.setTargeting( "page", "article" );
+								window ._sp_.mms.setTargeting( "show-ads", "true" );
+					
+														
+																	window ._sp_.mms.setTargeting( "guide", "false" );
+								
+							});
+
+							window ._sp_.mms.cmd.push( function () {
+								window ._sp_.mms.startMsg();
+							});
+
+							window ._sp_.bootstrap( "scripts/Eurogamer/meurogamer-fsm.js?3" );
+							window ._sp_.config.mms_choice_selected_callback =  function (choiceID) {};
+
+														
+						})();
+					
+
+					var dfp_npa = 'false';
+					var custom_variables = {};
+					custom_variables['gdpr_message'] = 'none';
+					do_the_ads(custom_variables);
+				
+
+			{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://www.eurogamer.net/articles/2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+    "url": "https://www.eurogamer.net/articles/2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+    "headline": "The big Overwatch BlizzCon interview with Jeff Kaplan",
+    "description": "&quot;We have our next six heroes planned out right now.&quot;",
+    "datePublished": "2018-11-03T01:00:00+00:00",
+    "dateModified": "2018-11-03T01:00:00+00:00",
+    "inLanguage": "en",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.gamer-network.net/2018/articles/2018-11-03-00-46/-1541205972394.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Robert Purchese",
+        "sameAs": "https://www.eurogamer.net/authors/99"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eurogamer.net",
+        "sameAs": "https://www.eurogamer.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x120/logo.png"
+        }
+    }
+}		
+
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "8518622" });
+		  (function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = "https://sb.scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		  })();
+		
+
+
+
+
+
+			window.fbAsyncInit = function () {
+				FB.init({
+					appId: '156247124404264',
+					version: 'v2.7',
+					channelUrl: '/channel.html',
+					status: true,
+					cookie: true,
+					xfbml: true,
+					oauth: true
+				});
+			};
+
+			// Load the SDK Asynchronously
+			(function (d) {
+				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+				if (d.getElementById(id)) {
+					return;
+				}
+				js = d.createElement('script');
+				js.id = id;
+				js.async = true;
+
+								js.src = "//connect.facebook.net/en_GB/all.js";
+				ref.parentNode.insertBefore(js, ref);
+			}(document));
+		
+
+
+			!function (f, b, e, v, n, t, s) {
+				if (f.fbq)return;
+				n = f.fbq = function () {
+					n.callMethod ?
+							n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq)f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window,
+					document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '897415313645265');
+			fbq('track', 'PageView');
+		
+
+
+
+
+			(function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/12431/px.js');
+		
+
+
+				function mormontLoaded () {
+
+				var injectRecommendations = $('aside.popular').length != true;
+
+									mormont('configure', 'property', 'eurogamer');
+					mormont('set', 'section', 'article');
+				if (window.location.pathname.match('^/profile')) {
+					mormont('set', 'section', 'community');
+				}
+				if (window.location.pathname.match('^/inbox')) {
+					mormont('set', 'section', 'user');
+				}
+					mormont('set', 'language', 'en');
+									mormont('set', 'platforms', ["pc","ps4","xboxone"]);
+													mormont('set', 'tags', ["genre:esports","genre:fps","genre:esports","genre:fps","genre:esports","genre:fps","game:overwatch"]);
+																	mormont('set', 'published', '2018-11-03T01:00:00+00:00');
+					mormont('set', 'article_type', 'interview');
+													mormont('set', 'author', "Robert Purchese");
+									mormont('send', 'pageview');
+
+										if (injectRecommendations) {
+							mormont('configure', 'label', "More stories");
+							mormont('configure', 'recommendations_site', 'www.eurogamer.net');
+							mormont('configure', 'selector', 'article');
+							mormont('configure', 'render_recommendations', true);
+							mormont('configure', 'max_rec_links', 2);
+							mormont('configure', 'max_containers', 2);
+							mormont('fetchRecommendations');
+						}
+						mormont('trackClicks', ['article']);
+								};
+			
+
+
+			$(document).ready(function() {
+				window.followButtons = new FollowButtons({
+					uid: 0,
+					lang: {
+						follow: "Follow",
+						unfollow: "Unfollow",
+						following: "Following"
+					}
+				});
+			});
+		
+
+				jQuery(document).ready(function(){
+					renderEdmonds('.edmonds-block', {
+						'site': 'eurogamer.net',
+					});
+
+					// Check for other Amazon links and add subtag if required
+					jQuery.each(jQuery('article main a'), function(i, k) {
+
+						var link_href = jQuery(k).attr('href');
+					    if(link_href.match(/amazon\./i) && link_href.indexOf('ascsubtag') == -1) {
+
+					      subtag='';
+					      if(window.location.pathname.length > 1){
+					        var subtag = window.location.pathname.substring(1);
+					        subtag = subtag.replace(/\//g,'-').substring(0,89);
+					      } else {
+					        subtag='index';
+					      }
+					      link_href = link_href + ((link_href.indexOf('?') == -1) ? '?ascsubtag=' : '&ascsubtag=') + subtag;
+
+					      jQuery(k).attr('href', link_href);
+
+					    }
+
+					});
+
+				});
+			
+
+				$(document).ready( function() {
+										window['adsSidebar'] = new SidebarAds({
+						content: $(".document > .main"),
+						sidebar: $(".ads-rail.upper"),
+						offset: 600,
+						firstOffset: 600,
+						limit: 20,
+						prefix: "ARTICLE",
+						zone: 'EGNET_Lazy_Load_HP_MPU',
+						site: 'eurogamer.net',
+						articles: [{"slug":"2016-05-25-overwatch-review","title":"Overwatch Review","subtitle":"O Kaplan! My Kaplan!","comments":217},{"slug":"2016-09-09-overwatch-guide-heroes-maps-4047","title":"Overwatch guide: heroes, maps, mechanics and more!","subtitle":"Every gameplay guide you could possibly want for Blizzard's first shooter.","comments":0},{"slug":"2019-03-14-new-overwatch-hero-baptiste-goes-live-next-week","title":"New Overwatch hero Baptiste goes live next week","subtitle":"Haitian to add.","comments":7},{"slug":"2019-02-26-heres-what-baptiste-overwatchs-new-hero-can-do","title":"Here's what Baptiste, Overwatch's new hero, can do","subtitle":"Blizzard gives its new combat medic the full reveal.","comments":13},{"slug":"2019-02-26-confirmed-the-next-overwatch-hero-will-be-baptiste","title":"Confirmed: the next Overwatch hero will be Baptiste","subtitle":"Some kind of combat medic.","comments":16},{"slug":"2019-02-22-overwatch-teases-french-medic-hero-jean-baptiste-augustin","title":"Overwatch teases French medic hero Jean-Baptiste Augustin","subtitle":"Merci.","comments":9},{"slug":"2019-02-17-hasbro-partners-up-with-esports-team-to-promote-its-new-range-of-fortnite-nerf-guns","title":"Hasbro partners up with esports team to promote its new range of Fortnite Nerf guns","subtitle":"LARP Fortnite with NERF. ","comments":6},{"slug":"2019-01-31-oh-the-tunes-people-are-playing-on-overwatchs-new-parisian-pianos","title":"Oh, the tunes people are playing on Overwatch's new Parisian pianos","subtitle":"Je t'aime! ","comments":7},{"slug":"2019-01-08-another-central-overwatch-character-has-an-lgbt-backstory","title":"Another central Overwatch character has an LGBT backstory","subtitle":"UDPATE: Ana's short-story skin released as part of special new challenge.","comments":77},{"slug":"2019-01-05-overwatch-team-discovers-their-female-player-was-an-imposter","title":"Overwatch team discovers female player was an imposter","subtitle":"UPDATE: Blizzard issues warning to potential copycats.","comments":125},{"slug":"2018-12-21-blizzard-customer-service-staff-express-concern-as-over-100-accept-cash-to-exit-irish-hub","title":"Blizzard customer service concern as staff accept cash to exit Irish hub","subtitle":"&quot;At this point it's causing stress&#8230;&quot;","comments":119},{"slug":"2018-11-16-seven-day-free-overwatch-trial-next-week","title":"Seven-day free Overwatch trial next week","subtitle":"Ashe hit you not.","comments":10}],
+						lang: {
+							advertisement: "Advertisement",
+							related: "Related"
+						},
+					});
+					
+
+										// Video Player
+					var videos = $(".video-player");
+					for(i = 0; i < videos.length; i++) {
+						var video = $(videos[i]);
+						new videoPlayer({
+							player: video,
+							label: video.attr('data-label'),
+							more: "More videos",
+							subscribe: "Subscribe to our YouTube channel",
+							version: "hd",
+							error: "Sorry, but there was an error loading the video player.",
+						});
+					}
+					
+					
+					// Lazy Covers
+					var lc = new LazyCovers({
+						selector: ".cover, .avatar"
+					});
+
+									});
+			
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+
+
+
+
+
+Robert Purchese
+
+Senior Staff Writer
+@Clert
+
+
+ 
+
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers. When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...See the tall android with a triangle on her head? That's Echo - who we had previously thought was Athena.Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to. 
+
+
+
+Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon. 
+Subscribe to our YouTube channel
+
+
+I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about.  
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.
+Buy Overwatch from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (7)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (7)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+					"type": "interview",
+																"platforms": "PC,PS4,XBOXONE",
+										"author": "Robert Purchese"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2005736,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Overwatch
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+ 
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+
+
+
+
+
+Robert Purchese
+
+Senior Staff Writer
+@Clert
+
+
+ 
+
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers. When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...See the tall android with a triangle on her head? That's Echo - who we had previously thought was Athena.Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to. 
+
+
+
+Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon. 
+Subscribe to our YouTube channel
+
+
+I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about.  
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.
+Buy Overwatch from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (7)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (7)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+					"type": "interview",
+																"platforms": "PC,PS4,XBOXONE",
+										"author": "Robert Purchese"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2005736,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Overwatch
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+
+
+
+
+
+Robert Purchese
+
+Senior Staff Writer
+@Clert
+
+
+ 
+
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers. When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...See the tall android with a triangle on her head? That's Echo - who we had previously thought was Athena.Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to. 
+
+
+
+Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon. 
+Subscribe to our YouTube channel
+
+
+I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about.  
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.
+Buy Overwatch from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (7)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+
+
+
+
+
+Robert Purchese
+
+Senior Staff Writer
+@Clert
+
+
+ 
+
+Blizzard announced 29th Overwatch hero, Ashe, at BlizzCon 2018 today. She's an old friend of gunslinger McCree, and we saw the pair have an emotionally-charged - and very entertaining - reunion in a gorgeous new animated short. We also saw another hero, called Echo, but learnt nothing more. When will they both be released? Is Echo who we know as Athena, the AI voice in our ears? And is Echo really the character we saw on that piece of art before Overwatch even released?Armed with those questions - and many more - I sat down with game director Jeff Kaplan to get some answers. When can we play Ashe on the Public Test Realm?
+Jeff Kaplan: I'm telling people, and don't hold me to this promise because the PTR is a testing environment and sometimes things go wrong, but if all goes perfectly, we should have her up on the PTR Monday morning. That's our hope.Is Route 66, where the animated short was set, getting a rework - or is it already reworked - to go with Ashe?
+Jeff Kaplan: It's not reworked. We did little, minor story hints - like opening the payload pod, and now we know how the train crashed!Is Echo Athena?
+Jeff Kaplan: There was an old picture Arnold [Tsang, lead character concept artist] had drawn...See the tall android with a triangle on her head? That's Echo - who we had previously thought was Athena.Was that Echo?!
+Jeff Kaplan: It is Echo. In the old picture... Sometimes what an artist like Arnold does is say, 'There's too much white space, I want to put a logo on,' so he just put the Athena logo on the model. And the community embraced that model as being Athena. Athena is actually Winston's AI, which is a separate thing - this character is separate from being Athena. The players also know Athena as the narrator of the competitive matches as well. But this is Echo, who is somebody completely different.Have you always known Echo would come to the game, then - since that original picture?Jeff Kaplan: We always wanted that character to be in the game.And what kind of character is she? What role does she play?
+Jeff Kaplan: I... can't talk about that now. She is a future hero. She is somebody who we've been excited about for many, many years, and she was part of the original Overwatch characters Arnold concepted, so she's been in our thoughts for a long time.I hope Reunion [the new animated short] goes to show there is a plan, that we are going somewhere, and there's more to look forward to. 
+
+
+
+Reunion, the new Overwatch animated short. I love how McCree begins in the Attackers base, eating his pie, listening to the jukebox, as the clock ticks near high noon. 
+Subscribe to our YouTube channel
+
+
+I liked the double-hero reveal. How far away is Echo?Jeff Kaplan: We have our next six heroes planned out right now which, for us, is years. She, tentatively, is one of those heroes.So she may not be the hero who follows Ashe?Jeff Kaplan: She might not be.I love the animated shorts you do. Have you ever thought about making more of them, as in make them bigger or into a series?Jeff Kaplan: We love telling Overwatch stories through animation. We're constantly exploring opportunities and looking for ways to do more. That's something we'd love to do, we just need to find the right situation for that to happen.Is it realistic that one day there could be an Overwatch Netflix series, or something similar?
+Jeff Kaplan: Anything is within the realms of possibility. We're fans, first and foremost, not only of Overwatch but how people consume pop culture. To think for a minute we're not sitting there going, "How amazing could it be if there was an Overwatch movie or an Overwatch animated series?" We are going to fight for ideas like that more than anybody else. But those things are really complicated to bring together and make happen - but they're things we're very excited about.Are you working on enabling PS4-Xbox One cross-play in light of Sony loosening up?
+Jeff Kaplan: We're super-excited about what's going on with cross-play in all sorts of different games, from Rocket League to Fortnite, and we are constantly in discussions with the first-parties, Microsoft and Sony, to see where they're at and gauge where their temperature is at. It's something that would be very exciting for us to pursue.Is it something you are pursuing?Jeff Kaplan: We are definitely having conversations that we're interested in the thought of it. It's very complicated - from a technology standpoint, a game design standpoint, and from a business relationship standpoint. But we would be excited to tackle all of those challenges; we would love to try. We're gamers; "Why can't my buddies on this system or that system play together?" We sympathise with that, we want to be able to do that too.Talking of technical complications: have you explored putting Overwatch on Switch (Diablo launched on Switch today)? Could it work?Jeff Kaplan: Our philosophy has always been we want as many players playing Overwatch as possible, and we want to reach as many possible Overwatch players as are out there. We will always explore a platform if we think we could make it viable - both the technology and the business relationship. We would love to do it.We don't have anything to announce or any plans with Nintendo or Switch at this time, but -It's a possibility?Jeff Kaplan: It's something we're very open-minded about.  
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+You disabled loot boxes from sale in Belgium because of the ruling against them there, and loot boxes have been at the centre of a backlash in gaming for the past year. Are you sticking with loot boxes for Overwatch - are they here to stay?Jeff Kaplan: We're sticking with loot boxes. Obviously we don't agree with the decision in Belgium but we're also respectful of the country's laws and we want to adhere to those. We feel like we've designed the loot box system in Overwatch to be very player friendly. There's no pay-for-power mechanics, it's cosmetics only. Everything you can earn, you can also just earn through credits and get outside of a loot box. So we've tried to be as player-first as possible in our loot box design, and we really believe in the decisions we've made, that they were made in a genuine spirit of allowing us to fund the live development of the game while not hurting the competitive integrity of Overwatch.I was actually really impressed with - it'll be buried now because of BlizzCon, but two days ago there was a huge thread on the [Overwatch subreddit] complimenting us for how good they think the business model is, and how they think we've gotten a really unfair rap because we've gotten tied in with other games who have less desirable systems. And that made me very happy as a gamer to see other gamers praise us, and go, 'I think this is a really fair system.'Which sort of answers my next question but I'll ask it anyway: have you explored, or looked at, a possible Battle Pass system for Overwatch? It works really well in Fortnite.Jeff Kaplan: Battle Pass design is fantastic. I love a design that drives engagement, I love a design that is seasonal - obviously we have seasonal events in Overwatch so we're big believers in that. I also like that it adds various challenges, so I think it's a great design. It would be a tremendous amount of work to switch Overwatch from loot boxes to Battle Pass, or even to just add a Battle Pass. The Battle Pass is really elegantly done in Fortnite and they should be commended for the job they did on it, but it's no trivial amount of work. Even if we thought it was the best idea and wanted to do it tomorrow, it's very unlikely at this time. But it's a brilliant game design, separate from all business considerations. You mentioned loot boxes enabling you to fund live development - when will it be time for you to drop the upfront fee for Overwatch?Jeff Kaplan: That's a great question. Obviously we have some free-to-play games at Blizzard like HearthStone and Heroes of the Storm. Overwatch was designed not to be free-to-play but that should always be a consideration. For us, right now, we have a lot of free weekends and we have a tremendous response to those, they're really successful. Right now that's the state we're in, and we haven't given serious thought to putting Overwatch free-to-play at this time.Overwatch League's inaugural season was tainted by disciplinary actions which had to be taken against players. It's an issue which doesn't seem to be going away. Is it an issue which can be solved - what's it going to take?Jeff Kaplan: There's one way to look at it which is, yeah, there were some issues in Season 1. The way I look at it is the flip side of the coin; there were far more good stories and good behaviour. [But] we tend to take note of the moments where things go wrong or go bad. Our players are obviously all adults but they're very young adults, and it's a big life-change for them. Even though there were a couple of incidents which weren't, possibly, the best, there were far more examples of these young men and women really rising to the occasion and making the League awesome, and being good, upstanding people, and overall I would consider Season 1 a tremendous success.It was a tremendous effort to launch the League. At the time we had 12 teams; we're up to 20 teams for Season 2, which is just mind-blowingly awesome - and we have some cool logo announcements coming up soon for the teams. There was a lot of logistics involved.When Mike Morhaime announced he was stepping down as Blizzard president, J. Allen Brack's succession statement mentioned several new projects were in development at Blizzard. I wondered - because I know how dear Jeff from the Overwatch team is to the community - whether you were tempted to go and work on any of them? Or are you Mr Overwatch from now until ever more?Jeff Kaplan: I am so excited to be at Blizzard. I am so blessed and I am so lucky that I get to be a leader of the Overwatch community; it's one of the things I'm most proud of in my life, the community we've built around Overwatch, and the team, the Overwatch team, who are the most amazing women and men in game development. And I'm also lucky I'm allowed to have interaction with our non-Overwatch teams as well. Obviously I'm not full-time on any of them but I get to consult with them and get to be a part of the strategic decisions about which games we should move forwards on.We have so much more to do with Overwatch that it would be heart-wrenching for me to step away from it - there's so many more heroes, so many more stories, so much more gameplay we want to do. At this time what excites me more than anything is really pouring my heart and soul into Overwatch.That's the correct answer.
+Buy Overwatch from Amazon [?]
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (7)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+Home
+
+
+
+
+Interviews
+
+
+
+
+Overwatch
+
+
+
+
+
+
+
+
+03/11/2018
+
+Interview
+
+PC / PlayStation 4 / Xbox One 
+
+													The big Overwatch BlizzCon interview with Jeff Kaplan											
+
+														"We have our next six heroes planned out right now."						
+
+  
+
+
+
+
+Subscribe to our YouTube channel
+
+
+
+
+
+Subscribe to our YouTube channel
+Buy Overwatch from Amazon [?]
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+About the author
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+More about Overwatch
+
+Overwatch Review
+News (234)
+Features (43)
+Videos (29)
+Guides (1)
+
+
+
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+Robert Purchese
+Senior Staff Writer
+Bertie is senior staff writer and Eurogamer's Poland-and-dragons correspondent. He's part of the furniture here, a friendly chair, and reports on all kinds of things, the stranger the better.
+More articles by Robert Purchese
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (7)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+					"type": "interview",
+																"platforms": "PC,PS4,XBOXONE",
+										"author": "Robert Purchese"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2005736,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Overwatch
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+ 
+
+
+
+Comments (7)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2018-11-03-the-big-overwatch-blizzcon-interview-with-jeff-kaplan",
+					"type": "interview",
+																"platforms": "PC,PS4,XBOXONE",
+										"author": "Robert Purchese"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 2005736,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+Hide low-scoring comments
+Yes
+No
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+Threading
+Expand all
+Collapse all
+
+
+Advertisement
+
+
+
+Advertisement
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Overwatch
+
+
+
+
+Overwatch
+
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+
+
+Image
+
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+
+Image
+
+
+
+EssentialOverwatch Review						
+
+O Kaplan! My Kaplan!
+
+217
+
+
+217
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+Image
+
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+Image
+
+
+
+Overwatch guide: heroes, maps, mechanics and more!						
+
+Every gameplay guide you could possibly want for Blizzard's first shooter.
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+Image
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+24
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+Image
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+4
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+Image
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+64
+
+ 
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+Image
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+24
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+Image
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+4
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+Image
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+64
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+Image
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+34
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+Image
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+23
+
+Advertisement
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+Subscribe
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+Mobile
+Portable
+Desktop
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?

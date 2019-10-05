@@ -1,0 +1,4265 @@
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+Jeffrey Matulef
+ContributorUPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below:Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.Games in this articleTurokTurok 2About the authorJeffrey MatulefContributorJeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.Comments (60)Comments for this article are now closed, but please feel free to continue chatting
+on the forum!AdvertisementFollow your favourite games, get instant updates
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											TurokTurok 2Related
+
+Turok 2 remaster now available on PC						
+Everybody's gone to the raptor.
+
+Turok 1 and 2 Remastered coming to Xbox One						
+First one is now on Mac.
+
+More pictures of the Turok remaster excavated						
+Santa Saurs are coming to town.
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+It's a UNIX system! I know this!
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+Are you ready tu rok?Latest
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+On a Saturday.
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+V-bad.
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+Specs have leaked for a new AMD console chip - but what is it?
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+Biker ran.AdvertisementSubscribe to The Eurogamer.net Daily
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								Bad puns and video games since 1999.This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.ExploreHelpful linksAcross EuropeGamer NetworkEventsSign inConnect with FacebookNew in town?
+
+
+
+Sign in
+
+Create an account
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+
+
+
+Sign in
+
+Create an account
+
+
+Sign in
+
+Create an account
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+PC
+PlayStation 4
+Xbox One
+Switch
+Digital Foundry
+News
+Reviews
+Videos
+Features
+Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+Highlights
+Deals
+Forum
+GameDB
+Game release dates
+ 
+Fortnite Paradise Palms Treasure Map
+Fortnite Jigsaw Puzzle Piece locations
+Best external PS4 hard drives
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+
+Jeffrey Matulef
+
+Contributor
+@mrdurandpierre
+
+UPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:Support for high resolutions, and widescreen.Improved gameplay and level design.OpenGL for video backend to provide portability and support for vertical sync.Dynamic lighting, bloom, FXAA, enhanced water effects, lights shafts and more. vAbility to freely rebind all keyboard, mouse, and gamepad inputs. Steam Achievements.ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below: 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (60)
+
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (60)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+					"type": "news",
+																"platforms": "PC",
+										"author": "Jeffrey Matulef"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1800457,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Turok
+
+
+
+
+Turok 2
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+					$(document).ready( function () {
+						new LanguageBar({
+							site: 1,
+							sites: {
+																	1: {
+										www: "https://www.eurogamer.net/",
+										exists: "Do you know about Eurogamer.net?",
+										cta: "Click here to visit Eurogamer.net!"
+									},
+																	2: {
+										www: "https://www.eurogamer.de/",
+										exists: "Kennst du Eurogamer.de?",
+										cta: "Hier klicken, um zu Eurogamer.de zu gelangen!"
+									},
+																	4: {
+										www: "https://www.eurogamer.es/",
+										exists: "&iquest;Conoces Eurogamer.es?",
+										cta: "Haz click aqu&iacute; para visitar Eurogamer.es"
+									},
+																	5: {
+										www: "https://www.eurogamer.it/",
+										exists: "Sapevi di Eurogamer.it?",
+										cta: "Clicca qu&igrave; per visitare Eurogamer.it!"
+									},
+																	10: {
+										www: "https://www.eurogamer.cz/",
+										exists: "V&iacute;te o Eurogamer.cz?",
+										cta: "Klikn&#283;te zde pro n&aacute;v&scaron;t&#283;vu Eurogamer.cz!"
+									},
+																	13: {
+										www: "https://www.eurogamer.pl/",
+										exists: "Czy wiesz, &#380;e Eurogamer jest dost&#281;pny po polsku?",
+										cta: "Kliknij tutaj, by przej&#347;&#263; na Eurogamer.pl!"
+									},
+																	7: {
+										www: "https://www.eurogamer.nl/",
+										exists: "Had je al gehoord van Eurogamer.nl?",
+										cta: "Klik hier om Eurogamer.nl te bezoeken!"
+									},
+																15: {
+									www: "http://www.usgamer.net",
+									exists: "Have you heard about USgamer.net? It covers the best in video gaming from an American perspective.",
+									cta: "Click here to visit!"
+								}
+							}
+						})
+					});
+				
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+					$(document).ready( function() {
+						new FacebookLogin({
+							target: $("#fb-login-via-header"),
+							translations: {
+								login: "Connect with Facebook",
+								working: "Logging in...",
+								error: "An error has occurred."
+							}
+						});
+
+						$("#launch-sign-in-overlay").on("click", function(e) {
+							$(".sign-in-overlay").addClass("open");
+						});
+
+						$(".sign-in-overlay").on("click", function(e) {
+							if($(e.target).hasClass("sign-in-container")) {
+								$(".sign-in-overlay").removeClass("open");
+							}
+						});
+					});
+				
+
+			function do_the_ads(custom_variables) {
+
+				jQuery(document).ready(function() {
+
+					function getAudienceProjectTargetingData() {
+					    "use strict";
+
+					    var CACHE_KEY = "apr_tdc";
+					    try {
+					        var json = window.localStorage.getItem(CACHE_KEY);
+					        if (json) {
+					            var cache = JSON.parse(json);
+					            if (cache.exp > Date.now()) {
+					                return cache.d;
+					            }
+					            else {
+					                window.localStorage.removeItem(CACHE_KEY);
+					            }
+					        }
+					    }
+					    catch (err) {
+					        window.localStorage.removeItem(CACHE_KEY);
+					    }
+					    return {};
+					};
+
+					function setAPTargeting() {
+					    var setTargeting = function () {
+					        var targetingData = getAudienceProjectTargetingData();
+					        for (var key in targetingData) {
+					            if (targetingData.hasOwnProperty(key)) {
+					                window.googletag.pubads().setTargeting(key, targetingData[key]);
+					            }
+					        }
+					    };
+
+					    window.googletag = window.googletag || {};
+					    window.googletag.cmd = window.googletag.cmd || [];
+					    if (window.googletag.cmd.unshift) {
+					        window.googletag.cmd.unshift(setTargeting);
+					    }
+					    else {
+					        window.googletag.cmd.push(setTargeting);
+					    }
+					};
+
+					if(jQuery('#content header').length) {
+						jQuery('#skyscraper').css({'margin-top' : jQuery('#content header').height() + 'px'});
+					}
+			
+											if(jQuery('#prod-buy').length > 0) {
+							jQuery('#sidebar .games').after('<li id=\"sidebar_amazon\"></li>');
+							jQuery('#sidebar_amazon').append(jQuery('#prod-buy'));
+							jQuery('#prod-buy').show();
+						}
+					
+					custom_variables['source'] = "article";
+					custom_variables['version'] = "hd";
+					custom_variables['release'] = "eg12";
+					custom_variables['logged_in'] = "false";
+
+											custom_variables['tags'] = ["news","pc"];
+					
+											custom_variables['games'] = ["turok","turok-2-seeds-evil"];
+					
+					
+					
+											var ads_space = 450;
+					
+					if(Cookies.get('sp')) {
+						custom_variables['sp_message'] = Cookies.get('sp');
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').status == 'true') {
+						dfp_npa = 'true';
+					} else {
+						dfp_npa = 'false';
+						setAPTargeting();
+					}
+
+					if(Cookies.getJSON('dfp-npa') && Cookies.getJSON('dfp-npa').chosen == 'true') {
+						if(Cookies.getJSON('dfp-npa').status == 'true') {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_no';
+						} else {
+							custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_yes';
+						}
+					} else {
+						custom_variables['dfp_personalisation'] = custom_variables['gdpr_message'] + '_none';
+					}
+					
+					jQuery('.advertContainer').getDFPads({
+						'custom_variables' : custom_variables,
+						'lazyload_spacer': ads_space,
+						'showNonPersonalisedAds': dfp_npa,
+						'size_mappings': {
+							'portable-leaderboard': [
+								{viewport: [1260, 300], ad_sizes: [[728, 90], [970, 250], [1260, 110], [1260, 250]]},
+								{viewport: [ 980, 300], ad_sizes: [[728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [728, 90]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-fishbowl': [
+								{viewport: [ 980, 300], ad_sizes: [[320, 400], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[320, 400], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							],
+							'portable-mpu-leader': [
+								{viewport: [ 980, 300], ad_sizes: [[300, 250], [728, 90], [970, 250]]},
+								{viewport: [ 750, 300], ad_sizes: [[300, 250], [728, 90]]},
+								{viewport: [ 0, 0], ad_sizes: []}
+							]
+						},
+					});	
+
+					
+						if(dfp_npa == 'true') {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=1;
+						} else {
+							(adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds=0;
+						}
+						window.adsbygoogle.push({});	
+
+								
+				});
+			}
+			
+ 
+					( function () {
+						var _sp_=function(n){function t(e){if(o[e])return o[e].exports;var r=o[e]={i:e,l:!1,exports:{}};return n[e].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var o={};return t.m=n,t.c=o,t.i=function(n){return n},t.d=function(n,o,e){t.o(n,o)||Object.defineProperty(n,o,{configurable:!1,enumerable:!0,get:e})},t.n=function(n){var o=n&&n.__esModule?function(){return n["default"]}:function(){return n};return t.d(o,"a",o),o},t.o=function(n,t){return Object.prototype.hasOwnProperty.call(n,t)},t.p="",t(t.s=2)}([function(n,t){function o(n,t){e&&console[n].apply(console,["[bootstrap]"].concat(Array.prototype.slice.call(t)))}var e=!1;n.exports={debug:function(){o("debug",arguments)},info:function(){o("info",arguments)},time:function(){o("time",arguments)},warn:function(){o("warn",arguments)},error:function(){o("error",arguments)},useDefaults:function(){e=!0},DEBUG:1}},function(n,t,o){"use strict";function e(){R||(R=!0,D=b.config=b.config||{},s(),F=D.bootstrap&&D.bootstrap.contentControlCallback||D.content_control_callback,q=D.accountId||D.account_id||D.client_id||window.sp_cid,N=D.beacon&&D.beacon.contentControlEndpoint||D.content_control_beacon_endpoint||v.a,D.debug_level&&"OFF"!==D.debug_level.toString().toUpperCase()||D.debug&&D.debug.level&&"OFF"!==D.debug.level.toString().toUpperCase()?j=!0:window.location.search&&null!=window.location.search.match(/_sp_debug_level=(?!off|OFF)/)&&(j=!0),j&&m.useDefaults({defaultLevel:m.DEBUG}))}function r(n,t,e){function r(o,e){var r=new Image;r.src="//"+N+"/cct?v="+encodeURIComponent(v.b)+"&ct="+h+"&cid="+encodeURIComponent(q)+"&l="+encodeURIComponent(n.toString())+"&rc="+encodeURIComponent(t)+"&d0="+encodeURIComponent(i)+(o?"&d1="+encodeURIComponent(o):"")+(null==e?"":"&d2="+encodeURIComponent(e)),g.info("sending beacon: "+r.src),c&&c()}var i=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"",a=arguments[4],c=arguments[5];if(a){var d=e.lastIndexOf("."),u=e.lastIndexOf("/"),s=-1===d||u>d?e+".png":e.substring(0,d)+".png",l=new Image;l.addEventListener("load",function(){r("1",s)}),l.addEventListener("error",function(){o.i(f.a)(s,function(n,t,o){r("0",s+"::"+o)})}),l.src=s}else r()}function i(n,t,o,e){var r=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},a=arguments.length>5&&void 0!==arguments[5]&&arguments[5],c=function(){i(n,t,o,e,r,!0)};n(t,a?o:c,e,r)}function a(n,t,o,e){function r(o,r){t(o,n,r,e.enableImageLoad)}function i(t,r){o(t,n,r,e.enableImageLoad),e.onError&&e.onError(r)}var a=document.createElement("script");a.src=n,a.onload=function(){e.onLoad&&e.onLoad()},a.onerror=function(){function t(n){return o.indexOf(n)>-1}var o=(navigator.userAgent||navigator.vendor||window.opera).toLowerCase();t("mobi")||t("ipad")||t("android")||t("iphone")?i(L):t("exabot")?i(O):t("bingbot")||t("bingpreview")?i(k):t("googlebot")||t("adsbot-google")||t("mediapartners-google")?i(C):t("googleweblight")?i(E):window.location.host===w?i(x):t("msie 10")||t("msie 9")||t("msie 8")?i(I):c(n,r,i)},document.head.appendChild(a)}function c(n,t,e){o.i(f.a)(n,function(o,r,i,a){(o||r?t:e)(a,n+"::"+i)})}function d(n,t,o,e){if(S)return void u(U+"::"+n,o);r(y,n,t,o,e,function(){if(F){if(j){g.error("bootstrap locking",y,n,t,o,e);debugger}setTimeout(function(){F()},250)}})}function u(n,t,o,e){r(_,n,t,o,e)}function s(){b._networkListenerData||(b._networkListenerData=o.i(p.a)())}function l(n,t){e(),g.info("bootstrap called with",n,t),i(a,n,d,u,t)}Object.defineProperty(t,"__esModule",{value:!0});var f=o(4),p=o(5),v=o(3),g=o(0),m=void 0;m=o(0);var w=["w","e","b","c","a","c","h","e",".","g","o","o","g","l","e","u","s","e","r","c","o","n","t","e","n","t",".","c","o","m"].join(""),b=window._sp_||{},h=1,_=0,y=1,L="m",C="g",x="gw",E="gl",I="i",k="b",O="e",U="n",R=!1,S=!1,j=!1,D=void 0,F=void 0,q=void 0,N=void 0;window.addEventListener("beforeunload",function(){S=!0}),window._sp_=b,b.setupNetworkListeners=s,b.bootstrap=l,window.spBootstrap=l,t["default"]=b},function(n,t,o){o(0);n.exports=o(1)["default"]},function(n,t,o){"use strict";function e(n){return n.join("")}o.d(t,"b",function(){return r}),o.d(t,"a",function(){return i});var r=(o(0),"2.0.1098"),i=(e(["w","w","w",".","s","u","m","m","e","r","h","a","m","s","t","e","r",".","c","o","m"]),e(["w","w","w",".","r","o","o","s","t","e","r","f","i","r","e","w","o","r","k",".","c","o","m"]));e(["/","/","f","s","m","1","0","1","9",".","g","l","o","b","a","l",".","s","s","l",".","f","a","s","t","l","y",".","n","e","t","/","f","s","m","/","d","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","d","f","p","_","i","n","t","e","r","n","a","l","-","v","2",".","0",".","1","0","9","8",".","j","s"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","a","p","i","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"]),e(["h","t","t","p","s",":","/","/","d","2","z","v","5","r","k","i","i","4","6","m","i","q",".","c","l","o","u","d","f","r","o","n","t",".","n","e","t","/","0","/","2",".","0",".","1","0","9","8","/","r","e","c","o","v","e","r","y","_","l","i","b","_","r","i","d","_","i","f","r","a","m","e","-","v","2",".","0",".","1","0","9","8",".","h","t","m","l"])},function(n,t,o){"use strict";function e(n,t){function o(n){try{return n&&n.timeStamp?n.timeStamp:window.performance.now()}catch(n){return Date.now()}}var e=arguments.length>2&&void 0!==arguments[2]?arguments[2]:window.location,l=arguments.length>3&&void 0!==arguments[3]?arguments[3]:window.navigator,f=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{},p=document.createElement("a");if(p.href=n,"https:"===e.protocol&&p.protocol!==e.protocol)return r.error("protocol mismatch in https environment, standing down"),void t(!1,!1,p.protocol,u);var v=new XMLHttpRequest,g=f.withCredentials;null!=g&&(v.withCredentials=g);try{v.open(f.method||"GET",n)}catch(n){return void t(!0,!1,n.toString(),c,v)}if(null!=f.headers){var m=f.headers;Object.keys(m).forEach(function(n){v.setRequestHeader(n,m[n])})}var w=void 0,b=void 0;v.onloadstart=function(n){w=o(n)},v.onreadystatechange=function(n){if(4===this.readyState){b=o(n)-w;var e=0===this.status&&!1!==l.onLine,r="2"===this.status.toString()[0],c=void 0;return c=r?a:!1===l.onLine?s:i,void t(e,r,this.status+"::"+b,c,v)}};try{v.send(f.body)}catch(n){return void t(!0,!1,n.toString(),d,v)}}t.a=e;var r=o(0),i="n",a="nx",c="xo",d="xs",u="p",s="of"},function(n,t,o){"use strict";function e(){var n=arguments.length>0&&void 0!==arguments[0]?arguments[0]:document,t=[],o=[],e=r.bind(null,t),i=r.bind(null,o);return n.addEventListener("load",e,!0),n.addEventListener("error",i,!0),{load:{events:t,listener:e},error:{events:o,listener:i}}}function r(n,t){if(t.target){var o="string"==typeof t.target.tagName?t.target.tagName.toLowerCase():"",e="string"==typeof t.target.src?t.target.src:"";"iframe"!==o&&n.push({tagName:o,src:e})}}t.a=e;o(0)}]);
+							//# sourceMappingURL=https://s3.amazonaws.com/d3jlsadfjkuern/2.0.1098/Ym9vdHN0cmFwLmpz.map
+							window ._sp_ =  window ._sp_ || {};
+							window ._sp_.config =  window ._sp_.config || {};
+							window ._sp_.config.account_id = 347;
+							window ._sp_.config.content_control_callback =  function () {
+								//console.log( "CONTENT LOCK" );
+							};
+							window ._sp_.config.mms_domain =  "eurogamer-uk.eurogamer.net" ;
+							window ._sp_.mms =  window ._sp_.mms || {};
+							window ._sp_.mms.cmd =  window ._sp_.mms.cmd || [];
+							window ._sp_.config.mms_client_data_callback =  function (o) {
+								var _sp_msg_id = parseInt(o.info.msg_id);
+								var _sp_cookie_val = "";
+								if(o.d.abp==true && _sp_msg_id>0) {
+
+																	if( _sp_msg_id == 30015) {
+										Cookies.set("sp", "eg_wl_only_message_seen", { expires: 30 });
+									} else {
+										Cookies.set("sp", "eg_continue_message_seen", { expires: 30 });
+									}
+								
+								}
+							};
+
+															window._sp_.config.fsm_endpoint = "//eg-p2.eurogamer.net";
+								window._sp_.config.enable_fsm_detection = true;
+								window._sp_.config.enable_fsm_network_detection = true;
+							
+							window ._sp_.mms.cmd.push( function () {
+
+								window ._sp_.mms.setTargeting( "logged-in", "false" );
+								window ._sp_.mms.setTargeting( "page", "article" );
+								window ._sp_.mms.setTargeting( "show-ads", "true" );
+					
+														
+																	window ._sp_.mms.setTargeting( "guide", "false" );
+								
+							});
+
+							window ._sp_.mms.cmd.push( function () {
+								window ._sp_.mms.startMsg();
+							});
+
+							window ._sp_.bootstrap( "scripts/Eurogamer/meurogamer-fsm.js?3" );
+							window ._sp_.config.mms_choice_selected_callback =  function (choiceID) {};
+
+														
+						})();
+					
+
+					var dfp_npa = 'false';
+					var custom_variables = {};
+					custom_variables['gdpr_message'] = 'none';
+					do_the_ads(custom_variables);
+				
+
+			{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": "https://www.eurogamer.net/articles/2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+    "url": "https://www.eurogamer.net/articles/2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+    "headline": "Turok Remaster Turok the party this week on PC",
+    "description": "UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.",
+    "datePublished": "2015-12-15T10:09:00+00:00",
+    "dateModified": "2015-12-15T10:09:00+00:00",
+    "inLanguage": "en",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.gamer-network.net/2013/articles/1/8/0/0/4/5/7/turok-remaster-turok-the-party-this-week-on-pc-145014090135.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Jeffrey Matulef",
+        "sameAs": "https://www.eurogamer.net/authors/647"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Eurogamer.net",
+        "sameAs": "https://www.eurogamer.net/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x120/logo.png"
+        }
+    }
+}		
+
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "8518622" });
+		  (function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = "https://sb.scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		  })();
+		
+
+
+
+
+
+			window.fbAsyncInit = function () {
+				FB.init({
+					appId: '156247124404264',
+					version: 'v2.7',
+					channelUrl: '/channel.html',
+					status: true,
+					cookie: true,
+					xfbml: true,
+					oauth: true
+				});
+			};
+
+			// Load the SDK Asynchronously
+			(function (d) {
+				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+				if (d.getElementById(id)) {
+					return;
+				}
+				js = d.createElement('script');
+				js.id = id;
+				js.async = true;
+
+								js.src = "//connect.facebook.net/en_GB/all.js";
+				ref.parentNode.insertBefore(js, ref);
+			}(document));
+		
+
+
+			!function (f, b, e, v, n, t, s) {
+				if (f.fbq)return;
+				n = f.fbq = function () {
+					n.callMethod ?
+							n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+				};
+				if (!f._fbq)f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s)
+			}(window,
+					document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '897415313645265');
+			fbq('track', 'PageView');
+		
+
+
+
+
+			(function(c,a,p,t,i,f,y){i=c.createElement(a);t=c.getElementsByTagName(a)[0];i.type='text/javascript';i.async=true;i.src=p;t.parentNode.insertBefore(i,t);})(document,'script','https://p.cpx.to/p/12431/px.js');
+		
+
+
+				function mormontLoaded () {
+
+				var injectRecommendations = $('aside.popular').length != true;
+
+									mormont('configure', 'property', 'eurogamer');
+					mormont('set', 'section', 'article');
+				if (window.location.pathname.match('^/profile')) {
+					mormont('set', 'section', 'community');
+				}
+				if (window.location.pathname.match('^/inbox')) {
+					mormont('set', 'section', 'user');
+				}
+					mormont('set', 'language', 'en');
+									mormont('set', 'platforms', ["pc"]);
+													mormont('set', 'tags', ["game:turok","game:turok-2-seeds-evil"]);
+																	mormont('set', 'published', '2015-12-15T10:09:00+00:00');
+					mormont('set', 'article_type', 'news');
+													mormont('set', 'author', "Jeffrey Matulef");
+									mormont('send', 'pageview');
+
+										if (injectRecommendations) {
+							mormont('configure', 'label', "More stories");
+							mormont('configure', 'recommendations_site', 'www.eurogamer.net');
+							mormont('configure', 'selector', 'article');
+							mormont('configure', 'render_recommendations', true);
+							mormont('configure', 'max_rec_links', 2);
+							mormont('configure', 'max_containers', 2);
+							mormont('fetchRecommendations');
+						}
+						mormont('trackClicks', ['article']);
+								};
+			
+
+
+			$(document).ready(function() {
+				window.followButtons = new FollowButtons({
+					uid: 0,
+					lang: {
+						follow: "Follow",
+						unfollow: "Unfollow",
+						following: "Following"
+					}
+				});
+			});
+		
+
+				jQuery(document).ready(function(){
+					renderEdmonds('.edmonds-block', {
+						'site': 'eurogamer.net',
+					});
+
+					// Check for other Amazon links and add subtag if required
+					jQuery.each(jQuery('article main a'), function(i, k) {
+
+						var link_href = jQuery(k).attr('href');
+					    if(link_href.match(/amazon\./i) && link_href.indexOf('ascsubtag') == -1) {
+
+					      subtag='';
+					      if(window.location.pathname.length > 1){
+					        var subtag = window.location.pathname.substring(1);
+					        subtag = subtag.replace(/\//g,'-').substring(0,89);
+					      } else {
+					        subtag='index';
+					      }
+					      link_href = link_href + ((link_href.indexOf('?') == -1) ? '?ascsubtag=' : '&ascsubtag=') + subtag;
+
+					      jQuery(k).attr('href', link_href);
+
+					    }
+
+					});
+
+				});
+			
+
+				$(document).ready( function() {
+										window['adsSidebar'] = new SidebarAds({
+						content: $(".document > .main"),
+						sidebar: $(".ads-rail.upper"),
+						offset: 600,
+						firstOffset: 600,
+						limit: 20,
+						prefix: "ARTICLE",
+						zone: 'EGNET_Lazy_Load_HP_MPU',
+						site: 'eurogamer.net',
+						articles: [{"slug":"2017-03-16-turok-2-remaster-now-available-on-pc","title":"Turok 2 remaster now available on PC","subtitle":"Everybody's gone to the raptor.","comments":32},{"slug":"2016-03-29-turok-1-and-2-remastered-coming-to-xbox-one","title":"Turok 1 and 2 Remastered coming to Xbox One","subtitle":"First one is now on Mac.","comments":43},{"slug":"2015-12-07-more-pictures-of-the-turok-remaster-excavated","title":"More pictures of the Turok remaster excavated","subtitle":"Santa Saurs are coming to town.","comments":47},{"slug":"2015-08-26-turok-dinosaur-hunter-and-sequel-to-be-re-animated-for-pc","title":"Turok: Dinosaur Hunter and sequel to be re-animated for PC","subtitle":"It's a UNIX system! I know this!","comments":32},{"slug":"2015-05-07-turok-to-receive-a-pc-re-release-rumour","title":"Turok: Dinosaur Hunter to receive a PC re-release - rumour","subtitle":"Are you ready tu rok?","comments":42},{"slug":"2013-09-17-this-is-what-cancelled-turok-2-looked-like","title":"This is what cancelled Turok 2 looked like","subtitle":"Dinophwoar!","comments":51},{"slug":"disney-throws-turok-sequel-in-the-bin","title":"Disney throws Turok sequel in the bin","subtitle":"Around 70 developers made redundant.","comments":17},{"slug":"turok-movies-in-the-works","title":"Turok movies in the works","subtitle":"One animated, one live action.","comments":14},{"slug":"fresh-turok-maps-due-to-arrive-today","title":"Fresh Turok maps due to arrive today","subtitle":"PC version to follow in April.","comments":4},{"slug":"2016-10-12-a-revived-and-reworked-turok-2-is-coming","title":"A revived and reworked Turok 2 is coming","subtitle":"But no release window, yet.","comments":38},{"slug":"2019-04-20-spider-man-ps4-dev-reveals-cool-easter-egg-no-one-noticed","title":"Spider-Man PS4 dev reveals cool Easter egg no-one noticed","subtitle":"On a Saturday.","comments":24},{"slug":"2019-04-20-epic-has-already-banned-thousands-of-fortnite-world-cup-participants-for-cheating","title":"Epic has already banned thousands of Fortnite World Cup participants for cheating","subtitle":"V-bad.","comments":4},{"slug":"digitalfoundry-2019-is-amd-gonzalo-the-ps5-processor-in-theory","title":"In Theory: is PS5 powered by an AMD Gonzalo processor?","subtitle":"Specs have leaked for a new AMD console chip - but what is it?","comments":64},{"slug":"2019-04-20-assassins-creed-unity-players-review-bomb-steam-page-with-positivity","title":"Assassin's Creed Unity players review-bomb Steam page with positivity","subtitle":"&quot;I finished Unity literally the night before Notre-Dame caught fire&#8230;&quot;","comments":34},{"slug":"2019-04-20-leaked-days-gone-gameplay-doesnt-reveal-much-but-does-give-us-a-good-idea-of-what-to-expect","title":"Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect","subtitle":"Biker ran.","comments":23},{"slug":"2019-04-20-warner-bros-is-trying-to-plug-mortal-kombat-11-leaks-after-street-date-is-broken","title":"Warner Bros. is trying to plug Mortal Kombat 11 leaks after street date is broken","subtitle":"Spoilers!","comments":20},{"slug":"2019-04-20-nintendo-is-deleting-what-it-deems-inappropriate-super-smash-bros-ultimate-stages","title":"Nintendo is deleting what it deems inappropriate Super Smash Bros. Ultimate stages","subtitle":"As row over removal of a trans rights level intensifies.","comments":144},{"slug":"2019-04-20-the-mysterious-world-of-las-meninas","title":"The mysterious world of Las Meninas","subtitle":"A quick look at a masterpiece.","comments":17},{"slug":"2019-04-19-the-man-behind-1080-snowboarding-is-working-on-a-successor","title":"The man behind 1080\u00b0 Snowboarding is working on a spiritual successor","subtitle":"A potential 100 players together and full snow simulation? We're onboard. ","comments":48},{"slug":"2019-04-19-falcon-age-and-strangers-wrath-animals-go-to-war","title":"Falcon Age and Stranger's Wrath: animals go to war","subtitle":"The thing with feathers.","comments":8},{"slug":"2019-04-18-after-more-than-11-years-of-online-antics-burnout-paradises-servers-are-shutting-down","title":"After 11 years of online antics, Burnout Paradise's servers are shutting down","subtitle":"Remastered version unaffected.","comments":33},{"slug":"2019-04-18-sega-unveils-ten-more-games-included-in-septembers-mega-drive-mini","title":"Sega unveils ten more games included in September's Mega Drive Mini","subtitle":"Streets of Rage 2! Earthworm Jim! Castle of Illusion!","comments":124},{"slug":"2019-04-18-cult-cel-shaded-shooter-xiii-is-getting-the-remake-treatment-this-november","title":"Cult cel-shaded shooter XIII is getting the remake treatment this November","subtitle":"Coming to PS4, Xbox One, Switch, and PC.","comments":96},{"slug":"2019-04-18-heres-everything-included-in-konamis-castlevania-anniversary-collection","title":"Here's everything included in next month's Castlevania Anniversary Collection","subtitle":"The man from Belmont-e says yes!","comments":54},{"slug":"2019-04-18-the-front-page-of-the-official-super-smash-bros-ultimate-app-has-lots-of-penises-on-it","title":"The official Nintendo Switch app is packed with penises thanks to Super Smash Bros. Ultimate stage creators","subtitle":"Mushroom kingdom.","comments":88},{"slug":"digitalfoundry-2019-cuphead-on-switch-a-flawless-conversion","title":"Cuphead on Switch is a stunning conversion","subtitle":"Flawless victory.","comments":98},{"slug":"2019-04-18-shao-khans-infamous-you-suck-taunt-is-back-for-mortal-kombat-11","title":"Shao Khan's infamous \"You Suck!\" taunt is back for Mortal Kombat 11","subtitle":"Point finger bonus.","comments":29},{"slug":"2019-04-18-islanders-is-a-city-builder-with-new-ideas","title":"Islanders is a city-builder with new ideas","subtitle":"One for sprawl.","comments":9},{"slug":"2019-04-17-netflix-says-its-witcher-television-series-will-be-out-at-the-end-of-this-year","title":"Netflix says its Witcher television series will be out at the end of this year","subtitle":"Super, man.","comments":43},{"slug":"2019-03-21-dont-starve-devs-space-colony-sim-oxygen-not-included-leaves-early-access-in-may","title":"Don't Starve dev's space colony sim Oxygen Not Included leaves early access in May","subtitle":"UPDATE: Final release date confirmed.","comments":7},{"slug":"2019-04-17-showtimes-halo-tv-series-has-cast-its-master-chief","title":"Showtime's Halo TV series has cast its Master Chief","subtitle":"American Gods' Pablo Schrieber donning the helmet.","comments":37},{"slug":"2019-04-05-warframes-expansive-plains-of-eidolon-remaster-is-now-live-on-pc-coming-to-consoles-soon","title":"Warframe's expansive Plains of Eidolon &quot;remaster&quot; out now on PC, on consoles soon","subtitle":"UPDATE: Now available on consoles.","comments":13},{"slug":"2019-04-17-assassins-creed-unity-is-currently-available-to-download-for-free-on-pc","title":"Assassin's Creed Unity is currently available to download for free on PC","subtitle":"And Ubisoft is donating &#8364;500,000 to Notre-Dame.","comments":248},{"slug":"2019-04-17-one-finger-death-punch-is-the-greatest-two-button-kung-fu-game-ever-made","title":"One Finger Death Punch is the greatest two-button kung fu game ever made","subtitle":"And its sequel is even better. ","comments":35},{"slug":"2019-04-17-ubisoft-creates-shortcut-to-access-the-new-assassins-creed-odyssey-dlc","title":"Ubisoft creates shortcut to access the new Assassin's Creed: Odyssey DLC","subtitle":"But there's a catch.","comments":21},{"slug":"2019-04-17-joker-from-persona-5-hits-super-smash-bros-ultimate-today","title":"Joker from Persona 5 hits Super Smash Bros. Ultimate today","subtitle":"Ha!","comments":27},{"slug":"2019-04-16-speaking-with-guild-wars-2-developer-arenanet-for-the-first-time-since-the-lay-offs","title":"Speaking with Guild Wars 2 developer ArenaNet for the first time since the lay-offs","subtitle":"&quot;It's been hard.&quot;","comments":23},{"slug":"2019-04-06-microsoft-reportedly-plans-xbox-game-pass-ultimate-subscription","title":"Microsoft reportedly plans Xbox Game Pass Ultimate subscription","subtitle":"UPDATE: Now official, due \"later this year\".","comments":104},{"slug":"2019-04-16-yakuza-spin-off-judgment-reveals-new-look-for-crime-boss-kyohei-hamura","title":"Yakuza spin-off Judgment reveals new-look for crime boss Kyohei Hamura","subtitle":"Following original actor's cocaine arrest.","comments":16},{"slug":"2019-04-16-microsoft-formally-unveils-the-disc-less-xbox-one-s-all-digital-edition-out-in-may","title":"Microsoft formally unveils the disc-less Xbox One S All-Digital Edition, out in May","subtitle":"Will cost \u00a3199.99.","comments":236}],
+						lang: {
+							advertisement: "Advertisement",
+							related: "Related"
+						},
+					});
+					
+
+										// Video Player
+					var videos = $(".video-player");
+					for(i = 0; i < videos.length; i++) {
+						var video = $(videos[i]);
+						new videoPlayer({
+							player: video,
+							label: video.attr('data-label'),
+							more: "More videos",
+							subscribe: "Subscribe to our YouTube channel",
+							version: "hd",
+							error: "Sorry, but there was an error loading the video player.",
+						});
+					}
+					
+					
+					// Lazy Covers
+					var lc = new LazyCovers({
+						selector: ".cover, .avatar"
+					});
+
+									});
+			
+
+
+ 
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+
+Jeffrey Matulef
+
+Contributor
+@mrdurandpierre
+
+UPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:Support for high resolutions, and widescreen.Improved gameplay and level design.OpenGL for video backend to provide portability and support for vertical sync.Dynamic lighting, bloom, FXAA, enhanced water effects, lights shafts and more. vAbility to freely rebind all keyboard, mouse, and gamepad inputs. Steam Achievements.ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below: 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (60)
+
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (60)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+					"type": "news",
+																"platforms": "PC",
+										"author": "Jeffrey Matulef"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1800457,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Turok
+
+
+
+
+Turok 2
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+ 
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+
+Jeffrey Matulef
+
+Contributor
+@mrdurandpierre
+
+UPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:Support for high resolutions, and widescreen.Improved gameplay and level design.OpenGL for video backend to provide portability and support for vertical sync.Dynamic lighting, bloom, FXAA, enhanced water effects, lights shafts and more. vAbility to freely rebind all keyboard, mouse, and gamepad inputs. Steam Achievements.ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below: 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (60)
+
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (60)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+					"type": "news",
+																"platforms": "PC",
+										"author": "Jeffrey Matulef"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1800457,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Turok
+
+
+
+
+Turok 2
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+
+Jeffrey Matulef
+
+Contributor
+@mrdurandpierre
+
+UPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:Support for high resolutions, and widescreen.Improved gameplay and level design.OpenGL for video backend to provide portability and support for vertical sync.Dynamic lighting, bloom, FXAA, enhanced water effects, lights shafts and more. vAbility to freely rebind all keyboard, mouse, and gamepad inputs. Steam Achievements.ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below: 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (60)
+
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+
+Jeffrey Matulef
+
+Contributor
+@mrdurandpierre
+
+UPDATE 15/12/2015 10.09am: Developer Night Dive Studios' Stephen Kick has outlined to Eurogamer the following enhancements in its Turok restoration:Support for high resolutions, and widescreen.Improved gameplay and level design.OpenGL for video backend to provide portability and support for vertical sync.Dynamic lighting, bloom, FXAA, enhanced water effects, lights shafts and more. vAbility to freely rebind all keyboard, mouse, and gamepad inputs. Steam Achievements.ORIGINAL STORY 15/12/2015 12.25am: The original 1997 Turok's remastered port by Night Dive Studios is due this Thursday, 17th December, on PC via Steam, GOG and the Humble Bundle.Night Dive's Stephen Kick clarified to Eurogamer that this restoration is of the game's PC version, not a port of the N64 game. It will contain enhanced visuals on a new engine with better draw distance and such. Other "new features" are teased, but we're not sure what these are just yet. My money's on Achievements.The developer has previously stated that it would also be remastering Turok 2: Seeds of Evil for PC as well.The Vancouver, Washington-based Night Dive recently made some waves when it announced that it acquired the rights to the System Shock IP. It's currently developing its first full-on remake (rather than a remaster) with System Shock while another team, OtherSide Entertainment, recently teased a third entry in the series.Night Dive is best known for restoring old lost PC games such as System Shocks 1 & 2, The 7th Guest, I Have no Mouth and I Must Scream, and Ron Gilbert's children's games at Humongous Entertainment. You can see how this restored rendition of Turok looks in action in its launch trailer below: 
+
+
+
+ 
+Subscribe to our YouTube channel
+
+
+
+
+
+Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go here.
+Jump to comments (60)
+
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+				$(document).ready(function() {
+										new Lightbox({
+						selector: "article :not(aside.promotion) > figure:not(.zoomer-group, .video) img",
+						cdn: "https://d2skuhm0vrry40.cloudfront.net/"
+					});
+					
+					new LazyImages();
+
+										new SocialListener({
+						target: $(".page-header .social a")
+					});
+					
+					
+									});
+			
+
+
+
+
+Home
+
+
+
+
+News
+
+
+
+
+Turok
+
+
+
+
+
+
+
+
+15/12/2015
+
+News
+
+PC 
+
+													Turok Remaster Turok the party this week on PC											
+
+														UPDATE: Enhancements detailed. Launch trailer reveals how this remaster looks in action.						
+
+
+
+
+
+Subscribe to our YouTube channel
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+About the author
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+Games in this article
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+Turok
+
+News (12)
+Features (3)
+Videos (11)
+
+
+
+Turok 2
+
+News (8)
+
+
+
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+Jeffrey Matulef
+Contributor
+Jeffrey Matulef is the best-dressed man in 1984. Based in Portland, OR he operates as Eurogamer's US news editor.
+More articles by Jeffrey Matulef
+
+
+
+
+
+ 
+
+
+
+
+
+Comments (60)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+					"type": "news",
+																"platforms": "PC",
+										"author": "Jeffrey Matulef"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1800457,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+
+Advertisement
+
+
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Turok
+
+
+
+
+Turok 2
+
+
+
+Related
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+ 
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+ 
+
+
+
+Comments (60)
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+
+				// Global for use in Google Universal Event tracking
+				var article = {
+					"slug": "2015-12-15-turok-remaster-turok-the-party-this-week-on-pc",
+					"type": "news",
+																"platforms": "PC",
+										"author": "Jeffrey Matulef"
+				};
+
+				$(document).ready( function() {
+					var toolbar = new CommentToolbar({
+						toolbar: $("#main-toolbar"),
+						textarea: $("#comment-textarea"),
+						lang: {
+							loading: "Loading... hold tight!",
+						},
+					});
+					var c = new Comments({
+						toolbar: toolbar,
+						id: 1800457,
+						uid: 0,
+						lang: {
+							loading: "Loading... hold tight!",
+							post: "Post a comment",
+							updating: "Updating...",
+							error: "An error has occurred."
+						},
+						orderBy: "best"
+					});
+				});
+			
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+
+
+Comments for this article are now closed, but please feel free to continue chatting
+on the forum!
+
+
+Hide low-scoring comments
+Yes
+No
+
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+
+Threading
+Expand all
+Collapse all
+
+
+Hide low-scoring comments
+Yes
+No
+
+Order
+Newest
+Oldest
+Best
+Worst
+
+Threading
+Expand all
+Collapse all
+
+
+Advertisement
+
+
+
+Advertisement
+
+
+Follow your favourite games, get instant updates
+
+						Follow the games you're interested in and we'll send you an email the instant we publish new articles about them.											
+
+
+Turok
+
+
+
+
+Turok 2
+
+
+
+
+Turok
+
+
+
+Turok 2
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+
+
+Image
+
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+
+Image
+
+
+
+Turok 2 remaster now available on PC						
+
+Everybody's gone to the raptor.
+
+32
+
+
+32
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+
+
+Image
+
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+
+Image
+
+
+
+Turok 1 and 2 Remastered coming to Xbox One						
+
+First one is now on Mac.
+
+43
+
+
+43
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+
+
+Image
+
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+
+Image
+
+
+
+More pictures of the Turok remaster excavated						
+
+Santa Saurs are coming to town.
+
+47
+
+
+47
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+
+Image
+
+
+
+Turok: Dinosaur Hunter and sequel to be re-animated for PC						
+
+It's a UNIX system! I know this!
+
+32
+
+
+32
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+
+
+Image
+
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+
+Image
+
+
+
+Turok: Dinosaur Hunter to receive a PC re-release - rumour						
+
+Are you ready tu rok?
+
+42
+
+
+42
+
+ 
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+Latest
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+
+
+Image
+
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+
+Image
+
+
+
+Spider-Man PS4 dev reveals cool Easter egg no-one noticed						
+
+On a Saturday.
+
+24
+
+
+24
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+
+
+Image
+
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+
+Image
+
+
+
+Epic has already banned thousands of Fortnite World Cup participants for cheating						
+
+V-bad.
+
+4
+
+
+4
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+
+
+Image
+
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+
+Image
+
+
+
+Digital FoundryIn Theory: is PS5 powered by an AMD Gonzalo processor?						
+
+Specs have leaked for a new AMD console chip - but what is it?
+
+64
+
+
+64
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+
+
+Image
+
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+
+Image
+
+
+
+Assassin's Creed Unity players review-bomb Steam page with positivity						
+
+"I finished Unity literally the night before Notre-Dame caught fire…"
+
+34
+
+
+34
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+
+
+Image
+
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+
+Image
+
+
+
+Leaked Days Gone gameplay doesn't reveal much, but does give us a good idea of what to expect						
+
+Biker ran.
+
+23
+
+
+23
+
+Advertisement
+
+
+
+
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+						$(document).ready(function() {
+							new NewsletterSubscriber({
+								target: $("#newsletter-promo"),
+								lang: {
+									subscribe: "Subscribe",
+									success: "You're subscribed to this newsletter. Nice one!",
+									error: "An error has occurred."
+								}
+							});
+						});
+					
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+
+Subscribe
+
+
+
+Subscribe to The Eurogamer.net Daily
+
+									The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.								
+
+
+
+
+
+Subscribe
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+Bad puns and video games since 1999.
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+
+
+Site version
+
+Mobile
+Portable
+Desktop
+
+
+
+Mobile
+Portable
+Desktop
+
+Explore
+
+All topics
+Authors
+
+PC
+
+
+PlayStation 4
+
+
+Xbox One
+
+
+Switch
+
+
+Digital Foundry
+
+
+News
+
+
+Reviews
+
+
+Videos
+
+
+Features
+
+
+Guides
+
+
+
+Helpful links
+
+Staff
+Contact us
+Forum
+Corporate site
+Policy centre
+Twitter
+Facebook
+Careers
+Discord
+Latest comments
+RSS
+
+
+Across Europe
+
+Eurogamer.cz
+Eurogamer.de
+Eurogamer.es
+Eurogamer.it
+Eurogamer.net
+Eurogamer.nl
+Eurogamer.pl
+Eurogamer.pt
+RockPaperShotgun.de
+
+
+Gamer Network
+
+GamesIndustry.biz
+Gamer's Edition
+Jelly Deals
+Metabomb
+Nintendo Life
+Push Square
+Rock, Paper, Shotgun
+USgamer
+VG247
+
+
+Events
+
+EGX
+EGX Berlin
+EGX Rezzed
+MCM Comic-Con
+PAX
+Star Wars Celebration
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
+
+
+Sign in
+
+
+Username
+
+Password
+
+Sign in
+
+
+Connect with Facebook
+
+
+									$(document).ready( function() {
+										new FacebookLogin({
+											target: $("#fb-login-via-overlay"),
+											style: "wide",
+											translations: {
+												login: "Connect with Facebook",
+												working: "Logging in...",
+												error: "An error has occurred."
+											}
+										});
+									});
+								
+
+New in town?
+Create an account
+
+Forgotten your details?
